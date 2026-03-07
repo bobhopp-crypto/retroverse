@@ -21,14 +21,14 @@
 
       body {
         margin: 0;
-        padding: 24px;
+        padding: clamp(8px, 2vw, 24px);
         background: radial-gradient(circle at top, #fff4cf 0%, var(--paper) 55%, var(--paper-dark) 100%);
         color: var(--ink);
         font-family: "Bookman Old Style", "Palatino Linotype", "Times New Roman", serif;
       }
 
       .page {
-        width: 8.5in;
+        width: min(8.5in, 100%);
         min-height: 11in;
         margin: 0 auto 24px;
         padding: 0.6in;
@@ -264,6 +264,70 @@
         font-size: 12px;
         text-transform: uppercase;
         letter-spacing: 0.08em;
+      }
+
+      @media (max-width: 900px) {
+        .page {
+          min-height: auto;
+          margin: 0 auto 12px;
+          padding: clamp(12px, 3.5vw, 24px);
+        }
+
+        .page::before {
+          inset: 8px;
+        }
+
+        .masthead {
+          font-size: clamp(44px, 11vw, 76px);
+        }
+
+        .subhead {
+          font-size: clamp(24px, 6vw, 33px);
+        }
+
+        .deck {
+          font-size: clamp(16px, 4.2vw, 22px);
+        }
+
+        .cover-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .cover-burst {
+          justify-self: center;
+          width: 120px;
+          height: 120px;
+          font-size: 13px;
+        }
+
+        .two-column {
+          column-count: 1;
+        }
+
+        .feature-headline {
+          font-size: clamp(26px, 7vw, 36px);
+        }
+
+        .songline {
+          font-size: 16px;
+        }
+
+        .pull-quote {
+          font-size: clamp(18px, 5vw, 24px);
+        }
+
+        .letters-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .image-box img {
+          max-height: 60vh;
+        }
+
+        .footer-note {
+          position: static;
+          margin-top: 8px;
+        }
       }
 
       @page {
