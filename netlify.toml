@@ -1,0 +1,3 @@
+[build]
+  command = "npm run build && mkdir -p dist/charts && cp -R charts/. dist/charts/"
+  publish = "dist"
