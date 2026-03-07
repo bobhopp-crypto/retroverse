@@ -7,6 +7,7 @@ const desktopNavItems = [
   { to: '/hub', label: 'Hub' },
   { to: '/video-library', label: 'Video Library' },
   { to: '/charts', label: 'Charts', reloadDocument: true },
+  { to: '/magazine/1978.html', label: 'Magazine', reloadDocument: true },
   { to: '/playlists', label: 'Playlists' },
   { to: '/random', label: 'SetBuilder' },
   { to: '/matching', label: 'Matching' },
@@ -17,6 +18,7 @@ const desktopNavItems = [
 
 const mobileNavItems = [
   { to: '/video-library', label: 'Library' },
+  { to: '/magazine/1978.html', label: 'Magazine', reloadDocument: true },
   { to: '/playlists', label: 'Playlists' },
   { to: '/random', label: 'SetBuilder' },
   { to: '/analytics', label: 'Analytics' },
@@ -53,6 +55,7 @@ export default function Layout({ children }: PropsWithChildren) {
             <NavLink
               key={item.to}
               to={item.to}
+              reloadDocument={item.reloadDocument}
               className={({ isActive }) => ['tab', isActive ? 'active' : ''].join(' ')}
             >
               <span>{item.to === '/playlists' ? `Playlists (${queue.length})` : item.label}</span>

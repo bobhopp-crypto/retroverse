@@ -1,0 +1,613 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>RetroVerse Magazine 1978</title>
+    <style>
+      :root {
+        --paper: #f3e5bf;
+        --paper-dark: #e7d5a6;
+        --ink: #2f2619;
+        --accent-red: #a42020;
+        --accent-blue: #214d6f;
+        --accent-gold: #b78318;
+        --frame: #6d4e21;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        padding: 24px;
+        background: radial-gradient(circle at top, #fff4cf 0%, var(--paper) 55%, var(--paper-dark) 100%);
+        color: var(--ink);
+        font-family: "Bookman Old Style", "Palatino Linotype", "Times New Roman", serif;
+      }
+
+      .page {
+        width: 8.5in;
+        min-height: 11in;
+        margin: 0 auto 24px;
+        padding: 0.6in;
+        border: 4px solid var(--frame);
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.22);
+        background:
+          linear-gradient(135deg, rgba(255, 255, 255, 0.2), transparent 45%),
+          linear-gradient(0deg, rgba(0, 0, 0, 0.03), transparent 38%),
+          var(--paper);
+        position: relative;
+        overflow: hidden;
+      }
+
+      .page::before {
+        content: "";
+        position: absolute;
+        inset: 16px;
+        border: 1px solid rgba(109, 78, 33, 0.35);
+        pointer-events: none;
+      }
+
+      .masthead,
+      h1,
+      h2,
+      h3 {
+        font-family: "Impact", "Arial Black", "Franklin Gothic Heavy", sans-serif;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+      }
+
+      .masthead {
+        font-size: 76px;
+        line-height: 0.9;
+        margin: 0;
+        color: var(--accent-red);
+        text-shadow: 2px 2px 0 #f9d79c, 4px 4px 0 rgba(0, 0, 0, 0.2);
+      }
+
+      .issue-line {
+        margin-top: 10px;
+        font-size: 15px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+      }
+
+      .subhead {
+        font-family: "Arial Black", "Impact", sans-serif;
+        font-size: 33px;
+        line-height: 1.1;
+        margin: 20px 0 12px;
+        color: var(--accent-blue);
+      }
+
+      .deck {
+        font-size: 22px;
+        margin: 0 0 16px;
+      }
+
+      .cover-grid {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        gap: 16px;
+        margin-top: 24px;
+      }
+
+      .cover-callout {
+        border: 3px solid var(--ink);
+        padding: 12px;
+        background: rgba(255, 255, 255, 0.34);
+      }
+
+      .cover-callout h3 {
+        margin: 0 0 8px;
+        font-size: 22px;
+      }
+
+      .cover-callout ul {
+        margin: 0;
+        padding-left: 18px;
+        font-size: 16px;
+        line-height: 1.4;
+      }
+
+      .cover-burst {
+        align-self: end;
+        justify-self: end;
+        width: 160px;
+        height: 160px;
+        border-radius: 50%;
+        border: 4px dashed var(--accent-red);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        font-family: "Arial Black", sans-serif;
+        font-size: 17px;
+        line-height: 1.2;
+        background: #ffefb6;
+        transform: rotate(-10deg);
+      }
+
+      .section-kicker {
+        font-weight: 800;
+        text-transform: uppercase;
+        font-size: 14px;
+        letter-spacing: 0.1em;
+        color: var(--accent-red);
+      }
+
+      .two-column {
+        column-count: 2;
+        column-gap: 28px;
+      }
+
+      .two-column p {
+        margin-top: 0;
+      }
+
+      .feature-card {
+        margin-bottom: 14px;
+      }
+
+      .feature-headline {
+        color: var(--accent-red);
+        margin: 6px 0 8px;
+        font-size: 36px;
+        line-height: 1;
+      }
+
+      .songline {
+        margin: 0 0 14px;
+        font-size: 18px;
+        font-weight: 700;
+      }
+
+      .image-box {
+        border: 4px solid var(--ink);
+        background: #faf0d0;
+        padding: 10px;
+      }
+
+      .image-box img {
+        display: block;
+        width: 100%;
+        max-height: 6.1in;
+        object-fit: contain;
+      }
+
+      .caption-box {
+        margin-top: 8px;
+        padding: 8px 10px;
+        border-left: 6px solid var(--accent-gold);
+        border-right: 2px solid rgba(47, 38, 25, 0.55);
+        border-top: 2px solid rgba(47, 38, 25, 0.55);
+        border-bottom: 2px solid rgba(47, 38, 25, 0.55);
+        font-size: 15px;
+        font-style: italic;
+        background: rgba(255, 255, 255, 0.48);
+      }
+
+      .pull-quote {
+        margin: 16px 0;
+        padding: 12px;
+        border-top: 3px solid var(--accent-red);
+        border-bottom: 3px solid var(--accent-red);
+        font-family: "Arial Black", "Impact", sans-serif;
+        font-size: 24px;
+        line-height: 1.2;
+        color: var(--accent-blue);
+      }
+
+      .mini-rule {
+        height: 4px;
+        border: 0;
+        background: linear-gradient(to right, var(--accent-red), var(--accent-gold), var(--accent-red));
+        margin: 16px 0;
+      }
+
+      .letters-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 12px;
+      }
+
+      .letter-item {
+        border: 2px solid rgba(47, 38, 25, 0.6);
+        padding: 10px;
+        background: rgba(255, 255, 255, 0.42);
+      }
+
+      .ad-box {
+        border: 6px double var(--ink);
+        padding: 20px;
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0.38), rgba(255, 255, 255, 0.15));
+      }
+
+      .ad-title {
+        font-size: 50px;
+        line-height: 0.95;
+        margin: 0 0 10px;
+        color: var(--accent-red);
+      }
+
+      .ad-sub {
+        font-size: 24px;
+        margin: 0 0 10px;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 14px;
+      }
+
+      th,
+      td {
+        border: 1px solid rgba(47, 38, 25, 0.55);
+        padding: 6px;
+        text-align: left;
+      }
+
+      th {
+        font-family: "Arial Black", "Impact", sans-serif;
+        letter-spacing: 0.02em;
+        background: rgba(167, 32, 32, 0.14);
+      }
+
+      .footer-note {
+        position: absolute;
+        right: 20px;
+        bottom: 14px;
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+      }
+
+      @page {
+        size: letter;
+        margin: 0.45in;
+      }
+
+      @media print {
+        body {
+          margin: 0;
+          padding: 0;
+          background: white;
+        }
+
+        .page {
+          margin: 0;
+          box-shadow: none;
+          page-break-after: always;
+          break-after: page;
+        }
+
+        .page:last-child {
+          page-break-after: auto;
+          break-after: auto;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <section class="page cover-page">
+  <h1 class="masthead">RetroVerse<br/>Magazine</h1>
+  <div class="issue-line">Issue Year 1978 | Printed 2026-03-06 | Price: 75 cents (ish)</div>
+  <div class="subhead">The Unnecessarily Dramatic Guide To Billboard 1978</div>
+  <p class="deck">A satirical field report from the front lines of pop music, polyester, and questionable dance decisions.</p>
+  <div class="cover-grid">
+    <div class="cover-callout">
+      <h3>Inside This Issue</h3>
+      <ul><li>Stayin&#x27; Alive - Bee Gees</li><li>Shadow Dancing - Andy Gibb</li><li>Hot Child In The City - Nick Gilder</li><li>Kiss You All Over - Exile</li><li>Night Fever - Bee Gees</li><li>Boogie Oogie Oogie - A Taste Of Honey</li></ul>
+    </div>
+    <div class="cover-burst">Bonus Insert:<br/>Top 40 Recap<br/>And Zero Restraint</div>
+  </div>
+  <div class="footer-note">Cover Story: Rhythm Without Supervision</div>
+</section>
+    <section class="page editor-page">
+  <div class="section-kicker">Editor's Note</div>
+  <h2>Dear Readers, Hold My Mixtape</h2>
+  <hr class="mini-rule" />
+  <div class="two-column">
+    <p>Welcome to the RetroVerse 1978 annual issue, assembled under strict deadlines and looser moral standards. This publication exists to honor great songs while asking hard questions, like why every third jacket had lapels wider than a sedan.</p>
+    <p>Inside these pages you will find illustrated song cards, dramatic headlines, and reporting that is technically enthusiastic. Every story has been fact checked by someone who once stood near a radio station and nodded confidently.</p>
+    <p>As always, our editorial policy is simple: celebrate the music, roast the era gently, and never pass up a chance for a pull quote that sounds like a city council emergency.</p>
+    <p>Thank you for reading. Please fold this magazine carefully, pass it to a friend, and pretend the coffee ring on page three is intentional design.</p>
+  </div>
+  <div class="pull-quote">"We are not here to explain the decade. We are here to document the groove."</div>
+  <div class="footer-note">Signed, The RetroVerse Editorial Desk</div>
+</section>
+    <section class="page feature-page">
+  <div class="section-kicker">Feature Page 1</div>
+  <h2 class="feature-headline">National Glitter Emergency Declared During &#x27;Stayin&#x27; Alive&#x27;</h2>
+  <p class="songline">#1 in 1978: "Stayin&#x27; Alive" by Bee Gees</p>
+  <div class="feature-card">
+    <div class="image-box">
+      <img src="../images/1978_raw_02.png" alt="Illustrated card for Stayin&#x27; Alive by Bee Gees" />
+    </div>
+    <div class="caption-box">A downtown dance floor turns into a policy summit while &#x27;Stayin&#x27; Alive&#x27; loops in the background.</div>
+  </div>
+  <div class="pull-quote">&quot;If this keeps up, the mayor will have to issue rhythm permits.&quot;</div>
+  <div class="two-column"><p>City officials met before dawn to discuss the rapid spread of &#x27;Stayin&#x27; Alive&#x27;. By noon, every committee chair was tapping a pencil in tempo and calling it research.</p><p>Witnesses say Bee Gees arrived with excellent posture, suspicious confidence, and exactly one dramatic spotlight. Within minutes, people who had never danced were offering classes in advanced strut management.</p><p>Market analysts report that sales of sequins, platform shoes, and theatrical sighs have climbed all quarter. One banker described the movement as &#x27;economically confusing but personally uplifting.&#x27;</p></div>
+  <div class="footer-note">Illustrated Archive | RetroVerse</div>
+</section>
+<section class="page feature-page">
+  <div class="section-kicker">Feature Page 2</div>
+  <h2 class="feature-headline">Andy Gibb Opens A Department Of Dramatic Pauses</h2>
+  <p class="songline">#2 in 1978: "Shadow Dancing" by Andy Gibb</p>
+  <div class="feature-card">
+    <div class="image-box">
+      <img src="../images/1978_raw_03.png" alt="Illustrated card for Shadow Dancing by Andy Gibb" />
+    </div>
+    <div class="caption-box">Local citizens freeze mid-argument as Andy Gibb enters with perfect timing and louder shoes.</div>
+  </div>
+  <div class="pull-quote">&quot;I came for groceries and left with a synchronized dance team.&quot;</div>
+  <div class="two-column"><p>Witnesses say Andy Gibb arrived with excellent posture, suspicious confidence, and exactly one dramatic spotlight. Within minutes, people who had never danced were offering classes in advanced strut management.</p><p>Market analysts report that sales of sequins, platform shoes, and theatrical sighs have climbed all quarter. One banker described the movement as &#x27;economically confusing but personally uplifting.&#x27;</p><p>Critics argue this all may be temporary, but nobody can hear them over the chorus of &#x27;Shadow Dancing&#x27;. In response, readers are invited to send letters, snacks, and any spare bell bottoms to the editorial desk.</p></div>
+  <div class="footer-note">Illustrated Archive | RetroVerse</div>
+</section>
+<section class="page feature-page">
+  <div class="section-kicker">Feature Page 3</div>
+  <h2 class="feature-headline">Breaking: &#x27;Hot Child In The City&#x27; Causes 700% Increase In Mirror Ball Sales</h2>
+  <p class="songline">#3 in 1978: "Hot Child In The City" by Nick Gilder</p>
+  <div class="feature-card">
+    <div class="image-box">
+      <img src="../images/1978_raw_04.png" alt="Illustrated card for Hot Child In The City by Nick Gilder" />
+    </div>
+    <div class="caption-box">The band starts measure one, and suddenly every bystander claims to be an interpretive choreographer.</div>
+  </div>
+  <div class="pull-quote">&quot;Nobody understands the plan, but everyone loves the bass line.&quot;</div>
+  <div class="two-column"><p>Market analysts report that sales of sequins, platform shoes, and theatrical sighs have climbed all quarter. One banker described the movement as &#x27;economically confusing but personally uplifting.&#x27;</p><p>Critics argue this all may be temporary, but nobody can hear them over the chorus of &#x27;Hot Child In The City&#x27;. In response, readers are invited to send letters, snacks, and any spare bell bottoms to the editorial desk.</p><p>City officials met before dawn to discuss the rapid spread of &#x27;Hot Child In The City&#x27;. By noon, every committee chair was tapping a pencil in tempo and calling it research.</p></div>
+  <div class="footer-note">Illustrated Archive | RetroVerse</div>
+</section>
+<section class="page feature-page">
+  <div class="section-kicker">Feature Page 4</div>
+  <h2 class="feature-headline">Experts Confirm &#x27;Kiss You All Over&#x27; Is Now A Legal Mood</h2>
+  <p class="songline">#4 in 1978: "Kiss You All Over" by Exile</p>
+  <div class="feature-card">
+    <div class="image-box">
+      <img src="../images/1978_raw_05.png" alt="Illustrated card for Kiss You All Over by Exile" />
+    </div>
+    <div class="caption-box">Moments before chaos: one stereo, three disco balls, and a crowd convinced this is civic duty.</div>
+  </div>
+  <div class="pull-quote">&quot;This is not a trend. This is a fully funded lifestyle decision.&quot;</div>
+  <div class="two-column"><p>Critics argue this all may be temporary, but nobody can hear them over the chorus of &#x27;Kiss You All Over&#x27;. In response, readers are invited to send letters, snacks, and any spare bell bottoms to the editorial desk.</p><p>City officials met before dawn to discuss the rapid spread of &#x27;Kiss You All Over&#x27;. By noon, every committee chair was tapping a pencil in tempo and calling it research.</p><p>Witnesses say Exile arrived with excellent posture, suspicious confidence, and exactly one dramatic spotlight. Within minutes, people who had never danced were offering classes in advanced strut management.</p></div>
+  <div class="footer-note">Illustrated Archive | RetroVerse</div>
+</section>
+<section class="page feature-page">
+  <div class="section-kicker">Feature Page 5</div>
+  <h2 class="feature-headline">Congress Investigates Why Everyone Is Humming &#x27;Night Fever&#x27;</h2>
+  <p class="songline">#5 in 1978: "Night Fever" by Bee Gees</p>
+  <div class="feature-card">
+    <div class="image-box">
+      <img src="../images/1978_raw_06.png" alt="Illustrated card for Night Fever by Bee Gees" />
+    </div>
+    <div class="caption-box">A serious strategy meeting collapses when someone yells, &#x27;Play Night Fever again!&#x27;</div>
+  </div>
+  <div class="pull-quote">&quot;If this keeps up, the mayor will have to issue rhythm permits.&quot;</div>
+  <div class="two-column"><p>City officials met before dawn to discuss the rapid spread of &#x27;Night Fever&#x27;. By noon, every committee chair was tapping a pencil in tempo and calling it research.</p><p>Witnesses say Bee Gees arrived with excellent posture, suspicious confidence, and exactly one dramatic spotlight. Within minutes, people who had never danced were offering classes in advanced strut management.</p><p>Market analysts report that sales of sequins, platform shoes, and theatrical sighs have climbed all quarter. One banker described the movement as &#x27;economically confusing but personally uplifting.&#x27;</p></div>
+  <div class="footer-note">Illustrated Archive | RetroVerse</div>
+</section>
+<section class="page feature-page">
+  <div class="section-kicker">Feature Page 6</div>
+  <h2 class="feature-headline">A Taste Of Honey Demands A Tax Credit For Fancy Jacket Ownership</h2>
+  <p class="songline">#6 in 1978: "Boogie Oogie Oogie" by A Taste Of Honey</p>
+  <div class="feature-card">
+    <div class="image-box">
+      <img src="../images/1978_raw_07.png" alt="Illustrated card for Boogie Oogie Oogie by A Taste Of Honey" />
+    </div>
+    <div class="caption-box">A downtown dance floor turns into a policy summit while &#x27;Boogie Oogie Oogie&#x27; loops in the background.</div>
+  </div>
+  <div class="pull-quote">&quot;I came for groceries and left with a synchronized dance team.&quot;</div>
+  <div class="two-column"><p>Witnesses say A Taste Of Honey arrived with excellent posture, suspicious confidence, and exactly one dramatic spotlight. Within minutes, people who had never danced were offering classes in advanced strut management.</p><p>Market analysts report that sales of sequins, platform shoes, and theatrical sighs have climbed all quarter. One banker described the movement as &#x27;economically confusing but personally uplifting.&#x27;</p><p>Critics argue this all may be temporary, but nobody can hear them over the chorus of &#x27;Boogie Oogie Oogie&#x27;. In response, readers are invited to send letters, snacks, and any spare bell bottoms to the editorial desk.</p></div>
+  <div class="footer-note">Illustrated Archive | RetroVerse</div>
+</section>
+<section class="page feature-page">
+  <div class="section-kicker">Feature Page 7</div>
+  <h2 class="feature-headline">National Glitter Emergency Declared During &#x27;Lay Down Sally&#x27;</h2>
+  <p class="songline">#7 in 1978: "Lay Down Sally" by Eric Clapton</p>
+  <div class="feature-card">
+    <div class="image-box">
+      <img src="../images/1978_raw_08.png" alt="Illustrated card for Lay Down Sally by Eric Clapton" />
+    </div>
+    <div class="caption-box">Local citizens freeze mid-argument as Eric Clapton enters with perfect timing and louder shoes.</div>
+  </div>
+  <div class="pull-quote">&quot;Nobody understands the plan, but everyone loves the bass line.&quot;</div>
+  <div class="two-column"><p>Market analysts report that sales of sequins, platform shoes, and theatrical sighs have climbed all quarter. One banker described the movement as &#x27;economically confusing but personally uplifting.&#x27;</p><p>Critics argue this all may be temporary, but nobody can hear them over the chorus of &#x27;Lay Down Sally&#x27;. In response, readers are invited to send letters, snacks, and any spare bell bottoms to the editorial desk.</p><p>City officials met before dawn to discuss the rapid spread of &#x27;Lay Down Sally&#x27;. By noon, every committee chair was tapping a pencil in tempo and calling it research.</p></div>
+  <div class="footer-note">Illustrated Archive | RetroVerse</div>
+</section>
+<section class="page feature-page">
+  <div class="section-kicker">Feature Page 8</div>
+  <h2 class="feature-headline">John Travolta Opens A Department Of Dramatic Pauses</h2>
+  <p class="songline">#8 in 1978: "You&#x27;re The One That I Want" by John Travolta</p>
+  <div class="feature-card">
+    <div class="image-box">
+      <img src="../images/1978_raw_09.png" alt="Illustrated card for You&#x27;re The One That I Want by John Travolta" />
+    </div>
+    <div class="caption-box">The band starts measure one, and suddenly every bystander claims to be an interpretive choreographer.</div>
+  </div>
+  <div class="pull-quote">&quot;This is not a trend. This is a fully funded lifestyle decision.&quot;</div>
+  <div class="two-column"><p>Critics argue this all may be temporary, but nobody can hear them over the chorus of &#x27;You&#x27;re The One That I Want&#x27;. In response, readers are invited to send letters, snacks, and any spare bell bottoms to the editorial desk.</p><p>City officials met before dawn to discuss the rapid spread of &#x27;You&#x27;re The One That I Want&#x27;. By noon, every committee chair was tapping a pencil in tempo and calling it research.</p><p>Witnesses say John Travolta arrived with excellent posture, suspicious confidence, and exactly one dramatic spotlight. Within minutes, people who had never danced were offering classes in advanced strut management.</p></div>
+  <div class="footer-note">Illustrated Archive | RetroVerse</div>
+</section>
+<section class="page feature-page">
+  <div class="section-kicker">Feature Page 9</div>
+  <h2 class="feature-headline">Breaking: &#x27;(Love Is) Thicker Than Water&#x27; Causes 700% Increase In Mirror Ball Sales</h2>
+  <p class="songline">#9 in 1978: "(Love Is) Thicker Than Water" by Andy Gibb</p>
+  <div class="feature-card">
+    <div class="image-box">
+      <img src="../images/1978_raw_10.png" alt="Illustrated card for (Love Is) Thicker Than Water by Andy Gibb" />
+    </div>
+    <div class="caption-box">Moments before chaos: one stereo, three disco balls, and a crowd convinced this is civic duty.</div>
+  </div>
+  <div class="pull-quote">&quot;If this keeps up, the mayor will have to issue rhythm permits.&quot;</div>
+  <div class="two-column"><p>City officials met before dawn to discuss the rapid spread of &#x27;(Love Is) Thicker Than Water&#x27;. By noon, every committee chair was tapping a pencil in tempo and calling it research.</p><p>Witnesses say Andy Gibb arrived with excellent posture, suspicious confidence, and exactly one dramatic spotlight. Within minutes, people who had never danced were offering classes in advanced strut management.</p><p>Market analysts report that sales of sequins, platform shoes, and theatrical sighs have climbed all quarter. One banker described the movement as &#x27;economically confusing but personally uplifting.&#x27;</p></div>
+  <div class="footer-note">Illustrated Archive | RetroVerse</div>
+</section>
+<section class="page feature-page">
+  <div class="section-kicker">Feature Page 10</div>
+  <h2 class="feature-headline">Experts Confirm &#x27;I Love The Nightlife (Disco &#x27;round)&#x27; Is Now A Legal Mood</h2>
+  <p class="songline">#10 in 1978: "I Love The Nightlife (Disco &#x27;round)" by Alicia Bridges</p>
+  <div class="feature-card">
+    <div class="image-box">
+      <img src="../images/1978_raw_A.png" alt="Illustrated card for I Love The Nightlife (Disco &#x27;round) by Alicia Bridges" />
+    </div>
+    <div class="caption-box">A serious strategy meeting collapses when someone yells, &#x27;Play I Love The Nightlife (Disco &#x27;round) again!&#x27;</div>
+  </div>
+  <div class="pull-quote">&quot;I came for groceries and left with a synchronized dance team.&quot;</div>
+  <div class="two-column"><p>Witnesses say Alicia Bridges arrived with excellent posture, suspicious confidence, and exactly one dramatic spotlight. Within minutes, people who had never danced were offering classes in advanced strut management.</p><p>Market analysts report that sales of sequins, platform shoes, and theatrical sighs have climbed all quarter. One banker described the movement as &#x27;economically confusing but personally uplifting.&#x27;</p><p>Critics argue this all may be temporary, but nobody can hear them over the chorus of &#x27;I Love The Nightlife (Disco &#x27;round)&#x27;. In response, readers are invited to send letters, snacks, and any spare bell bottoms to the editorial desk.</p></div>
+  <div class="footer-note">Illustrated Archive | RetroVerse</div>
+</section>
+<section class="page feature-page">
+  <div class="section-kicker">Feature Page 11</div>
+  <h2 class="feature-headline">Congress Investigates Why Everyone Is Humming &#x27;You Needed Me&#x27;</h2>
+  <p class="songline">#11 in 1978: "You Needed Me" by Anne Murray</p>
+  <div class="feature-card">
+    <div class="image-box">
+      <img src="../images/1978_raw_J.png" alt="Illustrated card for You Needed Me by Anne Murray" />
+    </div>
+    <div class="caption-box">A downtown dance floor turns into a policy summit while &#x27;You Needed Me&#x27; loops in the background.</div>
+  </div>
+  <div class="pull-quote">&quot;Nobody understands the plan, but everyone loves the bass line.&quot;</div>
+  <div class="two-column"><p>Market analysts report that sales of sequins, platform shoes, and theatrical sighs have climbed all quarter. One banker described the movement as &#x27;economically confusing but personally uplifting.&#x27;</p><p>Critics argue this all may be temporary, but nobody can hear them over the chorus of &#x27;You Needed Me&#x27;. In response, readers are invited to send letters, snacks, and any spare bell bottoms to the editorial desk.</p><p>City officials met before dawn to discuss the rapid spread of &#x27;You Needed Me&#x27;. By noon, every committee chair was tapping a pencil in tempo and calling it research.</p></div>
+  <div class="footer-note">Illustrated Archive | RetroVerse</div>
+</section>
+<section class="page feature-page">
+  <div class="section-kicker">Feature Page 12</div>
+  <h2 class="feature-headline">Commodores Demands A Tax Credit For Fancy Jacket Ownership</h2>
+  <p class="songline">#12 in 1978: "Three Times A Lady" by Commodores</p>
+  <div class="feature-card">
+    <div class="image-box">
+      <img src="../images/1978_raw_K.png" alt="Illustrated card for Three Times A Lady by Commodores" />
+    </div>
+    <div class="caption-box">Local citizens freeze mid-argument as Commodores enters with perfect timing and louder shoes.</div>
+  </div>
+  <div class="pull-quote">&quot;This is not a trend. This is a fully funded lifestyle decision.&quot;</div>
+  <div class="two-column"><p>Critics argue this all may be temporary, but nobody can hear them over the chorus of &#x27;Three Times A Lady&#x27;. In response, readers are invited to send letters, snacks, and any spare bell bottoms to the editorial desk.</p><p>City officials met before dawn to discuss the rapid spread of &#x27;Three Times A Lady&#x27;. By noon, every committee chair was tapping a pencil in tempo and calling it research.</p><p>Witnesses say Commodores arrived with excellent posture, suspicious confidence, and exactly one dramatic spotlight. Within minutes, people who had never danced were offering classes in advanced strut management.</p></div>
+  <div class="footer-note">Illustrated Archive | RetroVerse</div>
+</section>
+<section class="page feature-page">
+  <div class="section-kicker">Feature Page 13</div>
+  <h2 class="feature-headline">National Glitter Emergency Declared During &#x27;Grease&#x27;</h2>
+  <p class="songline">#13 in 1978: "Grease" by Frankie Valli</p>
+  <div class="feature-card">
+    <div class="image-box">
+      <img src="../images/1978_raw_Q.png" alt="Illustrated card for Grease by Frankie Valli" />
+    </div>
+    <div class="caption-box">The band starts measure one, and suddenly every bystander claims to be an interpretive choreographer.</div>
+  </div>
+  <div class="pull-quote">&quot;If this keeps up, the mayor will have to issue rhythm permits.&quot;</div>
+  <div class="two-column"><p>City officials met before dawn to discuss the rapid spread of &#x27;Grease&#x27;. By noon, every committee chair was tapping a pencil in tempo and calling it research.</p><p>Witnesses say Frankie Valli arrived with excellent posture, suspicious confidence, and exactly one dramatic spotlight. Within minutes, people who had never danced were offering classes in advanced strut management.</p><p>Market analysts report that sales of sequins, platform shoes, and theatrical sighs have climbed all quarter. One banker described the movement as &#x27;economically confusing but personally uplifting.&#x27;</p></div>
+  <div class="footer-note">Illustrated Archive | RetroVerse</div>
+</section>
+<section class="page feature-page">
+  <div class="section-kicker">Feature Page 14</div>
+  <h2 class="feature-headline">Yvonne Elliman Opens A Department Of Dramatic Pauses</h2>
+  <p class="songline">#14 in 1978: "If I Can&#x27;t Have You" by Yvonne Elliman</p>
+  <div class="feature-card">
+    <div class="image-box">
+      <img src="../images/1978_raw_R1.png" alt="Illustrated card for If I Can&#x27;t Have You by Yvonne Elliman" />
+    </div>
+    <div class="caption-box">Moments before chaos: one stereo, three disco balls, and a crowd convinced this is civic duty.</div>
+  </div>
+  <div class="pull-quote">&quot;I came for groceries and left with a synchronized dance team.&quot;</div>
+  <div class="two-column"><p>Witnesses say Yvonne Elliman arrived with excellent posture, suspicious confidence, and exactly one dramatic spotlight. Within minutes, people who had never danced were offering classes in advanced strut management.</p><p>Market analysts report that sales of sequins, platform shoes, and theatrical sighs have climbed all quarter. One banker described the movement as &#x27;economically confusing but personally uplifting.&#x27;</p><p>Critics argue this all may be temporary, but nobody can hear them over the chorus of &#x27;If I Can&#x27;t Have You&#x27;. In response, readers are invited to send letters, snacks, and any spare bell bottoms to the editorial desk.</p></div>
+  <div class="footer-note">Illustrated Archive | RetroVerse</div>
+</section>
+<section class="page feature-page">
+  <div class="section-kicker">Feature Page 15</div>
+  <h2 class="feature-headline">Breaking: &#x27;Emotion&#x27; Causes 700% Increase In Mirror Ball Sales</h2>
+  <p class="songline">#15 in 1978: "Emotion" by Samantha Sang</p>
+  <div class="feature-card">
+    <div class="image-box">
+      <img src="../images/1978_raw_R2.png" alt="Illustrated card for Emotion by Samantha Sang" />
+    </div>
+    <div class="caption-box">A serious strategy meeting collapses when someone yells, &#x27;Play Emotion again!&#x27;</div>
+  </div>
+  <div class="pull-quote">&quot;Nobody understands the plan, but everyone loves the bass line.&quot;</div>
+  <div class="two-column"><p>Market analysts report that sales of sequins, platform shoes, and theatrical sighs have climbed all quarter. One banker described the movement as &#x27;economically confusing but personally uplifting.&#x27;</p><p>Critics argue this all may be temporary, but nobody can hear them over the chorus of &#x27;Emotion&#x27;. In response, readers are invited to send letters, snacks, and any spare bell bottoms to the editorial desk.</p><p>City officials met before dawn to discuss the rapid spread of &#x27;Emotion&#x27;. By noon, every committee chair was tapping a pencil in tempo and calling it research.</p></div>
+  <div class="footer-note">Illustrated Archive | RetroVerse</div>
+</section>
+<section class="page feature-page">
+  <div class="section-kicker">Feature Page 16</div>
+  <h2 class="feature-headline">Experts Confirm &#x27;Can&#x27;t Smile Without You&#x27; Is Now A Legal Mood</h2>
+  <p class="songline">#16 in 1978: "Can&#x27;t Smile Without You" by Barry Manilow</p>
+  <div class="feature-card">
+    <div class="image-box">
+      <img src="../images/1978_raw_R3.png" alt="Illustrated card for Can&#x27;t Smile Without You by Barry Manilow" />
+    </div>
+    <div class="caption-box">A downtown dance floor turns into a policy summit while &#x27;Can&#x27;t Smile Without You&#x27; loops in the background.</div>
+  </div>
+  <div class="pull-quote">&quot;This is not a trend. This is a fully funded lifestyle decision.&quot;</div>
+  <div class="two-column"><p>Critics argue this all may be temporary, but nobody can hear them over the chorus of &#x27;Can&#x27;t Smile Without You&#x27;. In response, readers are invited to send letters, snacks, and any spare bell bottoms to the editorial desk.</p><p>City officials met before dawn to discuss the rapid spread of &#x27;Can&#x27;t Smile Without You&#x27;. By noon, every committee chair was tapping a pencil in tempo and calling it research.</p><p>Witnesses say Barry Manilow arrived with excellent posture, suspicious confidence, and exactly one dramatic spotlight. Within minutes, people who had never danced were offering classes in advanced strut management.</p></div>
+  <div class="footer-note">Illustrated Archive | RetroVerse</div>
+</section>
+<section class="page feature-page">
+  <div class="section-kicker">Feature Page 17</div>
+  <h2 class="feature-headline">Congress Investigates Why Everyone Is Humming &#x27;Feels So Good&#x27;</h2>
+  <p class="songline">#17 in 1978: "Feels So Good" by Chuck Mangione</p>
+  <div class="feature-card">
+    <div class="image-box">
+      <img src="../images/1978_raw_R4.png" alt="Illustrated card for Feels So Good by Chuck Mangione" />
+    </div>
+    <div class="caption-box">Local citizens freeze mid-argument as Chuck Mangione enters with perfect timing and louder shoes.</div>
+  </div>
+  <div class="pull-quote">&quot;If this keeps up, the mayor will have to issue rhythm permits.&quot;</div>
+  <div class="two-column"><p>City officials met before dawn to discuss the rapid spread of &#x27;Feels So Good&#x27;. By noon, every committee chair was tapping a pencil in tempo and calling it research.</p><p>Witnesses say Chuck Mangione arrived with excellent posture, suspicious confidence, and exactly one dramatic spotlight. Within minutes, people who had never danced were offering classes in advanced strut management.</p><p>Market analysts report that sales of sequins, platform shoes, and theatrical sighs have climbed all quarter. One banker described the movement as &#x27;economically confusing but personally uplifting.&#x27;</p></div>
+  <div class="footer-note">Illustrated Archive | RetroVerse</div>
+</section>
+    <section class="page pop-culture-page">
+  <div class="section-kicker">Pop Culture Section</div>
+  <h2>Year 1978 In Sideburns, Sequins, And Sudden Opinions</h2>
+  <hr class="mini-rule" />
+  <div class="two-column">
+    <p>The broader culture of 1978 moved at the pace of a chart climber with a horn section. Fashion became louder, television became shinier, and every dinner party eventually turned into a debate over who had the superior dance stance.</p>
+    <p>Across the country, listeners treated the Top 40 like weekly legislation. New releases were introduced with solemn ceremony, then immediately discussed with the volume and certainty usually reserved for sporting events.</p>
+    <p>This section tracks the collateral effects of hit songs: spontaneous choreography, dramatic wardrobe choices, and the rise of deeply committed air-drumming in public settings.</p>
+  </div>
+  <h3>Quick Hits</h3>
+  <ul><li><strong>Stayin&#x27; Alive</strong> by Bee Gees allegedly caused several neighborhood dance circles and at least one very sincere moustache debate.</li><li><strong>Shadow Dancing</strong> by Andy Gibb allegedly caused several neighborhood dance circles and at least one very sincere moustache debate.</li><li><strong>Hot Child In The City</strong> by Nick Gilder allegedly caused several neighborhood dance circles and at least one very sincere moustache debate.</li><li><strong>Kiss You All Over</strong> by Exile allegedly caused several neighborhood dance circles and at least one very sincere moustache debate.</li><li><strong>Night Fever</strong> by Bee Gees allegedly caused several neighborhood dance circles and at least one very sincere moustache debate.</li><li><strong>Boogie Oogie Oogie</strong> by A Taste Of Honey allegedly caused several neighborhood dance circles and at least one very sincere moustache debate.</li><li><strong>Lay Down Sally</strong> by Eric Clapton allegedly caused several neighborhood dance circles and at least one very sincere moustache debate.</li><li><strong>You&#x27;re The One That I Want</strong> by John Travolta allegedly caused several neighborhood dance circles and at least one very sincere moustache debate.</li></ul>
+  <div class="pull-quote">"History remembers the songs. Neighborhoods remember the dance attempts."</div>
+  <div class="footer-note">Culture Desk | Special Report</div>
+</section>
+    <section class="page fake-ad-page">
+  <div class="section-kicker">Fake Advertisement</div>
+  <div class="ad-box">
+    <h2 class="ad-title">MoodSpray 78</h2>
+    <p class="ad-sub">The first aerosol that adds instant chart confidence.</p>
+    <p>One spray and your hallway becomes a nightclub entrance. Two sprays and your living room gains a bass line, fake fog, and exactly one person announcing, "Now entering the groove zone."</p>
+    <p><strong>Approved by 9 out of 10 fictional DJs.</strong> Side effects may include finger pointing, dramatic jacket flips, and an inability to sit during choruses.</p>
+    <p>Order now and receive our bonus booklet: <em>Fifty Emergency Dance Excuses For Work Nights</em>.</p>
+  </div>
+  <div class="pull-quote">"MoodSpray 78: Because ordinary confidence is for amateurs."</div>
+  <div class="footer-note">Paid For By The Society Of Loud Entrances</div>
+</section>
+    <section class="page letters-page">
+  <div class="section-kicker">Letters To The Editor</div>
+  <h2>Your Mailbag Is Louder Than Our Office Stereo</h2>
+  <hr class="mini-rule" />
+  <div class="letters-grid"><div class="letter-item"><h3>From: A Concerned Neighbor</h3><p>Please tell your writers to stop describing &#x27;Stayin&#x27; Alive&#x27; as a municipal event. My entire block now rehearses choreography after 9 PM.</p></div><div class="letter-item"><h3>From: Proud Dance Captain</h3><p>Your coverage of &#x27;Shadow Dancing&#x27; was unfair. We were not loitering. We were conducting field research with glitter and conviction.</p></div><div class="letter-item"><h3>From: Local Record Clerk</h3><p>After your last issue, people asked if &#x27;Hot Child In The City&#x27; comes with legal guidance. It does not, but sales are excellent.</p></div><div class="letter-item"><h3>From: The Editorial Desk</h3><p>Thank you for writing. We hear your concerns and promise to increase both nuance and horn sections in future reporting.</p></div></div>
+  <div class="footer-note">Please Keep Writing, We Need Material</div>
+</section>
+    <section class="page recap-page">
+  <div class="section-kicker">Top 40 Recap</div>
+  <h2>Billboard Year-End Snapshot: 1978</h2>
+  <p>Data shown below is used for structure and can be replaced or extended when richer AI-authored copy is ready.</p>
+  <table>
+    <thead>
+      <tr>
+        <th>Rank</th>
+        <th>Song</th>
+        <th>Artist</th>
+        <th>Peak</th>
+        <th>Weeks</th>
+      </tr>
+    </thead>
+    <tbody><tr><td>1</td><td>Stayin&#x27; Alive</td><td>Bee Gees</td><td>1</td><td>23</td></tr><tr><td>2</td><td>Shadow Dancing</td><td>Andy Gibb</td><td>1</td><td>25</td></tr><tr><td>3</td><td>Hot Child In The City</td><td>Nick Gilder</td><td>1</td><td>30</td></tr><tr><td>4</td><td>Kiss You All Over</td><td>Exile</td><td>1</td><td>23</td></tr><tr><td>5</td><td>Night Fever</td><td>Bee Gees</td><td>1</td><td>20</td></tr><tr><td>6</td><td>Boogie Oogie Oogie</td><td>A Taste Of Honey</td><td>1</td><td>23</td></tr><tr><td>7</td><td>Lay Down Sally</td><td>Eric Clapton</td><td>3</td><td>23</td></tr><tr><td>8</td><td>You&#x27;re The One That I Want</td><td>John Travolta</td><td>1</td><td>24</td></tr><tr><td>9</td><td>(Love Is) Thicker Than Water</td><td>Andy Gibb</td><td>1</td><td>20</td></tr><tr><td>10</td><td>I Love The Nightlife (Disco &#x27;round)</td><td>Alicia Bridges</td><td>5</td><td>26</td></tr><tr><td>11</td><td>You Needed Me</td><td>Anne Murray</td><td>1</td><td>25</td></tr><tr><td>12</td><td>Three Times A Lady</td><td>Commodores</td><td>1</td><td>20</td></tr><tr><td>13</td><td>Grease</td><td>Frankie Valli</td><td>1</td><td>22</td></tr><tr><td>14</td><td>If I Can&#x27;t Have You</td><td>Yvonne Elliman</td><td>1</td><td>22</td></tr><tr><td>15</td><td>Emotion</td><td>Samantha Sang</td><td>3</td><td>20</td></tr><tr><td>16</td><td>Can&#x27;t Smile Without You</td><td>Barry Manilow</td><td>3</td><td>19</td></tr><tr><td>17</td><td>Feels So Good</td><td>Chuck Mangione</td><td>4</td><td>25</td></tr><tr><td>18</td><td>Miss You</td><td>The Rolling Stones</td><td>1</td><td>20</td></tr><tr><td>19</td><td>Baker Street</td><td>Gerry Rafferty</td><td>2</td><td>20</td></tr><tr><td>20</td><td>It&#x27;s A Heartache</td><td>Bonnie Tyler</td><td>3</td><td>21</td></tr><tr><td>21</td><td>Love Is Like Oxygen</td><td>Sweet</td><td>8</td><td>25</td></tr><tr><td>22</td><td>MacArthur Park</td><td>Donna Summer</td><td>1</td><td>17</td></tr><tr><td>23</td><td>Hopelessly Devoted To You</td><td>Olivia Newton-john</td><td>3</td><td>19</td></tr><tr><td>24</td><td>Jack And Jill</td><td>Raydio</td><td>8</td><td>21</td></tr><tr><td>25</td><td>Take A Chance On Me</td><td>Abba</td><td>3</td><td>18</td></tr><tr><td>26</td><td>The Closer I Get To You</td><td>Roberta Flack</td><td>2</td><td>20</td></tr><tr><td>27</td><td>Love Is In The Air</td><td>John Paul Young</td><td>7</td><td>21</td></tr><tr><td>28</td><td>Last Dance</td><td>Donna Summer</td><td>3</td><td>21</td></tr><tr><td>29</td><td>Hot Blooded</td><td>Foreigner</td><td>3</td><td>17</td></tr><tr><td>30</td><td>How Deep Is Your Love</td><td>Bee Gees</td><td>1</td><td>18</td></tr><tr><td>31</td><td>How Much I Feel</td><td>Ambrosia</td><td>3</td><td>18</td></tr><tr><td>32</td><td>Dust In The Wind</td><td>Kansas</td><td>6</td><td>20</td></tr><tr><td>33</td><td>Reminiscing</td><td>Little River Band</td><td>3</td><td>20</td></tr><tr><td>34</td><td>I Go Crazy</td><td>Paul Davis</td><td>7</td><td>21</td></tr><tr><td>35</td><td>Whenever I Call You &quot;Friend&quot;</td><td>Kenny Loggins</td><td>5</td><td>20</td></tr><tr><td>36</td><td>Just The Way You Are</td><td>Billy Joel</td><td>3</td><td>19</td></tr><tr><td>37</td><td>Dance With Me</td><td>Peter Brown</td><td>8</td><td>28</td></tr><tr><td>38</td><td>With A Little Luck</td><td>Wings</td><td>1</td><td>18</td></tr><tr><td>39</td><td>Too Much, Too Little, Too Late</td><td>Johnny Mathis/deniece Williams</td><td>1</td><td>18</td></tr><tr><td>40</td><td>You Never Done It Like That</td><td>Captain</td><td>10</td><td>22</td></tr></tbody>
+  </table>
+  <div class="footer-note">Data Source: RetroVerse Billboard Archive</div>
+</section>
+  </body>
+</html>

@@ -1,51 +1,84 @@
+.hub-page {
+  background: radial-gradient(circle at 15% 10%, #1f2e4f 0%, #111a33 42%, #0b1226 100%);
+  border-radius: 16px;
+  padding: 18px;
+  border: 1px solid rgba(210, 176, 90, 0.35);
+}
+
+.hub-page .page-title,
+.hub-page .phase-flag {
+  color: #f8e5b1;
+}
+
+.hub-intro {
+  margin: 6px 0 0;
+  color: rgba(245, 236, 214, 0.9);
+}
+
 .hub-card-grid {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 12px;
-  margin-top: 10px;
+  gap: 14px;
+  margin-top: 14px;
 }
 
 .hub-card {
-  display: block;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
   text-decoration: none;
   color: inherit;
-  background: #fcf6ea;
-  border: 2px solid var(--line);
   border-radius: 14px;
-  padding: 18px;
-  box-shadow: 3px 3px 0 var(--rv-ink);
-  transition: transform 140ms ease, box-shadow 140ms ease, background-color 140ms ease, border-color 140ms ease;
+  padding: 16px;
+  border: 1px solid rgba(218, 184, 97, 0.45);
+  background: linear-gradient(180deg, rgba(21, 35, 66, 0.95) 0%, rgba(14, 24, 49, 0.95) 100%);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.28);
+  transition: transform 150ms ease, box-shadow 150ms ease, border-color 150ms ease;
 }
 
 .hub-card:hover {
   transform: translateY(-2px);
-  box-shadow: 5px 5px 0 var(--rv-ink);
-  background: #fffdf7;
-  border-color: #e5534b;
+  box-shadow: 0 0 0 1px rgba(245, 220, 140, 0.3), 0 10px 24px rgba(245, 220, 140, 0.16);
+  border-color: rgba(245, 220, 140, 0.75);
 }
 
 .hub-card:focus-visible {
-  outline: 3px solid #e5534b;
+  outline: 2px solid #f3d98d;
   outline-offset: 2px;
 }
 
 .hub-card-title {
-  margin: 0 0 8px;
-  color: var(--rv-ink);
-  font-size: 16px;
+  margin: 0;
+  color: #f5dc8c;
+  font-size: 17px;
   line-height: 1.2;
   font-family: 'Baloo 2', 'Fredoka', sans-serif;
 }
 
 .hub-card-desc {
   margin: 0;
-  color: var(--muted);
+  color: #e8dec2;
   font-size: 13px;
   line-height: 1.45;
 }
 
-@media (min-width: 768px) {
+.hub-card-cta {
+  margin-top: 2px;
+  color: #f5dc8c;
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+@media (min-width: 640px) {
   .hub-card-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 980px) {
+  .hub-card-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
