@@ -1,0 +1,51 @@
+.hub-card-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.hub-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  background: #fcf6ea;
+  border: 2px solid var(--line);
+  border-radius: 14px;
+  padding: 18px;
+  box-shadow: 3px 3px 0 var(--rv-ink);
+  transition: transform 140ms ease, box-shadow 140ms ease, background-color 140ms ease, border-color 140ms ease;
+}
+
+.hub-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 5px 5px 0 var(--rv-ink);
+  background: #fffdf7;
+  border-color: #e5534b;
+}
+
+.hub-card:focus-visible {
+  outline: 3px solid #e5534b;
+  outline-offset: 2px;
+}
+
+.hub-card-title {
+  margin: 0 0 8px;
+  color: var(--rv-ink);
+  font-size: 16px;
+  line-height: 1.2;
+  font-family: 'Baloo 2', 'Fredoka', sans-serif;
+}
+
+.hub-card-desc {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+@media (min-width: 768px) {
+  .hub-card-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}

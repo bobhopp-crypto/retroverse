@@ -1,13 +1,14 @@
 import { Link } from 'react-router-dom'
+import './Hub.css'
 
 const pages = [
-  { to: '/video-library', label: 'Video Library', desc: 'Static listing from video-index.json' },
+  { to: '/video-library', label: 'Video Library', desc: 'Browse the RetroVerse video collection' },
   { to: '/charts', label: 'Charts', desc: 'Explore Billboard Hot 100 chart history' },
-  { to: '/playlists', label: 'Playlists', desc: 'Playlist shells, no persistence yet' },
-  { to: '/random', label: 'Random', desc: 'Future one-click randomizer layout' },
-  { to: '/matching', label: 'Matching', desc: 'Match review table scaffold' },
-  { to: '/games', label: 'Games', desc: 'Game concepts placeholder' },
-  { to: '/tools', label: 'Tools', desc: 'Utility roster; disabled' },
+  { to: '/playlists', label: 'Playlists', desc: 'Create and manage music sets' },
+  { to: '/random', label: 'Random', desc: 'Jump into a random RetroVerse experience' },
+  { to: '/matching', label: 'Matching', desc: 'Review metadata and tag matching tools' },
+  { to: '/games', label: 'Games', desc: 'Interactive RetroVerse trivia and challenges' },
+  { to: '/tools', label: 'Tools', desc: 'Utilities and data tools for RetroVerse' },
 ]
 
 export default function Hub() {
@@ -19,27 +20,13 @@ export default function Hub() {
       </div>
       <p className="muted">Choose a section to view its skeleton. Nothing is wired or interactive yet.</p>
 
-      <div className="section" style={{ padding: 0 }}>
-        <table className="simple-table">
-          <thead>
-            <tr>
-              <th>Page</th>
-              <th>Purpose</th>
-            </tr>
-          </thead>
-          <tbody>
-            {pages.map((page) => (
-              <tr key={page.to}>
-                <td>
-                  <Link to={page.to} className="link-plain" reloadDocument={page.to === '/charts'}>
-                    {page.label}
-                  </Link>
-                </td>
-                <td className="muted">{page.desc}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+      <div className="hub-card-grid">
+        {pages.map((page) => (
+          <Link key={page.to} to={page.to} className="hub-card" reloadDocument={page.to === '/charts'}>
+            <h2 className="hub-card-title">{page.label}</h2>
+            <p className="hub-card-desc">{page.desc}</p>
+          </Link>
+        ))}
       </div>
     </section>
   )
