@@ -6,6 +6,7 @@ import VideoPlayerModal from './VideoPlayerModal'
 const desktopNavItems = [
   { to: '/hub', label: 'Hub' },
   { to: '/video-library', label: 'Video Library' },
+  { to: '/charts', label: 'Charts', reloadDocument: true },
   { to: '/playlists', label: 'Playlists' },
   { to: '/random', label: 'SetBuilder' },
   { to: '/matching', label: 'Matching' },
@@ -34,6 +35,7 @@ export default function Layout({ children }: PropsWithChildren) {
               <NavLink
                 key={item.to}
                 to={item.to}
+                reloadDocument={item.reloadDocument}
                 className={({ isActive }) => ['nav-link', isActive ? 'nav-link--active' : ''].join(' ')}
               >
                 {item.to === '/playlists' ? `Playlists (${queue.length})` : item.label}
