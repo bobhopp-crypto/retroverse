@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom'
 
 const pages = [
   { to: '/video-library', label: 'Video Library', desc: 'Static listing from video-index.json' },
+  { to: '/charts', label: 'Charts', desc: 'Explore Billboard Hot 100 chart history' },
   { to: '/playlists', label: 'Playlists', desc: 'Playlist shells, no persistence yet' },
   { to: '/random', label: 'Random', desc: 'Future one-click randomizer layout' },
   { to: '/matching', label: 'Matching', desc: 'Match review table scaffold' },
@@ -30,7 +31,7 @@ export default function Hub() {
             {pages.map((page) => (
               <tr key={page.to}>
                 <td>
-                  <Link to={page.to} className="link-plain">
+                  <Link to={page.to} className="link-plain" reloadDocument={page.to === '/charts'}>
                     {page.label}
                   </Link>
                 </td>
