@@ -1,0 +1,53 @@
+billboard_hot_100:
+  type: sqlite
+  path: /Users/bobhopp/Sites/retroverse/raw-data/billboard-hot-100.db
+  required: true
+  description: Weekly Billboard Hot 100 charts (1958–present)
+
+billboard_200:
+  type: sqlite
+  path: /Users/bobhopp/Sites/retroverse/raw-data/billboard-200-albums-charts.db
+  required: true
+  description: Weekly Billboard 200 album charts
+
+year_master_json:
+  path: ../retroverse-output/retroverse_year_master_1958_2024.json
+  type: json
+  required: false
+  description: Consolidated year master dataset
+
+cultural_events_glob:
+  path: ../cultural_events_*.json
+  type: json_glob
+  required: false
+  description: Cultural event datasets by year or topic
+
+year_end_top_40_glob:
+  path: ../year_end_top_40_*.json
+  type: json_glob
+  required: false
+  description: Year-end Top 40 exports
+
+billboard_stats_dir:
+  path: ../artifacts/output/billboard
+  type: directory
+  required: false
+  description: Derived Billboard analytics
+
+retroverse_output_dir:
+  path: ../retroverse-output
+  type: directory
+  required: false
+  description: Generated RetroVerse output datasets
+
+public_data_dir:
+  path: ../public/data
+  type: directory
+  required: false
+  description: Front-end ready data bundles
+
+vdj_history_json:
+  path: ../raw-data/vdj_history_full.json
+  type: json
+  required: false
+  description: Personal DJ history dataset
