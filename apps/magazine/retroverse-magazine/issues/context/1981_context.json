@@ -1,0 +1,508 @@
+{
+  "year": "1981",
+  "top_songs": [
+    {
+      "artist": "Diana Ross",
+      "title": "Endless Love",
+      "weeks": 25,
+      "peak": 1,
+      "score": 469
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Start Me Up",
+      "weeks": 19,
+      "peak": 2,
+      "score": 467
+    },
+    {
+      "artist": "Christopher Cross",
+      "title": "Arthur's Theme (Best That You Can Do)",
+      "weeks": 20,
+      "peak": 1,
+      "score": 454
+    },
+    {
+      "artist": "John Lennon",
+      "title": "Woman",
+      "weeks": 20,
+      "peak": 2,
+      "score": 428
+    },
+    {
+      "artist": "Kim Carnes",
+      "title": "Bette Davis Eyes",
+      "weeks": 26,
+      "peak": 1,
+      "score": 420
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "title": "Private Eyes",
+      "weeks": 18,
+      "peak": 1,
+      "score": 403
+    },
+    {
+      "artist": "Rick Springfield",
+      "title": "Jessie's Girl",
+      "weeks": 32,
+      "peak": 1,
+      "score": 387
+    },
+    {
+      "artist": "Foreigner",
+      "title": "Waiting For A Girl Like You",
+      "weeks": 12,
+      "peak": 2,
+      "score": 362
+    },
+    {
+      "artist": "Reo Speedwagon",
+      "title": "Keep On Loving You",
+      "weeks": 23,
+      "peak": 1,
+      "score": 354
+    },
+    {
+      "artist": "Kool",
+      "title": "Celebration",
+      "weeks": 20,
+      "peak": 1,
+      "score": 348
+    },
+    {
+      "artist": "Dolly Parton",
+      "title": "9 To 5",
+      "weeks": 21,
+      "peak": 1,
+      "score": 338
+    },
+    {
+      "artist": "Air Supply",
+      "title": "Here I Am (Just When I Thought I Was Over You)",
+      "weeks": 14,
+      "peak": 5,
+      "score": 330
+    },
+    {
+      "artist": "Eddie Rabbitt",
+      "title": "I Love A Rainy Night",
+      "weeks": 20,
+      "peak": 1,
+      "score": 324
+    },
+    {
+      "artist": "Styx",
+      "title": "The Best Of Times",
+      "weeks": 19,
+      "peak": 3,
+      "score": 324
+    },
+    {
+      "artist": "Olivia Newton-john",
+      "title": "Physical",
+      "weeks": 13,
+      "peak": 1,
+      "score": 317
+    },
+    {
+      "artist": "Don Mclean",
+      "title": "Crying",
+      "weeks": 18,
+      "peak": 5,
+      "score": 316
+    },
+    {
+      "artist": "Joey Scarbury",
+      "title": "Theme From \"Greatest American Hero\" (Believe It or Not)",
+      "weeks": 26,
+      "peak": 2,
+      "score": 295
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "title": "Kiss On My List",
+      "weeks": 23,
+      "peak": 1,
+      "score": 289
+    },
+    {
+      "artist": "Stevie Nicks",
+      "title": "Stop Draggin' My Heart Around",
+      "weeks": 21,
+      "peak": 3,
+      "score": 289
+    },
+    {
+      "artist": "Ronnie Milsap",
+      "title": "(There's) No Gettin' Over Me",
+      "weeks": 20,
+      "peak": 5,
+      "score": 284
+    },
+    {
+      "artist": "Smokey Robinson",
+      "title": "Being With You",
+      "weeks": 25,
+      "peak": 2,
+      "score": 281
+    },
+    {
+      "artist": "Juice Newton",
+      "title": "Queen Of Hearts",
+      "weeks": 27,
+      "peak": 2,
+      "score": 279
+    },
+    {
+      "artist": "The Pointer Sisters",
+      "title": "Slow Hand",
+      "weeks": 24,
+      "peak": 2,
+      "score": 275
+    },
+    {
+      "artist": "The Police",
+      "title": "Every Little Thing She Does Is Magic",
+      "weeks": 14,
+      "peak": 3,
+      "score": 274
+    },
+    {
+      "artist": "Kenny Rogers",
+      "title": "I Don't Need You",
+      "weeks": 18,
+      "peak": 3,
+      "score": 269
+    },
+    {
+      "artist": "Juice Newton",
+      "title": "Angel Of The Morning",
+      "weeks": 22,
+      "peak": 4,
+      "score": 261
+    },
+    {
+      "artist": "John Lennon",
+      "title": "(Just Like) Starting Over",
+      "weeks": 13,
+      "peak": 1,
+      "score": 260
+    },
+    {
+      "artist": "Grover Washington, Jr",
+      "title": "Just The Two Of Us",
+      "weeks": 24,
+      "peak": 2,
+      "score": 260
+    },
+    {
+      "artist": "Commodores",
+      "title": "Oh No",
+      "weeks": 14,
+      "peak": 4,
+      "score": 256
+    },
+    {
+      "artist": "Reo Speedwagon",
+      "title": "Take It On The Run",
+      "weeks": 20,
+      "peak": 5,
+      "score": 255
+    },
+    {
+      "artist": "Journey",
+      "title": "Who's Crying Now",
+      "weeks": 21,
+      "peak": 4,
+      "score": 255
+    },
+    {
+      "artist": "Little River Band",
+      "title": "The Night Owls",
+      "weeks": 19,
+      "peak": 6,
+      "score": 255
+    },
+    {
+      "artist": "Foreigner",
+      "title": "Urgent",
+      "weeks": 23,
+      "peak": 4,
+      "score": 254
+    },
+    {
+      "artist": "Air Supply",
+      "title": "The One That You Love",
+      "weeks": 19,
+      "peak": 1,
+      "score": 248
+    },
+    {
+      "artist": "Bob Seger",
+      "title": "Tryin' To Live My Life Without You",
+      "weeks": 16,
+      "peak": 5,
+      "score": 247
+    },
+    {
+      "artist": "Blondie",
+      "title": "Rapture",
+      "weeks": 20,
+      "peak": 1,
+      "score": 243
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Why Do Fools Fall In Love",
+      "weeks": 11,
+      "peak": 7,
+      "score": 241
+    },
+    {
+      "artist": "Sheena Easton",
+      "title": "Morning Train (Nine To Five)",
+      "weeks": 21,
+      "peak": 1,
+      "score": 237
+    },
+    {
+      "artist": "Stars On 45",
+      "title": "Medley",
+      "weeks": 21,
+      "peak": 1,
+      "score": 234
+    },
+    {
+      "artist": "Gino Vannelli",
+      "title": "Living Inside Myself",
+      "weeks": 20,
+      "peak": 6,
+      "score": 232
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Diana Ross",
+      "hits": 2
+    },
+    {
+      "artist": "John Lennon",
+      "hits": 2
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "hits": 2
+    },
+    {
+      "artist": "Foreigner",
+      "hits": 2
+    },
+    {
+      "artist": "Reo Speedwagon",
+      "hits": 2
+    },
+    {
+      "artist": "Air Supply",
+      "hits": 2
+    },
+    {
+      "artist": "Juice Newton",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Rick Springfield",
+      "title": "Jessie's Girl",
+      "weeks": 32,
+      "peak": 1,
+      "score": 387
+    },
+    {
+      "artist": "Juice Newton",
+      "title": "Queen Of Hearts",
+      "weeks": 27,
+      "peak": 2,
+      "score": 279
+    },
+    {
+      "artist": "Ray Parker Jr",
+      "title": "A Woman Needs Love (Just Like You Do)",
+      "weeks": 27,
+      "peak": 4,
+      "score": 88
+    },
+    {
+      "artist": "Climax Blues Band",
+      "title": "I Love You",
+      "weeks": 27,
+      "peak": 12,
+      "score": 22
+    },
+    {
+      "artist": "Kim Carnes",
+      "title": "Bette Davis Eyes",
+      "weeks": 26,
+      "peak": 1,
+      "score": 420
+    },
+    {
+      "artist": "Joey Scarbury",
+      "title": "Theme From \"Greatest American Hero\" (Believe It or Not)",
+      "weeks": 26,
+      "peak": 2,
+      "score": 295
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Endless Love",
+      "weeks": 25,
+      "peak": 1,
+      "score": 469
+    },
+    {
+      "artist": "Smokey Robinson",
+      "title": "Being With You",
+      "weeks": 25,
+      "peak": 2,
+      "score": 281
+    },
+    {
+      "artist": "The Pointer Sisters",
+      "title": "Slow Hand",
+      "weeks": 24,
+      "peak": 2,
+      "score": 275
+    },
+    {
+      "artist": "Grover Washington, Jr",
+      "title": "Just The Two Of Us",
+      "weeks": 24,
+      "peak": 2,
+      "score": 260
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Diana Ross",
+      "title": "Endless Love",
+      "weeks": 25,
+      "peak": 1,
+      "score": 469
+    },
+    {
+      "artist": "Christopher Cross",
+      "title": "Arthur's Theme (Best That You Can Do)",
+      "weeks": 20,
+      "peak": 1,
+      "score": 454
+    },
+    {
+      "artist": "Kim Carnes",
+      "title": "Bette Davis Eyes",
+      "weeks": 26,
+      "peak": 1,
+      "score": 420
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "title": "Private Eyes",
+      "weeks": 18,
+      "peak": 1,
+      "score": 403
+    },
+    {
+      "artist": "Rick Springfield",
+      "title": "Jessie's Girl",
+      "weeks": 32,
+      "peak": 1,
+      "score": 387
+    },
+    {
+      "artist": "Reo Speedwagon",
+      "title": "Keep On Loving You",
+      "weeks": 23,
+      "peak": 1,
+      "score": 354
+    },
+    {
+      "artist": "Kool",
+      "title": "Celebration",
+      "weeks": 20,
+      "peak": 1,
+      "score": 348
+    },
+    {
+      "artist": "Dolly Parton",
+      "title": "9 To 5",
+      "weeks": 21,
+      "peak": 1,
+      "score": 338
+    },
+    {
+      "artist": "Eddie Rabbitt",
+      "title": "I Love A Rainy Night",
+      "weeks": 20,
+      "peak": 1,
+      "score": 324
+    },
+    {
+      "artist": "Olivia Newton-john",
+      "title": "Physical",
+      "weeks": 13,
+      "peak": 1,
+      "score": 317
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "title": "Kiss On My List",
+      "weeks": 23,
+      "peak": 1,
+      "score": 289
+    },
+    {
+      "artist": "John Lennon",
+      "title": "(Just Like) Starting Over",
+      "weeks": 13,
+      "peak": 1,
+      "score": 260
+    },
+    {
+      "artist": "Air Supply",
+      "title": "The One That You Love",
+      "weeks": 19,
+      "peak": 1,
+      "score": 248
+    },
+    {
+      "artist": "Blondie",
+      "title": "Rapture",
+      "weeks": 20,
+      "peak": 1,
+      "score": 243
+    },
+    {
+      "artist": "Sheena Easton",
+      "title": "Morning Train (Nine To Five)",
+      "weeks": 21,
+      "peak": 1,
+      "score": 237
+    },
+    {
+      "artist": "Stars On 45",
+      "title": "Medley",
+      "weeks": 21,
+      "peak": 1,
+      "score": 234
+    },
+    {
+      "artist": "Blondie",
+      "title": "The Tide Is High",
+      "weeks": 19,
+      "peak": 1,
+      "score": 93
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>RetroVerse 1974 Capsule</title>
+    <style>
+      :root {
+        --bg: #0d1328;
+        --bg-soft: #172445;
+        --ink: #f2f6ff;
+        --ink-soft: #b8c7e9;
+        --accent: #ffb654;
+        --line: rgba(255, 255, 255, 0.2);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family: 'Trebuchet MS', 'Verdana', sans-serif;
+        background: radial-gradient(circle at 12% 8%, #203763 0%, var(--bg) 42%, #090f1f 100%);
+        color: var(--ink);
+      }
+
+      .app {
+        width: min(980px, 100%);
+        margin: 0 auto;
+        padding: 20px 14px 28px;
+        display: grid;
+        gap: 16px;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: clamp(24px, 5.8vw, 40px);
+        letter-spacing: 0.5px;
+      }
+
+      .subtitle {
+        margin: 0;
+        color: var(--ink-soft);
+      }
+
+      .controls {
+        display: grid;
+        grid-template-columns: 1fr auto auto;
+        gap: 10px;
+        align-items: center;
+      }
+
+      select,
+      button {
+        border: 1px solid var(--line);
+        border-radius: 10px;
+        background: rgba(10, 20, 40, 0.85);
+        color: var(--ink);
+        padding: 10px 12px;
+        font-size: 15px;
+      }
+
+      button {
+        min-width: 72px;
+        cursor: pointer;
+      }
+
+      button:disabled {
+        opacity: 0.45;
+        cursor: not-allowed;
+      }
+
+      .viewer {
+        border: 1px solid var(--line);
+        border-radius: 16px;
+        padding: 10px;
+        background: rgba(9, 18, 35, 0.78);
+      }
+
+      .viewer img {
+        width: 100%;
+        height: auto;
+        border-radius: 12px;
+        display: block;
+      }
+
+      .meta {
+        display: grid;
+        gap: 4px;
+      }
+
+      .meta strong {
+        color: var(--accent);
+      }
+
+      .strip {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 8px;
+      }
+
+      .thumb {
+        border: 1px solid var(--line);
+        border-radius: 10px;
+        overflow: hidden;
+        background: var(--bg-soft);
+        cursor: pointer;
+      }
+
+      .thumb img {
+        width: 100%;
+        height: auto;
+        display: block;
+      }
+
+      .thumb.active {
+        outline: 2px solid var(--accent);
+      }
+
+      .thumb-label {
+        font-size: 11px;
+        color: var(--ink-soft);
+        padding: 5px 6px 6px;
+        text-align: center;
+      }
+
+      @media (min-width: 760px) {
+        .app {
+          padding: 24px 20px 34px;
+        }
+
+        .strip {
+          grid-template-columns: repeat(6, minmax(0, 1fr));
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="app">
+      <header>
+        <h1>RetroVerse 1974 Capsule</h1>
+        <p class="subtitle">52 weekly cards • mobile-first capsule browser</p>
+      </header>
+
+      <section class="controls" aria-label="Week navigation">
+        <select id="week-select"></select>
+        <button id="prev-btn" type="button">Prev</button>
+        <button id="next-btn" type="button">Next</button>
+      </section>
+
+      <section class="viewer">
+        <img id="card-image" alt="1974 weekly card" loading="lazy" decoding="async" />
+      </section>
+
+      <section class="meta">
+        <div><strong id="meta-week"></strong></div>
+        <div id="meta-song"></div>
+        <div id="meta-headline"></div>
+      </section>
+
+      <section id="thumb-strip" class="strip" aria-label="All 52 cards"></section>
+    </main>
+
+    <script>
+      const TOTAL_WEEKS = 52
+      const contextPath = '../data/1974_weekly_context.json'
+
+      const state = {
+        currentWeek: 1,
+        rows: [],
+      }
+
+      const elements = {
+        select: document.getElementById('week-select'),
+        prev: document.getElementById('prev-btn'),
+        next: document.getElementById('next-btn'),
+        image: document.getElementById('card-image'),
+        week: document.getElementById('meta-week'),
+        song: document.getElementById('meta-song'),
+        headline: document.getElementById('meta-headline'),
+        strip: document.getElementById('thumb-strip'),
+      }
+
+      const padWeek = (week) => String(week).padStart(2, '0')
+      const cardPath = (week) => `../cards/1974/week-${padWeek(week)}.png`
+
+      const getRow = (week) => state.rows.find((row) => Number(row.week) === Number(week)) || null
+
+      const weekLabel = (week) => {
+        const row = getRow(week)
+        const title = row && row.song_title ? row.song_title : 'Untitled'
+        return `Week ${padWeek(week)} - ${title}`
+      }
+
+      const preloadNeighborCards = (week) => {
+        ;[week - 1, week + 1].forEach((neighbor) => {
+          if (neighbor < 1 || neighbor > TOTAL_WEEKS) return
+          const img = new Image()
+          img.src = cardPath(neighbor)
+        })
+      }
+
+      const updateMeta = (week) => {
+        const row = getRow(week)
+        elements.week.textContent = `Week ${padWeek(week)}`
+        elements.song.textContent = row
+          ? `${row.song_title || 'Unknown song'} • ${row.song_artist || 'Unknown artist'}`
+          : 'No metadata available'
+        elements.headline.textContent = row && row.headline ? row.headline : ''
+      }
+
+      const setActiveThumb = (week) => {
+        elements.strip.querySelectorAll('.thumb').forEach((thumb) => {
+          thumb.classList.toggle('active', Number(thumb.dataset.week) === Number(week))
+        })
+      }
+
+      const renderWeek = (week) => {
+        const clamped = Math.max(1, Math.min(TOTAL_WEEKS, Number(week) || 1))
+        state.currentWeek = clamped
+
+        elements.image.src = cardPath(clamped)
+        elements.image.alt = `RetroVerse card week ${padWeek(clamped)}`
+        elements.select.value = String(clamped)
+        elements.prev.disabled = clamped === 1
+        elements.next.disabled = clamped === TOTAL_WEEKS
+
+        updateMeta(clamped)
+        setActiveThumb(clamped)
+        preloadNeighborCards(clamped)
+
+        const url = new URL(window.location.href)
+        url.searchParams.set('week', String(clamped))
+        window.history.replaceState({}, '', url)
+      }
+
+      const populateSelect = () => {
+        elements.select.innerHTML = ''
+        for (let week = 1; week <= TOTAL_WEEKS; week += 1) {
+          const option = document.createElement('option')
+          option.value = String(week)
+          option.textContent = weekLabel(week)
+          elements.select.appendChild(option)
+        }
+      }
+
+      const buildThumbStrip = () => {
+        elements.strip.innerHTML = ''
+
+        for (let week = 1; week <= TOTAL_WEEKS; week += 1) {
+          const button = document.createElement('button')
+          button.className = 'thumb'
+          button.type = 'button'
+          button.dataset.week = String(week)
+
+          const image = document.createElement('img')
+          image.src = cardPath(week)
+          image.loading = 'lazy'
+          image.decoding = 'async'
+          image.alt = `Thumbnail week ${padWeek(week)}`
+
+          const label = document.createElement('div')
+          label.className = 'thumb-label'
+          label.textContent = `W${padWeek(week)}`
+
+          button.appendChild(image)
+          button.appendChild(label)
+          button.addEventListener('click', () => renderWeek(week))
+
+          elements.strip.appendChild(button)
+        }
+      }
+
+      const hydrateData = async () => {
+        try {
+          const response = await fetch(contextPath)
+          if (!response.ok) throw new Error(`Failed to load ${contextPath}`)
+          const rows = await response.json()
+          if (Array.isArray(rows)) {
+            state.rows = rows
+          }
+        } catch {
+          state.rows = []
+        }
+      }
+
+      const parseInitialWeek = () => {
+        const queryWeek = Number(new URL(window.location.href).searchParams.get('week'))
+        return Number.isFinite(queryWeek) ? queryWeek : 1
+      }
+
+      const init = async () => {
+        await hydrateData()
+        populateSelect()
+        buildThumbStrip()
+
+        elements.prev.addEventListener('click', () => renderWeek(state.currentWeek - 1))
+        elements.next.addEventListener('click', () => renderWeek(state.currentWeek + 1))
+        elements.select.addEventListener('change', (event) => renderWeek(Number(event.target.value)))
+
+        renderWeek(parseInitialWeek())
+      }
+
+      init()
+    </script>
+  </body>
+</html>

@@ -1,0 +1,439 @@
+{
+  "year": "1997",
+  "top_songs": [
+    {
+      "artist": "Jewel",
+      "title": "Foolish Games/You Were Meant For Me",
+      "weeks": 52,
+      "peak": 2,
+      "score": 1556
+    },
+    {
+      "artist": "Mark Morrison",
+      "title": "Return Of The Mack",
+      "weeks": 40,
+      "peak": 2,
+      "score": 859
+    },
+    {
+      "artist": "Backstreet Boys",
+      "title": "Quit Playing Games (With My Heart)",
+      "weeks": 27,
+      "peak": 2,
+      "score": 853
+    },
+    {
+      "artist": "Puff Daddy",
+      "title": "I'll Be Missing You",
+      "weeks": 29,
+      "peak": 1,
+      "score": 835
+    },
+    {
+      "artist": "Leann Rimes",
+      "title": "How Do I Live",
+      "weeks": 28,
+      "peak": 2,
+      "score": 816
+    },
+    {
+      "artist": "Puff Daddy",
+      "title": "Can't Nobody Hold Me Down",
+      "weeks": 28,
+      "peak": 1,
+      "score": 811
+    },
+    {
+      "artist": "Third Eye Blind",
+      "title": "Semi-Charmed Life",
+      "weeks": 26,
+      "peak": 4,
+      "score": 772
+    },
+    {
+      "artist": "Toni Braxton",
+      "title": "Un-Break My Heart",
+      "weeks": 32,
+      "peak": 1,
+      "score": 765
+    },
+    {
+      "artist": "Monica",
+      "title": "For You I Will (From \"Space Jam\")",
+      "weeks": 32,
+      "peak": 4,
+      "score": 728
+    },
+    {
+      "artist": "R. Kelly",
+      "title": "I Believe I Can Fly (From \"Space Jam\")",
+      "weeks": 31,
+      "peak": 2,
+      "score": 721
+    },
+    {
+      "artist": "Az Yet",
+      "title": "Hard To Say I'm Sorry",
+      "weeks": 34,
+      "peak": 8,
+      "score": 707
+    },
+    {
+      "artist": "Usher",
+      "title": "You Make Me Wanna...",
+      "weeks": 19,
+      "peak": 2,
+      "score": 686
+    },
+    {
+      "artist": "Spice Girls",
+      "title": "Wannabe",
+      "weeks": 23,
+      "peak": 1,
+      "score": 684
+    },
+    {
+      "artist": "En Vogue",
+      "title": "Don't Let Go (Love)",
+      "weeks": 27,
+      "peak": 2,
+      "score": 642
+    },
+    {
+      "artist": "The Notorious B.i.g",
+      "title": "Mo Money Mo Problems",
+      "weeks": 22,
+      "peak": 1,
+      "score": 628
+    },
+    {
+      "artist": "Duncan Sheik",
+      "title": "Barely Breathing",
+      "weeks": 50,
+      "peak": 16,
+      "score": 614
+    },
+    {
+      "artist": "Meredith Brooks",
+      "title": "Bitch",
+      "weeks": 30,
+      "peak": 2,
+      "score": 583
+    },
+    {
+      "artist": "Savage Garden",
+      "title": "I Want You",
+      "weeks": 33,
+      "peak": 4,
+      "score": 573
+    },
+    {
+      "artist": "Hanson",
+      "title": "MMMBop",
+      "weeks": 22,
+      "peak": 1,
+      "score": 565
+    },
+    {
+      "artist": "Sister Hazel",
+      "title": "All For You",
+      "weeks": 25,
+      "peak": 11,
+      "score": 560
+    },
+    {
+      "artist": "Robyn",
+      "title": "Do You Know (What It Takes)",
+      "weeks": 28,
+      "peak": 7,
+      "score": 541
+    },
+    {
+      "artist": "Babyface",
+      "title": "Every Time I Close My Eyes",
+      "weeks": 26,
+      "peak": 6,
+      "score": 518
+    },
+    {
+      "artist": "Allure",
+      "title": "All Cried Out",
+      "weeks": 18,
+      "peak": 4,
+      "score": 506
+    },
+    {
+      "artist": "Changing Faces",
+      "title": "G.H.E.T.T.O.U.T.",
+      "weeks": 25,
+      "peak": 8,
+      "score": 499
+    },
+    {
+      "artist": "Elton John",
+      "title": "Candle In The Wind 1997/Something About The Way You Look Tonight",
+      "weeks": 12,
+      "peak": 1,
+      "score": 480
+    },
+    {
+      "artist": "Spice Girls",
+      "title": "Say You'll Be There",
+      "weeks": 21,
+      "peak": 3,
+      "score": 474
+    },
+    {
+      "artist": "Dru Hill",
+      "title": "In My Bed",
+      "weeks": 25,
+      "peak": 4,
+      "score": 473
+    },
+    {
+      "artist": "Boyz Ii Men",
+      "title": "4 Seasons Of Loneliness",
+      "weeks": 14,
+      "peak": 1,
+      "score": 467
+    },
+    {
+      "artist": "Spice Girls",
+      "title": "2 Become 1",
+      "weeks": 20,
+      "peak": 4,
+      "score": 454
+    },
+    {
+      "artist": "Shawn Colvin",
+      "title": "Sunny Came Home",
+      "weeks": 25,
+      "peak": 7,
+      "score": 449
+    },
+    {
+      "artist": "Keith Sweat",
+      "title": "Nobody",
+      "weeks": 22,
+      "peak": 4,
+      "score": 446
+    },
+    {
+      "artist": "Rome",
+      "title": "I Belong To You (Every Time I See Your Face)",
+      "weeks": 26,
+      "peak": 6,
+      "score": 420
+    },
+    {
+      "artist": "Somethin' For The People",
+      "title": "My Love Is The Shhh!",
+      "weeks": 18,
+      "peak": 4,
+      "score": 405
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Honey",
+      "weeks": 16,
+      "peak": 1,
+      "score": 403
+    },
+    {
+      "artist": "The Verve Pipe",
+      "title": "The Freshmen",
+      "weeks": 42,
+      "peak": 5,
+      "score": 401
+    },
+    {
+      "artist": "Paula Cole",
+      "title": "Where Have All The Cowboys Gone?",
+      "weeks": 21,
+      "peak": 8,
+      "score": 395
+    },
+    {
+      "artist": "Tim Mcgraw",
+      "title": "It's Your Love",
+      "weeks": 20,
+      "peak": 7,
+      "score": 378
+    },
+    {
+      "artist": "Blackstreet",
+      "title": "No Diggity",
+      "weeks": 19,
+      "peak": 4,
+      "score": 360
+    },
+    {
+      "artist": "Sarah Mclachlan",
+      "title": "Building A Mystery",
+      "weeks": 17,
+      "peak": 13,
+      "score": 358
+    },
+    {
+      "artist": "112",
+      "title": "Cupid",
+      "weeks": 28,
+      "peak": 13,
+      "score": 353
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Puff Daddy",
+      "hits": 2
+    },
+    {
+      "artist": "Spice Girls",
+      "hits": 3
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Jewel",
+      "title": "Foolish Games/You Were Meant For Me",
+      "weeks": 52,
+      "peak": 2,
+      "score": 1556
+    },
+    {
+      "artist": "Duncan Sheik",
+      "title": "Barely Breathing",
+      "weeks": 50,
+      "peak": 16,
+      "score": 614
+    },
+    {
+      "artist": "The Verve Pipe",
+      "title": "The Freshmen",
+      "weeks": 42,
+      "peak": 5,
+      "score": 401
+    },
+    {
+      "artist": "Mark Morrison",
+      "title": "Return Of The Mack",
+      "weeks": 40,
+      "peak": 2,
+      "score": 859
+    },
+    {
+      "artist": "Az Yet",
+      "title": "Hard To Say I'm Sorry",
+      "weeks": 34,
+      "peak": 8,
+      "score": 707
+    },
+    {
+      "artist": "Savage Garden",
+      "title": "I Want You",
+      "weeks": 33,
+      "peak": 4,
+      "score": 573
+    },
+    {
+      "artist": "Freak Nasty",
+      "title": "Da' Dip",
+      "weeks": 33,
+      "peak": 15,
+      "score": 298
+    },
+    {
+      "artist": "Toni Braxton",
+      "title": "Un-Break My Heart",
+      "weeks": 32,
+      "peak": 1,
+      "score": 765
+    },
+    {
+      "artist": "Monica",
+      "title": "For You I Will (From \"Space Jam\")",
+      "weeks": 32,
+      "peak": 4,
+      "score": 728
+    },
+    {
+      "artist": "R. Kelly",
+      "title": "I Believe I Can Fly (From \"Space Jam\")",
+      "weeks": 31,
+      "peak": 2,
+      "score": 721
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Puff Daddy",
+      "title": "I'll Be Missing You",
+      "weeks": 29,
+      "peak": 1,
+      "score": 835
+    },
+    {
+      "artist": "Puff Daddy",
+      "title": "Can't Nobody Hold Me Down",
+      "weeks": 28,
+      "peak": 1,
+      "score": 811
+    },
+    {
+      "artist": "Toni Braxton",
+      "title": "Un-Break My Heart",
+      "weeks": 32,
+      "peak": 1,
+      "score": 765
+    },
+    {
+      "artist": "Spice Girls",
+      "title": "Wannabe",
+      "weeks": 23,
+      "peak": 1,
+      "score": 684
+    },
+    {
+      "artist": "The Notorious B.i.g",
+      "title": "Mo Money Mo Problems",
+      "weeks": 22,
+      "peak": 1,
+      "score": 628
+    },
+    {
+      "artist": "Hanson",
+      "title": "MMMBop",
+      "weeks": 22,
+      "peak": 1,
+      "score": 565
+    },
+    {
+      "artist": "Elton John",
+      "title": "Candle In The Wind 1997/Something About The Way You Look Tonight",
+      "weeks": 12,
+      "peak": 1,
+      "score": 480
+    },
+    {
+      "artist": "Boyz Ii Men",
+      "title": "4 Seasons Of Loneliness",
+      "weeks": 14,
+      "peak": 1,
+      "score": 467
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Honey",
+      "weeks": 16,
+      "peak": 1,
+      "score": 403
+    },
+    {
+      "artist": "The Notorious B.i.g",
+      "title": "Hypnotize",
+      "weeks": 20,
+      "peak": 1,
+      "score": 282
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{
+  "year": "1961",
+  "top_songs": [
+    {
+      "artist": "Bobby Lewis",
+      "title": "Tossin' And Turnin'",
+      "weeks": 23,
+      "peak": 1,
+      "score": 423
+    },
+    {
+      "artist": "Jimmy Dean",
+      "title": "Big Bad John",
+      "weeks": 14,
+      "peak": 1,
+      "score": 415
+    },
+    {
+      "artist": "Lawrence Welk And His Orchestra",
+      "title": "Calcutta",
+      "weeks": 13,
+      "peak": 1,
+      "score": 411
+    },
+    {
+      "artist": "Chubby Checker",
+      "title": "Pony Time",
+      "weeks": 16,
+      "peak": 1,
+      "score": 404
+    },
+    {
+      "artist": "Dion",
+      "title": "Runaround Sue",
+      "weeks": 14,
+      "peak": 1,
+      "score": 404
+    },
+    {
+      "artist": "Ricky Nelson",
+      "title": "Travelin' Man",
+      "weeks": 16,
+      "peak": 1,
+      "score": 389
+    },
+    {
+      "artist": "The Shirelles",
+      "title": "Dedicated To The One I Love",
+      "weeks": 16,
+      "peak": 3,
+      "score": 368
+    },
+    {
+      "artist": "The Shirelles",
+      "title": "Will You Love Me Tomorrow",
+      "weeks": 12,
+      "peak": 1,
+      "score": 361
+    },
+    {
+      "artist": "Ernie K-doe",
+      "title": "Mother-In-Law",
+      "weeks": 14,
+      "peak": 1,
+      "score": 354
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "Surrender",
+      "weeks": 12,
+      "peak": 1,
+      "score": 352
+    },
+    {
+      "artist": "Ferrante",
+      "title": "Exodus",
+      "weeks": 13,
+      "peak": 2,
+      "score": 343
+    },
+    {
+      "artist": "Ray Charles And His Orchestra",
+      "title": "Hit The Road Jack",
+      "weeks": 13,
+      "peak": 1,
+      "score": 338
+    },
+    {
+      "artist": "The Dovells",
+      "title": "Bristol Stomp",
+      "weeks": 16,
+      "peak": 2,
+      "score": 337
+    },
+    {
+      "artist": "The Miracles",
+      "title": "Shop Around",
+      "weeks": 12,
+      "peak": 2,
+      "score": 331
+    },
+    {
+      "artist": "Del Shannon",
+      "title": "Runaway",
+      "weeks": 17,
+      "peak": 1,
+      "score": 327
+    },
+    {
+      "artist": "Roy Orbison",
+      "title": "Crying",
+      "weeks": 16,
+      "peak": 2,
+      "score": 323
+    },
+    {
+      "artist": "Marty Robbins",
+      "title": "Don't Worry",
+      "weeks": 15,
+      "peak": 3,
+      "score": 306
+    },
+    {
+      "artist": "Roy Orbison",
+      "title": "Running Scared",
+      "weeks": 17,
+      "peak": 1,
+      "score": 306
+    },
+    {
+      "artist": "The Marcels",
+      "title": "Blue Moon",
+      "weeks": 14,
+      "peak": 1,
+      "score": 294
+    },
+    {
+      "artist": "Floyd Cramer",
+      "title": "On The Rebound",
+      "weeks": 13,
+      "peak": 4,
+      "score": 288
+    },
+    {
+      "artist": "Troy Shondell",
+      "title": "This Time",
+      "weeks": 13,
+      "peak": 6,
+      "score": 288
+    },
+    {
+      "artist": "The String-a-longs",
+      "title": "Wheels",
+      "weeks": 16,
+      "peak": 3,
+      "score": 279
+    },
+    {
+      "artist": "Mar-keys",
+      "title": "Last Night",
+      "weeks": 14,
+      "peak": 3,
+      "score": 273
+    },
+    {
+      "artist": "Gene Mcdaniels",
+      "title": "A Hundred Pounds Of Clay",
+      "weeks": 15,
+      "peak": 3,
+      "score": 272
+    },
+    {
+      "artist": "Bobby Vee",
+      "title": "Take Good Care Of My Baby",
+      "weeks": 15,
+      "peak": 1,
+      "score": 269
+    },
+    {
+      "artist": "Dee Clark",
+      "title": "Raindrops",
+      "weeks": 16,
+      "peak": 2,
+      "score": 267
+    },
+    {
+      "artist": "Connie Francis",
+      "title": "Where The Boys Are",
+      "weeks": 15,
+      "peak": 4,
+      "score": 264
+    },
+    {
+      "artist": "Neil Sedaka",
+      "title": "Calendar Girl",
+      "weeks": 12,
+      "peak": 4,
+      "score": 263
+    },
+    {
+      "artist": "The Highwaymen",
+      "title": "Michael",
+      "weeks": 17,
+      "peak": 1,
+      "score": 260
+    },
+    {
+      "artist": "Brenda Lee",
+      "title": "Dum Dum",
+      "weeks": 12,
+      "peak": 4,
+      "score": 254
+    },
+    {
+      "artist": "Brenda Lee",
+      "title": "Fool #1",
+      "weeks": 14,
+      "peak": 3,
+      "score": 254
+    },
+    {
+      "artist": "Chubby Checker",
+      "title": "The Fly",
+      "weeks": 13,
+      "peak": 7,
+      "score": 252
+    },
+    {
+      "artist": "Ricky Nelson",
+      "title": "Hello Mary Lou",
+      "weeks": 15,
+      "peak": 9,
+      "score": 248
+    },
+    {
+      "artist": "U.s. Bonds",
+      "title": "Quarter To Three",
+      "weeks": 15,
+      "peak": 1,
+      "score": 248
+    },
+    {
+      "artist": "Bert Kaempfert And His Orchestra",
+      "title": "Wonderland By Night",
+      "weeks": 9,
+      "peak": 1,
+      "score": 247
+    },
+    {
+      "artist": "Brook Benton",
+      "title": "The Boll Weevil Song",
+      "weeks": 16,
+      "peak": 2,
+      "score": 238
+    },
+    {
+      "artist": "Arthur Lyman Group",
+      "title": "Yellow Bird",
+      "weeks": 12,
+      "peak": 4,
+      "score": 238
+    },
+    {
+      "artist": "Pat Boone",
+      "title": "Moody River",
+      "weeks": 15,
+      "peak": 1,
+      "score": 235
+    },
+    {
+      "artist": "Rosie And The Originals",
+      "title": "Angel Baby",
+      "weeks": 9,
+      "peak": 5,
+      "score": 231
+    },
+    {
+      "artist": "Adam Wade",
+      "title": "Take Good Care Of Her",
+      "weeks": 14,
+      "peak": 7,
+      "score": 227
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Chubby Checker",
+      "hits": 2
+    },
+    {
+      "artist": "Ricky Nelson",
+      "hits": 2
+    },
+    {
+      "artist": "The Shirelles",
+      "hits": 2
+    },
+    {
+      "artist": "Roy Orbison",
+      "hits": 2
+    },
+    {
+      "artist": "Brenda Lee",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Bobby Lewis",
+      "title": "Tossin' And Turnin'",
+      "weeks": 23,
+      "peak": 1,
+      "score": 423
+    },
+    {
+      "artist": "Patsy Cline",
+      "title": "I Fall To Pieces",
+      "weeks": 20,
+      "peak": 12,
+      "score": -59
+    },
+    {
+      "artist": "Chubby Checker",
+      "title": "Let's Twist Again",
+      "weeks": 19,
+      "peak": 8,
+      "score": 161
+    },
+    {
+      "artist": "The Jive Five",
+      "title": "My True Story",
+      "weeks": 19,
+      "peak": 3,
+      "score": 128
+    },
+    {
+      "artist": "The Marvelettes",
+      "title": "Please Mr. Postman",
+      "weeks": 18,
+      "peak": 1,
+      "score": 101
+    },
+    {
+      "artist": "Del Shannon",
+      "title": "Runaway",
+      "weeks": 17,
+      "peak": 1,
+      "score": 327
+    },
+    {
+      "artist": "Roy Orbison",
+      "title": "Running Scared",
+      "weeks": 17,
+      "peak": 1,
+      "score": 306
+    },
+    {
+      "artist": "The Highwaymen",
+      "title": "Michael",
+      "weeks": 17,
+      "peak": 1,
+      "score": 260
+    },
+    {
+      "artist": "Jorgen Ingmann",
+      "title": "Apache",
+      "weeks": 17,
+      "peak": 2,
+      "score": 217
+    },
+    {
+      "artist": "Chris Kenner",
+      "title": "I Like It Like That, Part 1",
+      "weeks": 17,
+      "peak": 2,
+      "score": 168
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Bobby Lewis",
+      "title": "Tossin' And Turnin'",
+      "weeks": 23,
+      "peak": 1,
+      "score": 423
+    },
+    {
+      "artist": "Jimmy Dean",
+      "title": "Big Bad John",
+      "weeks": 14,
+      "peak": 1,
+      "score": 415
+    },
+    {
+      "artist": "Lawrence Welk And His Orchestra",
+      "title": "Calcutta",
+      "weeks": 13,
+      "peak": 1,
+      "score": 411
+    },
+    {
+      "artist": "Chubby Checker",
+      "title": "Pony Time",
+      "weeks": 16,
+      "peak": 1,
+      "score": 404
+    },
+    {
+      "artist": "Dion",
+      "title": "Runaround Sue",
+      "weeks": 14,
+      "peak": 1,
+      "score": 404
+    },
+    {
+      "artist": "Ricky Nelson",
+      "title": "Travelin' Man",
+      "weeks": 16,
+      "peak": 1,
+      "score": 389
+    },
+    {
+      "artist": "The Shirelles",
+      "title": "Will You Love Me Tomorrow",
+      "weeks": 12,
+      "peak": 1,
+      "score": 361
+    },
+    {
+      "artist": "Ernie K-doe",
+      "title": "Mother-In-Law",
+      "weeks": 14,
+      "peak": 1,
+      "score": 354
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "Surrender",
+      "weeks": 12,
+      "peak": 1,
+      "score": 352
+    },
+    {
+      "artist": "Ray Charles And His Orchestra",
+      "title": "Hit The Road Jack",
+      "weeks": 13,
+      "peak": 1,
+      "score": 338
+    },
+    {
+      "artist": "Del Shannon",
+      "title": "Runaway",
+      "weeks": 17,
+      "peak": 1,
+      "score": 327
+    },
+    {
+      "artist": "Roy Orbison",
+      "title": "Running Scared",
+      "weeks": 17,
+      "peak": 1,
+      "score": 306
+    },
+    {
+      "artist": "The Marcels",
+      "title": "Blue Moon",
+      "weeks": 14,
+      "peak": 1,
+      "score": 294
+    },
+    {
+      "artist": "Bobby Vee",
+      "title": "Take Good Care Of My Baby",
+      "weeks": 15,
+      "peak": 1,
+      "score": 269
+    },
+    {
+      "artist": "The Highwaymen",
+      "title": "Michael",
+      "weeks": 17,
+      "peak": 1,
+      "score": 260
+    },
+    {
+      "artist": "U.s. Bonds",
+      "title": "Quarter To Three",
+      "weeks": 15,
+      "peak": 1,
+      "score": 248
+    },
+    {
+      "artist": "Bert Kaempfert And His Orchestra",
+      "title": "Wonderland By Night",
+      "weeks": 9,
+      "peak": 1,
+      "score": 247
+    },
+    {
+      "artist": "Pat Boone",
+      "title": "Moody River",
+      "weeks": 15,
+      "peak": 1,
+      "score": 235
+    },
+    {
+      "artist": "Joe Dowell",
+      "title": "Wooden Heart",
+      "weeks": 16,
+      "peak": 1,
+      "score": 212
+    },
+    {
+      "artist": "The Tokens",
+      "title": "The Lion Sleeps Tonight",
+      "weeks": 8,
+      "peak": 1,
+      "score": 141
+    },
+    {
+      "artist": "The Marvelettes",
+      "title": "Please Mr. Postman",
+      "weeks": 18,
+      "peak": 1,
+      "score": 101
+    }
+  ]
+}

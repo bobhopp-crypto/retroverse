@@ -1,0 +1,53 @@
+{
+  "story_id": "story_004",
+  "headline": "Fastest Climb of the Year: Stayin' Alive — Bee Gees",
+  "byline": "By Kevin Casey",
+  "writer": "Kevin Casey",
+  "writer_profile": {
+    "name": "Kevin Casey",
+    "beat": "charts",
+    "voice": "general editorial voice",
+    "tone": "neutral and clear",
+    "data_focus": "available issue context"
+  },
+  "story_type": "chart breakdown",
+  "layout_type": "single-page infographic",
+  "page_count_estimate": null,
+  "word_count": 390,
+  "target_word_count": 425,
+  "target_word_range": {
+    "min": 382,
+    "max": 468,
+    "raw": "350-500",
+    "mode": "range"
+  },
+  "sections": {
+    "lede": "Kevin Casey opens with a metric-first reading of \"Fastest Climb of the Year: Stayin' Alive — Bee Gees\". In 1978, fastest climb of the year: stayin' alive — bee gees becomes a measurable editorial claim. The fastest-riser table leads with \"Stayin' Alive\" by Bee Gees, posting a +? jump in the week dated ?.",
+    "analysis": "Planning rationale: Largest single-week rise offers a clean data-first chart movement story. The analysis keeps claims tied to verifiable internal datasets. The chart_dynamics.largest_single_week_jump signal is referenced in planning, but no direct values were available in the current context payload.\n\nThe album_dynamics source contributes 2 structured fields for this story build. The sonic profile reads danceability 0.64, energy 0.67, and valence 0.57, with 49% of tracked songs crossing the danceable threshold. The screen_culture_warehouse movie layer contributes 10 tracked films for 1978, including Grease, Superman, Animal House.\n\nThe breakdown format prioritizes legibility: one claim, one metric, one source path.",
+    "data_context": "Data reference: chart_dynamics.fastest_risers: 5 entries. Data reference: chart_dynamics.largest_single_week_jump: not found in context. Data reference: album_dynamics: 2 fields.\n\nData reference: sonic_profile: aggregate danceability/energy/valence and danceable share. Data reference: movies: 10 titles in year context. This point is pulled directly from chart_dynamics.fastest_risers in the year context build.\n\nThe production file keeps chart_dynamics.largest_single_week_jump as an explicit source path for this section.",
+    "cultural_significance": "Cultural framing is used to interpret, not replace, the measured signals. The cultural clock starts at January 1, 1978, when January 1 – Air India Flight 855 , a Boeing 747 passenger jet, crashes off the coast of Bombay , killing 213. Across the shared data spine, the 1978 frame combines ? Hot 100 weeks, ? Billboard 200 weeks, sonic danceability at 0.64, and screen-culture inventories of 10 films and 5 TV entries.\n\nAssignment framing line: Fastest Climb of the Year: Stayin' Alive — Bee Gees. Culturally, chart_dynamics.fastest_risers widens the frame beyond one chart moment. In the year narrative, chart_dynamics.largest_single_week_jump helps connect audience behavior across mediums.",
+    "closing": "The final paragraph keeps the argument anchored to the issue data spine. Generation rule check: Articles must use real historical data. This final prose draft is sized for the 350-500 production target and remains grounded in internal RetroVerse datasets."
+  },
+  "datasets_used": [
+    "chart_dynamics",
+    "Billboard Hot 100 data",
+    "album_dynamics",
+    "Billboard 200 album data",
+    "sonic_profile",
+    "screen_culture_warehouse"
+  ],
+  "data_references": [
+    "chart_dynamics.fastest_risers: 5 entries",
+    "chart_dynamics.largest_single_week_jump: not found in context",
+    "album_dynamics: 2 fields",
+    "sonic_profile: aggregate danceability/energy/valence and danceable share",
+    "movies: 10 titles in year context"
+  ],
+  "source_files": [
+    "PROJECT_STATE.md",
+    "issues/context/1978_context.json",
+    "issues/plans/1978_narrative_plan.json",
+    "issues/1978/articles/story_004.json",
+    "issues/1978/layout/1978_production_targets.json"
+  ]
+}

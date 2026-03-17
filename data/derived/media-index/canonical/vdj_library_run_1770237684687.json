@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "source": "virtualdj",
+    "source_file": "/Users/bobhopp/Library/Application Support/VirtualDJ/database.xml",
+    "run_id": "run_1770237684687",
+    "generated_at": "2026-02-04T20:41:25.583Z",
+    "pipeline_name": "retroverse-local-example",
+    "stage": "parse_vdj"
+  },
+  "summary": {
+    "total_entries_scanned": 0,
+    "video_entries_emitted": 0,
+    "non_video_entries_skipped": 0,
+    "parse_errors": 0
+  },
+  "videos": []
+}

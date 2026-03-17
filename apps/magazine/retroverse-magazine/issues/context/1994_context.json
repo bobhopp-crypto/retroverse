@@ -1,0 +1,451 @@
+{
+  "year": "1994",
+  "top_songs": [
+    {
+      "artist": "Ace Of Base",
+      "title": "The Sign",
+      "weeks": 41,
+      "peak": 1,
+      "score": 912
+    },
+    {
+      "artist": "Boyz Ii Men",
+      "title": "I'll Make Love To You",
+      "weeks": 21,
+      "peak": 1,
+      "score": 786
+    },
+    {
+      "artist": "Celine Dion",
+      "title": "The Power Of Love",
+      "weeks": 28,
+      "peak": 1,
+      "score": 782
+    },
+    {
+      "artist": "All-4-one",
+      "title": "I Swear",
+      "weeks": 30,
+      "peak": 1,
+      "score": 778
+    },
+    {
+      "artist": "Ace Of Base",
+      "title": "Don't Turn Around",
+      "weeks": 31,
+      "peak": 4,
+      "score": 731
+    },
+    {
+      "artist": "Lisa Loeb",
+      "title": "Stay (I Missed You) (From \"Reality Bites\")",
+      "weeks": 30,
+      "peak": 1,
+      "score": 687
+    },
+    {
+      "artist": "John Mellencamp",
+      "title": "Wild Night",
+      "weeks": 32,
+      "peak": 3,
+      "score": 647
+    },
+    {
+      "artist": "Madonna",
+      "title": "I'll Remember (From \"With Honors\")",
+      "weeks": 26,
+      "peak": 2,
+      "score": 643
+    },
+    {
+      "artist": "Toni Braxton",
+      "title": "Breathe Again",
+      "weeks": 24,
+      "peak": 3,
+      "score": 634
+    },
+    {
+      "artist": "R. Kelly",
+      "title": "Bump N' Grind",
+      "weeks": 25,
+      "peak": 1,
+      "score": 598
+    },
+    {
+      "artist": "Babyface",
+      "title": "When Can I See You",
+      "weeks": 29,
+      "peak": 4,
+      "score": 595
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Without You/Never Forget You",
+      "weeks": 23,
+      "peak": 3,
+      "score": 591
+    },
+    {
+      "artist": "Prince",
+      "title": "The Most Beautiful Girl In The World",
+      "weeks": 26,
+      "peak": 3,
+      "score": 582
+    },
+    {
+      "artist": "Toni Braxton",
+      "title": "You Mean The World To Me",
+      "weeks": 31,
+      "peak": 7,
+      "score": 578
+    },
+    {
+      "artist": "Jon Secada",
+      "title": "If You Go",
+      "weeks": 31,
+      "peak": 10,
+      "score": 566
+    },
+    {
+      "artist": "Salt-n-pepa",
+      "title": "Whatta Man",
+      "weeks": 29,
+      "peak": 3,
+      "score": 562
+    },
+    {
+      "artist": "Elton John",
+      "title": "Can You Feel The Love Tonight (From \"The Lion King\")",
+      "weeks": 26,
+      "peak": 4,
+      "score": 549
+    },
+    {
+      "artist": "Big Mountain",
+      "title": "Baby I Love Your Way (From \"Reality Bites\")",
+      "weeks": 28,
+      "peak": 6,
+      "score": 539
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "Any Time, Any Place/And On And On",
+      "weeks": 20,
+      "peak": 2,
+      "score": 539
+    },
+    {
+      "artist": "Aaliyah",
+      "title": "Back & Forth",
+      "weeks": 24,
+      "peak": 5,
+      "score": 537
+    },
+    {
+      "artist": "Sheryl Crow",
+      "title": "All I Wanna Do",
+      "weeks": 22,
+      "peak": 2,
+      "score": 537
+    },
+    {
+      "artist": "Warren G",
+      "title": "Regulate (From \"Above The Rim\")",
+      "weeks": 20,
+      "peak": 2,
+      "score": 532
+    },
+    {
+      "artist": "Richard Marx",
+      "title": "Now And Forever",
+      "weeks": 27,
+      "peak": 7,
+      "score": 519
+    },
+    {
+      "artist": "Bryan Adams/rod Stewart/sting",
+      "title": "All For Love",
+      "weeks": 17,
+      "peak": 1,
+      "score": 498
+    },
+    {
+      "artist": "Coolio",
+      "title": "Fantastic Voyage",
+      "weeks": 25,
+      "peak": 3,
+      "score": 482
+    },
+    {
+      "artist": "Real Mccoy",
+      "title": "Another Night",
+      "weeks": 19,
+      "peak": 3,
+      "score": 475
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Hero",
+      "weeks": 20,
+      "peak": 1,
+      "score": 472
+    },
+    {
+      "artist": "Changing Faces",
+      "title": "Stroke You Up",
+      "weeks": 21,
+      "peak": 3,
+      "score": 442
+    },
+    {
+      "artist": "All-4-one",
+      "title": "So Much In Love",
+      "weeks": 22,
+      "peak": 5,
+      "score": 434
+    },
+    {
+      "artist": "Immature",
+      "title": "Never Lie",
+      "weeks": 23,
+      "peak": 5,
+      "score": 432
+    },
+    {
+      "artist": "Madonna",
+      "title": "Secret",
+      "weeks": 13,
+      "peak": 3,
+      "score": 425
+    },
+    {
+      "artist": "Ace Of Base",
+      "title": "All That She Wants",
+      "weeks": 21,
+      "peak": 3,
+      "score": 412
+    },
+    {
+      "artist": "Da Brat",
+      "title": "Funkdafied",
+      "weeks": 20,
+      "peak": 6,
+      "score": 407
+    },
+    {
+      "artist": "Crystal Waters",
+      "title": "100% Pure Love",
+      "weeks": 32,
+      "peak": 11,
+      "score": 403
+    },
+    {
+      "artist": "69 Boyz",
+      "title": "Tootsee Roll",
+      "weeks": 26,
+      "peak": 9,
+      "score": 393
+    },
+    {
+      "artist": "Collective Soul",
+      "title": "Shine",
+      "weeks": 29,
+      "peak": 11,
+      "score": 390
+    },
+    {
+      "artist": "Enigma",
+      "title": "Return To Innocence",
+      "weeks": 26,
+      "peak": 4,
+      "score": 388
+    },
+    {
+      "artist": "Us3",
+      "title": "Cantaloop (Flip Fantasia)",
+      "weeks": 22,
+      "peak": 9,
+      "score": 382
+    },
+    {
+      "artist": "Bryan Adams",
+      "title": "Please Forgive Me",
+      "weeks": 18,
+      "peak": 7,
+      "score": 378
+    },
+    {
+      "artist": "Tevin Campbell",
+      "title": "I'm Ready",
+      "weeks": 22,
+      "peak": 9,
+      "score": 373
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Ace Of Base",
+      "hits": 3
+    },
+    {
+      "artist": "All-4-one",
+      "hits": 2
+    },
+    {
+      "artist": "Madonna",
+      "hits": 2
+    },
+    {
+      "artist": "Toni Braxton",
+      "hits": 2
+    },
+    {
+      "artist": "Mariah Carey",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Melissa Etheridge",
+      "title": "Come To My Window",
+      "weeks": 44,
+      "peak": 25,
+      "score": -55
+    },
+    {
+      "artist": "Ace Of Base",
+      "title": "The Sign",
+      "weeks": 41,
+      "peak": 1,
+      "score": 912
+    },
+    {
+      "artist": "John Mellencamp",
+      "title": "Wild Night",
+      "weeks": 32,
+      "peak": 3,
+      "score": 647
+    },
+    {
+      "artist": "Crystal Waters",
+      "title": "100% Pure Love",
+      "weeks": 32,
+      "peak": 11,
+      "score": 403
+    },
+    {
+      "artist": "Ace Of Base",
+      "title": "Don't Turn Around",
+      "weeks": 31,
+      "peak": 4,
+      "score": 731
+    },
+    {
+      "artist": "Toni Braxton",
+      "title": "You Mean The World To Me",
+      "weeks": 31,
+      "peak": 7,
+      "score": 578
+    },
+    {
+      "artist": "Jon Secada",
+      "title": "If You Go",
+      "weeks": 31,
+      "peak": 10,
+      "score": 566
+    },
+    {
+      "artist": "All-4-one",
+      "title": "I Swear",
+      "weeks": 30,
+      "peak": 1,
+      "score": 778
+    },
+    {
+      "artist": "Lisa Loeb",
+      "title": "Stay (I Missed You) (From \"Reality Bites\")",
+      "weeks": 30,
+      "peak": 1,
+      "score": 687
+    },
+    {
+      "artist": "Babyface",
+      "title": "When Can I See You",
+      "weeks": 29,
+      "peak": 4,
+      "score": 595
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Ace Of Base",
+      "title": "The Sign",
+      "weeks": 41,
+      "peak": 1,
+      "score": 912
+    },
+    {
+      "artist": "Boyz Ii Men",
+      "title": "I'll Make Love To You",
+      "weeks": 21,
+      "peak": 1,
+      "score": 786
+    },
+    {
+      "artist": "Celine Dion",
+      "title": "The Power Of Love",
+      "weeks": 28,
+      "peak": 1,
+      "score": 782
+    },
+    {
+      "artist": "All-4-one",
+      "title": "I Swear",
+      "weeks": 30,
+      "peak": 1,
+      "score": 778
+    },
+    {
+      "artist": "Lisa Loeb",
+      "title": "Stay (I Missed You) (From \"Reality Bites\")",
+      "weeks": 30,
+      "peak": 1,
+      "score": 687
+    },
+    {
+      "artist": "R. Kelly",
+      "title": "Bump N' Grind",
+      "weeks": 25,
+      "peak": 1,
+      "score": 598
+    },
+    {
+      "artist": "Bryan Adams/rod Stewart/sting",
+      "title": "All For Love",
+      "weeks": 17,
+      "peak": 1,
+      "score": 498
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Hero",
+      "weeks": 20,
+      "peak": 1,
+      "score": 472
+    },
+    {
+      "artist": "Ini Kamoze",
+      "title": "Here Comes The Hotstepper (From \"Ready To Wear\")",
+      "weeks": 16,
+      "peak": 1,
+      "score": 306
+    },
+    {
+      "artist": "Boyz Ii Men",
+      "title": "On Bended Knee",
+      "weeks": 7,
+      "peak": 1,
+      "score": 263
+    }
+  ]
+}

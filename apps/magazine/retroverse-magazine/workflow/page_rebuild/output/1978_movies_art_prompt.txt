@@ -1,0 +1,41 @@
+RetroVerse page art brief
+
+Target page: 1978 / movies
+Page slug: movies
+Page number: 16
+Page title to be overlaid later: 1978 Movies of the Year
+Story anchor to be overlaid later: Screen-Year Pulse: Grease
+
+Assignment:
+Create a page-aware full-page editorial background for a single portrait magazine page. This is not a random insert image. The illustration is the background layer for page 16 and must support the entire page design.
+
+Scene:
+Design a full-page 1978 movie feature scene outside a theater at dusk or night. Grease is the emotional anchor, but the page should feel like a broader screen-year mood piece, not a single-poster tribute. Use a marquee, ticket window, queueing moviegoers, wet pavement reflections, and supporting poster-case or reel details to suggest the pull of Grease, Superman, and Animal House. Keep the upper-left and lower-left fields quieter so the real title and body copy can sit over the illustration cleanly. Use the right side for the highest contrast and the strongest narrative action.
+
+Composition:
+- full-page editorial background with right-heavy focal scene and protected overlay zones
+- Put the strongest narrative action in the focal scene zone on the upper/right side.
+- Keep the title and body side calmer, lighter, and lower-contrast so real layout text remains readable after overlay.
+- Build the image as one integrated editorial page background with atmosphere, depth, and intentional negative space.
+
+Protected text-safe zones:
+- title_zone: x=7% y=6% width=54% height=14% (Title, subtitle, byline, and deck overlay area.)
+- body_zone: x=7% y=24% width=58% height=62% (Two-column article body overlay area.)
+- sidebar_zone: x=68% y=49% width=23% height=28% (Verified facts and ranking sidebar overlay area.)
+- footer_zone: x=7% y=93% width=86% height=3% (Page number and issue footer overlay area.)
+
+Hard constraints:
+- DO NOT RENDER FINAL TEXT INTO THE ARTWORK.
+- Do not render readable article body text.
+- Do not render chart or table text.
+- Do not render fake production typography, headline typography, byline typography, or page-number typography.
+- Only environmental/signage text is allowed if it is natural, minimal, and clearly secondary to the scene.
+- Do not place bright poster lettering, billboard copy, or high-detail faces inside the protected safe zones.
+
+Style:
+- RetroVerse editorial illustration style: late-1970s print energy, ink-and-watercolor feel, warm paper grain, restrained halftone texture, and cinematic red/gold/teal accents.
+- The page should feel designed for a magazine feature page, not like a poster, splash art, or stock cinema scene.
+- Use only subtle references to Grease, Superman, and Animal House; suggest them through mood, props, silhouettes, or secondary poster cases rather than readable final production text.
+
+Easter egg:
+- Optional and subtle only: Optional and subtle: hide the word 'RetroVerse' only as a tiny environmental Easter egg. It must never behave like headline copy, body text, or page furniture.

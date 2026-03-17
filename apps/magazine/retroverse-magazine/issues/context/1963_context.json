@@ -1,0 +1,520 @@
+{
+  "year": "1963",
+  "top_songs": [
+    {
+      "artist": "Jimmy Gilmer And The Fireballs",
+      "title": "Sugar Shack",
+      "weeks": 15,
+      "peak": 1,
+      "score": 418
+    },
+    {
+      "artist": "Paul And Paula",
+      "title": "Hey Paula",
+      "weeks": 14,
+      "peak": 1,
+      "score": 367
+    },
+    {
+      "artist": "The Chiffons",
+      "title": "He's So Fine",
+      "weeks": 15,
+      "peak": 1,
+      "score": 346
+    },
+    {
+      "artist": "Bobby Vinton",
+      "title": "Blue Velvet",
+      "weeks": 15,
+      "peak": 1,
+      "score": 333
+    },
+    {
+      "artist": "The Angels",
+      "title": "My Boyfriend's Back",
+      "weeks": 14,
+      "peak": 1,
+      "score": 331
+    },
+    {
+      "artist": "The 4 Seasons",
+      "title": "Walk Like A Man",
+      "weeks": 13,
+      "peak": 1,
+      "score": 330
+    },
+    {
+      "artist": "Kyu Sakamoto",
+      "title": "Sukiyaki",
+      "weeks": 14,
+      "peak": 1,
+      "score": 330
+    },
+    {
+      "artist": "Jan",
+      "title": "Surf City",
+      "weeks": 13,
+      "peak": 1,
+      "score": 319
+    },
+    {
+      "artist": "Lesley Gore",
+      "title": "It's My Party",
+      "weeks": 13,
+      "peak": 1,
+      "score": 317
+    },
+    {
+      "artist": "The Cascades",
+      "title": "Rhythm Of The Rain",
+      "weeks": 16,
+      "peak": 3,
+      "score": 309
+    },
+    {
+      "artist": "Peter, Paul",
+      "title": "Puff (The Magic Dragon)",
+      "weeks": 14,
+      "peak": 2,
+      "score": 309
+    },
+    {
+      "artist": "The Rooftop Singers",
+      "title": "Walk Right In",
+      "weeks": 13,
+      "peak": 1,
+      "score": 302
+    },
+    {
+      "artist": "Little Stevie Wonder",
+      "title": "Fingertips (Part II)",
+      "weeks": 15,
+      "peak": 1,
+      "score": 298
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "Surfin' U.S.A.",
+      "weeks": 17,
+      "peak": 3,
+      "score": 285
+    },
+    {
+      "artist": "Bobby Vee",
+      "title": "The Night Has A Thousand Eyes",
+      "weeks": 10,
+      "peak": 3,
+      "score": 282
+    },
+    {
+      "artist": "The Essex",
+      "title": "Easier Said Than Done",
+      "weeks": 13,
+      "peak": 1,
+      "score": 278
+    },
+    {
+      "artist": "Dion",
+      "title": "Ruby Baby",
+      "weeks": 13,
+      "peak": 2,
+      "score": 277
+    },
+    {
+      "artist": "Andy Williams",
+      "title": "Can't Get Used To Losing You",
+      "weeks": 15,
+      "peak": 2,
+      "score": 275
+    },
+    {
+      "artist": "Bobby Darin",
+      "title": "You're The Reason I'm Living",
+      "weeks": 14,
+      "peak": 3,
+      "score": 273
+    },
+    {
+      "artist": "Steve Lawrence",
+      "title": "Go Away Little Girl",
+      "weeks": 9,
+      "peak": 1,
+      "score": 272
+    },
+    {
+      "artist": "Ray Charles And His Orchestra",
+      "title": "Busted",
+      "weeks": 12,
+      "peak": 4,
+      "score": 271
+    },
+    {
+      "artist": "Ruby And The Romantics",
+      "title": "Our Day Will Come",
+      "weeks": 13,
+      "peak": 1,
+      "score": 267
+    },
+    {
+      "artist": "Little Peggy March",
+      "title": "I Will Follow Him",
+      "weeks": 14,
+      "peak": 1,
+      "score": 265
+    },
+    {
+      "artist": "Skeeter Davis",
+      "title": "The End Of The World",
+      "weeks": 17,
+      "peak": 2,
+      "score": 264
+    },
+    {
+      "artist": "Allan Sherman",
+      "title": "Hello Mudduh, Hello Fadduh! (A Letter From Camp)",
+      "weeks": 10,
+      "peak": 2,
+      "score": 260
+    },
+    {
+      "artist": "Dale",
+      "title": "I'm Leaving It Up To You",
+      "weeks": 13,
+      "peak": 1,
+      "score": 260
+    },
+    {
+      "artist": "The Tymes",
+      "title": "So Much In Love",
+      "weeks": 15,
+      "peak": 1,
+      "score": 256
+    },
+    {
+      "artist": "The Dovells",
+      "title": "You Can't Sit Down",
+      "weeks": 14,
+      "peak": 3,
+      "score": 250
+    },
+    {
+      "artist": "Tommy Roe",
+      "title": "Everybody",
+      "weeks": 12,
+      "peak": 3,
+      "score": 250
+    },
+    {
+      "artist": "Martha",
+      "title": "Heat Wave",
+      "weeks": 14,
+      "peak": 4,
+      "score": 247
+    },
+    {
+      "artist": "The Village Stompers",
+      "title": "Washington Square",
+      "weeks": 14,
+      "peak": 2,
+      "score": 247
+    },
+    {
+      "artist": "The Ronettes",
+      "title": "Be My Baby",
+      "weeks": 13,
+      "peak": 2,
+      "score": 245
+    },
+    {
+      "artist": "Peter, Paul",
+      "title": "Blowin' In The Wind",
+      "weeks": 15,
+      "peak": 2,
+      "score": 243
+    },
+    {
+      "artist": "Jimmy Soul",
+      "title": "If You Wanna Be Happy",
+      "weeks": 14,
+      "peak": 1,
+      "score": 237
+    },
+    {
+      "artist": "Nino Tempo",
+      "title": "Deep Purple",
+      "weeks": 15,
+      "peak": 1,
+      "score": 237
+    },
+    {
+      "artist": "The Orlons",
+      "title": "South Street",
+      "weeks": 13,
+      "peak": 3,
+      "score": 235
+    },
+    {
+      "artist": "The 4 Seasons",
+      "title": "Candy Girl",
+      "weeks": 13,
+      "peak": 3,
+      "score": 232
+    },
+    {
+      "artist": "The Drifters",
+      "title": "Up On The Roof",
+      "weeks": 11,
+      "peak": 5,
+      "score": 231
+    },
+    {
+      "artist": "Lesley Gore",
+      "title": "She's A Fool",
+      "weeks": 14,
+      "peak": 5,
+      "score": 231
+    },
+    {
+      "artist": "The Singing Nun",
+      "title": "Dominique",
+      "weeks": 8,
+      "peak": 1,
+      "score": 230
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "The 4 Seasons",
+      "hits": 2
+    },
+    {
+      "artist": "Lesley Gore",
+      "hits": 2
+    },
+    {
+      "artist": "Peter, Paul",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Inez Foxx",
+      "title": "Mockingbird",
+      "weeks": 18,
+      "peak": 7,
+      "score": 29
+    },
+    {
+      "artist": "Henry Mancini And His Orchestra",
+      "title": "Days Of Wine And Roses",
+      "weeks": 18,
+      "peak": 33,
+      "score": -67
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "Surfin' U.S.A.",
+      "weeks": 17,
+      "peak": 3,
+      "score": 285
+    },
+    {
+      "artist": "Skeeter Davis",
+      "title": "The End Of The World",
+      "weeks": 17,
+      "peak": 2,
+      "score": 264
+    },
+    {
+      "artist": "Randy",
+      "title": "Denise",
+      "weeks": 17,
+      "peak": 10,
+      "score": 62
+    },
+    {
+      "artist": "The Cascades",
+      "title": "Rhythm Of The Rain",
+      "weeks": 16,
+      "peak": 3,
+      "score": 309
+    },
+    {
+      "artist": "The Surfaris",
+      "title": "Wipe Out",
+      "weeks": 16,
+      "peak": 2,
+      "score": 172
+    },
+    {
+      "artist": "Al Martino",
+      "title": "I Love You Because",
+      "weeks": 16,
+      "peak": 3,
+      "score": 170
+    },
+    {
+      "artist": "The Rebels",
+      "title": "Wild Weekend",
+      "weeks": 16,
+      "peak": 8,
+      "score": 160
+    },
+    {
+      "artist": "Chantay's",
+      "title": "Pipeline",
+      "weeks": 16,
+      "peak": 4,
+      "score": 140
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Jimmy Gilmer And The Fireballs",
+      "title": "Sugar Shack",
+      "weeks": 15,
+      "peak": 1,
+      "score": 418
+    },
+    {
+      "artist": "Paul And Paula",
+      "title": "Hey Paula",
+      "weeks": 14,
+      "peak": 1,
+      "score": 367
+    },
+    {
+      "artist": "The Chiffons",
+      "title": "He's So Fine",
+      "weeks": 15,
+      "peak": 1,
+      "score": 346
+    },
+    {
+      "artist": "Bobby Vinton",
+      "title": "Blue Velvet",
+      "weeks": 15,
+      "peak": 1,
+      "score": 333
+    },
+    {
+      "artist": "The Angels",
+      "title": "My Boyfriend's Back",
+      "weeks": 14,
+      "peak": 1,
+      "score": 331
+    },
+    {
+      "artist": "The 4 Seasons",
+      "title": "Walk Like A Man",
+      "weeks": 13,
+      "peak": 1,
+      "score": 330
+    },
+    {
+      "artist": "Kyu Sakamoto",
+      "title": "Sukiyaki",
+      "weeks": 14,
+      "peak": 1,
+      "score": 330
+    },
+    {
+      "artist": "Jan",
+      "title": "Surf City",
+      "weeks": 13,
+      "peak": 1,
+      "score": 319
+    },
+    {
+      "artist": "Lesley Gore",
+      "title": "It's My Party",
+      "weeks": 13,
+      "peak": 1,
+      "score": 317
+    },
+    {
+      "artist": "The Rooftop Singers",
+      "title": "Walk Right In",
+      "weeks": 13,
+      "peak": 1,
+      "score": 302
+    },
+    {
+      "artist": "Little Stevie Wonder",
+      "title": "Fingertips (Part II)",
+      "weeks": 15,
+      "peak": 1,
+      "score": 298
+    },
+    {
+      "artist": "The Essex",
+      "title": "Easier Said Than Done",
+      "weeks": 13,
+      "peak": 1,
+      "score": 278
+    },
+    {
+      "artist": "Steve Lawrence",
+      "title": "Go Away Little Girl",
+      "weeks": 9,
+      "peak": 1,
+      "score": 272
+    },
+    {
+      "artist": "Ruby And The Romantics",
+      "title": "Our Day Will Come",
+      "weeks": 13,
+      "peak": 1,
+      "score": 267
+    },
+    {
+      "artist": "Little Peggy March",
+      "title": "I Will Follow Him",
+      "weeks": 14,
+      "peak": 1,
+      "score": 265
+    },
+    {
+      "artist": "Dale",
+      "title": "I'm Leaving It Up To You",
+      "weeks": 13,
+      "peak": 1,
+      "score": 260
+    },
+    {
+      "artist": "The Tymes",
+      "title": "So Much In Love",
+      "weeks": 15,
+      "peak": 1,
+      "score": 256
+    },
+    {
+      "artist": "Jimmy Soul",
+      "title": "If You Wanna Be Happy",
+      "weeks": 14,
+      "peak": 1,
+      "score": 237
+    },
+    {
+      "artist": "Nino Tempo",
+      "title": "Deep Purple",
+      "weeks": 15,
+      "peak": 1,
+      "score": 237
+    },
+    {
+      "artist": "The Singing Nun",
+      "title": "Dominique",
+      "weeks": 8,
+      "peak": 1,
+      "score": 230
+    },
+    {
+      "artist": "The Tornadoes",
+      "title": "Telstar",
+      "weeks": 7,
+      "peak": 1,
+      "score": 172
+    }
+  ]
+}

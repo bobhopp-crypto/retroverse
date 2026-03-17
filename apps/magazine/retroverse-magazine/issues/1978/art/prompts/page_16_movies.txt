@@ -1,0 +1,64 @@
+RetroVerse page art brief
+
+Target page: 1978 / movies
+Page slug: movies
+Page number: 16
+Page title to be overlaid later: Movies of the Year
+Story anchor to be overlaid later: Movies of the Year
+Illustration role: EDITORIAL_SCENE_ARTIST
+Studio responsibility: Create page-aware narrative scenes that support feature storytelling and leave disciplined overlay space for typography.
+
+Role-specific prompt framing:
+- Treat the artwork as a wide narrative editorial scene that explains the story before typography arrives.
+- Stage a wide narrative scene with multiple characters or clear social activity inside one coherent environment.
+- Use props, gestures, lighting, and background detail to imply the story without relying on labels or captions.
+- Keep the scene spacious enough for overlay copy while still feeling alive and story-driven.
+
+Page purpose:
+Present Movies of the Year as a complete RetroVerse 1978 screen feature page, with page-aware artwork under real typography and no text baked into the illustration layer for `movies`.
+
+Story summary:
+Movies of the Year Movies of the Year If you want to feel moviegoing energy in this 1978 context build, start with the crossover songs. "You're The One That I Want" (John Travolta) appears at rank 15 in the top songs set with 24 chart weeks, peak #1, and score 318. "Grease" (Frankie Valli) is right there at rank 20 with 22 weeks, peak #1, and score 279. That pairing tells a familiar story from the theater line: screen moments did not stay on screen. They traveled into radio rotation and then right back into conversation. When music from film keeps that kind of chart visibility, it usually means the audience experience was collective and repeatable. I like to think of 1978 as a year when peop
+
+Scene description:
+A crowded 1978 theater district with marquee glow, ticket-booth detail, and moviegoing energy that leaves space for overlay text.
+
+Style instructions:
+- Stage one coherent editorial moment or environment tied directly to the article summary.
+- Use period-correct props, lighting, and human activity to imply the story without baking in labels or captions.
+- Keep the calmest negative space inside the declared title, body, and sidebar zones.
+
+Composition:
+- full-page editorial background with protected overlay zones
+- Orientation: portrait
+- Mood: kinetic and high-attention
+- Color palette: cinema red, projector gold, chrome, and warm paper stock
+
+Visual hierarchy:
+- Primary focal area supports Movies of the Year.
+- Secondary props reinforce `movies` without competing with text zones.
+- Negative space stays calm inside title, body, sidebar, and footer zones.
+- Character and environment detail support the story while preserving calm text landing zones.
+
+Protected text-safe zones:
+- title_zone: x=7%, y=6%, width=54%, height=14%, unit=percent
+- body_zone: x=7%, y=24%, width=55%, height=60%, unit=percent
+- sidebar_zone: x=65%, y=24%, width=24%, height=56%, unit=percent
+- footer_zone: x=7%, y=93%, width=86%, height=3%, unit=percent
+
+Illustration rules:
+- no readable text inside artwork
+- DO NOT RENDER FINAL TEXT INTO THE ARTWORK.
+- Do not render readable article body text.
+- Do not render chart or table text.
+- Do not render fake production typography.
+- Do not render magazine headlines, page titles, pull quotes, sidebars, or page furniture.
+- Only environmental/signage text is allowed, and only if it is natural, minimal, and subordinate.
+- Preserve open space for title, body, sidebar, and footer placement.
+- Treat the artwork as a background asset used by the layout engine.
+
+RetroVerse Easter egg rule:
+- Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography.
+
+Global artwork constraint:
+- editorial illustration only, background artwork, no text, no typography, no lettering, no numbers, no logos, no signage, no readable symbols. Leave clean open space near the top of the composition for magazine masthead placement.

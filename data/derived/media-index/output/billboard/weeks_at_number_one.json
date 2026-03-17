@@ -1,0 +1,7113 @@
+{
+  "meta": {
+    "generated_at": "2026-03-10T19:01:34.758995Z",
+    "source_db": "/Users/bobhopp/Sites/retroverse/raw-data/billboard-hot-100.db",
+    "source_system": "RVA-HOT100"
+  },
+  "weeks_at_number_one": [
+    {
+      "song_id": "W020615",
+      "title": "All I Want For Christmas Is You",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 20
+    },
+    {
+      "song_id": "W028086",
+      "title": "Old Town Road",
+      "artist": "Lil Nas X",
+      "weeks_at_number_one": 19
+    },
+    {
+      "song_id": "W031240",
+      "title": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "weeks_at_number_one": 19
+    },
+    {
+      "song_id": "W026961",
+      "title": "Despacito",
+      "artist": "Luis Fonsi",
+      "weeks_at_number_one": 16
+    },
+    {
+      "song_id": "W019280",
+      "title": "One Sweet Day",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 16
+    },
+    {
+      "song_id": "W030478",
+      "title": "Last Night",
+      "artist": "Morgan Wallen",
+      "weeks_at_number_one": 16
+    },
+    {
+      "song_id": "W029982",
+      "title": "As It Was",
+      "artist": "Harry Styles",
+      "weeks_at_number_one": 15
+    },
+    {
+      "song_id": "W018850",
+      "title": "I'll Make Love To You",
+      "artist": "Boyz Ii Men",
+      "weeks_at_number_one": 14
+    },
+    {
+      "song_id": "W019863",
+      "title": "Candle In The Wind 1997/Something About The Way You Look Tonight",
+      "artist": "Elton John",
+      "weeks_at_number_one": 14
+    },
+    {
+      "song_id": "W019197",
+      "title": "Macarena (Bayside Boys Mix)",
+      "artist": "Los Del Rio",
+      "weeks_at_number_one": 14
+    },
+    {
+      "song_id": "W022241",
+      "title": "We Belong Together",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 14
+    },
+    {
+      "song_id": "W026091",
+      "title": "Uptown Funk!",
+      "artist": "Mark Ronson",
+      "weeks_at_number_one": 14
+    },
+    {
+      "song_id": "W023827",
+      "title": "I Gotta Feeling",
+      "artist": "The Black Eyed Peas",
+      "weeks_at_number_one": 14
+    },
+    {
+      "song_id": "W018249",
+      "title": "I Will Always Love You",
+      "artist": "Whitney Houston",
+      "weeks_at_number_one": 14
+    },
+    {
+      "song_id": "W018137",
+      "title": "End Of The Road (From \"Boomerang\")",
+      "artist": "Boyz Ii Men",
+      "weeks_at_number_one": 13
+    },
+    {
+      "song_id": "W020062",
+      "title": "The Boy Is Mine",
+      "artist": "Brandy",
+      "weeks_at_number_one": 13
+    },
+    {
+      "song_id": "W031628",
+      "title": "Luther",
+      "artist": "Kendrick Lamar",
+      "weeks_at_number_one": 13
+    },
+    {
+      "song_id": "W026953",
+      "title": "Shape Of You",
+      "artist": "Ed Sheeran",
+      "weeks_at_number_one": 12
+    },
+    {
+      "song_id": "W021449",
+      "title": "Lose Yourself",
+      "artist": "Eminem",
+      "weeks_at_number_one": 12
+    },
+    {
+      "song_id": "W025495",
+      "title": "Blurred Lines",
+      "artist": "Robin Thicke",
+      "weeks_at_number_one": 12
+    },
+    {
+      "song_id": "W020481",
+      "title": "Smooth",
+      "artist": "Santana",
+      "weeks_at_number_one": 12
+    },
+    {
+      "song_id": "W023720",
+      "title": "Boom Boom Pow",
+      "artist": "The Black Eyed Peas",
+      "weeks_at_number_one": 12
+    },
+    {
+      "song_id": "W026769",
+      "title": "Closer",
+      "artist": "The Chainsmokers",
+      "weeks_at_number_one": 12
+    },
+    {
+      "song_id": "W021844",
+      "title": "Yeah!",
+      "artist": "Usher",
+      "weeks_at_number_one": 12
+    },
+    {
+      "song_id": "W026233",
+      "title": "See You Again",
+      "artist": "Wiz Khalifa",
+      "weeks_at_number_one": 12
+    },
+    {
+      "song_id": "W018747",
+      "title": "I Swear",
+      "artist": "All-4-one",
+      "weeks_at_number_one": 11
+    },
+    {
+      "song_id": "W020837",
+      "title": "Independent Women Part I",
+      "artist": "Destiny's Child",
+      "weeks_at_number_one": 11
+    },
+    {
+      "song_id": "W027418",
+      "title": "God's Plan",
+      "artist": "Drake",
+      "weeks_at_number_one": 11
+    },
+    {
+      "song_id": "W019750",
+      "title": "I'll Be Missing You",
+      "artist": "Puff Daddy",
+      "weeks_at_number_one": 11
+    },
+    {
+      "song_id": "W028479",
+      "title": "The Box",
+      "artist": "Roddy Ricch",
+      "weeks_at_number_one": 11
+    },
+    {
+      "song_id": "W019560",
+      "title": "Un-Break My Heart",
+      "artist": "Toni Braxton",
+      "weeks_at_number_one": 11
+    },
+    {
+      "song_id": "W029679",
+      "title": "Easy On Me",
+      "artist": "Adele",
+      "weeks_at_number_one": 10
+    },
+    {
+      "song_id": "W026457",
+      "title": "Hello",
+      "artist": "Adele",
+      "weeks_at_number_one": 10
+    },
+    {
+      "song_id": "W031755",
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "weeks_at_number_one": 10
+    },
+    {
+      "song_id": "W021263",
+      "title": "Foolish",
+      "artist": "Ashanti",
+      "weeks_at_number_one": 10
+    },
+    {
+      "song_id": "W022804",
+      "title": "Irreplaceable",
+      "artist": "Beyonce",
+      "weeks_at_number_one": 10
+    },
+    {
+      "song_id": "W029399",
+      "title": "Butter",
+      "artist": "Bts",
+      "weeks_at_number_one": 10
+    },
+    {
+      "song_id": "W012003",
+      "title": "You Light Up My Life",
+      "artist": "Debby Boone",
+      "weeks_at_number_one": 10
+    },
+    {
+      "song_id": "W027670",
+      "title": "In My Feelings",
+      "artist": "Drake",
+      "weeks_at_number_one": 10
+    },
+    {
+      "song_id": "W026631",
+      "title": "One Dance",
+      "artist": "Drake",
+      "weeks_at_number_one": 10
+    },
+    {
+      "song_id": "W023177",
+      "title": "Low",
+      "artist": "Flo Rida",
+      "weeks_at_number_one": 10
+    },
+    {
+      "song_id": "W022339",
+      "title": "Gold Digger",
+      "artist": "Kanye West",
+      "weeks_at_number_one": 10
+    },
+    {
+      "song_id": "W021381",
+      "title": "Dilemma",
+      "artist": "Nelly",
+      "weeks_at_number_one": 10
+    },
+    {
+      "song_id": "W013829",
+      "title": "Physical",
+      "artist": "Olivia Newton-john",
+      "weeks_at_number_one": 10
+    },
+    {
+      "song_id": "W025784",
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "weeks_at_number_one": 10
+    },
+    {
+      "song_id": "W024902",
+      "title": "We Found Love",
+      "artist": "Rihanna",
+      "weeks_at_number_one": 10
+    },
+    {
+      "song_id": "W020643",
+      "title": "Maria Maria",
+      "artist": "Santana",
+      "weeks_at_number_one": 10
+    },
+    {
+      "song_id": "W022164",
+      "title": "Candy Shop",
+      "artist": "50 Cent",
+      "weeks_at_number_one": 9
+    },
+    {
+      "song_id": "W021536",
+      "title": "In Da Club",
+      "artist": "50 Cent",
+      "weeks_at_number_one": 9
+    },
+    {
+      "song_id": "W021717",
+      "title": "Baby Boy",
+      "artist": "Beyonce",
+      "weeks_at_number_one": 9
+    },
+    {
+      "song_id": "W000723",
+      "title": "Mack The Knife",
+      "artist": "Bobby Darin",
+      "weeks_at_number_one": 9
+    },
+    {
+      "song_id": "W025086",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "weeks_at_number_one": 9
+    },
+    {
+      "song_id": "W013730",
+      "title": "Endless Love",
+      "artist": "Diana Ross",
+      "weeks_at_number_one": 9
+    },
+    {
+      "song_id": "W023961",
+      "title": "TiK ToK",
+      "artist": "Ke$ha",
+      "weeks_at_number_one": 9
+    },
+    {
+      "song_id": "W013613",
+      "title": "Bette Davis Eyes",
+      "artist": "Kim Carnes",
+      "weeks_at_number_one": 9
+    },
+    {
+      "song_id": "W025573",
+      "title": "Royals",
+      "artist": "Lorde",
+      "weeks_at_number_one": 9
+    },
+    {
+      "song_id": "W022088",
+      "title": "Let Me Love You",
+      "artist": "Mario",
+      "weeks_at_number_one": 9
+    },
+    {
+      "song_id": "W025213",
+      "title": "One More Night",
+      "artist": "Maroon 5",
+      "weeks_at_number_one": 9
+    },
+    {
+      "song_id": "W021771",
+      "title": "Hey Ya!",
+      "artist": "Outkast",
+      "weeks_at_number_one": 9
+    },
+    {
+      "song_id": "W000938",
+      "title": "The Theme From \"A Summer Place\"",
+      "artist": "Percy Faith And His Orchestra",
+      "weeks_at_number_one": 9
+    },
+    {
+      "song_id": "W026556",
+      "title": "Work",
+      "artist": "Rihanna",
+      "weeks_at_number_one": 9
+    },
+    {
+      "song_id": "W006890",
+      "title": "Hey Jude",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 9
+    },
+    {
+      "song_id": "W028943",
+      "title": "Mood",
+      "artist": "24kgoldn",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W028018",
+      "title": "7 Rings",
+      "artist": "Ariana Grande",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W012180",
+      "title": "Night Fever",
+      "artist": "Bee Gees",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W021652",
+      "title": "Crazy In Love",
+      "artist": "Beyonce",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W019416",
+      "title": "Tha Crossroads",
+      "artist": "Bone Thugs-n-harmony",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W027526",
+      "title": "Nice For What",
+      "artist": "Drake",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W025036",
+      "title": "Somebody That I Used To Know",
+      "artist": "Gotye",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W031991",
+      "title": "Golden",
+      "artist": "Huntr/x: Ejae, Audrey Nuna",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W018408",
+      "title": "That's The Way Love Goes",
+      "artist": "Janet Jackson",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W018031",
+      "title": "Jump",
+      "artist": "Kris Kross",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W018506",
+      "title": "Dreamlover",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W019218",
+      "title": "Fantasy",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W025968",
+      "title": "All About That Bass",
+      "artist": "Meghan Trainor",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W030456",
+      "title": "Flowers",
+      "artist": "Miley Cyrus",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W029204",
+      "title": "Drivers License",
+      "artist": "Olivia Rodrigo",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W027292",
+      "title": "Rockstar",
+      "artist": "Post Malone",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W011561",
+      "title": "Tonight's The Night (Gonna Be Alright)",
+      "artist": "Rod Stewart",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W030343",
+      "title": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W032150",
+      "title": "The Fate Of Ophelia",
+      "artist": "Taylor Swift",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W014537",
+      "title": "Every Breath You Take",
+      "artist": "The Police",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W021888",
+      "title": "Burn",
+      "artist": "Usher",
+      "weeks_at_number_one": 8
+    },
+    {
+      "song_id": "W024536",
+      "title": "Rolling In The Deep",
+      "artist": "Adele",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W012267",
+      "title": "Shadow Dancing",
+      "artist": "Andy Gibb",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W027892",
+      "title": "Thank U, Next",
+      "artist": "Ariana Grande",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W001738",
+      "title": "Tossin' And Turnin'",
+      "artist": "Bobby Lewis",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W017740",
+      "title": "(Everything I Do) I Do It For You",
+      "artist": "Bryan Adams",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W021985",
+      "title": "Goodies",
+      "artist": "Ciara",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W028727",
+      "title": "Rockstar",
+      "artist": "Dababy",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W024301",
+      "title": "Love The Way You Lie",
+      "artist": "Eminem",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W025839",
+      "title": "Fancy",
+      "artist": "Iggy Azalea",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W020999",
+      "title": "All For You",
+      "artist": "Janet",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W013966",
+      "title": "I Love Rock 'N Roll",
+      "artist": "Joan Jett",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W022696",
+      "title": "SexyBack",
+      "artist": "Justin Timberlake",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W023374",
+      "title": "I Kissed A Girl",
+      "artist": "Katy Perry",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W028158",
+      "title": "Truth Hurts",
+      "artist": "Lizzo",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W018963",
+      "title": "Take A Bow",
+      "artist": "Madonna",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W027624",
+      "title": "Girls Like You",
+      "artist": "Maroon 5",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W007026",
+      "title": "I Heard It Through The Grapevine",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W014377",
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W017905",
+      "title": "Black Or White",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W019023",
+      "title": "This Is How We Do It",
+      "artist": "Montell Jordan",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W021322",
+      "title": "Hot In Herre",
+      "artist": "Nelly",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W014049",
+      "title": "Ebony And Ivory",
+      "artist": "Paul Mccartney And Stevie Wonder",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W026809",
+      "title": "Black Beatles",
+      "artist": "Rae Sremmurd",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W022990",
+      "title": "Umbrella",
+      "artist": "Rihanna",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W018306",
+      "title": "Informer",
+      "artist": "Snow",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W023086",
+      "title": "Crank That (Soulja Boy)",
+      "artist": "Soulja Boy Tell'em",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W023480",
+      "title": "Whatever You Like",
+      "artist": "T.i",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W026076",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W003551",
+      "title": "I Want To Hold Your Hand",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W029498",
+      "title": "Stay",
+      "artist": "The Kid Laroi",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W005638",
+      "title": "I'm A Believer",
+      "artist": "The Monkees",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W019113",
+      "title": "Waterfalls",
+      "artist": "Tlc",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W018428",
+      "title": "Can't Help Falling In Love (From \"Sliver\")",
+      "artist": "Ub40",
+      "weeks_at_number_one": 7
+    },
+    {
+      "song_id": "W018642",
+      "title": "The Sign",
+      "artist": "Ace Of Base",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W021081",
+      "title": "Fallin'",
+      "artist": "Alicia Keys",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W013123",
+      "title": "Call Me",
+      "artist": "Blondie",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W018937",
+      "title": "On Bended Knee",
+      "artist": "Boyz Ii Men",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W025313",
+      "title": "Locked Out Of Heaven",
+      "artist": "Bruno Mars",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W019355",
+      "title": "Because You Loved Me (From \"Up Close & Personal\")",
+      "artist": "Celine Dion",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W012509",
+      "title": "Le Freak",
+      "artist": "Chic",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W001430",
+      "title": "Are You Lonesome To-night?",
+      "artist": "Elvis Presley",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W023668",
+      "title": "Right Round",
+      "artist": "Flo Rida",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W025009",
+      "title": "We Are Young",
+      "artist": "Fun",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W009301",
+      "title": "Alone Again (Naturally)",
+      "artist": "Gilbert O'sullivan",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W014459",
+      "title": "Flashdance...What A Feeling",
+      "artist": "Irene Cara",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W030998",
+      "title": "Lovin On Me",
+      "artist": "Jack Harlow",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W021226",
+      "title": "Ain't It Funny",
+      "artist": "Jennifer Lopez",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W000541",
+      "title": "The Battle Of New Orleans",
+      "artist": "Johnny Horton",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W024226",
+      "title": "California Gurls",
+      "artist": "Katy Perry",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W013423",
+      "title": "Lady",
+      "artist": "Kenny Rogers",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W024585",
+      "title": "Born This Way",
+      "artist": "Lady Gaga",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W024571",
+      "title": "Party Rock Anthem",
+      "artist": "Lmfao",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W025275",
+      "title": "Thrift Shop",
+      "artist": "Macklemore",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W015182",
+      "title": "Like A Virgin",
+      "artist": "Madonna",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W025884",
+      "title": "Rude",
+      "artist": "Magic!",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W021112",
+      "title": "Family Affair",
+      "artist": "Mary J. Blige",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W022634",
+      "title": "Promiscuous",
+      "artist": "Nelly Furtado",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W026273",
+      "title": "Cheerleader",
+      "artist": "Omi",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W014707",
+      "title": "Say Say Say",
+      "artist": "Paul Mccartney And Michael Jackson",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W031305",
+      "title": "I Had Some Help",
+      "artist": "Post Malone",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W019629",
+      "title": "Can't Nobody Hold Me Down",
+      "artist": "Puff Daddy",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W020223",
+      "title": "I'm Your Angel",
+      "artist": "R. Kelly",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W009123",
+      "title": "The First Time Ever I Saw Your Face",
+      "artist": "Roberta Flack",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W007825",
+      "title": "Bridge Over Troubled Water",
+      "artist": "Simon",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W014120",
+      "title": "Eye Of The Tiger",
+      "artist": "Survivor",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W023531",
+      "title": "Live Your Life",
+      "artist": "T.i",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W007226",
+      "title": "Aquarius/Let The Sunshine In (The Flesh Failures)",
+      "artist": "The 5th Dimension",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W013876",
+      "title": "Centerfold",
+      "artist": "The J. Geils Band",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W012822",
+      "title": "My Sharona",
+      "artist": "The Knack",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W026302",
+      "title": "The Hills",
+      "artist": "The Weeknd",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W008520",
+      "title": "Joy To The World",
+      "artist": "Three Dog Night",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W000134",
+      "title": "It's All In The Game",
+      "artist": "Tommy Edwards",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W021154",
+      "title": "U Got It Bad",
+      "artist": "Usher",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W022048",
+      "title": "My Boo",
+      "artist": "Usher And Alicia Keys",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W007421",
+      "title": "In The Year 2525",
+      "artist": "Zager",
+      "weeks_at_number_one": 6
+    },
+    {
+      "song_id": "W024614",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W023133",
+      "title": "No One",
+      "artist": "Alicia Keys",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W025434",
+      "title": "Harlem Shake",
+      "artist": "Baauer",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W022446",
+      "title": "Check On It",
+      "artist": "Beyonce",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W006583",
+      "title": "Honey",
+      "artist": "Bobby Goldsboro",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W019065",
+      "title": "Have You Ever Really Loved A Woman?",
+      "artist": "Bryan Adams",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W008622",
+      "title": "It's Too Late/I Feel The Earth Move",
+      "artist": "Carole King",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W029824",
+      "title": "We Don't Talk About Bruno",
+      "artist": "Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W022364",
+      "title": "Run It!",
+      "artist": "Chris Brown",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W020454",
+      "title": "Genie In A Bottle",
+      "artist": "Christina Aguilera",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W021025",
+      "title": "Lady Marmalade",
+      "artist": "Christina Aguilera, Lil' Kim, Mya",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W022524",
+      "title": "Bad Day",
+      "artist": "Daniel Powter",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W000054",
+      "title": "Nel Blu Dipinto Di Blu (Volare)",
+      "artist": "Domenico Modugno",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W012782",
+      "title": "Bad Girls",
+      "artist": "Donna Summer",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W027029",
+      "title": "Perfect",
+      "artist": "Ed Sheeran",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W001232",
+      "title": "It's Now Or Never",
+      "artist": "Elvis Presley",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W000415",
+      "title": "Venus",
+      "artist": "Frankie Avalon",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W029203",
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W008230",
+      "title": "I'll Be There",
+      "artist": "Jackson 5",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W023922",
+      "title": "Empire State Of Mind",
+      "artist": "Jay-z + Alicia Keys",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W021091",
+      "title": "I'm Real",
+      "artist": "Jennifer Lopez",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W020409",
+      "title": "If You Had My Love",
+      "artist": "Jennifer Lopez",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W002041",
+      "title": "Big Bad John",
+      "artist": "Jimmy Dean",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W003337",
+      "title": "Sugar Shack",
+      "artist": "Jimmy Gilmer And The Fireballs",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W013453",
+      "title": "(Just Like) Starting Over",
+      "artist": "John Lennon",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W024361",
+      "title": "E.T.",
+      "artist": "Katy Perry",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W031465",
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W023308",
+      "title": "Lollipop",
+      "artist": "Lil Wayne",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W006196",
+      "title": "To Sir With Love",
+      "artist": "Lulu",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W025421",
+      "title": "Can't Hold Us",
+      "artist": "Macklemore",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W018538",
+      "title": "I'd Do Anything For Love (But I Won't Do That)",
+      "artist": "Meat Loaf",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W020136",
+      "title": "The First Night",
+      "artist": "Monica",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W019974",
+      "title": "Too Close",
+      "artist": "Next",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W006438",
+      "title": "Love Is Blue (L'amour Est Bleu)",
+      "artist": "Paul Mauriat And His Orchestra",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W017690",
+      "title": "Rush Rush",
+      "artist": "Paula Abdul",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W014982",
+      "title": "When Doves Cry",
+      "artist": "Prince",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W002423",
+      "title": "I Can't Stop Loving You",
+      "artist": "Ray Charles",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W020386",
+      "title": "Livin' La Vida Loca",
+      "artist": "Ricky Martin",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W024118",
+      "title": "Rude Boy",
+      "artist": "Rihanna",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W009626",
+      "title": "Killing Me Softly With His Song",
+      "artist": "Roberta Flack",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W008748",
+      "title": "Maggie May/Reason To Believe",
+      "artist": "Rod Stewart",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W018041",
+      "title": "Baby Got Back",
+      "artist": "Sir Mix-a-lot",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W005024",
+      "title": "The Ballad Of The Green Berets",
+      "artist": "Ssgt Barry Sadler",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W002729",
+      "title": "Big Girls Don't Cry",
+      "artist": "The 4 Seasons",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W002620",
+      "title": "Sherry",
+      "artist": "The 4 Seasons",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W003690",
+      "title": "Can't Buy Me Love",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W007337",
+      "title": "Get Back",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W011900",
+      "title": "Best Of My Love",
+      "artist": "The Emotions",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W001093",
+      "title": "Cathy's Clown",
+      "artist": "The Everly Brothers",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W008410",
+      "title": "One Bad Apple",
+      "artist": "The Osmonds",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W006785",
+      "title": "People Got To Be Free",
+      "artist": "The Rascals",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W014807",
+      "title": "Jump",
+      "artist": "Van Halen",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W017976",
+      "title": "Save The Best For Last",
+      "artist": "Vanessa Williams",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W011301",
+      "title": "Silly Love Songs",
+      "artist": "Wings",
+      "weeks_at_number_one": 5
+    },
+    {
+      "song_id": "W021590",
+      "title": "21 Questions",
+      "artist": "50 Cent",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W020149",
+      "title": "I Don't Want To Miss A Thing",
+      "artist": "Aerosmith",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W011839",
+      "title": "I Just Want To Be Your Everything",
+      "artist": "Andy Gibb",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W007667",
+      "title": "Raindrops Keep Fallin' On My Head",
+      "artist": "B.j. Thomas",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W008701",
+      "title": "How Can You Mend A Broken Heart",
+      "artist": "Bee Gees",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W012125",
+      "title": "Stayin' Alive",
+      "artist": "Bee Gees",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W023560",
+      "title": "Single Ladies (Put A Ring On It)",
+      "artist": "Beyonce",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W019550",
+      "title": "No Diggity",
+      "artist": "Blackstreet",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W006118",
+      "title": "Ode To Billie Joe",
+      "artist": "Bobbie Gentry",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W002481",
+      "title": "Roses Are Red (My Love)",
+      "artist": "Bobby Vinton",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W003473",
+      "title": "There! I've Said It Again",
+      "artist": "Bobby Vinton",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W016016",
+      "title": "Livin' On A Prayer",
+      "artist": "Bon Jovi",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W014590",
+      "title": "Total Eclipse Of The Heart",
+      "artist": "Bonnie Tyler",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W024416",
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W024335",
+      "title": "Just The Way You Are",
+      "artist": "Bruno Mars",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W028938",
+      "title": "WAP",
+      "artist": "Cardi B",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W008074",
+      "title": "(They Long To Be) Close To You",
+      "artist": "Carpenters",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W018615",
+      "title": "The Power Of Love",
+      "artist": "Celine Dion",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W020291",
+      "title": "Believe",
+      "artist": "Cher",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W020792",
+      "title": "Come On Over Baby (All I Want Is You)",
+      "artist": "Christina Aguilera",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W014279",
+      "title": "Maneater",
+      "artist": "Daryl Hall undefined John Oates",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W009666",
+      "title": "Tie A Yellow Ribbon Round The Ole Oak Tree",
+      "artist": "Dawn",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W001635",
+      "title": "Runaway",
+      "artist": "Del Shannon",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W013321",
+      "title": "Upside Down",
+      "artist": "Diana Ross",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W015581",
+      "title": "That's What Friends Are For",
+      "artist": "Dionne",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W008960",
+      "title": "American Pie (Parts I & II)",
+      "artist": "Don Mclean",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W011428",
+      "title": "Don't Go Breaking My Heart",
+      "artist": "Elton John",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W001071",
+      "title": "Stuck On You",
+      "artist": "Elvis Presley",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W025716",
+      "title": "The Monster",
+      "artist": "Eminem",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W012372",
+      "title": "Kiss You All Over",
+      "artist": "Exile",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W008350",
+      "title": "My Sweet Lord/Isn't It A Pity",
+      "artist": "George Harrison",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W016353",
+      "title": "Faith",
+      "artist": "George Michael",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W022230",
+      "title": "Hollaback Girl",
+      "artist": "Gwen Stefani",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W006678",
+      "title": "This Guy's In Love With You",
+      "artist": "Herb Alpert",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W017054",
+      "title": "Miss You Much",
+      "artist": "Janet Jackson",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W021523",
+      "title": "All I Have",
+      "artist": "Jennifer Lopez",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W020927",
+      "title": "Stutter",
+      "artist": "Joe",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W014174",
+      "title": "Jack & Diane",
+      "artist": "John Cougar",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W011215",
+      "title": "Disco Lady",
+      "artist": "Johnnie Taylor",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W009422",
+      "title": "I Can See Clearly Now",
+      "artist": "Johnny Nash",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W025653",
+      "title": "Dark Horse",
+      "artist": "Katy Perry",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W024445",
+      "title": "Firework",
+      "artist": "Katy Perry",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W023284",
+      "title": "Bleeding Love",
+      "artist": "Leona Lewis",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W014668",
+      "title": "All Night Long (All Night)",
+      "artist": "Lionel Richie",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W015579",
+      "title": "Say You, Say Me",
+      "artist": "Lionel Richie",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W013181",
+      "title": "Funkytown",
+      "artist": "Lipps, Inc",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W000314",
+      "title": "Stagger Lee",
+      "artist": "Lloyd Price",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W020799",
+      "title": "Music",
+      "artist": "Madonna",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W018577",
+      "title": "Hero",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W017345",
+      "title": "Vision Of Love",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W024789",
+      "title": "Moves Like Jagger",
+      "artist": "Maroon 5",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W014303",
+      "title": "Down Under",
+      "artist": "Men At Work",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W012996",
+      "title": "Rock With You",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W020265",
+      "title": "Angel Of Mine",
+      "artist": "Monica",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W005818",
+      "title": "Somethin' Stupid",
+      "artist": "Nancy Sinatra",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W021680",
+      "title": "Shake Ya Tailfeather",
+      "artist": "Nelly, P. Diddy",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W021145",
+      "title": "How You Remind Me",
+      "artist": "Nickelback",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W009009",
+      "title": "Without You",
+      "artist": "Nilsson",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W013255",
+      "title": "Magic",
+      "artist": "Olivia Newton-john",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W006463",
+      "title": "(Sittin' On) The Dock Of The Bay",
+      "artist": "Otis Redding",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W000592",
+      "title": "Lonely Boy",
+      "artist": "Paul Anka",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W009744",
+      "title": "My Love",
+      "artist": "Paul Mccartney And Wings",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W012685",
+      "title": "Reunited",
+      "artist": "Peaches",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W017127",
+      "title": "Another Day In Paradise",
+      "artist": "Phil Collins",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W013086",
+      "title": "Another Brick In The Wall (Part II)",
+      "artist": "Pink Floyd",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W013057",
+      "title": "Crazy Little Thing Called Love",
+      "artist": "Queen",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W018673",
+      "title": "Bump N' Grind",
+      "artist": "R. Kelly",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W012579",
+      "title": "Da Ya Think I'm Sexy?",
+      "artist": "Rod Stewart",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W020547",
+      "title": "I Knew I Loved You",
+      "artist": "Savage Garden",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W023043",
+      "title": "Beautiful Girls",
+      "artist": "Sean Kingston",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W026583",
+      "title": "Cheap Thrills",
+      "artist": "Sia",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W017259",
+      "title": "Nothing Compares 2 U",
+      "artist": "Sinead O'connor",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W007050",
+      "title": "Everyday People",
+      "artist": "Sly",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W019628",
+      "title": "Wannabe",
+      "artist": "Spice Girls",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W016589",
+      "title": "Roll With It",
+      "artist": "Steve Winwood",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W017472",
+      "title": "Because I Love You (The Postman Song)",
+      "artist": "Stevie B",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W028316",
+      "title": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W026000",
+      "title": "Shake It Off",
+      "artist": "Taylor Swift",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W007486",
+      "title": "Sugar, Sugar",
+      "artist": "The Archies",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W005972",
+      "title": "Windy",
+      "artist": "The Association",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W015928",
+      "title": "Walk Like An Egyptian",
+      "artist": "The Bangles",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W004767",
+      "title": "Yesterday",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W006136",
+      "title": "The Letter",
+      "artist": "The Box Tops",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W000683",
+      "title": "The Three Bells",
+      "artist": "The Browns",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W010768",
+      "title": "Love Will Keep Us Together",
+      "artist": "The Captain",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W002957",
+      "title": "He's So Fine",
+      "artist": "The Chiffons",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W000296",
+      "title": "The Chipmunk Song",
+      "artist": "The Chipmunks",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W000444",
+      "title": "Come Softly To Me",
+      "artist": "The Fleetwoods",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W006331",
+      "title": "Daydream Believer",
+      "artist": "The Monkees",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W004571",
+      "title": "(I Can't Get No) Satisfaction",
+      "artist": "The Rolling Stones",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W007472",
+      "title": "Honky Tonk Women",
+      "artist": "The Rolling Stones",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W003429",
+      "title": "Dominique",
+      "artist": "The Singing Nun",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W004067",
+      "title": "Baby Love",
+      "artist": "The Supremes",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W002119",
+      "title": "The Lion Sleeps Tonight",
+      "artist": "The Tokens",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W028473",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W005898",
+      "title": "Groovin'",
+      "artist": "The Young Rascals",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W018930",
+      "title": "Creep",
+      "artist": "Tlc",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W020330",
+      "title": "No Scrubs",
+      "artist": "Tlc",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W007156",
+      "title": "Dizzy",
+      "artist": "Tommy Roe",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W015310",
+      "title": "We Are The World",
+      "artist": "Usa For Africa",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W024171",
+      "title": "OMG",
+      "artist": "Usher",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W021075",
+      "title": "U Remind Me",
+      "artist": "Usher",
+      "weeks_at_number_one": 4
+    },
+    {
+      "song_id": "W012356",
+      "title": "Boogie Oogie Oogie",
+      "artist": "A Taste Of Honey",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W009095",
+      "title": "A Horse With No Name",
+      "artist": "America",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W011650",
+      "title": "Evergreen (Love Theme From \"A Star Is Born\")",
+      "artist": "Barbra Streisand",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W010062",
+      "title": "The Way We Were",
+      "artist": "Barbra Streisand",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W013389",
+      "title": "Woman In Love",
+      "artist": "Barbra Streisand",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W012030",
+      "title": "How Deep Is Your Love",
+      "artist": "Bee Gees",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W001431",
+      "title": "Wonderland By Night",
+      "artist": "Bert Kaempfert And His Orchestra",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W009204",
+      "title": "Lean On Me",
+      "artist": "Bill",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W009506",
+      "title": "Me And Mrs. Jones",
+      "artist": "Billy Paul",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W001936",
+      "title": "Take Good Care Of My Baby",
+      "artist": "Bobby Vee",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W003263",
+      "title": "Blue Velvet",
+      "artist": "Bobby Vinton",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W001160",
+      "title": "I'm Sorry",
+      "artist": "Brenda Lee",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W001475",
+      "title": "Rockin' Around The Christmas Tree",
+      "artist": "Brenda Lee",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W002241",
+      "title": "Hey! Baby",
+      "artist": "Bruce Channel",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W018608",
+      "title": "All For Love",
+      "artist": "Bryan Adams/rod Stewart/sting",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W028957",
+      "title": "Dynamite",
+      "artist": "Bts",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W027189",
+      "title": "Bodak Yellow (Money Moves)",
+      "artist": "Cardi B",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W009563",
+      "title": "You're So Vain",
+      "artist": "Carly Simon",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W023149",
+      "title": "Kiss Kiss",
+      "artist": "Chris Brown",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W013777",
+      "title": "Arthur's Theme (Best That You Can Do)",
+      "artist": "Christopher Cross",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W001556",
+      "title": "Pony Time",
+      "artist": "Chubby Checker",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W001252",
+      "title": "The Twist",
+      "artist": "Chubby Checker",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W019179",
+      "title": "Gangsta's Paradise (From \"Dangerous Minds\")",
+      "artist": "Coolio",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W014769",
+      "title": "Karma Chameleon",
+      "artist": "Culture Club",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W013533",
+      "title": "Kiss On My List",
+      "artist": "Daryl Hall undefined John Oates",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W008342",
+      "title": "Knock Three Times",
+      "artist": "Dawn",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W016811",
+      "title": "Lost In Your Eyes",
+      "artist": "Debbie Gibson",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W020604",
+      "title": "Say My Name",
+      "artist": "Destiny's Child",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W008157",
+      "title": "Ain't No Mountain High Enough",
+      "artist": "Diana Ross",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W015443",
+      "title": "Money For Nothing",
+      "artist": "Dire Straits",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W030814",
+      "title": "Paint The Town Red",
+      "artist": "Doja Cat",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W012740",
+      "title": "Hot Stuff",
+      "artist": "Donna Summer",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W012448",
+      "title": "MacArthur Park",
+      "artist": "Donna Summer",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W008775",
+      "title": "Go Away Little Girl",
+      "artist": "Donny Osmond",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W008107",
+      "title": "War",
+      "artist": "Edwin Starr",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W009565",
+      "title": "Crocodile Rock",
+      "artist": "Elton John",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W011029",
+      "title": "Island Girl",
+      "artist": "Elton John",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W020693",
+      "title": "Be With You",
+      "artist": "Enrique Iglesias",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W015666",
+      "title": "Rock Me Amadeus",
+      "artist": "Falco",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W024354",
+      "title": "Like A G6",
+      "artist": "Far*east Movement",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W022712",
+      "title": "London Bridge",
+      "artist": "Fergie",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W031165",
+      "title": "Like That",
+      "artist": "Future, Metro Boomin",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W002223",
+      "title": "Duke Of Earl",
+      "artist": "Gene Chandler",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W016524",
+      "title": "One More Try",
+      "artist": "George Michael",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W012574",
+      "title": "I Will Survive",
+      "artist": "Gloria Gaynor",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W019719",
+      "title": "MMMBop",
+      "artist": "Hanson",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W016173",
+      "title": "Alone",
+      "artist": "Heart",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W004459",
+      "title": "Mrs. Brown You've Got A Lovely Daughter",
+      "artist": "Herman's Hermits",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W015866",
+      "title": "Stuck With You",
+      "artist": "Huey Lewis",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W029992",
+      "title": "First Class",
+      "artist": "Jack Harlow",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W020757",
+      "title": "Doesn't Really Matter",
+      "artist": "Janet",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W017196",
+      "title": "Escapade",
+      "artist": "Janet Jackson",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W014218",
+      "title": "Up Where We Belong",
+      "artist": "Joe Cocker And Jennifer Warnes",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W002132",
+      "title": "Peppermint Twist - Part I",
+      "artist": "Joey Dee",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W025639",
+      "title": "All Of Me",
+      "artist": "John Legend",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W000802",
+      "title": "Running Bear",
+      "artist": "Johnny Preston",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W026458",
+      "title": "Sorry",
+      "artist": "Justin Bieber",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W022764",
+      "title": "My Love",
+      "artist": "Justin Timberlake",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W020016",
+      "title": "All My Life",
+      "artist": "K-ci",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W024951",
+      "title": "Stronger (What Doesn't Kill You)",
+      "artist": "Kelly Clarkson",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W031298",
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W014824",
+      "title": "Footloose",
+      "artist": "Kenny Loggins",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W003095",
+      "title": "Sukiyaki",
+      "artist": "Kyu Sakamoto",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W023471",
+      "title": "Just Dance",
+      "artist": "Lady Gaga",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W028168",
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W018761",
+      "title": "Stay (I Missed You) (From \"Reality Bites\")",
+      "artist": "Lisa Loeb",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W003010",
+      "title": "I Will Follow Him",
+      "artist": "Little Peggy March",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W003170",
+      "title": "Fingertips (Part II)",
+      "artist": "Little Stevie Wonder",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W016225",
+      "title": "La Bamba",
+      "artist": "Los Lobos",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W009318",
+      "title": "Baby Don't Get Hooked On Me",
+      "artist": "Mac Davis",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W016875",
+      "title": "Like A Prayer",
+      "artist": "Madonna",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W017288",
+      "title": "Vogue",
+      "artist": "Madonna",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W017811",
+      "title": "Emotions",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W019840",
+      "title": "Honey",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W017455",
+      "title": "Love Takes Time",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W022980",
+      "title": "Makes Me Wonder",
+      "artist": "Maroon 5",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W008919",
+      "title": "Brand New Key",
+      "artist": "Melanie",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W017122",
+      "title": "How Am I Supposed To Live Without You",
+      "artist": "Michael Bolton",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W014419",
+      "title": "Beat It",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W026874",
+      "title": "Bad And Boujee",
+      "artist": "Migos",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W025621",
+      "title": "Wrecking Ball",
+      "artist": "Miley Cyrus",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W017936",
+      "title": "To Be With You",
+      "artist": "Mr. Big",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W010993",
+      "title": "Bad Blood",
+      "artist": "Neil Sedaka",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W017338",
+      "title": "Step By Step",
+      "artist": "New Kids On The Block",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W025438",
+      "title": "Just Give Me A Reason",
+      "artist": "P!nk",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W015719",
+      "title": "On My Own",
+      "artist": "Patti Labelle",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W002865",
+      "title": "Hey Paula",
+      "artist": "Paul And Paula",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W010355",
+      "title": "(You're) Having My Baby",
+      "artist": "Paul Anka",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W013215",
+      "title": "Coming Up (Live At Glasgow)",
+      "artist": "Paul Mccartney And Wings",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W011141",
+      "title": "50 Ways To Leave Your Lover",
+      "artist": "Paul Simon",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W017176",
+      "title": "Opposites Attract",
+      "artist": "Paula Abdul",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W016777",
+      "title": "Straight Up",
+      "artist": "Paula Abdul",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W014861",
+      "title": "Against All Odds (Take A Look At Me Now)",
+      "artist": "Phil Collins",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W025687",
+      "title": "Timber",
+      "artist": "Pitbull",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W012042",
+      "title": "Baby Come Back",
+      "artist": "Player",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W016739",
+      "title": "Every Rose Has Its Thorn",
+      "artist": "Poison",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W028331",
+      "title": "Circles",
+      "artist": "Post Malone",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W013364",
+      "title": "Another One Bites The Dust",
+      "artist": "Queen",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W014999",
+      "title": "Ghostbusters",
+      "artist": "Ray Parker Jr",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W010242",
+      "title": "The Streak",
+      "artist": "Ray Stevens",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W015239",
+      "title": "Can't Fight This Feeling",
+      "artist": "Reo Speedwagon",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W016995",
+      "title": "Right Here Waiting",
+      "artist": "Richard Marx",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W017935",
+      "title": "I'm Too Sexy",
+      "artist": "Right Said Fred",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W025302",
+      "title": "Diamonds",
+      "artist": "Rihanna",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W022526",
+      "title": "SOS",
+      "artist": "Rihanna",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W003999",
+      "title": "Oh, Pretty Woman",
+      "artist": "Roy Orbison And The Candy Men",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W012981",
+      "title": "Escape (The Pina Colada Song)",
+      "artist": "Rupert Holmes",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W009141",
+      "title": "The Candy Man",
+      "artist": "Sammy Davis, Jr",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W021567",
+      "title": "Get Busy",
+      "artist": "Sean Paul",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W011033",
+      "title": "Fly, Robin, Fly",
+      "artist": "Silver Convention",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W006647",
+      "title": "Mrs. Robinson",
+      "artist": "Simon",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W008925",
+      "title": "Family Affair",
+      "artist": "Sly",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W022063",
+      "title": "Drop It Like It's Hot",
+      "artist": "Snoop Dogg",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W004632",
+      "title": "I Got You Babe",
+      "artist": "Sonny",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W030180",
+      "title": "Bad Habit",
+      "artist": "Steve Lacy",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W015076",
+      "title": "I Just Called To Say I Love You",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W011804",
+      "title": "Sir Duke",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W027252",
+      "title": "Look What You Made Me Do",
+      "artist": "Taylor Swift",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W025256",
+      "title": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W015416",
+      "title": "Shout",
+      "artist": "Tears For Fears",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W021980",
+      "title": "Lean Back",
+      "artist": "Terror Squad",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W010124",
+      "title": "Seasons In The Sun",
+      "artist": "Terry Jacks",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W011155",
+      "title": "December, 1963 (Oh, What a Night)",
+      "artist": "The 4 Seasons",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W002903",
+      "title": "Walk Like A Man",
+      "artist": "The 4 Seasons",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W007599",
+      "title": "Wedding Bell Blues",
+      "artist": "The 5th Dimension",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W003250",
+      "title": "My Boyfriend's Back",
+      "artist": "The Angels",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W003959",
+      "title": "House Of The Rising Sun",
+      "artist": "The Animals",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W005429",
+      "title": "Cherish",
+      "artist": "The Association",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W006361",
+      "title": "Hello Goodbye",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W004676",
+      "title": "Help!",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W004191",
+      "title": "I Feel Fine",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W004927",
+      "title": "We Can Work It Out",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W004823",
+      "title": "Turn! Turn! Turn! (To Everything There Is A Season)",
+      "artist": "The Byrds",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W003761",
+      "title": "Chapel Of Love",
+      "artist": "The Dixie Cups",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W005999",
+      "title": "Light My Fire",
+      "artist": "The Doors",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W001317",
+      "title": "Save The Last Dance For Me",
+      "artist": "The Drifters",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W007904",
+      "title": "American Woman/No Sugar Tonight",
+      "artist": "The Guess Who",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W014003",
+      "title": "Don't You Want Me",
+      "artist": "The Human League",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W005341",
+      "title": "Summer In The City",
+      "artist": "The Lovin' Spoonful",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W005148",
+      "title": "Monday, Monday",
+      "artist": "The Mamas",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W001639",
+      "title": "Blue Moon",
+      "artist": "The Marcels",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W005559",
+      "title": "Winchester Cathedral",
+      "artist": "The New Vaudeville Band",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W019714",
+      "title": "Hypnotize",
+      "artist": "The Notorious B.i.g",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W008267",
+      "title": "I Think I Love You",
+      "artist": "The Partridge Family Starring Shirley Jones",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W000279",
+      "title": "Smoke Gets In Your Eyes",
+      "artist": "The Platters",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W005080",
+      "title": "(You're My) Soul And Inspiration",
+      "artist": "The Righteous Brothers",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W002343",
+      "title": "Soldier Boy",
+      "artist": "The Shirelles",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W000194",
+      "title": "To Know Him, Is To Love Him",
+      "artist": "The Teddy Bears",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W002755",
+      "title": "Telstar",
+      "artist": "The Tornadoes",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W005757",
+      "title": "Happy Together",
+      "artist": "The Turtles",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W026318",
+      "title": "Can't Feel My Face",
+      "artist": "The Weeknd",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W014969",
+      "title": "What's Love Got To Do With It",
+      "artist": "Tina Turner",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W020448",
+      "title": "Unpretty",
+      "artist": "Tlc",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W010706",
+      "title": "He Don't Love You (Like I Love You)",
+      "artist": "Tony Orlando",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W016112",
+      "title": "With Or Without You",
+      "artist": "U2",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W023282",
+      "title": "Love In This Club",
+      "artist": "Usher",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W015221",
+      "title": "Careless Whisper",
+      "artist": "Wham!",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W015099",
+      "title": "Wake Me Up Before You Go-Go",
+      "artist": "Wham!",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W015723",
+      "title": "Greatest Love Of All",
+      "artist": "Whitney Houston",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W011414",
+      "title": "Play That Funky Music",
+      "artist": "Wild Cherry",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W019989",
+      "title": "Gettin' Jiggy Wit It",
+      "artist": "Will Smith",
+      "weeks_at_number_one": 3
+    },
+    {
+      "song_id": "W020728",
+      "title": "It's Gonna Be Me",
+      "artist": "*nsync",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W019445",
+      "title": "How Do U Want It/California Love",
+      "artist": "2pac",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W024617",
+      "title": "Set Fire To The Rain",
+      "artist": "Adele",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W022893",
+      "title": "Don't Matter",
+      "artist": "Akon",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W022787",
+      "title": "I Wanna Love You",
+      "artist": "Akon",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W017190",
+      "title": "Black Velvet",
+      "artist": "Alannah Myles",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W017606",
+      "title": "Baby Baby",
+      "artist": "Amy Grant",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W012086",
+      "title": "(Love Is) Thicker Than Water",
+      "artist": "Andy Gibb",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W012772",
+      "title": "Ring My Bell",
+      "artist": "Anita Ward",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W006595",
+      "title": "Tighten Up",
+      "artist": "Archie Bell",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016079",
+      "title": "I Knew You Were Waiting (For Me)",
+      "artist": "Aretha Franklin",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W005909",
+      "title": "Respect",
+      "artist": "Aretha Franklin",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W024100",
+      "title": "Nothin' On You",
+      "artist": "B.o.b",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W017073",
+      "title": "When I See You Smile",
+      "artist": "Bad English",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W012508",
+      "title": "You Don't Bring Me Flowers",
+      "artist": "Barbra Streisand",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W012975",
+      "title": "No More Tears (Enough Is Enough)",
+      "artist": "Barbra Streisand/donna Summer",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W010829",
+      "title": "Jive Talkin'",
+      "artist": "Bee Gees",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W012538",
+      "title": "Too Much Heaven",
+      "artist": "Bee Gees",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W012635",
+      "title": "Tragedy",
+      "artist": "Bee Gees",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W030146",
+      "title": "Break My Soul",
+      "artist": "Beyonce",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W031100",
+      "title": "Texas Hold 'Em",
+      "artist": "Beyonce",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W013253",
+      "title": "It's Still Rock And Roll To Me",
+      "artist": "Billy Joel",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W017106",
+      "title": "We Didn't Start The Fire",
+      "artist": "Billy Joel",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015070",
+      "title": "Caribbean Queen (No More Love On The Run)",
+      "artist": "Billy Ocean",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016455",
+      "title": "Get Outta My Dreams, Get Into My Car",
+      "artist": "Billy Ocean",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W009733",
+      "title": "Will It Go Round In Circles",
+      "artist": "Billy Preston",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W010472",
+      "title": "I Can Help",
+      "artist": "Billy Swan",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015981",
+      "title": "At This Moment",
+      "artist": "Billy Vera",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W013543",
+      "title": "Rapture",
+      "artist": "Blondie",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W010252",
+      "title": "Billy, Don't Be A Hero",
+      "artist": "Bo Donaldson And The Heywoods",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W002649",
+      "title": "Monster Mash",
+      "artist": "Bobby \"boris\" Pickett And The Crypt-kickers",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016644",
+      "title": "Don't Worry, Be Happy (From \"Cocktail\")",
+      "artist": "Bobby Mcferrin",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016696",
+      "title": "Bad Medicine",
+      "artist": "Bon Jovi",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015925",
+      "title": "Amanda",
+      "artist": "Boston",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W020228",
+      "title": "Have You Ever?",
+      "artist": "Brandy",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W020212",
+      "title": "...Baby One More Time",
+      "artist": "Britney Spears",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015342",
+      "title": "Heaven",
+      "artist": "Bryan Adams",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W017518",
+      "title": "Gonna Make You Sweat (Everybody Dance Now)",
+      "artist": "C+c Music Factory",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W010494",
+      "title": "Kung Fu Fighting",
+      "artist": "Carl Douglas",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W009992",
+      "title": "Top Of The World",
+      "artist": "Carpenters",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W019988",
+      "title": "My Heart Will Go On",
+      "artist": "Celine Dion",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W022534",
+      "title": "Ridin'",
+      "artist": "Chamillionaire",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W009980",
+      "title": "The Most Beautiful Girl",
+      "artist": "Charlie Rich",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016522",
+      "title": "The Flame",
+      "artist": "Cheap Trick",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W008849",
+      "title": "Gypsys, Tramps & Thieves",
+      "artist": "Cher",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W009900",
+      "title": "Half-Breed",
+      "artist": "Cher",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W014121",
+      "title": "Hard To Say I'm Sorry",
+      "artist": "Chicago",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W011485",
+      "title": "If You Leave Me Now",
+      "artist": "Chicago",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016697",
+      "title": "Look Away",
+      "artist": "Chicago",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W027587",
+      "title": "This Is America",
+      "artist": "Childish Gambino",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W020579",
+      "title": "What A Girl Wants",
+      "artist": "Christina Aguilera",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W009377",
+      "title": "My Ding-A-Ling",
+      "artist": "Chuck Berry",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W021678",
+      "title": "This Is The Night",
+      "artist": "Clay Aiken",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016070",
+      "title": "Lean On Me",
+      "artist": "Club Nouveau",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W017771",
+      "title": "I Adore Mi Amor",
+      "artist": "Color Me Badd",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W012347",
+      "title": "Three Times A Lady",
+      "artist": "Commodores",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W001123",
+      "title": "Everybody's Somebody's Fool",
+      "artist": "Connie Francis",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W001277",
+      "title": "My Heart Has A Mind Of Its Own",
+      "artist": "Connie Francis",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W000175",
+      "title": "It's Only Make Believe",
+      "artist": "Conway Twitty",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W020928",
+      "title": "Butterfly",
+      "artist": "Crazy Town",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016098",
+      "title": "(I Just) Died In Your Arms",
+      "artist": "Cutting Crew",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W014923",
+      "title": "Time After Time",
+      "artist": "Cyndi Lauper",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015899",
+      "title": "True Colors",
+      "artist": "Cyndi Lauper",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W003366",
+      "title": "I'm Leaving It Up To You",
+      "artist": "Dale",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015117",
+      "title": "Out Of Touch",
+      "artist": "Daryl Hall undefined John Oates",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W013793",
+      "title": "Private Eyes",
+      "artist": "Daryl Hall undefined John Oates",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W011696",
+      "title": "Rich Girl",
+      "artist": "Daryl Hall undefined John Oates",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W010873",
+      "title": "Fame",
+      "artist": "David Bowie",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W014911",
+      "title": "Let's Hear It For The Boy",
+      "artist": "Deniece Williams",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W026596",
+      "title": "Panda",
+      "artist": "Desiigner",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W021070",
+      "title": "Bootylicious",
+      "artist": "Destiny's Child",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W006953",
+      "title": "Love Child",
+      "artist": "Diana Ross",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W011292",
+      "title": "Love Hangover",
+      "artist": "Diana Ross",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W002024",
+      "title": "Runaround Sue",
+      "artist": "Dion",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W013488",
+      "title": "9 To 5",
+      "artist": "Dolly Parton",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015378",
+      "title": "A View To A Kill",
+      "artist": "Duran Duran",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W014929",
+      "title": "The Reflex",
+      "artist": "Duran Duran",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W009928",
+      "title": "Keep On Truckin' (Part 1)",
+      "artist": "Eddie Kendricks",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W013465",
+      "title": "I Love A Rainy Night",
+      "artist": "Eddie Rabbitt",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W010558",
+      "title": "Lucy In The Sky With Diamonds",
+      "artist": "Elton John",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W000650",
+      "title": "A Big Hunk O' Love",
+      "artist": "Elvis Presley",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W002327",
+      "title": "Good Luck Charm",
+      "artist": "Elvis Presley",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W001603",
+      "title": "Surrender",
+      "artist": "Elvis Presley",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W020461",
+      "title": "Bailamos",
+      "artist": "Enrique Iglesias",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W022889",
+      "title": "Glamorous",
+      "artist": "Fergie",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W025163",
+      "title": "Whistle",
+      "artist": "Flo Rida",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015204",
+      "title": "I Want To Know What Love Is",
+      "artist": "Foreigner",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W004516",
+      "title": "I Can't Help Myself (Sugar Pie Honey Bunch)",
+      "artist": "Four Tops",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W005444",
+      "title": "Reach Out I'll Be There",
+      "artist": "Four Tops",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W012313",
+      "title": "Grease",
+      "artist": "Frankie Valli",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W004385",
+      "title": "I'm Telling You Now",
+      "artist": "Freddie And The Dreamers",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W004270",
+      "title": "This Diamond Ring",
+      "artist": "Gary Lewis And The Playboys",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W010308",
+      "title": "Rock Your Baby",
+      "artist": "George Mccrae",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016422",
+      "title": "Father Figure",
+      "artist": "George Michael",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016615",
+      "title": "Monkey",
+      "artist": "George Michael",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W009938",
+      "title": "Midnight Train To Georgia",
+      "artist": "Gladys Knight And The Pips",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W010826",
+      "title": "Rhinestone Cowboy",
+      "artist": "Glen Campbell",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W017331",
+      "title": "She Ain't Worth It",
+      "artist": "Glenn Medeiros",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016488",
+      "title": "Anything For You",
+      "artist": "Gloria Estefan",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W017580",
+      "title": "Coming Out Of The Dark",
+      "artist": "Gloria Estefan",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W010194",
+      "title": "The Loco-Motion",
+      "artist": "Grand Funk",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016603",
+      "title": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W000793",
+      "title": "Heartaches By The Number",
+      "artist": "Guy Mitchell",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W027848",
+      "title": "Without Me",
+      "artist": "Halsey",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W007339",
+      "title": "Love Theme From Romeo & Juliet",
+      "artist": "Henry Mancini And His Orchestra",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W012865",
+      "title": "Rise",
+      "artist": "Herb Alpert",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015427",
+      "title": "The Power Of Love",
+      "artist": "Huey Lewis",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W006719",
+      "title": "Grazing In The Grass",
+      "artist": "Hugh Masekela",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W018885",
+      "title": "Here Comes The Hotstepper (From \"Ready To Wear\")",
+      "artist": "Ini Kamoze",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W008890",
+      "title": "Theme From Shaft",
+      "artist": "Isaac Hayes",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W021203",
+      "title": "Always On Time",
+      "artist": "Ja Rule",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W007893",
+      "title": "ABC",
+      "artist": "Jackson 5",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W008038",
+      "title": "The Love You Save/I Found That Girl",
+      "artist": "Jackson 5",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W003151",
+      "title": "Surf City",
+      "artist": "Jan",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W019933",
+      "title": "Together Again",
+      "artist": "Janet",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W018575",
+      "title": "Again",
+      "artist": "Janet Jackson",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015874",
+      "title": "When I Think Of You",
+      "artist": "Janet Jackson",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W008454",
+      "title": "Me And Bobby McGee",
+      "artist": "Janis Joplin",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W023849",
+      "title": "Down",
+      "artist": "Jay Sean",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W009759",
+      "title": "Bad, Bad Leroy Brown",
+      "artist": "Jim Croce",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W010044",
+      "title": "Time In A Bottle",
+      "artist": "Jim Croce",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W003022",
+      "title": "If You Wanna Be Happy",
+      "artist": "Jimmy Soul",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W010305",
+      "title": "Annie's Song",
+      "artist": "John Denver",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W006359",
+      "title": "Judy In Disguise (With Glasses)",
+      "artist": "John Fred And The Playboys",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015426",
+      "title": "St. Elmo's Fire (Man In Motion)",
+      "artist": "John Parr",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W026480",
+      "title": "Love Yourself",
+      "artist": "Justin Bieber",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W021933",
+      "title": "Slow Motion",
+      "artist": "Juvenile",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W024367",
+      "title": "Last Friday Night (T.G.I.F.)",
+      "artist": "Katy Perry",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W025613",
+      "title": "Roar",
+      "artist": "Katy Perry",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W024334",
+      "title": "Teenage Dream",
+      "artist": "Katy Perry",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W011055",
+      "title": "That's The Way (I Like It)",
+      "artist": "Kc And The Sunshine Band",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W021438",
+      "title": "A Moment Like This",
+      "artist": "Kelly Clarkson",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W023658",
+      "title": "My Life Would Suck Without You",
+      "artist": "Kelly Clarkson",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W014642",
+      "title": "Islands In The Stream",
+      "artist": "Kenny Rogers Duet",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W013450",
+      "title": "Celebration",
+      "artist": "Kool",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W020207",
+      "title": "Doo Wop (That Thing)",
+      "artist": "Lauryn Hill",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W001483",
+      "title": "Calcutta",
+      "artist": "Lawrence Welk And His Orchestra",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W003090",
+      "title": "It's My Party",
+      "artist": "Lesley Gore",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W014863",
+      "title": "Hello",
+      "artist": "Lionel Richie",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W014270",
+      "title": "Truly",
+      "artist": "Lionel Richie",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W030002",
+      "title": "About Damn Time",
+      "artist": "Lizzo",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W024881",
+      "title": "Sexy And I Know It",
+      "artist": "Lmfao",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W020432",
+      "title": "Amazed",
+      "artist": "Lonestar",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W022735",
+      "title": "Money Maker",
+      "artist": "Ludacris",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W017516",
+      "title": "Justify My Love",
+      "artist": "Madonna",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015827",
+      "title": "Papa Don't Preach",
+      "artist": "Madonna",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W004009",
+      "title": "Do Wah Diddy Diddy",
+      "artist": "Manfred Mann",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W019384",
+      "title": "Always Be My Baby",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W022418",
+      "title": "Don't Forget About Us",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W020508",
+      "title": "Heartbreaker",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W017654",
+      "title": "I Don't Wanna Cry",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W018087",
+      "title": "I'll Be There",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W017571",
+      "title": "Someday",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W023280",
+      "title": "Touch My Body",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W000910",
+      "title": "Teen Angel",
+      "artist": "Mark Dinning",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016944",
+      "title": "Toy Soldiers",
+      "artist": "Martika",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W000848",
+      "title": "El Paso",
+      "artist": "Marty Robbins",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W009875",
+      "title": "Let's Get It On",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W011625",
+      "title": "Torn Between Two Lovers",
+      "artist": "Mary Macgregor",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W003706",
+      "title": "My Guy",
+      "artist": "Mary Wells",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W009851",
+      "title": "The Morning After",
+      "artist": "Maureen Mcgovern",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W011966",
+      "title": "Star Wars Theme/Cantina Band",
+      "artist": "Meco",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W010183",
+      "title": "TSOP (The Sound Of Philadelphia)",
+      "artist": "Mfsb",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016315",
+      "title": "Bad",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016446",
+      "title": "Man In The Mirror",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W014543",
+      "title": "Maniac",
+      "artist": "Michael Sembello",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W017097",
+      "title": "Blame It On The Rain",
+      "artist": "Milli Vanilli",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W017023",
+      "title": "Girl I'm Gonna Miss You",
+      "artist": "Milli Vanilli",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W022895",
+      "title": "This Is Why I'm Hot",
+      "artist": "Mims",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015526",
+      "title": "Broken Wings",
+      "artist": "Mr. Mister",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015626",
+      "title": "Kyrie",
+      "artist": "Mr. Mister",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W022463",
+      "title": "So Sick",
+      "artist": "Ne-yo",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W002515",
+      "title": "Breaking Up Is Hard To Do",
+      "artist": "Neil Sedaka",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W022447",
+      "title": "Grillz",
+      "artist": "Nelly",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W030817",
+      "title": "Rich Men North Of Richmond",
+      "artist": "Oliver Anthony Music",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W010410",
+      "title": "I Honestly Love You",
+      "artist": "Olivia Newton-john",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W030717",
+      "title": "Vampire",
+      "artist": "Olivia Rodrigo",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W023900",
+      "title": "Fireflies",
+      "artist": "Owl City",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W014065",
+      "title": "Baby, Come To Me",
+      "artist": "Patti Austin A Duet",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016871",
+      "title": "Forever Your Girl",
+      "artist": "Paula Abdul",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W005159",
+      "title": "When A Man Loves A Woman",
+      "artist": "Percy Sledge",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015802",
+      "title": "Glory Of Love (Theme From \"The Karate Kid Part II\")",
+      "artist": "Peter Cetera",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W004225",
+      "title": "Downtown",
+      "artist": "Petula Clark",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W004947",
+      "title": "My Love",
+      "artist": "Petula Clark",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016676",
+      "title": "Groovy Kind Of Love",
+      "artist": "Phil Collins",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015266",
+      "title": "One More Night",
+      "artist": "Phil Collins",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016766",
+      "title": "Two Hearts",
+      "artist": "Phil Collins",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W022969",
+      "title": "Hey There Delilah",
+      "artist": "Plain White T's",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W029330",
+      "title": "Rapstar",
+      "artist": "Polo G",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W017839",
+      "title": "Cream",
+      "artist": "Prince And The N.p.g",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015685",
+      "title": "Kiss",
+      "artist": "Prince And The Revolution",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015057",
+      "title": "Let's Go Crazy",
+      "artist": "Prince And The Revolution",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W001996",
+      "title": "Hit The Road Jack",
+      "artist": "Ray Charles And His Orchestra",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W007932",
+      "title": "Everything Is Beautiful",
+      "artist": "Ray Stevens",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016409",
+      "title": "Never Gonna Give You Up",
+      "artist": "Rick Astley",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W013614",
+      "title": "Jessie's Girl",
+      "artist": "Rick Springfield",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W000001",
+      "title": "Poor Little Fool",
+      "artist": "Ricky Nelson",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W001727",
+      "title": "Travelin' Man",
+      "artist": "Ricky Nelson",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W023426",
+      "title": "Disturbia",
+      "artist": "Rihanna",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W017280",
+      "title": "It Must Have Been Love (From \"Pretty Woman\")",
+      "artist": "Roxette",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W000685",
+      "title": "Sleep Walk",
+      "artist": "Santo",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W019914",
+      "title": "Truly Madly Deeply",
+      "artist": "Savage Garden",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W020868",
+      "title": "It Wasn't Me",
+      "artist": "Shaggy",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W022583",
+      "title": "Hips Don't Lie",
+      "artist": "Shakira",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W013559",
+      "title": "Morning Train (Nine To Five)",
+      "artist": "Sheena Easton",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W002308",
+      "title": "Johnny Angel",
+      "artist": "Shelley Fabares",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W018336",
+      "title": "Freak Me",
+      "artist": "Silk",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W029279",
+      "title": "Leave The Door Open",
+      "artist": "Silk Sonic",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W004876",
+      "title": "The Sound Of Silence",
+      "artist": "Simon",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W020765",
+      "title": "Incomplete",
+      "artist": "Sisqo",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W007776",
+      "title": "Thank You Falettinme Be Mice Elf Agin/Everybody Is A Star",
+      "artist": "Sly",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W008278",
+      "title": "The Tears Of A Clown",
+      "artist": "Smokey Robinson",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W011350",
+      "title": "Afternoon Delight",
+      "artist": "Starland Vocal Band",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016055",
+      "title": "Nothing's Gonna Stop Us Now",
+      "artist": "Starship",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015508",
+      "title": "We Built This City",
+      "artist": "Starship",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W007636",
+      "title": "Na Na Hey Hey Kiss Him Goodbye",
+      "artist": "Steam",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W002772",
+      "title": "Go Away Little Girl",
+      "artist": "Steve Lawrence",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W009845",
+      "title": "Brother Louie",
+      "artist": "Stories",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W012953",
+      "title": "Babe",
+      "artist": "Styx",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W017504",
+      "title": "The First Time",
+      "artist": "Surface",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W018398",
+      "title": "Weak",
+      "artist": "Swv",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W031260",
+      "title": "Fortnight",
+      "artist": "Taylor Swift",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015306",
+      "title": "Everybody Wants To Rule The World",
+      "artist": "Tears For Fears",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W003855",
+      "title": "Rag Doll",
+      "artist": "The 4 Seasons",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W004460",
+      "title": "Help Me, Rhonda",
+      "artist": "The Beach Boys",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W003805",
+      "title": "I Get Around",
+      "artist": "The Beach Boys",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W003911",
+      "title": "A Hard Day's Night",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W004342",
+      "title": "Eight Days A Week",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W007903",
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W005278",
+      "title": "Paperback Writer",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W003565",
+      "title": "She Loves You",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W008025",
+      "title": "The Long And Winding Road/For You Blue",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W023804",
+      "title": "Imma Be",
+      "artist": "The Black Eyed Peas",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W005686",
+      "title": "Kind Of A Drag",
+      "artist": "The Buckinghams",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W002658",
+      "title": "He's A Rebel",
+      "artist": "The Crystals",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W006764",
+      "title": "Hello, I Love You",
+      "artist": "The Doors",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W010694",
+      "title": "Philadelphia Freedom",
+      "artist": "The Elton John Band",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W003143",
+      "title": "Easier Said Than Done",
+      "artist": "The Essex",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W018204",
+      "title": "How Do You Talk To An Angel",
+      "artist": "The Heights",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W001892",
+      "title": "Michael",
+      "artist": "The Highwaymen",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W011324",
+      "title": "Kiss And Say Goodbye",
+      "artist": "The Manhattans",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W019796",
+      "title": "Mo Money Mo Problems",
+      "artist": "The Notorious B.i.g",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W004209",
+      "title": "You've Lost That Lovin' Feelin'",
+      "artist": "The Righteous Brothers",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W008606",
+      "title": "Brown Sugar",
+      "artist": "The Rolling Stones",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W004795",
+      "title": "Get Off Of My Cloud",
+      "artist": "The Rolling Stones",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W005218",
+      "title": "Paint It, Black",
+      "artist": "The Rolling Stones",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W002869",
+      "title": "Walk Right In",
+      "artist": "The Rooftop Singers",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W001448",
+      "title": "Will You Love Me Tomorrow",
+      "artist": "The Shirelles",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W014110",
+      "title": "Abracadabra",
+      "artist": "The Steve Miller Band",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W004146",
+      "title": "Come See About Me",
+      "artist": "The Supremes",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W004833",
+      "title": "I Hear A Symphony",
+      "artist": "The Supremes",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W004345",
+      "title": "Stop! In The Name Of Love",
+      "artist": "The Supremes",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W003897",
+      "title": "Where Did Our Love Go",
+      "artist": "The Supremes",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W005404",
+      "title": "You Can't Hurry Love",
+      "artist": "The Supremes",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W005560",
+      "title": "You Keep Me Hangin' On",
+      "artist": "The Supremes",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W007529",
+      "title": "I Can't Get Next To You",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W008460",
+      "title": "Just My Imagination (Running Away With Me)",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W005303",
+      "title": "Wild Thing",
+      "artist": "The Troggs",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W028687",
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W008031",
+      "title": "Mama Told Me (Not To Come)",
+      "artist": "Three Dog Night",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016395",
+      "title": "Could've Been",
+      "artist": "Tiffany",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016294",
+      "title": "I Think We're Alone Now",
+      "artist": "Tiffany",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W022922",
+      "title": "Give It To Me",
+      "artist": "Timbaland",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W007070",
+      "title": "Crimson And Clover",
+      "artist": "Tommy James And The Shondells",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W005264",
+      "title": "Hanky Panky",
+      "artist": "Tommy James And The Shondells",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W002564",
+      "title": "Sheila",
+      "artist": "Tommy Roe",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W001797",
+      "title": "Quarter To Three",
+      "artist": "U.s. Bonds",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016202",
+      "title": "I Still Haven't Found What I'm Looking For",
+      "artist": "U2",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W021931",
+      "title": "Confessions Part II",
+      "artist": "Usher",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W019950",
+      "title": "Nice & Slow",
+      "artist": "Usher",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W009663",
+      "title": "The Night The Lights Went Out In Georgia",
+      "artist": "Vicki Lawrence",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015311",
+      "title": "Everything She Wants",
+      "artist": "Wham!",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W017556",
+      "title": "All The Man That I Need",
+      "artist": "Whitney Houston",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016258",
+      "title": "Didn't We Almost Have It All",
+      "artist": "Whitney Houston",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W015613",
+      "title": "How Will I Know",
+      "artist": "Whitney Houston",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016172",
+      "title": "I Wanna Dance With Somebody (Who Loves Me)",
+      "artist": "Whitney Houston",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W016472",
+      "title": "Where Do Broken Hearts Go",
+      "artist": "Whitney Houston",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W000518",
+      "title": "Kansas City",
+      "artist": "Wilbert Harrison",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W017375",
+      "title": "Release Me",
+      "artist": "Wilson Phillips",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W012244",
+      "title": "With A Little Luck",
+      "artist": "Wings",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W014739",
+      "title": "Owner Of A Lonely Heart",
+      "artist": "Yes",
+      "weeks_at_number_one": 2
+    },
+    {
+      "song_id": "W028843",
+      "title": "Trollz",
+      "artist": "6ix9ine",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W005442",
+      "title": "96 Tears",
+      "artist": "?",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015445",
+      "title": "Take On Me",
+      "artist": "A-ha",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W020678",
+      "title": "Try Again",
+      "artist": "Aaliyah",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011653",
+      "title": "Dancing Queen",
+      "artist": "Abba",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W013665",
+      "title": "The One That You Love",
+      "artist": "Air Supply",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W008974",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010013",
+      "title": "Show And Tell",
+      "artist": "Al Wilson",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011812",
+      "title": "Undercover Angel",
+      "artist": "Alan O'day",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010735",
+      "title": "Sister Golden Hair",
+      "artist": "America",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W012621",
+      "title": "Knock On Wood",
+      "artist": "Amii Stewart",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010338",
+      "title": "Rock Me Gently",
+      "artist": "Andy Kim",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W012379",
+      "title": "You Needed Me",
+      "artist": "Anne Murray",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W029044",
+      "title": "Positions",
+      "artist": "Ariana Grande",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W028777",
+      "title": "Stuck With U",
+      "artist": "Ariana Grande",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W031142",
+      "title": "We Can't Be Friends (Wait For Your Love)",
+      "artist": "Ariana Grande",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W031059",
+      "title": "Yes, And?",
+      "artist": "Ariana Grande",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016122",
+      "title": "Always",
+      "artist": "Atlantic Starr",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W022939",
+      "title": "Girlfriend",
+      "artist": "Avril Lavigne",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010565",
+      "title": "Pick Up The Pieces",
+      "artist": "Awb",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010649",
+      "title": "(Hey Won't You Play) Another Somebody Done Somebody Wrong Song",
+      "artist": "B.j. Thomas",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W021502",
+      "title": "Bump, Bump, Bump",
+      "artist": "B2k",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010451",
+      "title": "You Ain't Seen Nothing Yet/Free Wheelin'",
+      "artist": "Bachman-turner Overdrive",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015831",
+      "title": "Venus",
+      "artist": "Bananarama",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W020167",
+      "title": "One Week",
+      "artist": "Barenaked Ladies",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011085",
+      "title": "I Write The Songs",
+      "artist": "Barry Manilow",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011854",
+      "title": "Looks Like We Made It",
+      "artist": "Barry Manilow",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010537",
+      "title": "Mandy",
+      "artist": "Barry Manilow",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W004708",
+      "title": "Eve Of Destruction",
+      "artist": "Barry Mcguire",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010395",
+      "title": "Can't Get Enough Of Your Love, Babe",
+      "artist": "Barry White",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011031",
+      "title": "Saturday Night",
+      "artist": "Bay City Rollers",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W012737",
+      "title": "Love You Inside Out",
+      "artist": "Bee Gees",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011429",
+      "title": "You Should Be Dancing",
+      "artist": "Bee Gees",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016323",
+      "title": "Heaven Is A Place On Earth",
+      "artist": "Belinda Carlisle",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015826",
+      "title": "Take My Breath Away (Love Theme From \"Top Gun\")",
+      "artist": "Berlin",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016869",
+      "title": "Wind Beneath My Wings (From \"Beaches\")",
+      "artist": "Bette Midler",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011836",
+      "title": "Gonna Fly Now",
+      "artist": "Bill Conti",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016324",
+      "title": "(I've Had) The Time Of My Life",
+      "artist": "Bill Medley",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W028110",
+      "title": "Bad Guy",
+      "artist": "Billie Eilish",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016302",
+      "title": "Mony Mony \"Live\"",
+      "artist": "Billy Idol",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W014604",
+      "title": "Tell Her About It",
+      "artist": "Billy Joel",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015748",
+      "title": "There'll Be Sad Songs (To Make You Cry)",
+      "artist": "Billy Ocean",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010367",
+      "title": "Nothing From Nothing",
+      "artist": "Billy Preston",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W012649",
+      "title": "Heart Of Glass",
+      "artist": "Blondie",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W013468",
+      "title": "The Tide Is High",
+      "artist": "Blondie",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010162",
+      "title": "Hooked On A Feeling",
+      "artist": "Blue Swede",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016179",
+      "title": "Shakedown (From \"Beverly Hills Cop II\")",
+      "artist": "Bob Seger",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016734",
+      "title": "My Prerogative",
+      "artist": "Bobby Brown",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W004124",
+      "title": "Mr. Lonely",
+      "artist": "Bobby Vinton",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016865",
+      "title": "I'll Be There For You",
+      "artist": "Bon Jovi",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015910",
+      "title": "You Give Love A Bad Name",
+      "artist": "Bon Jovi",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W019852",
+      "title": "4 Seasons Of Loneliness",
+      "artist": "Boyz Ii Men",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W008070",
+      "title": "Make It With You",
+      "artist": "Bread",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W001327",
+      "title": "I Want To Be Wanted",
+      "artist": "Brenda Lee",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W001215",
+      "title": "Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini",
+      "artist": "Brian Hyland",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W023954",
+      "title": "3",
+      "artist": "Britney Spears",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W024561",
+      "title": "Hold It Against Me",
+      "artist": "Britney Spears",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W023546",
+      "title": "Womanizer",
+      "artist": "Britney Spears",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015920",
+      "title": "The Way It Is",
+      "artist": "Bruce Hornsby",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W026883",
+      "title": "That's What I Like",
+      "artist": "Bruno Mars",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W025371",
+      "title": "When I Was Your Man",
+      "artist": "Bruno Mars",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W029101",
+      "title": "Life Goes On",
+      "artist": "Bts",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W029497",
+      "title": "Permission To Dance",
+      "artist": "Bts",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011119",
+      "title": "Convoy",
+      "artist": "C.w. Mccall",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W027242",
+      "title": "Havana",
+      "artist": "Camila Cabello",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W012982",
+      "title": "Do That To Me One More Time",
+      "artist": "Captain",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W029240",
+      "title": "Up",
+      "artist": "Cardi B",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W027527",
+      "title": "I Like It",
+      "artist": "Cardi B, Bad Bunny",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010550",
+      "title": "Please Mr. Postman",
+      "artist": "Carpenters",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W022308",
+      "title": "Inside Your Heaven",
+      "artist": "Carrie Underwood",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010126",
+      "title": "Dark Lady",
+      "artist": "Cher",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W012809",
+      "title": "Good Times",
+      "artist": "Chic",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W013278",
+      "title": "Sailing",
+      "artist": "Christopher Cross",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W023369",
+      "title": "Viva La Vida",
+      "artist": "Coldplay",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W029644",
+      "title": "My Universe",
+      "artist": "Coldplay X Bts",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017889",
+      "title": "All 4 Love",
+      "artist": "Color Me Badd",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W012943",
+      "title": "Still",
+      "artist": "Commodores",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W002266",
+      "title": "Don't Break The Heart That Loves You",
+      "artist": "Connie Francis",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W020735",
+      "title": "With Arms Wide Open",
+      "artist": "Creed",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W022399",
+      "title": "Laffy Taffy",
+      "artist": "D4l",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W013883",
+      "title": "I Can't Go For That (No Can Do)",
+      "artist": "Daryl Hall undefined John Oates",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W000458",
+      "title": "The Happy Organ",
+      "artist": "Dave \"baby\" Cortez",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W014450",
+      "title": "Let's Dance",
+      "artist": "David Bowie",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W002443",
+      "title": "The Stripper",
+      "artist": "David Rose And His Orchestra",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011709",
+      "title": "Don't Give Up On Us",
+      "artist": "David Soul",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W003871",
+      "title": "Everybody Loves Somebody",
+      "artist": "Dean Martin",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016537",
+      "title": "Foolish Beat",
+      "artist": "Debbie Gibson",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016657",
+      "title": "Love Bites",
+      "artist": "Def Leppard",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W020443",
+      "title": "Bills, Bills, Bills",
+      "artist": "Destiny's Child",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W014380",
+      "title": "Come On Eileen",
+      "artist": "Dexys Midnight Runners",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W007676",
+      "title": "Someday We'll Be Together",
+      "artist": "Diana Ross",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011067",
+      "title": "Theme From Mahogany (Do You Know Where You're Going To)",
+      "artist": "Diana Ross",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009817",
+      "title": "Touch Me In The Morning",
+      "artist": "Diana Ross",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010384",
+      "title": "Then Came You",
+      "artist": "Dionne Warwicke",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W020155",
+      "title": "Lately",
+      "artist": "Divine",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W027120",
+      "title": "I'm The One",
+      "artist": "Dj Khaled",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W028518",
+      "title": "Say So",
+      "artist": "Doja Cat",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W005380",
+      "title": "Sunshine Superman",
+      "artist": "Donovan",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W030920",
+      "title": "First Person Shooter",
+      "artist": "Drake",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W030141",
+      "title": "Jimmy Cooks",
+      "artist": "Drake",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W030877",
+      "title": "Slime You Out",
+      "artist": "Drake",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W028702",
+      "title": "Toosie Slide",
+      "artist": "Drake",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W029603",
+      "title": "Way 2 Sexy",
+      "artist": "Drake",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W029276",
+      "title": "What's Next",
+      "artist": "Drake",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010561",
+      "title": "Best Of My Love",
+      "artist": "Eagles",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W012951",
+      "title": "Heartache Tonight",
+      "artist": "Eagles",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011748",
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011661",
+      "title": "New Kid In Town",
+      "artist": "Eagles",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010824",
+      "title": "One Of These Nights",
+      "artist": "Eagles",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010666",
+      "title": "Shining Star",
+      "artist": "Earth, Wind",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009707",
+      "title": "Frankenstein",
+      "artist": "Edgar Winter Group",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010160",
+      "title": "Bennie And The Jets",
+      "artist": "Elton John",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W007583",
+      "title": "Suspicious Minds",
+      "artist": "Elvis Presley",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017666",
+      "title": "Unbelievable",
+      "artist": "Emf",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W024215",
+      "title": "Not Afraid",
+      "artist": "Eminem",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W023653",
+      "title": "Crack A Bottle",
+      "artist": "Eminem, Dr. Dre",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010369",
+      "title": "I Shot The Sheriff",
+      "artist": "Eric Clapton",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W001673",
+      "title": "Mother-In-Law",
+      "artist": "Ernie K-doe",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W014516",
+      "title": "Sweet Dreams (Are Made Of This)",
+      "artist": "Eurythmics",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016392",
+      "title": "Seasons Change",
+      "artist": "Expose",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017642",
+      "title": "More Than Words",
+      "artist": "Extreme",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W021994",
+      "title": "I Believe",
+      "artist": "Fantasia",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W022993",
+      "title": "Big Girls Don't Cry",
+      "artist": "Fergie",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016927",
+      "title": "Good Thing",
+      "artist": "Fine Young Cannibals",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016830",
+      "title": "She Drives Me Crazy",
+      "artist": "Fine Young Cannibals",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011823",
+      "title": "Dreams",
+      "artist": "Fleetwood Mac",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W005210",
+      "title": "Strangers In The Night",
+      "artist": "Frank Sinatra",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W000873",
+      "title": "Why",
+      "artist": "Frankie Avalon",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010556",
+      "title": "My Eyes Adored You",
+      "artist": "Frankie Valli",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010648",
+      "title": "Before The Next Teardrop Falls",
+      "artist": "Freddy Fender",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W030019",
+      "title": "Wait For U",
+      "artist": "Future",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015795",
+      "title": "Invisible Touch",
+      "artist": "Genesis",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009798",
+      "title": "Give Me Love - (Give Me Peace On Earth)",
+      "artist": "George Harrison",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016354",
+      "title": "Got My Mind Set On You",
+      "artist": "George Harrison",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017439",
+      "title": "Praying For Time",
+      "artist": "George Michael",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017923",
+      "title": "Don't Let The Sun Go Down On Me",
+      "artist": "George Michael/elton John",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011735",
+      "title": "Southern Nights",
+      "artist": "Glen Campbell",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016996",
+      "title": "Don't Wanna Lose You",
+      "artist": "Gloria Estefan",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010241",
+      "title": "Sundown",
+      "artist": "Gordon Lightfoot",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009890",
+      "title": "We're An American Band",
+      "artist": "Grand Funk",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015950",
+      "title": "Shake You Down",
+      "artist": "Gregory Abbott",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010863",
+      "title": "Fallin' In Love",
+      "artist": "Hamilton, Joe Frank",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010477",
+      "title": "Cat's In The Cradle",
+      "artist": "Harry Chapin",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W028451",
+      "title": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015639",
+      "title": "These Dreams",
+      "artist": "Heart",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010498",
+      "title": "Angie Baby",
+      "artist": "Helen Reddy",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009846",
+      "title": "Delta Dawn",
+      "artist": "Helen Reddy",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009314",
+      "title": "I Am Woman",
+      "artist": "Helen Reddy",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W004609",
+      "title": "I'm Henry VIII, I Am",
+      "artist": "Herman's Hermits",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017611",
+      "title": "I Like The Way (The Kissing Game)",
+      "artist": "Hi-five",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W001163",
+      "title": "Alley-Oop",
+      "artist": "Hollywood Argyles",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W031167",
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016035",
+      "title": "Jacob's Ladder",
+      "artist": "Huey Lewis",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016358",
+      "title": "Need You Tonight",
+      "artist": "Inxs",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W007692",
+      "title": "I Want You Back",
+      "artist": "Jackson 5",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W022444",
+      "title": "You're Beautiful",
+      "artist": "James Blunt",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017414",
+      "title": "I Don't Have The Heart",
+      "artist": "James Ingram",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W008669",
+      "title": "You've Got A Friend",
+      "artist": "James Taylor",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015506",
+      "title": "Miami Vice Theme",
+      "artist": "Jan Hammer",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017454",
+      "title": "Black Cat",
+      "artist": "Janet Jackson",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017522",
+      "title": "Love Will Never Do (Without You)",
+      "artist": "Janet Jackson",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W030765",
+      "title": "Try That In A Small Town",
+      "artist": "Jason Aldean",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W023891",
+      "title": "Whatcha Say",
+      "artist": "Jason Derulo",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W028850",
+      "title": "Savage Love (Laxed - Siren Beat)",
+      "artist": "Jawsh 685 X Jason Derulo",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W006846",
+      "title": "Harper Valley P.T.A.",
+      "artist": "Jeannie C. Riley",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W030575",
+      "title": "Like Crazy",
+      "artist": "Jimin",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W001862",
+      "title": "Wooden Heart",
+      "artist": "Joe Dowell",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010945",
+      "title": "I'm Sorry",
+      "artist": "John Denver",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010135",
+      "title": "Sunshine On My Shoulders",
+      "artist": "John Denver",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010717",
+      "title": "Thank God I'm A Country Boy",
+      "artist": "John Denver",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010462",
+      "title": "Whatever Gets You Thru The Night",
+      "artist": "John Lennon",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011281",
+      "title": "Welcome Back",
+      "artist": "John Sebastian",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W012251",
+      "title": "You're The One That I Want",
+      "artist": "John Travolta",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015014",
+      "title": "Missing You",
+      "artist": "John Waite",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W012252",
+      "title": "Too Much, Too Little, Too Late",
+      "artist": "Johnny Mathis/deniece Williams",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W005480",
+      "title": "Poor Side Of Town",
+      "artist": "Johnny Rivers",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017396",
+      "title": "Blaze Of Glory (From \"Young Guns II\")",
+      "artist": "Jon Bon Jovi",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W028079",
+      "title": "Sucker",
+      "artist": "Jonas Brothers",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W030764",
+      "title": "Seven",
+      "artist": "Jung Kook",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W029292",
+      "title": "Peaches",
+      "artist": "Justin Bieber",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W026395",
+      "title": "What Do You Mean?",
+      "artist": "Justin Bieber",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W026690",
+      "title": "Can't Stop The Feeling!",
+      "artist": "Justin Timberlake",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W022857",
+      "title": "What Goes Around...Comes Around",
+      "artist": "Justin Timberlake",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W023096",
+      "title": "Stronger",
+      "artist": "Kanye West",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017794",
+      "title": "Romantic",
+      "artist": "Karyn White",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W025073",
+      "title": "Part Of Me",
+      "artist": "Katy Perry",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011441",
+      "title": "(Shake, Shake, Shake) Shake Your Booty",
+      "artist": "Kc And The Sunshine Band",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010900",
+      "title": "Get Down Tonight",
+      "artist": "Kc And The Sunshine Band",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011751",
+      "title": "I'm Your Boogie Man",
+      "artist": "Kc And The Sunshine Band",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W012904",
+      "title": "Please Don't Go",
+      "artist": "Kc And The Sunshine Band",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W024456",
+      "title": "We R Who We R",
+      "artist": "Ke$ha",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W027073",
+      "title": "Humble.",
+      "artist": "Kendrick Lamar",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W031626",
+      "title": "Squabble Up",
+      "artist": "Kendrick Lamar",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016128",
+      "title": "You Keep Me Hangin' On",
+      "artist": "Kim Wilde",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010611",
+      "title": "Lady Marmalade",
+      "artist": "Labelle",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W023639",
+      "title": "Poker Face",
+      "artist": "Lady Gaga",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W028809",
+      "title": "Rain On Me",
+      "artist": "Lady Gaga",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W027831",
+      "title": "Shallow",
+      "artist": "Lady Gaga",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W001299",
+      "title": "Mr. Custer",
+      "artist": "Larry Verne",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011750",
+      "title": "When I Need You",
+      "artist": "Leo Sayer",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011582",
+      "title": "You Make Me Feel Like Dancing",
+      "artist": "Leo Sayer",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W029519",
+      "title": "Industry Baby",
+      "artist": "Lil Nas X",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W029306",
+      "title": "Montero (Call Me By Your Name)",
+      "artist": "Lil Nas X",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010567",
+      "title": "You're No Good",
+      "artist": "Linda Ronstadt",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016139",
+      "title": "Head To Toe",
+      "artist": "Lisa Lisa And Cult Jam",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016262",
+      "title": "Lost In Emotion",
+      "artist": "Lisa Lisa And Cult Jam",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W002518",
+      "title": "The Loco-Motion",
+      "artist": "Little Eva",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017591",
+      "title": "I've Been Thinking About You",
+      "artist": "Londonbeat",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009296",
+      "title": "Brandy (You're A Fine Girl)",
+      "artist": "Looking Glass",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W004123",
+      "title": "Ringo",
+      "artist": "Lorne Greene",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W004948",
+      "title": "Lightnin' Strikes",
+      "artist": "Lou Christie",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W003611",
+      "title": "Hello, Dolly!",
+      "artist": "Louis Armstrong And The All Stars",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010070",
+      "title": "Love's Theme",
+      "artist": "Love Unlimited Orchestra",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W021744",
+      "title": "Stand Up",
+      "artist": "Ludacris",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W012879",
+      "title": "Pop Muzik",
+      "artist": "M",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015288",
+      "title": "Crazy For You",
+      "artist": "Madonna",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015737",
+      "title": "Live To Tell",
+      "artist": "Madonna",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016006",
+      "title": "Open Your Heart",
+      "artist": "Madonna",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W018120",
+      "title": "This Used To Be My Playground",
+      "artist": "Madonna",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016235",
+      "title": "Who's That Girl",
+      "artist": "Madonna",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011628",
+      "title": "Blinded By The Light",
+      "artist": "Manfred Mann's Earth Band",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W020049",
+      "title": "My All",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W020596",
+      "title": "Thank God I Found You",
+      "artist": "Mariah Carey",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011537",
+      "title": "You Don't Have To Be A Star (To Be In My Show)",
+      "artist": "Marilyn Mccoo",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017764",
+      "title": "Good Vibrations",
+      "artist": "Marky Mark",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011822",
+      "title": "Got To Give It Up (Pt. I)",
+      "artist": "Marvin Gaye",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W020719",
+      "title": "Bent",
+      "artist": "Matchbox Twenty",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W001359",
+      "title": "Stay",
+      "artist": "Maurice Williams",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017377",
+      "title": "Close To You",
+      "artist": "Maxi Priest",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W031083",
+      "title": "Hiss",
+      "artist": "Megan Thee Stallion",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W028679",
+      "title": "Savage",
+      "artist": "Megan Thee Stallion",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W014160",
+      "title": "Who Can It Be Now?",
+      "artist": "Men At Work",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017853",
+      "title": "When A Man Loves A Woman",
+      "artist": "Michael Bolton",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016881",
+      "title": "Rock On (From \"Dream A Little Dream\")",
+      "artist": "Michael Damian",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009373",
+      "title": "Ben",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016552",
+      "title": "Dirty Diana",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W012868",
+      "title": "Don't Stop 'Til You Get Enough",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016268",
+      "title": "I Just Can't Stop Loving You",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016385",
+      "title": "The Way You Make Me Feel",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W019192",
+      "title": "You Are Not Alone",
+      "artist": "Michael Jackson",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016801",
+      "title": "The Living Years",
+      "artist": "Mike + The Mechanics",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016919",
+      "title": "Baby Don't Forget My Number",
+      "artist": "Milli Vanilli",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010621",
+      "title": "Lovin' You",
+      "artist": "Minnie Riperton",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W031575",
+      "title": "Love Somebody",
+      "artist": "Morgan Wallen",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W031922",
+      "title": "What I Want",
+      "artist": "Morgan Wallen",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W002332",
+      "title": "Stranger On The Shore",
+      "artist": "Mr. Acker Bilk",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W004991",
+      "title": "These Boots Are Made For Walkin'",
+      "artist": "Nancy Sinatra",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W008181",
+      "title": "Cracklin' Rosie",
+      "artist": "Neil Diamond",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009227",
+      "title": "Song Sung Blue",
+      "artist": "Neil Diamond",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010503",
+      "title": "Laughter In The Rain",
+      "artist": "Neil Sedaka",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009072",
+      "title": "Heart Of Gold",
+      "artist": "Neil Young",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W022829",
+      "title": "Say It Right",
+      "artist": "Nelly Furtado",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017388",
+      "title": "(Can't Live Without Your) Love And Affection",
+      "artist": "Nelson",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017003",
+      "title": "Hangin' Tough",
+      "artist": "New Kids On The Block",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016892",
+      "title": "I'll Be Loving You (Forever)",
+      "artist": "New Kids On The Block",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W012343",
+      "title": "Hot Child In The City",
+      "artist": "Nick Gilder",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W030238",
+      "title": "Super Freaky Girl",
+      "artist": "Nicki Minaj",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W003332",
+      "title": "Deep Purple",
+      "artist": "Nino Tempo",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010575",
+      "title": "Fire",
+      "artist": "Ohio Players",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011086",
+      "title": "Love Rollercoaster",
+      "artist": "Ohio Players",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010629",
+      "title": "Have You Never Been Mellow",
+      "artist": "Olivia Newton-john",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W029379",
+      "title": "Good 4 U",
+      "artist": "Olivia Rodrigo",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W020875",
+      "title": "Ms. Jackson",
+      "artist": "Outkast",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W021756",
+      "title": "The Way You Move",
+      "artist": "Outkast",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W024423",
+      "title": "Raise Your Glass",
+      "artist": "P!nk",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W023492",
+      "title": "So What",
+      "artist": "P!nk",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017861",
+      "title": "Set Adrift On Memory Bliss",
+      "artist": "P.m. Dawn",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010333",
+      "title": "The Night Chicago Died",
+      "artist": "Paper Lace",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W001757",
+      "title": "Moody River",
+      "artist": "Pat Boone",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W008783",
+      "title": "Uncle Albert/Admiral Halsey",
+      "artist": "Paul",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010248",
+      "title": "Band On The Run",
+      "artist": "Paul Mccartney And Wings",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015372",
+      "title": "Everytime You Go Away",
+      "artist": "Paul Young",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016980",
+      "title": "Cold Hearted",
+      "artist": "Paula Abdul",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017761",
+      "title": "The Promise Of A New Day",
+      "artist": "Paula Abdul",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W018284",
+      "title": "A Whole New World (Aladdin's Theme)",
+      "artist": "Peabo Bryson",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015693",
+      "title": "West End Girls",
+      "artist": "Pet Shop Boys",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W003778",
+      "title": "A World Without Love",
+      "artist": "Peter And Gordon",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015916",
+      "title": "The Next Time I Fall",
+      "artist": "Peter Cetera",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015773",
+      "title": "Sledgehammer",
+      "artist": "Peter Gabriel",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W007649",
+      "title": "Leaving On A Jet Plane",
+      "artist": "Peter, Paul",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015368",
+      "title": "Sussudio",
+      "artist": "Phil Collins",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015540",
+      "title": "Separate Lives",
+      "artist": "Phil Collins And Marilyn Martin",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W024670",
+      "title": "Give Me Everything",
+      "artist": "Pitbull",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W027461",
+      "title": "Psycho",
+      "artist": "Post Malone",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W027869",
+      "title": "Sunflower (Spider-Man: Into The Spider-Verse)",
+      "artist": "Post Malone",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016970",
+      "title": "Batdance (From \"Batman\")",
+      "artist": "Prince",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W001351",
+      "title": "Georgia On My Mind",
+      "artist": "Ray Charles",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015468",
+      "title": "Oh Sheila",
+      "artist": "Ready For The World",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W013495",
+      "title": "Keep On Loving You",
+      "artist": "Reo Speedwagon",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011094",
+      "title": "Theme From S.W.A.T.",
+      "artist": "Rhythm Heritage",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016570",
+      "title": "Hold On To The Nights",
+      "artist": "Richard Marx",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016925",
+      "title": "Satisfied",
+      "artist": "Richard Marx",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016526",
+      "title": "Together Forever",
+      "artist": "Rick Astley",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011493",
+      "title": "Disco Duck (Part I)",
+      "artist": "Rick Dees",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W024379",
+      "title": "Only Girl (In The World)",
+      "artist": "Rihanna",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W023342",
+      "title": "Take A Bow",
+      "artist": "Rihanna",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W024450",
+      "title": "What's My Name?",
+      "artist": "Rihanna",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W024502",
+      "title": "sssS&M",
+      "artist": "Rihanna",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009990",
+      "title": "Photograph",
+      "artist": "Ringo Starr",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010084",
+      "title": "You're Sixteen",
+      "artist": "Ringo Starr",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W012777",
+      "title": "Sad Eyes",
+      "artist": "Robert John",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015667",
+      "title": "Addicted To Love",
+      "artist": "Robert Palmer",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010336",
+      "title": "Feel Like Makin' Love",
+      "artist": "Roberta Flack",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011585",
+      "title": "Car Wash",
+      "artist": "Rose Royce",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017614",
+      "title": "Joyride",
+      "artist": "Roxette",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017046",
+      "title": "Listen To Your Heart",
+      "artist": "Roxette",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016839",
+      "title": "The Look",
+      "artist": "Roxette",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W001702",
+      "title": "Running Scared",
+      "artist": "Roy Orbison",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W002929",
+      "title": "Our Day Will Come",
+      "artist": "Ruby And The Romantics",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W031964",
+      "title": "Manchild",
+      "artist": "Sabrina Carpenter",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W031343",
+      "title": "Please Please Please",
+      "artist": "Sabrina Carpenter",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W030301",
+      "title": "Unholy",
+      "artist": "Sam Smith",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W019133",
+      "title": "Kiss From A Rose",
+      "artist": "Seal",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W022489",
+      "title": "Temperature",
+      "artist": "Sean Paul",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W028413",
+      "title": "Lose You To Love Me",
+      "artist": "Selena Gomez",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W020922",
+      "title": "Angel",
+      "artist": "Shaggy",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011863",
+      "title": "Da Doo Ron Ron",
+      "artist": "Shaun Cassidy",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W028226",
+      "title": "Senorita",
+      "artist": "Shawn Mendes",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W014513",
+      "title": "When I'm With You",
+      "artist": "Sheriff",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015285",
+      "title": "Don't You (Forget About Me)",
+      "artist": "Simple Minds",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015734",
+      "title": "Holding Back The Years",
+      "artist": "Simply Red",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016929",
+      "title": "If You Don't Know Me By Now",
+      "artist": "Simply Red",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W013627",
+      "title": "Medley",
+      "artist": "Stars On 45",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015630",
+      "title": "Sara",
+      "artist": "Starship",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011490",
+      "title": "Rock'n Me",
+      "artist": "Steve Miller",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015811",
+      "title": "Higher Love",
+      "artist": "Steve Winwood",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011640",
+      "title": "I Wish",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015503",
+      "title": "Part-Time Lover",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009531",
+      "title": "Superstition",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009710",
+      "title": "You Are The Sunshine Of My Life",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010396",
+      "title": "You Haven't Done Nothin",
+      "artist": "Stevie Wonder",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W006244",
+      "title": "Incense And Peppermints",
+      "artist": "Strawberry Alarm Clock",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017356",
+      "title": "If Wishes Came True",
+      "artist": "Sweet Sensation",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W030420",
+      "title": "Kill Bill",
+      "artist": "Sza",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W022934",
+      "title": "Buy U A Drank (Shawty Snappin')",
+      "artist": "T-pain",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W024132",
+      "title": "Break Your Heart",
+      "artist": "Taio Cruz",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017205",
+      "title": "Love Will Lead You Back",
+      "artist": "Taylor Dayne",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W022678",
+      "title": "Do I Make You Proud",
+      "artist": "Taylor Hicks",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W029739",
+      "title": "All Too Well (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W026083",
+      "title": "Bad Blood",
+      "artist": "Taylor Swift",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W028913",
+      "title": "Cardigan",
+      "artist": "Taylor Swift",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W030969",
+      "title": "Is It Over Now? (Taylor's Version) [From The Vault]",
+      "artist": "Taylor Swift",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W029141",
+      "title": "Willow",
+      "artist": "Taylor Swift",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W030830",
+      "title": "Lose Control",
+      "artist": "Teddy Swims",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016427",
+      "title": "Wishing Well",
+      "artist": "Terence Trent D'arby",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016831",
+      "title": "Eternal Flame",
+      "artist": "The Bangles",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W005545",
+      "title": "Good Vibrations",
+      "artist": "The Beach Boys",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016683",
+      "title": "Kokomo (From\"Cocktail\" )",
+      "artist": "The Beach Boys",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W006091",
+      "title": "All You Need Is Love",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W007632",
+      "title": "Come Together/Something",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W003725",
+      "title": "Love Me Do",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W005784",
+      "title": "Penny Lane",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W004471",
+      "title": "Ticket To Ride",
+      "artist": "The Beatles",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011200",
+      "title": "Let Your Love Flow",
+      "artist": "The Bellamy Brothers",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W004519",
+      "title": "Mr. Tambourine Man",
+      "artist": "The Byrds",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009184",
+      "title": "Oh Girl",
+      "artist": "The Chi-lites",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W004859",
+      "title": "Over And Over",
+      "artist": "The Dave Clark Five",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010585",
+      "title": "Black Water",
+      "artist": "The Doobie Brothers",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W012605",
+      "title": "What A Fool Believes",
+      "artist": "The Doobie Brothers",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W000018",
+      "title": "Little Star",
+      "artist": "The Elegants",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016670",
+      "title": "Wild, Wild West",
+      "artist": "The Escape Club",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W000747",
+      "title": "Mr. Blue",
+      "artist": "The Fleetwoods",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W008576",
+      "title": "Want Ads",
+      "artist": "The Honey Cone",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010293",
+      "title": "Rock The Boat",
+      "artist": "The Hues Corporation",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015911",
+      "title": "Human",
+      "artist": "The Human League",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W000207",
+      "title": "Tom Dooley",
+      "artist": "The Kingston Trio",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W006390",
+      "title": "Green Tambourine",
+      "artist": "The Lemon Pipers",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W001992",
+      "title": "Please Mr. Postman",
+      "artist": "The Marvelettes",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W004706",
+      "title": "Hang On Sloopy",
+      "artist": "The Mccoys",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011059",
+      "title": "Love Machine (Part 1)",
+      "artist": "The Miracles",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W005458",
+      "title": "Last Train To Clarksville",
+      "artist": "The Monkees",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009617",
+      "title": "Love Train",
+      "artist": "The O'jays",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W008581",
+      "title": "Indian Reservation (The Lament Of The Cherokee Reservation Indian)",
+      "artist": "The Raiders",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009949",
+      "title": "Angie",
+      "artist": "The Rolling Stones",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W012314",
+      "title": "Miss You",
+      "artist": "The Rolling Stones",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W005717",
+      "title": "Ruby Tuesday",
+      "artist": "The Rolling Stones",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W028744",
+      "title": "The Scotts",
+      "artist": "The Scotts, Travis Scott",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W004087",
+      "title": "Leader Of The Pack",
+      "artist": "The Shangri-las",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W007737",
+      "title": "Venus",
+      "artist": "The Shocking Blue",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009183",
+      "title": "I'll Take You There",
+      "artist": "The Staple Singers",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011056",
+      "title": "Let's Do It Again",
+      "artist": "The Staple Singers",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010009",
+      "title": "The Joker",
+      "artist": "The Steve Miller Band",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W004486",
+      "title": "Back In My Arms Again",
+      "artist": "The Supremes",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W005728",
+      "title": "Love Is Here And Now You're Gone",
+      "artist": "The Supremes",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W005863",
+      "title": "The Happening",
+      "artist": "The Supremes",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011226",
+      "title": "Boogie Fever",
+      "artist": "The Sylvers",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W004271",
+      "title": "My Girl",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009473",
+      "title": "Papa Was A Rollin' Stone",
+      "artist": "The Temptations",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W003135",
+      "title": "So Much In Love",
+      "artist": "The Tymes",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W026892",
+      "title": "Die For You",
+      "artist": "The Weeknd",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W028461",
+      "title": "Heartless",
+      "artist": "The Weeknd",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W026813",
+      "title": "Starboy",
+      "artist": "The Weeknd",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W005090",
+      "title": "Good Lovin'",
+      "artist": "The Young Rascals",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011668",
+      "title": "Don't Leave Me This Way",
+      "artist": "Thelma Houston",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W009379",
+      "title": "Black & White",
+      "artist": "Three Dog Night",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017560",
+      "title": "One More Try",
+      "artist": "Timmy T",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017227",
+      "title": "I'll Be Your Everything",
+      "artist": "Tommy Page",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W014233",
+      "title": "Mickey",
+      "artist": "Toni Basil",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W019439",
+      "title": "You're Makin' Me High/Let It Flow",
+      "artist": "Toni Braxton",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W014291",
+      "title": "Africa",
+      "artist": "Toto",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W031728",
+      "title": "4X4",
+      "artist": "Travis Scott",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W029000",
+      "title": "Franchise",
+      "artist": "Travis Scott",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W028390",
+      "title": "HIGHEST IN THE ROOM",
+      "artist": "Travis Scott",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W027735",
+      "title": "Sicko Mode",
+      "artist": "Travis Scott",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W021815",
+      "title": "Slow Jamz",
+      "artist": "Twista",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W014827",
+      "title": "Red Red Wine",
+      "artist": "Ub40",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010765",
+      "title": "The Hustle",
+      "artist": "Van Mccoy",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W013919",
+      "title": "Chariots Of Fire - Titles",
+      "artist": "Vangelis",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017447",
+      "title": "Ice Ice Baby",
+      "artist": "Vanilla Ice",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W020624",
+      "title": "Everything You Want",
+      "artist": "Vertical Horizon",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W011370",
+      "title": "A Fifth Of Beethoven",
+      "artist": "Walter Murphy",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W004403",
+      "title": "Game Of Love",
+      "artist": "Wayne Fontana",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016229",
+      "title": "Here I Go Again",
+      "artist": "Whitesnake",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W019276",
+      "title": "Exhale (Shoop Shoop) (From \"Waiting To Exhale\")",
+      "artist": "Whitney Houston",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017484",
+      "title": "I'm Your Baby Tonight",
+      "artist": "Whitney Houston",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W015479",
+      "title": "Saving All My Love For You",
+      "artist": "Whitney Houston",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016362",
+      "title": "So Emotional",
+      "artist": "Whitney Houston",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W020416",
+      "title": "Wild Wild West",
+      "artist": "Will Smith",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W016688",
+      "title": "Baby, I Love Your Way/Freebird Medley",
+      "artist": "Will To Power",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017261",
+      "title": "Hold On",
+      "artist": "Wilson Phillips",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W017592",
+      "title": "You're In Love",
+      "artist": "Wilson Phillips",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W010823",
+      "title": "Listen To What The Man Said",
+      "artist": "Wings",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W024392",
+      "title": "Black And Yellow",
+      "artist": "Wiz Khalifa",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W027470",
+      "title": "Sad!",
+      "artist": "Xxxtentacion",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W012174",
+      "title": "If I Can't Have You",
+      "artist": "Yvonne Elliman",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W030836",
+      "title": "I Remember Everything",
+      "artist": "Zach Bryan",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W026566",
+      "title": "Pillowtalk",
+      "artist": "Zayn",
+      "weeks_at_number_one": 1
+    },
+    {
+      "song_id": "W031101",
+      "title": "Carnival",
+      "artist": "\u00a5$: Ye",
+      "weeks_at_number_one": 1
+    }
+  ]
+}

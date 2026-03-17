@@ -1,0 +1,64 @@
+RetroVerse page art brief
+
+Target page: 1978 / cover
+Page slug: cover
+Page number: 1
+Page title to be overlaid later: 1978
+Story anchor to be overlaid later: Annual Issue
+Illustration role: COVER_ARTIST
+Studio responsibility: Own cover-scale compositions with strong focal contrast, broad scene storytelling, and clear masthead breathing room.
+
+Role-specific prompt framing:
+- Treat the artwork as a full magazine cover composition with one commanding focal read.
+- Build a full-page composition with a single strong focal point and a clear supporting scene.
+- Preserve broad masthead and cover-line breathing room so the artwork behaves like a real cover, not an interior spread.
+- Favor iconic silhouette, depth, and immediate shelf impact over scattered detail.
+
+Page purpose:
+Present 1978 as a complete RetroVerse 1978 cover page, with page-aware artwork under real typography and no text baked into the illustration layer for `cover`.
+
+Story summary:
+1978 Annual Issue Led by No. 1 Stayin' Alive by Bee Gees, the 1978 issue closes with the full RetroVerse Top 23. Inside This Issue Top Songs of the Year: the records that held the room all year long Charts Overview: how 1978 moved, surged, and surprised week to week Movies of the Year: big-screen momentum through a chart-era lens Television of the Year: the shared routines that shaped the week Culture Feature: daily life, style, and the small details people remember RetroVerse Top 23: our closing countdown built from yearly performance Cover Illustration: A hand-drawn, 1970s editorial-style city night scene anchored by a glowing dance floor at center. Around it: a radio console, record-store
+
+Scene description:
+A full-page 1978 city-at-night montage with music, film, and neon street energy arranged as one editorial cover scene.
+
+Style instructions:
+- Design for a full-page magazine cover, not an insert illustration.
+- Hold the top third open enough for masthead and cover-line placement.
+- Favor one dominant scene with secondary supporting details rather than a busy collage of unrelated moments.
+
+Composition:
+- full-page cover scene with protected masthead and cover-line zones
+- Orientation: portrait
+- Mood: kinetic and high-attention
+- Color palette: warm paper stock, halftone black, amber, teal, and late-70s saturated accent colors
+
+Visual hierarchy:
+- Primary focal area supports 1978.
+- Secondary props reinforce `cover` without competing with text zones.
+- Negative space stays calm inside title, body, sidebar, and footer zones.
+- Top-of-page breathing room is reserved for the masthead and primary cover lines.
+
+Protected text-safe zones:
+- title_zone: x=7%, y=7%, width=54%, height=18%, unit=percent
+- body_zone: x=7%, y=69%, width=46%, height=17%, unit=percent
+- sidebar_zone: x=62%, y=20%, width=26%, height=54%, unit=percent
+- footer_zone: x=7%, y=93%, width=86%, height=3%, unit=percent
+
+Illustration rules:
+- no readable text inside artwork
+- DO NOT RENDER FINAL TEXT INTO THE ARTWORK.
+- Do not render readable article body text.
+- Do not render chart or table text.
+- Do not render fake production typography.
+- Do not render magazine headlines, page titles, pull quotes, sidebars, or page furniture.
+- Only environmental/signage text is allowed, and only if it is natural, minimal, and subordinate.
+- Preserve open space for title, body, sidebar, and footer placement.
+- Treat the artwork as a background asset used by the layout engine.
+
+RetroVerse Easter egg rule:
+- Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography.
+
+Global artwork constraint:
+- editorial illustration only, background artwork, no text, no typography, no lettering, no numbers, no logos, no signage, no readable symbols. Leave clean open space near the top of the composition for magazine masthead placement.

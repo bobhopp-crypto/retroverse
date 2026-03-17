@@ -1,0 +1,493 @@
+{
+  "year": "1959",
+  "top_songs": [
+    {
+      "artist": "Bobby Darin",
+      "title": "Mack The Knife",
+      "weeks": 19,
+      "peak": 1,
+      "score": 606
+    },
+    {
+      "artist": "The Fleetwoods",
+      "title": "Mr. Blue",
+      "weeks": 17,
+      "peak": 1,
+      "score": 490
+    },
+    {
+      "artist": "Johnny Horton",
+      "title": "The Battle Of New Orleans",
+      "weeks": 21,
+      "peak": 1,
+      "score": 472
+    },
+    {
+      "artist": "Paul Anka",
+      "title": "Lonely Boy",
+      "weeks": 15,
+      "peak": 1,
+      "score": 443
+    },
+    {
+      "artist": "Ritchie Valens",
+      "title": "Donna",
+      "weeks": 17,
+      "peak": 2,
+      "score": 402
+    },
+    {
+      "artist": "Lloyd Price",
+      "title": "Stagger Lee",
+      "weeks": 17,
+      "peak": 1,
+      "score": 380
+    },
+    {
+      "artist": "Paul Anka",
+      "title": "Put Your Head On My Shoulder",
+      "weeks": 18,
+      "peak": 2,
+      "score": 377
+    },
+    {
+      "artist": "The Browns",
+      "title": "The Three Bells",
+      "weeks": 17,
+      "peak": 1,
+      "score": 367
+    },
+    {
+      "artist": "Della Reese",
+      "title": "Don't You Know",
+      "weeks": 15,
+      "peak": 2,
+      "score": 366
+    },
+    {
+      "artist": "The Crests",
+      "title": "16 Candles",
+      "weeks": 15,
+      "peak": 2,
+      "score": 356
+    },
+    {
+      "artist": "The Platters",
+      "title": "Smoke Gets In Your Eyes",
+      "weeks": 12,
+      "peak": 1,
+      "score": 339
+    },
+    {
+      "artist": "Bobby Darin",
+      "title": "Dream Lover",
+      "weeks": 17,
+      "peak": 2,
+      "score": 333
+    },
+    {
+      "artist": "Frankie Avalon",
+      "title": "Venus",
+      "weeks": 17,
+      "peak": 1,
+      "score": 329
+    },
+    {
+      "artist": "The Everly Brothers",
+      "title": "('til) I Kissed You",
+      "weeks": 16,
+      "peak": 4,
+      "score": 328
+    },
+    {
+      "artist": "Lloyd Price And His Orchestra",
+      "title": "Personality",
+      "weeks": 19,
+      "peak": 2,
+      "score": 325
+    },
+    {
+      "artist": "The Coasters",
+      "title": "Charlie Brown",
+      "weeks": 15,
+      "peak": 2,
+      "score": 315
+    },
+    {
+      "artist": "Lloyd Price",
+      "title": "I'm Gonna Get Married",
+      "weeks": 14,
+      "peak": 3,
+      "score": 306
+    },
+    {
+      "artist": "Dave \"baby\" Cortez",
+      "title": "The Happy Organ",
+      "weeks": 17,
+      "peak": 1,
+      "score": 301
+    },
+    {
+      "artist": "Guy Mitchell",
+      "title": "Heartaches By The Number",
+      "weeks": 13,
+      "peak": 1,
+      "score": 294
+    },
+    {
+      "artist": "Dion",
+      "title": "A Teenager In Love",
+      "weeks": 15,
+      "peak": 5,
+      "score": 285
+    },
+    {
+      "artist": "Phil Phillips",
+      "title": "Sea Of Love",
+      "weeks": 18,
+      "peak": 2,
+      "score": 278
+    },
+    {
+      "artist": "The Fleetwoods",
+      "title": "Come Softly To Me",
+      "weeks": 16,
+      "peak": 1,
+      "score": 276
+    },
+    {
+      "artist": "Bill Parsons",
+      "title": "The All American Boy",
+      "weeks": 14,
+      "peak": 2,
+      "score": 272
+    },
+    {
+      "artist": "Johnny And The Hurricanes",
+      "title": "Red River Rock",
+      "weeks": 17,
+      "peak": 5,
+      "score": 272
+    },
+    {
+      "artist": "Jerry Wallace",
+      "title": "Primrose Lane",
+      "weeks": 20,
+      "peak": 8,
+      "score": 270
+    },
+    {
+      "artist": "Brook Benton",
+      "title": "So Many Ways",
+      "weeks": 11,
+      "peak": 6,
+      "score": 270
+    },
+    {
+      "artist": "Andy Williams",
+      "title": "The Hawaiian Wedding Song (Ke Kali Nei Au)",
+      "weeks": 19,
+      "peak": 11,
+      "score": 269
+    },
+    {
+      "artist": "Connie Francis",
+      "title": "Lipstick On Your Collar",
+      "weeks": 17,
+      "peak": 5,
+      "score": 261
+    },
+    {
+      "artist": "Lavern Baker",
+      "title": "I Cried A Tear",
+      "weeks": 17,
+      "peak": 6,
+      "score": 257
+    },
+    {
+      "artist": "Andy Williams",
+      "title": "Lonely Street",
+      "weeks": 16,
+      "peak": 5,
+      "score": 252
+    },
+    {
+      "artist": "Dodie Stevens",
+      "title": "Pink Shoe Laces",
+      "weeks": 19,
+      "peak": 3,
+      "score": 250
+    },
+    {
+      "artist": "Fabian",
+      "title": "Tiger",
+      "weeks": 13,
+      "peak": 3,
+      "score": 249
+    },
+    {
+      "artist": "Sandy Nelson",
+      "title": "Teen Beat",
+      "weeks": 16,
+      "peak": 4,
+      "score": 248
+    },
+    {
+      "artist": "The Virtues",
+      "title": "Guitar Boogie Shuffle",
+      "weeks": 16,
+      "peak": 5,
+      "score": 245
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "A Big Hunk O' Love",
+      "weeks": 14,
+      "peak": 1,
+      "score": 243
+    },
+    {
+      "artist": "Wilbert Harrison",
+      "title": "Kansas City",
+      "weeks": 16,
+      "peak": 1,
+      "score": 240
+    },
+    {
+      "artist": "Santo",
+      "title": "Sleep Walk",
+      "weeks": 18,
+      "peak": 1,
+      "score": 240
+    },
+    {
+      "artist": "Jackie Wilson",
+      "title": "Lonely Teardrops",
+      "weeks": 15,
+      "peak": 7,
+      "score": 235
+    },
+    {
+      "artist": "Jack Scott",
+      "title": "Goodbye Baby",
+      "weeks": 13,
+      "peak": 8,
+      "score": 234
+    },
+    {
+      "artist": "Sammy Turner",
+      "title": "Lavender-Blue",
+      "weeks": 18,
+      "peak": 3,
+      "score": 234
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Bobby Darin",
+      "hits": 2
+    },
+    {
+      "artist": "The Fleetwoods",
+      "hits": 2
+    },
+    {
+      "artist": "Paul Anka",
+      "hits": 2
+    },
+    {
+      "artist": "Lloyd Price",
+      "hits": 2
+    },
+    {
+      "artist": "Andy Williams",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Tony Bellus",
+      "title": "Robbin' The Cradle",
+      "weeks": 26,
+      "peak": 25,
+      "score": -292
+    },
+    {
+      "artist": "Carl Dobkins, Jr",
+      "title": "My Heart Is An Open Book",
+      "weeks": 24,
+      "peak": 3,
+      "score": 169
+    },
+    {
+      "artist": "Johnny Horton",
+      "title": "The Battle Of New Orleans",
+      "weeks": 21,
+      "peak": 1,
+      "score": 472
+    },
+    {
+      "artist": "Jerry Wallace",
+      "title": "Primrose Lane",
+      "weeks": 20,
+      "peak": 8,
+      "score": 270
+    },
+    {
+      "artist": "Dinah Washington",
+      "title": "What A Diff'rence A Day Makes",
+      "weeks": 20,
+      "peak": 8,
+      "score": 188
+    },
+    {
+      "artist": "The Falcons",
+      "title": "You're So Fine",
+      "weeks": 20,
+      "peak": 17,
+      "score": -62
+    },
+    {
+      "artist": "Bob Beckham",
+      "title": "Just As Much As Ever",
+      "weeks": 20,
+      "peak": 32,
+      "score": -276
+    },
+    {
+      "artist": "Bobby Darin",
+      "title": "Mack The Knife",
+      "weeks": 19,
+      "peak": 1,
+      "score": 606
+    },
+    {
+      "artist": "Lloyd Price And His Orchestra",
+      "title": "Personality",
+      "weeks": 19,
+      "peak": 2,
+      "score": 325
+    },
+    {
+      "artist": "Andy Williams",
+      "title": "The Hawaiian Wedding Song (Ke Kali Nei Au)",
+      "weeks": 19,
+      "peak": 11,
+      "score": 269
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Bobby Darin",
+      "title": "Mack The Knife",
+      "weeks": 19,
+      "peak": 1,
+      "score": 606
+    },
+    {
+      "artist": "The Fleetwoods",
+      "title": "Mr. Blue",
+      "weeks": 17,
+      "peak": 1,
+      "score": 490
+    },
+    {
+      "artist": "Johnny Horton",
+      "title": "The Battle Of New Orleans",
+      "weeks": 21,
+      "peak": 1,
+      "score": 472
+    },
+    {
+      "artist": "Paul Anka",
+      "title": "Lonely Boy",
+      "weeks": 15,
+      "peak": 1,
+      "score": 443
+    },
+    {
+      "artist": "Lloyd Price",
+      "title": "Stagger Lee",
+      "weeks": 17,
+      "peak": 1,
+      "score": 380
+    },
+    {
+      "artist": "The Browns",
+      "title": "The Three Bells",
+      "weeks": 17,
+      "peak": 1,
+      "score": 367
+    },
+    {
+      "artist": "The Platters",
+      "title": "Smoke Gets In Your Eyes",
+      "weeks": 12,
+      "peak": 1,
+      "score": 339
+    },
+    {
+      "artist": "Frankie Avalon",
+      "title": "Venus",
+      "weeks": 17,
+      "peak": 1,
+      "score": 329
+    },
+    {
+      "artist": "Dave \"baby\" Cortez",
+      "title": "The Happy Organ",
+      "weeks": 17,
+      "peak": 1,
+      "score": 301
+    },
+    {
+      "artist": "Guy Mitchell",
+      "title": "Heartaches By The Number",
+      "weeks": 13,
+      "peak": 1,
+      "score": 294
+    },
+    {
+      "artist": "The Fleetwoods",
+      "title": "Come Softly To Me",
+      "weeks": 16,
+      "peak": 1,
+      "score": 276
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "A Big Hunk O' Love",
+      "weeks": 14,
+      "peak": 1,
+      "score": 243
+    },
+    {
+      "artist": "Wilbert Harrison",
+      "title": "Kansas City",
+      "weeks": 16,
+      "peak": 1,
+      "score": 240
+    },
+    {
+      "artist": "Santo",
+      "title": "Sleep Walk",
+      "weeks": 18,
+      "peak": 1,
+      "score": 240
+    },
+    {
+      "artist": "The Chipmunks",
+      "title": "The Chipmunk Song",
+      "weeks": 8,
+      "peak": 1,
+      "score": 146
+    },
+    {
+      "artist": "Frankie Avalon",
+      "title": "Why",
+      "weeks": 6,
+      "peak": 1,
+      "score": 66
+    }
+  ]
+}

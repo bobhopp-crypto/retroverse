@@ -1,0 +1,635 @@
+{
+  "year": 1978,
+  "art_director": "Daisy Delgado",
+  "editorial_rules_applied": [
+    "Articles must use real historical data.",
+    "Data should be pulled from existing RetroVerse datasets.",
+    "Illustrations are created AFTER articles are written.",
+    "Art style should match the article subject.",
+    "Avoid MAD magazine imitation style.",
+    "Use simple editorial illustrations that match the content."
+  ],
+  "magazine_structure_reference": [],
+  "story_design_assignments": [
+    {
+      "story_id": "story_001",
+      "headline": "Crossover soundtrack culture pushed songs and albums into the same mainstream spotlight",
+      "assigned_visual_role": "cover feature",
+      "layout_type": "cover-led opener",
+      "page_count_estimate": 2,
+      "word_count_target": "900-1200",
+      "image_count_target": "2-3",
+      "visual_priority": "high",
+      "illustration_required": true,
+      "illustration_dependency": "article must be finalized first",
+      "supporting_assets": [
+        "article blueprint json",
+        "chart movement tables",
+        "cultural event timeline",
+        "song and artist ranking tables",
+        "sonic profile metrics",
+        "writer draft markdown"
+      ],
+      "primary_medium": "culture",
+      "writer": "BJ Lovestreet"
+    },
+    {
+      "story_id": "story_002",
+      "headline": "Bee Gees: The Year’s Power Curve",
+      "assigned_visual_role": "profile page",
+      "layout_type": "single-page profile",
+      "page_count_estimate": 1,
+      "word_count_target": "500-700",
+      "image_count_target": "1",
+      "visual_priority": "high",
+      "illustration_required": true,
+      "illustration_dependency": "article must be finalized first",
+      "supporting_assets": [
+        "article blueprint json",
+        "chart movement tables",
+        "song and artist ranking tables",
+        "writer draft markdown"
+      ],
+      "primary_medium": "music",
+      "writer": "BJ Lovestreet"
+    },
+    {
+      "story_id": "story_003",
+      "headline": "From Debut to Top 10: Stayin' Alive — Bee Gees",
+      "assigned_visual_role": "short narrative page",
+      "layout_type": "single-page narrative",
+      "page_count_estimate": 1,
+      "word_count_target": "250-400",
+      "image_count_target": "1",
+      "visual_priority": "high",
+      "illustration_required": true,
+      "illustration_dependency": "article must be finalized first",
+      "supporting_assets": [
+        "article blueprint json",
+        "chart movement tables",
+        "song and artist ranking tables",
+        "writer draft markdown"
+      ],
+      "primary_medium": "music",
+      "writer": "BJ Lovestreet"
+    },
+    {
+      "story_id": "story_004",
+      "headline": "Fastest Climb of the Year: Stayin' Alive — Bee Gees",
+      "assigned_visual_role": "chart breakdown",
+      "layout_type": "single-page infographic",
+      "page_count_estimate": 1,
+      "word_count_target": "350-500",
+      "image_count_target": "2-3",
+      "visual_priority": "high",
+      "illustration_required": false,
+      "illustration_dependency": "data card can be designed from structured facts",
+      "supporting_assets": [
+        "article blueprint json",
+        "chart movement tables",
+        "data callout templates",
+        "writer draft markdown"
+      ],
+      "primary_medium": "music",
+      "writer": "Kevin Casey"
+    },
+    {
+      "story_id": "story_005",
+      "headline": "Sharpest Drop on the Board: Hot Shot — Karen Young",
+      "assigned_visual_role": "chart breakdown",
+      "layout_type": "single-page infographic",
+      "page_count_estimate": 1,
+      "word_count_target": "350-500",
+      "image_count_target": "2-3",
+      "visual_priority": "medium",
+      "illustration_required": false,
+      "illustration_dependency": "data card can be designed from structured facts",
+      "supporting_assets": [
+        "article blueprint json",
+        "chart movement tables",
+        "data callout templates",
+        "writer draft markdown"
+      ],
+      "primary_medium": "music",
+      "writer": "Kevin Casey"
+    },
+    {
+      "story_id": "story_006",
+      "headline": "Album Gravity: Saturday Night Fever — Soundtrack",
+      "assigned_visual_role": "feature spread",
+      "layout_type": "two-page spread",
+      "page_count_estimate": 2,
+      "word_count_target": "900-1200",
+      "image_count_target": "2",
+      "visual_priority": "high",
+      "illustration_required": true,
+      "illustration_dependency": "article must be finalized first",
+      "supporting_assets": [
+        "article blueprint json",
+        "chart movement tables",
+        "writer draft markdown"
+      ],
+      "primary_medium": "music",
+      "writer": "A.J. Hunter"
+    },
+    {
+      "story_id": "story_007",
+      "headline": "Slow Climb, Big Payoff: Rumours — Fleetwood Mac",
+      "assigned_visual_role": "timeline spread",
+      "layout_type": "timeline spread",
+      "page_count_estimate": 1,
+      "word_count_target": "450-850",
+      "image_count_target": "2",
+      "visual_priority": "medium",
+      "illustration_required": false,
+      "illustration_dependency": "data card can be designed from structured facts",
+      "supporting_assets": [
+        "article blueprint json",
+        "chart movement tables",
+        "writer draft markdown"
+      ],
+      "primary_medium": "music",
+      "writer": "A.J. Hunter"
+    },
+    {
+      "story_id": "story_008",
+      "headline": "Screen-Year Pulse: {'rank': 1, 'title': 'Grease', 'note': 'Musical blockbuster with broad repeat attendance.'}",
+      "assigned_visual_role": "screen feature",
+      "layout_type": "screen feature spread",
+      "page_count_estimate": 1,
+      "word_count_target": "300-450",
+      "image_count_target": "1-2",
+      "visual_priority": "medium",
+      "illustration_required": true,
+      "illustration_dependency": "article must be finalized first",
+      "supporting_assets": [
+        "article blueprint json",
+        "cultural event timeline",
+        "screen-culture warehouse extracts",
+        "writer draft markdown"
+      ],
+      "primary_medium": "movies",
+      "writer": "Lola Vance"
+    },
+    {
+      "story_id": "story_009",
+      "headline": "Television in the Room: {'title': 'Mork and Mindy', 'network': 'ABC', 'note': 'Fast-rising comedy with broad cultural pickup.'}",
+      "assigned_visual_role": "screen feature",
+      "layout_type": "screen feature spread",
+      "page_count_estimate": 1,
+      "word_count_target": "250-400",
+      "image_count_target": "1",
+      "visual_priority": "medium",
+      "illustration_required": true,
+      "illustration_dependency": "article must be finalized first",
+      "supporting_assets": [
+        "article blueprint json",
+        "cultural event timeline",
+        "screen-culture warehouse extracts",
+        "writer draft markdown"
+      ],
+      "primary_medium": "television",
+      "writer": "Lola Vance"
+    },
+    {
+      "story_id": "story_010",
+      "headline": "The Week-by-Week Yearline",
+      "assigned_visual_role": "timeline spread",
+      "layout_type": "timeline spread",
+      "page_count_estimate": 1,
+      "word_count_target": "450-850",
+      "image_count_target": "2",
+      "visual_priority": "high",
+      "illustration_required": false,
+      "illustration_dependency": "data card can be designed from structured facts",
+      "supporting_assets": [
+        "article blueprint json",
+        "chart movement tables",
+        "cultural event timeline",
+        "writer draft markdown"
+      ],
+      "primary_medium": "culture",
+      "writer": "Professor Wheeler"
+    },
+    {
+      "story_id": "story_011",
+      "headline": "Almost Hits: Can't Smile Without You — Barry Manilow",
+      "assigned_visual_role": "sidebar box",
+      "layout_type": "modular sidebar",
+      "page_count_estimate": 1,
+      "word_count_target": "150-250",
+      "image_count_target": "1",
+      "visual_priority": "medium",
+      "illustration_required": true,
+      "illustration_dependency": "article must be finalized first",
+      "supporting_assets": [
+        "article blueprint json",
+        "chart movement tables",
+        "writer draft markdown"
+      ],
+      "primary_medium": "music",
+      "writer": "BJ Lovestreet"
+    },
+    {
+      "story_id": "story_012",
+      "headline": "Sonic Fingerprint Card Set",
+      "assigned_visual_role": "data card set",
+      "layout_type": "multi-card set",
+      "page_count_estimate": "multi-card set",
+      "word_count_target": "50-120 per card",
+      "image_count_target": "4-8",
+      "visual_priority": "high",
+      "illustration_required": false,
+      "illustration_dependency": "data card can be designed from structured facts",
+      "supporting_assets": [
+        "article blueprint json",
+        "cultural event timeline",
+        "data callout templates",
+        "sonic profile metrics",
+        "writer draft markdown"
+      ],
+      "primary_medium": "culture",
+      "writer": "A.J. Hunter"
+    }
+  ],
+  "visual_briefs": [
+    {
+      "concept_name": "Crossover soundtrack culture pushed songs and albums int Visual",
+      "related_story_id": "story_001",
+      "related_headline": "Crossover soundtrack culture pushed songs and albums into the same mainstream spotlight",
+      "visual_goal": "Establish the year-defining narrative at first glance.",
+      "visual_type": "cover concept",
+      "key_objects": [
+        "newspaper clippings",
+        "street posters",
+        "event flyers",
+        "equalizer bars",
+        "RetroVerse masthead lockup zone"
+      ],
+      "setting": "street-level collage grounded in year events",
+      "era_markers": [
+        "late-1970s editorial typography",
+        "analog print grain",
+        "halftone texture and warm paper stock"
+      ],
+      "mood": "kinetic and nostalgic",
+      "palette_direction": "late-70s nightlife glow with warm neon and chrome accents",
+      "composition_notes": "Build a single dominant focal point with secondary signal motifs.",
+      "text_integration_notes": "Reserve top band for masthead and left column for teaser stack.",
+      "dependency": "article must be finalized first"
+    },
+    {
+      "concept_name": "Bee Gees Visual",
+      "related_story_id": "story_002",
+      "related_headline": "Bee Gees: The Year’s Power Curve",
+      "visual_goal": "Center one subject with clear supporting context.",
+      "visual_type": "spot illustration",
+      "key_objects": [
+        "vinyl record",
+        "chart arrow ladder",
+        "radio dial"
+      ],
+      "setting": "stylized editorial scene anchored in chart-era motifs",
+      "era_markers": [
+        "late-1970s editorial typography",
+        "analog print grain",
+        "halftone texture and warm paper stock"
+      ],
+      "mood": "grounded and editorial",
+      "palette_direction": "late-70s nightlife glow with warm neon and chrome accents",
+      "composition_notes": "Use one hero focal point with supporting objects arranged by narrative weight.",
+      "text_integration_notes": "Maintain clean margin system for short copy and one quote callout.",
+      "dependency": "article must be finalized first"
+    },
+    {
+      "concept_name": "From Debut to Top 10 Visual",
+      "related_story_id": "story_003",
+      "related_headline": "From Debut to Top 10: Stayin' Alive — Bee Gees",
+      "visual_goal": "Support compact storytelling with one visual anchor.",
+      "visual_type": "spot illustration",
+      "key_objects": [
+        "vinyl record",
+        "chart arrow ladder",
+        "radio dial"
+      ],
+      "setting": "stylized editorial scene anchored in chart-era motifs",
+      "era_markers": [
+        "late-1970s editorial typography",
+        "analog print grain",
+        "halftone texture and warm paper stock"
+      ],
+      "mood": "grounded and editorial",
+      "palette_direction": "late-70s nightlife glow with warm neon and chrome accents",
+      "composition_notes": "Use one hero focal point with supporting objects arranged by narrative weight.",
+      "text_integration_notes": "Maintain clean margin system for short copy and one quote callout.",
+      "dependency": "article must be finalized first"
+    },
+    {
+      "concept_name": "Fastest Climb of the Year Visual",
+      "related_story_id": "story_004",
+      "related_headline": "Fastest Climb of the Year: Stayin' Alive — Bee Gees",
+      "visual_goal": "Make rank movement and chart facts immediately legible.",
+      "visual_type": "infographic",
+      "key_objects": [
+        "vinyl record",
+        "chart arrow ladder",
+        "radio dial"
+      ],
+      "setting": "editorial data field with period print textures",
+      "era_markers": [
+        "late-1970s editorial typography",
+        "analog print grain",
+        "halftone texture and warm paper stock"
+      ],
+      "mood": "grounded and editorial",
+      "palette_direction": "late-70s nightlife glow with warm neon and chrome accents",
+      "composition_notes": "Use directional movement so readers can parse sequence instantly.",
+      "text_integration_notes": "Reserve a side rail for stats, labels, and source callouts.",
+      "dependency": "data card can be designed from structured facts"
+    },
+    {
+      "concept_name": "Sharpest Drop on the Board Visual",
+      "related_story_id": "story_005",
+      "related_headline": "Sharpest Drop on the Board: Hot Shot — Karen Young",
+      "visual_goal": "Make rank movement and chart facts immediately legible.",
+      "visual_type": "infographic",
+      "key_objects": [
+        "vinyl record",
+        "chart arrow ladder",
+        "radio dial"
+      ],
+      "setting": "editorial data field with period print textures",
+      "era_markers": [
+        "late-1970s editorial typography",
+        "analog print grain",
+        "halftone texture and warm paper stock"
+      ],
+      "mood": "grounded and editorial",
+      "palette_direction": "late-70s nightlife glow with warm neon and chrome accents",
+      "composition_notes": "Use directional movement so readers can parse sequence instantly.",
+      "text_integration_notes": "Reserve a side rail for stats, labels, and source callouts.",
+      "dependency": "data card can be designed from structured facts"
+    },
+    {
+      "concept_name": "Album Gravity Visual",
+      "related_story_id": "story_006",
+      "related_headline": "Album Gravity: Saturday Night Fever — Soundtrack",
+      "visual_goal": "Deliver a cinematic narrative visual that carries two pages.",
+      "visual_type": "full illustration",
+      "key_objects": [
+        "vinyl record",
+        "chart arrow ladder",
+        "radio dial",
+        "album stack"
+      ],
+      "setting": "stylized editorial scene anchored in chart-era motifs",
+      "era_markers": [
+        "late-1970s editorial typography",
+        "analog print grain",
+        "halftone texture and warm paper stock"
+      ],
+      "mood": "kinetic and nostalgic",
+      "palette_direction": "late-70s nightlife glow with warm neon and chrome accents",
+      "composition_notes": "Use one hero focal point with supporting objects arranged by narrative weight.",
+      "text_integration_notes": "Leave clear headline zone and two pull-quote anchor zones.",
+      "dependency": "article must be finalized first"
+    },
+    {
+      "concept_name": "Slow Climb, Big Payoff Visual",
+      "related_story_id": "story_007",
+      "related_headline": "Slow Climb, Big Payoff: Rumours — Fleetwood Mac",
+      "visual_goal": "Show sequence and turning points across the year.",
+      "visual_type": "timeline graphic",
+      "key_objects": [
+        "vinyl record",
+        "chart arrow ladder",
+        "radio dial",
+        "album stack"
+      ],
+      "setting": "editorial data field with period print textures",
+      "era_markers": [
+        "late-1970s editorial typography",
+        "analog print grain",
+        "halftone texture and warm paper stock"
+      ],
+      "mood": "grounded and editorial",
+      "palette_direction": "late-70s nightlife glow with warm neon and chrome accents",
+      "composition_notes": "Use directional movement so readers can parse sequence instantly.",
+      "text_integration_notes": "Reserve a side rail for stats, labels, and source callouts.",
+      "dependency": "data card can be designed from structured facts"
+    },
+    {
+      "concept_name": "Screen-Year Pulse Visual",
+      "related_story_id": "story_008",
+      "related_headline": "Screen-Year Pulse: {'rank': 1, 'title': 'Grease', 'note': 'Musical blockbuster with broad repeat attendance.'}",
+      "visual_goal": "Blend film and television context into one editorial scene.",
+      "visual_type": "collage",
+      "key_objects": [
+        "film reel",
+        "theater marquee",
+        "ticket stub"
+      ],
+      "setting": "split theater and living-room tableau",
+      "era_markers": [
+        "late-1970s editorial typography",
+        "analog print grain",
+        "halftone texture and warm paper stock"
+      ],
+      "mood": "grounded and editorial",
+      "palette_direction": "cinema marquee red, projector gold, CRT teal",
+      "composition_notes": "Use one hero focal point with supporting objects arranged by narrative weight.",
+      "text_integration_notes": "Leave clear headline zone and two pull-quote anchor zones.",
+      "dependency": "article must be finalized first"
+    },
+    {
+      "concept_name": "Television in the Room Visual",
+      "related_story_id": "story_009",
+      "related_headline": "Television in the Room: {'title': 'Mork and Mindy', 'network': 'ABC', 'note': 'Fast-rising comedy with broad cultural pickup.'}",
+      "visual_goal": "Blend film and television context into one editorial scene.",
+      "visual_type": "collage",
+      "key_objects": [
+        "rabbit-ear television",
+        "channel guide grid",
+        "living room glow"
+      ],
+      "setting": "split theater and living-room tableau",
+      "era_markers": [
+        "late-1970s editorial typography",
+        "analog print grain",
+        "halftone texture and warm paper stock"
+      ],
+      "mood": "grounded and editorial",
+      "palette_direction": "cinema marquee red, projector gold, CRT teal",
+      "composition_notes": "Use one hero focal point with supporting objects arranged by narrative weight.",
+      "text_integration_notes": "Leave clear headline zone and two pull-quote anchor zones.",
+      "dependency": "article must be finalized first"
+    },
+    {
+      "concept_name": "The Week-by-Week Yearline Visual",
+      "related_story_id": "story_010",
+      "related_headline": "The Week-by-Week Yearline",
+      "visual_goal": "Show sequence and turning points across the year.",
+      "visual_type": "timeline graphic",
+      "key_objects": [
+        "newspaper clippings",
+        "street posters",
+        "event flyers",
+        "album stack"
+      ],
+      "setting": "editorial data field with period print textures",
+      "era_markers": [
+        "late-1970s editorial typography",
+        "analog print grain",
+        "halftone texture and warm paper stock"
+      ],
+      "mood": "grounded and editorial",
+      "palette_direction": "late-70s nightlife glow with warm neon and chrome accents",
+      "composition_notes": "Use directional movement so readers can parse sequence instantly.",
+      "text_integration_notes": "Reserve a side rail for stats, labels, and source callouts.",
+      "dependency": "data card can be designed from structured facts"
+    },
+    {
+      "concept_name": "Almost Hits Visual",
+      "related_story_id": "story_011",
+      "related_headline": "Almost Hits: Can't Smile Without You — Barry Manilow",
+      "visual_goal": "Provide a quick visual callout that supports nearby features.",
+      "visual_type": "chart card",
+      "key_objects": [
+        "vinyl record",
+        "chart arrow ladder",
+        "radio dial"
+      ],
+      "setting": "stylized editorial scene anchored in chart-era motifs",
+      "era_markers": [
+        "late-1970s editorial typography",
+        "analog print grain",
+        "halftone texture and warm paper stock"
+      ],
+      "mood": "grounded and editorial",
+      "palette_direction": "late-70s nightlife glow with warm neon and chrome accents",
+      "composition_notes": "Use one hero focal point with supporting objects arranged by narrative weight.",
+      "text_integration_notes": "Maintain clean margin system for short copy and one quote callout.",
+      "dependency": "article must be finalized first"
+    },
+    {
+      "concept_name": "Sonic Fingerprint Card Set Visual",
+      "related_story_id": "story_012",
+      "related_headline": "Sonic Fingerprint Card Set",
+      "visual_goal": "Enable modular facts that can be reused across formats.",
+      "visual_type": "chart card",
+      "key_objects": [
+        "newspaper clippings",
+        "street posters",
+        "event flyers",
+        "equalizer bars"
+      ],
+      "setting": "editorial data field with period print textures",
+      "era_markers": [
+        "late-1970s editorial typography",
+        "analog print grain",
+        "halftone texture and warm paper stock"
+      ],
+      "mood": "grounded and editorial",
+      "palette_direction": "late-70s nightlife glow with warm neon and chrome accents",
+      "composition_notes": "Use a repeatable card grid with consistent icon placement.",
+      "text_integration_notes": "Reserve a side rail for stats, labels, and source callouts.",
+      "dependency": "data card can be designed from structured facts"
+    }
+  ],
+  "anchor_reuse_warnings": [],
+  "issue_map": {
+    "cover": {
+      "story_id": "story_001",
+      "headline": "Crossover soundtrack culture pushed songs and albums into the same mainstream spotlight",
+      "layout_type": "cover-led opener",
+      "page_count_estimate": 2,
+      "visual_priority": "high"
+    },
+    "front_of_book": [
+      {
+        "story_id": "story_002",
+        "headline": "Bee Gees: The Year’s Power Curve",
+        "layout_type": "single-page profile",
+        "page_count_estimate": 1,
+        "visual_priority": "high"
+      },
+      {
+        "story_id": "story_003",
+        "headline": "From Debut to Top 10: Stayin' Alive — Bee Gees",
+        "layout_type": "single-page narrative",
+        "page_count_estimate": 1,
+        "visual_priority": "high"
+      },
+      {
+        "story_id": "story_011",
+        "headline": "Almost Hits: Can't Smile Without You — Barry Manilow",
+        "layout_type": "modular sidebar",
+        "page_count_estimate": 1,
+        "visual_priority": "medium"
+      }
+    ],
+    "feature_well": [
+      {
+        "story_id": "story_006",
+        "headline": "Album Gravity: Saturday Night Fever — Soundtrack",
+        "layout_type": "two-page spread",
+        "page_count_estimate": 2,
+        "visual_priority": "high"
+      },
+      {
+        "story_id": "story_008",
+        "headline": "Screen-Year Pulse: {'rank': 1, 'title': 'Grease', 'note': 'Musical blockbuster with broad repeat attendance.'}",
+        "layout_type": "screen feature spread",
+        "page_count_estimate": 1,
+        "visual_priority": "medium"
+      },
+      {
+        "story_id": "story_009",
+        "headline": "Television in the Room: {'title': 'Mork and Mindy', 'network': 'ABC', 'note': 'Fast-rising comedy with broad cultural pickup.'}",
+        "layout_type": "screen feature spread",
+        "page_count_estimate": 1,
+        "visual_priority": "medium"
+      }
+    ],
+    "charts_section": [
+      {
+        "story_id": "story_004",
+        "headline": "Fastest Climb of the Year: Stayin' Alive — Bee Gees",
+        "layout_type": "single-page infographic",
+        "page_count_estimate": 1,
+        "visual_priority": "high"
+      },
+      {
+        "story_id": "story_010",
+        "headline": "The Week-by-Week Yearline",
+        "layout_type": "timeline spread",
+        "page_count_estimate": 1,
+        "visual_priority": "high"
+      },
+      {
+        "story_id": "story_012",
+        "headline": "Sonic Fingerprint Card Set",
+        "layout_type": "multi-card set",
+        "page_count_estimate": "multi-card set",
+        "visual_priority": "high"
+      },
+      {
+        "story_id": "story_005",
+        "headline": "Sharpest Drop on the Board: Hot Shot — Karen Young",
+        "layout_type": "single-page infographic",
+        "page_count_estimate": 1,
+        "visual_priority": "medium"
+      },
+      {
+        "story_id": "story_007",
+        "headline": "Slow Climb, Big Payoff: Rumours — Fleetwood Mac",
+        "layout_type": "timeline spread",
+        "page_count_estimate": 1,
+        "visual_priority": "medium"
+      }
+    ],
+    "screen_section": [],
+    "culture_section": [],
+    "back_of_book": []
+  }
+}

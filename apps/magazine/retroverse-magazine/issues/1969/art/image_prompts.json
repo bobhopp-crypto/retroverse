@@ -1,0 +1,457 @@
+{
+  "year": 1969,
+  "prompts": [
+    {
+      "page_number": 1,
+      "page_slug": "cover",
+      "prompt_path": "issues/1969/art/prompts/page_01.txt",
+      "image_path": "issues/1969/art/pages/page_01.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 2,
+      "page_slug": "masthead",
+      "prompt_path": "issues/1969/art/prompts/page_02.txt",
+      "image_path": "issues/1969/art/pages/page_02.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 3,
+      "page_slug": "editor_letter",
+      "prompt_path": "issues/1969/art/prompts/page_03.txt",
+      "image_path": "issues/1969/art/pages/page_03.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 4,
+      "page_slug": "year_snapshot",
+      "prompt_path": "issues/1969/art/prompts/page_04.txt",
+      "image_path": "issues/1969/art/pages/page_04.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 5,
+      "page_slug": "charts_overview",
+      "prompt_path": "issues/1969/art/prompts/page_05.txt",
+      "image_path": "issues/1969/art/pages/page_05.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 6,
+      "page_slug": "top_song_1",
+      "prompt_path": "issues/1969/art/prompts/page_06.txt",
+      "image_path": "issues/1969/art/pages/page_06.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 7,
+      "page_slug": "top_song_2",
+      "prompt_path": "issues/1969/art/prompts/page_07.txt",
+      "image_path": "issues/1969/art/pages/page_07.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 8,
+      "page_slug": "top_song_3",
+      "prompt_path": "issues/1969/art/prompts/page_08.txt",
+      "image_path": "issues/1969/art/pages/page_08.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 9,
+      "page_slug": "top_song_4",
+      "prompt_path": "issues/1969/art/prompts/page_09.txt",
+      "image_path": "issues/1969/art/pages/page_09.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 10,
+      "page_slug": "top_song_5",
+      "prompt_path": "issues/1969/art/prompts/page_10.txt",
+      "image_path": "issues/1969/art/pages/page_10.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 11,
+      "page_slug": "top_song_6",
+      "prompt_path": "issues/1969/art/prompts/page_11.txt",
+      "image_path": "issues/1969/art/pages/page_11.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 12,
+      "page_slug": "top_song_7",
+      "prompt_path": "issues/1969/art/prompts/page_12.txt",
+      "image_path": "issues/1969/art/pages/page_12.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 13,
+      "page_slug": "top_song_8",
+      "prompt_path": "issues/1969/art/prompts/page_13.txt",
+      "image_path": "issues/1969/art/pages/page_13.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 14,
+      "page_slug": "top_song_9",
+      "prompt_path": "issues/1969/art/prompts/page_14.txt",
+      "image_path": "issues/1969/art/pages/page_14.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 15,
+      "page_slug": "top_song_10",
+      "prompt_path": "issues/1969/art/prompts/page_15.txt",
+      "image_path": "issues/1969/art/pages/page_15.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 16,
+      "page_slug": "movies",
+      "prompt_path": "issues/1969/art/prompts/page_16.txt",
+      "image_path": "issues/1969/art/pages/page_16.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 17,
+      "page_slug": "television",
+      "prompt_path": "issues/1969/art/prompts/page_17.txt",
+      "image_path": "issues/1969/art/pages/page_17.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 18,
+      "page_slug": "culture",
+      "prompt_path": "issues/1969/art/prompts/page_18.txt",
+      "image_path": "issues/1969/art/pages/page_18.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 19,
+      "page_slug": "arcade",
+      "prompt_path": "issues/1969/art/prompts/page_19.txt",
+      "image_path": "issues/1969/art/pages/page_19.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 20,
+      "page_slug": "retro_ad",
+      "prompt_path": "issues/1969/art/prompts/page_20.txt",
+      "image_path": "issues/1969/art/pages/page_20.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 21,
+      "page_slug": "comic",
+      "prompt_path": "issues/1969/art/prompts/page_21.txt",
+      "image_path": "issues/1969/art/pages/page_21.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 22,
+      "page_slug": "puzzle",
+      "prompt_path": "issues/1969/art/prompts/page_22.txt",
+      "image_path": "issues/1969/art/pages/page_22.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 23,
+      "page_slug": "letters",
+      "prompt_path": "issues/1969/art/prompts/page_23.txt",
+      "image_path": "issues/1969/art/pages/page_23.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 24,
+      "page_slug": "forgotten_hit",
+      "prompt_path": "issues/1969/art/prompts/page_24.txt",
+      "image_path": "issues/1969/art/pages/page_24.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 25,
+      "page_slug": "one_hit_wonder",
+      "prompt_path": "issues/1969/art/prompts/page_25.txt",
+      "image_path": "issues/1969/art/pages/page_25.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 26,
+      "page_slug": "album_spotlight",
+      "prompt_path": "issues/1969/art/prompts/page_26.txt",
+      "image_path": "issues/1969/art/pages/page_26.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 27,
+      "page_slug": "year_timeline",
+      "prompt_path": "issues/1969/art/prompts/page_27.txt",
+      "image_path": "issues/1969/art/pages/page_27.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 28,
+      "page_slug": "culture_collage",
+      "prompt_path": "issues/1969/art/prompts/page_28.txt",
+      "image_path": "issues/1969/art/pages/page_28.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 29,
+      "page_slug": "retro_ads_page",
+      "prompt_path": "issues/1969/art/prompts/page_29.txt",
+      "image_path": "issues/1969/art/pages/page_29.png",
+      "prompt_source": "legacy"
+    },
+    {
+      "page_number": 30,
+      "page_slug": "chart_top23",
+      "prompt_path": "issues/1969/art/prompts/page_30.txt",
+      "image_path": "issues/1969/art/pages/page_30.png",
+      "prompt_source": "legacy"
+    }
+  ],
+  "asset_prompts": [
+    {
+      "page_number": 1,
+      "page_slug": "cover",
+      "prompt_path": "issues/1969/art/prompts/page_01.txt",
+      "asset_path": "issues/1969/art/pages/page_01.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 01 / cover"
+    },
+    {
+      "page_number": 2,
+      "page_slug": "masthead",
+      "prompt_path": "issues/1969/art/prompts/page_02.txt",
+      "asset_path": "issues/1969/art/pages/page_02.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 02 / masthead"
+    },
+    {
+      "page_number": 3,
+      "page_slug": "editor_letter",
+      "prompt_path": "issues/1969/art/prompts/page_03.txt",
+      "asset_path": "issues/1969/art/pages/page_03.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 03 / editor_letter"
+    },
+    {
+      "page_number": 4,
+      "page_slug": "year_snapshot",
+      "prompt_path": "issues/1969/art/prompts/page_04.txt",
+      "asset_path": "issues/1969/art/pages/page_04.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 04 / year_snapshot"
+    },
+    {
+      "page_number": 5,
+      "page_slug": "charts_overview",
+      "prompt_path": "issues/1969/art/prompts/page_05.txt",
+      "asset_path": "issues/1969/art/pages/page_05.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 05 / charts_overview"
+    },
+    {
+      "page_number": 6,
+      "page_slug": "top_song_1",
+      "prompt_path": "issues/1969/art/prompts/page_06.txt",
+      "asset_path": "issues/1969/art/pages/page_06.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 06 / top_song_1"
+    },
+    {
+      "page_number": 7,
+      "page_slug": "top_song_2",
+      "prompt_path": "issues/1969/art/prompts/page_07.txt",
+      "asset_path": "issues/1969/art/pages/page_07.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 07 / top_song_2"
+    },
+    {
+      "page_number": 8,
+      "page_slug": "top_song_3",
+      "prompt_path": "issues/1969/art/prompts/page_08.txt",
+      "asset_path": "issues/1969/art/pages/page_08.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 08 / top_song_3"
+    },
+    {
+      "page_number": 9,
+      "page_slug": "top_song_4",
+      "prompt_path": "issues/1969/art/prompts/page_09.txt",
+      "asset_path": "issues/1969/art/pages/page_09.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 09 / top_song_4"
+    },
+    {
+      "page_number": 10,
+      "page_slug": "top_song_5",
+      "prompt_path": "issues/1969/art/prompts/page_10.txt",
+      "asset_path": "issues/1969/art/pages/page_10.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 10 / top_song_5"
+    },
+    {
+      "page_number": 11,
+      "page_slug": "top_song_6",
+      "prompt_path": "issues/1969/art/prompts/page_11.txt",
+      "asset_path": "issues/1969/art/pages/page_11.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 11 / top_song_6"
+    },
+    {
+      "page_number": 12,
+      "page_slug": "top_song_7",
+      "prompt_path": "issues/1969/art/prompts/page_12.txt",
+      "asset_path": "issues/1969/art/pages/page_12.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 12 / top_song_7"
+    },
+    {
+      "page_number": 13,
+      "page_slug": "top_song_8",
+      "prompt_path": "issues/1969/art/prompts/page_13.txt",
+      "asset_path": "issues/1969/art/pages/page_13.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 13 / top_song_8"
+    },
+    {
+      "page_number": 14,
+      "page_slug": "top_song_9",
+      "prompt_path": "issues/1969/art/prompts/page_14.txt",
+      "asset_path": "issues/1969/art/pages/page_14.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 14 / top_song_9"
+    },
+    {
+      "page_number": 15,
+      "page_slug": "top_song_10",
+      "prompt_path": "issues/1969/art/prompts/page_15.txt",
+      "asset_path": "issues/1969/art/pages/page_15.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 15 / top_song_10"
+    },
+    {
+      "page_number": 16,
+      "page_slug": "movies",
+      "prompt_path": "issues/1969/art/prompts/page_16.txt",
+      "asset_path": "issues/1969/art/pages/page_16.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 16 / movies"
+    },
+    {
+      "page_number": 17,
+      "page_slug": "television",
+      "prompt_path": "issues/1969/art/prompts/page_17.txt",
+      "asset_path": "issues/1969/art/pages/page_17.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 17 / television"
+    },
+    {
+      "page_number": 18,
+      "page_slug": "culture",
+      "prompt_path": "issues/1969/art/prompts/page_18.txt",
+      "asset_path": "issues/1969/art/pages/page_18.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 18 / culture"
+    },
+    {
+      "page_number": 19,
+      "page_slug": "arcade",
+      "prompt_path": "issues/1969/art/prompts/page_19.txt",
+      "asset_path": "issues/1969/art/pages/page_19.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 19 / arcade"
+    },
+    {
+      "page_number": 20,
+      "page_slug": "retro_ad",
+      "prompt_path": "issues/1969/art/prompts/page_20.txt",
+      "asset_path": "issues/1969/art/pages/page_20.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 20 / retro_ad"
+    },
+    {
+      "page_number": 21,
+      "page_slug": "comic",
+      "prompt_path": "issues/1969/art/prompts/page_21.txt",
+      "asset_path": "issues/1969/art/pages/page_21.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 21 / comic"
+    },
+    {
+      "page_number": 22,
+      "page_slug": "puzzle",
+      "prompt_path": "issues/1969/art/prompts/page_22.txt",
+      "asset_path": "issues/1969/art/pages/page_22.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 22 / puzzle"
+    },
+    {
+      "page_number": 23,
+      "page_slug": "letters",
+      "prompt_path": "issues/1969/art/prompts/page_23.txt",
+      "asset_path": "issues/1969/art/pages/page_23.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 23 / letters"
+    },
+    {
+      "page_number": 24,
+      "page_slug": "forgotten_hit",
+      "prompt_path": "issues/1969/art/prompts/page_24.txt",
+      "asset_path": "issues/1969/art/pages/page_24.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 24 / forgotten_hit"
+    },
+    {
+      "page_number": 25,
+      "page_slug": "one_hit_wonder",
+      "prompt_path": "issues/1969/art/prompts/page_25.txt",
+      "asset_path": "issues/1969/art/pages/page_25.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 25 / one_hit_wonder"
+    },
+    {
+      "page_number": 26,
+      "page_slug": "album_spotlight",
+      "prompt_path": "issues/1969/art/prompts/page_26.txt",
+      "asset_path": "issues/1969/art/pages/page_26.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 26 / album_spotlight"
+    },
+    {
+      "page_number": 27,
+      "page_slug": "year_timeline",
+      "prompt_path": "issues/1969/art/prompts/page_27.txt",
+      "asset_path": "issues/1969/art/pages/page_27.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 27 / year_timeline"
+    },
+    {
+      "page_number": 28,
+      "page_slug": "culture_collage",
+      "prompt_path": "issues/1969/art/prompts/page_28.txt",
+      "asset_path": "issues/1969/art/pages/page_28.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 28 / culture_collage"
+    },
+    {
+      "page_number": 29,
+      "page_slug": "retro_ads_page",
+      "prompt_path": "issues/1969/art/prompts/page_29.txt",
+      "asset_path": "issues/1969/art/pages/page_29.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 29 / retro_ads_page"
+    },
+    {
+      "page_number": 30,
+      "page_slug": "chart_top23",
+      "prompt_path": "issues/1969/art/prompts/page_30.txt",
+      "asset_path": "issues/1969/art/pages/page_30.png",
+      "prompt_source": "legacy",
+      "note": "Page illustration for page 30 / chart_top23"
+    }
+  ]
+}

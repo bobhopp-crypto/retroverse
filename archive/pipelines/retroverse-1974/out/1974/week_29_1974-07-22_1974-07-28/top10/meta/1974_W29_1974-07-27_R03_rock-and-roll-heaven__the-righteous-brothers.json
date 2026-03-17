@@ -1,0 +1,21 @@
+{
+  "run_id": "2026-02-25_w29-w32_top10",
+  "week_number": 29,
+  "date_range_start": "1974-07-22",
+  "date_range_end": "1974-07-28",
+  "chart_date": "1974-07-27",
+  "rank": 3,
+  "title": "Rock And Roll Heaven",
+  "artist": "The Righteous Brothers",
+  "weeks_on_chart": 10,
+  "peak_position": 3,
+  "ambient_lines": [],
+  "prompt_text": "Create a vertical 1080x1920 collectible 1974 Billboard Hot 100 chart card.\nStyle: high-detail illustrated print poster from 1974, worn paper grain, subtle ink imperfections, ornate border, period-accurate 1970s typography.\nDo NOT use any real person's likeness or recognizable face.\n\nTop banner text: \"Billboard Hot 100 - Week Ending 1974-07-27\".\nLarge rank display: \"#3\".\nTitle: \"Rock And Roll Heaven\".\nArtist: \"The Righteous Brothers\".\nInclude small fact blocks: \"Weeks on Chart: 10\" and \"Peak Position: 3\".\n\nArtwork: symbolic / atmospheric illustration inspired by the song's mood, not literal portraits.\nComposition should feel like a real printed artifact from 1974.\n\nNo modern UI, no neon glow boxes, no geometric template panels.\n",
+  "basename": "1974_W29_1974-07-27_R03_rock-and-roll-heaven__the-righteous-brothers",
+  "output_paths": {
+    "prompt_txt": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/week_29_1974-07-22_1974-07-28/top10/prompts/1974_W29_1974-07-27_R03_rock-and-roll-heaven__the-righteous-brothers.txt",
+    "meta_json": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/week_29_1974-07-22_1974-07-28/top10/meta/1974_W29_1974-07-27_R03_rock-and-roll-heaven__the-righteous-brothers.json",
+    "image_png": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/week_29_1974-07-22_1974-07-28/top10/images/1974_W29_1974-07-27_R03_rock-and-roll-heaven__the-righteous-brothers.png",
+    "render_log_json": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/week_29_1974-07-22_1974-07-28/top10/logs/1974_W29_1974-07-27_R03_rock-and-roll-heaven__the-righteous-brothers.render.json"
+  }
+}

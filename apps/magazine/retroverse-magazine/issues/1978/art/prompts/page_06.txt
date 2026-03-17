@@ -1,0 +1,25 @@
+Retro magazine illustration for page 6 of a 1978 pop culture magazine.
+
+Prompt source: visual_concept
+Page slug: top_song_1
+Page title: 01. Stayin' Alive — Bee Gees
+Visual concept: subway_stride_pulse
+
+Article topic:
+A fast-moving nighttime city scene with confident pedestrians, subway stairs, and rhythmic urban motion echoing chart dominance.
+
+Visual direction from page brief:
+Scene description: A fast-moving nighttime city scene with confident pedestrians, subway stairs, and rhythmic urban motion echoing chart dominance.
+Camera style: low-angle forward motion shot
+Lighting style: cool streetlight edges with saturated sign glow
+
+Create a lively illustrated scene reflecting the topic.
+1970s editorial illustration style.
+MAD Magazine caricature influence.
+comic line art + watercolor textures.
+late 1970s neon palette.
+handwritten signature "Judge" as a small artist mark only.
+
+Important:
+leave soft areas suitable for text placement.
+Do not include readable typography.

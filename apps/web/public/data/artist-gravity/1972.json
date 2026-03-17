@@ -1,0 +1,506 @@
+[
+  {
+    "artist": "Al Green",
+    "score": 587.5
+  },
+  {
+    "artist": "Michael Jackson",
+    "score": 480.6
+  },
+  {
+    "artist": "America",
+    "score": 478
+  },
+  {
+    "artist": "Roberta Flack",
+    "score": 400.7
+  },
+  {
+    "artist": "Carole King",
+    "score": 393.3
+  },
+  {
+    "artist": "Three Dog Night",
+    "score": 388.9
+  },
+  {
+    "artist": "Elton John",
+    "score": 387
+  },
+  {
+    "artist": "Nilsson",
+    "score": 385.7
+  },
+  {
+    "artist": "Donny Osmond",
+    "score": 378.3
+  },
+  {
+    "artist": "The Osmonds",
+    "score": 368
+  },
+  {
+    "artist": "Chicago",
+    "score": 299.1
+  },
+  {
+    "artist": "Cat Stevens",
+    "score": 297.8
+  },
+  {
+    "artist": "The Rolling Stones",
+    "score": 297.2
+  },
+  {
+    "artist": "The Chi-lites",
+    "score": 293.5
+  },
+  {
+    "artist": "Gilbert O'sullivan",
+    "score": 292.9
+  },
+  {
+    "artist": "Carpenters",
+    "score": 291.8
+  },
+  {
+    "artist": "Curtis Mayfield",
+    "score": 290.2
+  },
+  {
+    "artist": "Don McLean",
+    "score": 203.5
+  },
+  {
+    "artist": "Neil Young",
+    "score": 203.5
+  },
+  {
+    "artist": "The Temptations",
+    "score": 200.2
+  },
+  {
+    "artist": "Bill",
+    "score": 200.1
+  },
+  {
+    "artist": "Jethro Tull",
+    "score": 200.1
+  },
+  {
+    "artist": "The Moody Blues",
+    "score": 199.5
+  },
+  {
+    "artist": "Yes",
+    "score": 198.7
+  },
+  {
+    "artist": "Bread",
+    "score": 198.1
+  },
+  {
+    "artist": "Neil Diamond",
+    "score": 197.8
+  },
+  {
+    "artist": "Paul Simon",
+    "score": 196.9
+  },
+  {
+    "artist": "Chuck Berry",
+    "score": 195.7
+  },
+  {
+    "artist": "Alice Cooper",
+    "score": 195
+  },
+  {
+    "artist": "Sammy Davis, Jr",
+    "score": 192.7
+  },
+  {
+    "artist": "Grand Funk Railroad",
+    "score": 191.8
+  },
+  {
+    "artist": "Mac Davis",
+    "score": 191.4
+  },
+  {
+    "artist": "Elvis Presley",
+    "score": 191.1
+  },
+  {
+    "artist": "The O'jays",
+    "score": 190.2
+  },
+  {
+    "artist": "Emerson, Lake & Palmer",
+    "score": 189.6
+  },
+  {
+    "artist": "Aretha Franklin",
+    "score": 188.3
+  },
+  {
+    "artist": "Santana",
+    "score": 187.7
+  },
+  {
+    "artist": "Melanie",
+    "score": 186.9
+  },
+  {
+    "artist": "Soundtrack",
+    "score": 185.7
+  },
+  {
+    "artist": "Carly Simon",
+    "score": 184.9
+  },
+  {
+    "artist": "The 5th Dimension",
+    "score": 181
+  },
+  {
+    "artist": "David Cassidy",
+    "score": 178.7
+  },
+  {
+    "artist": "War",
+    "score": 173
+  },
+  {
+    "artist": "Led Zeppelin",
+    "score": 103.2
+  },
+  {
+    "artist": "George Harrison",
+    "score": 102.1
+  },
+  {
+    "artist": "Helen Reddy",
+    "score": 100.9
+  },
+  {
+    "artist": "Cheech & Chong",
+    "score": 100.7
+  },
+  {
+    "artist": "Johnny Nash",
+    "score": 100.7
+  },
+  {
+    "artist": "Looking Glass",
+    "score": 100.6
+  },
+  {
+    "artist": "Leon Russell",
+    "score": 100.5
+  },
+  {
+    "artist": "The Staple Singers",
+    "score": 100.5
+  },
+  {
+    "artist": "The Allman Brothers Band",
+    "score": 100.2
+  },
+  {
+    "artist": "Joe Tex",
+    "score": 100.1
+  },
+  {
+    "artist": "Rod Stewart",
+    "score": 100.1
+  },
+  {
+    "artist": "Billy Paul",
+    "score": 99.9
+  },
+  {
+    "artist": "Billy Preston",
+    "score": 99.7
+  },
+  {
+    "artist": "The Hollies",
+    "score": 99.5
+  },
+  {
+    "artist": "Cornelius Brothers",
+    "score": 99.4
+  },
+  {
+    "artist": "Lobo",
+    "score": 99.4
+  },
+  {
+    "artist": "Bill Withers",
+    "score": 99.3
+  },
+  {
+    "artist": "Stephen Stills",
+    "score": 99
+  },
+  {
+    "artist": "The Main Ingredient",
+    "score": 98.8
+  },
+  {
+    "artist": "Janis Joplin",
+    "score": 98.7
+  },
+  {
+    "artist": "Robert John",
+    "score": 98.7
+  },
+  {
+    "artist": "The Moody Blues With The London Festival Orchestra (Knight)",
+    "score": 98.7
+  },
+  {
+    "artist": "David Crosby/Graham Nash",
+    "score": 98.6
+  },
+  {
+    "artist": "Luther Ingram",
+    "score": 98.6
+  },
+  {
+    "artist": "The Stylistics",
+    "score": 98.6
+  },
+  {
+    "artist": "Climax",
+    "score": 98.5
+  },
+  {
+    "artist": "The Spinners",
+    "score": 98.5
+  },
+  {
+    "artist": "Harold Melvin And The Blue Notes",
+    "score": 98.4
+  },
+  {
+    "artist": "Gallery",
+    "score": 98.2
+  },
+  {
+    "artist": "Wayne Newton",
+    "score": 98
+  },
+  {
+    "artist": "Eric Clapton",
+    "score": 97.8
+  },
+  {
+    "artist": "Procol Harum",
+    "score": 97.8
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "score": 97.7
+  },
+  {
+    "artist": "Sly",
+    "score": 97.6
+  },
+  {
+    "artist": "Humble Pie",
+    "score": 97.4
+  },
+  {
+    "artist": "Badfinger",
+    "score": 97
+  },
+  {
+    "artist": "Jonathan Edwards",
+    "score": 96.9
+  },
+  {
+    "artist": "Raspberries",
+    "score": 96.8
+  },
+  {
+    "artist": "Argent",
+    "score": 96.5
+  },
+  {
+    "artist": "Dr. Hook And The Medicine Show",
+    "score": 96.5
+  },
+  {
+    "artist": "Sly & The Family Stone",
+    "score": 96.4
+  },
+  {
+    "artist": "The Dramatics",
+    "score": 96.3
+  },
+  {
+    "artist": "Faces",
+    "score": 96.2
+  },
+  {
+    "artist": "Albert Hammond",
+    "score": 96.1
+  },
+  {
+    "artist": "The Jackson 5",
+    "score": 96.1
+  },
+  {
+    "artist": "Rick Nelson And The Stone Canyon Band",
+    "score": 95.9
+  },
+  {
+    "artist": "Seals",
+    "score": 95.7
+  },
+  {
+    "artist": "The Band",
+    "score": 95.7
+  },
+  {
+    "artist": "Traffic",
+    "score": 95.7
+  },
+  {
+    "artist": "James Taylor",
+    "score": 95.6
+  },
+  {
+    "artist": "Apollo",
+    "score": 95.4
+  },
+  {
+    "artist": "Donna Fargo",
+    "score": 95.4
+  },
+  {
+    "artist": "Aretha Franklin & James Cleveland",
+    "score": 95.3
+  },
+  {
+    "artist": "The Jimmy Castor Bunch",
+    "score": 95.2
+  },
+  {
+    "artist": "Betty Wright",
+    "score": 94.9
+  },
+  {
+    "artist": "Dennis Coffey",
+    "score": 94.8
+  },
+  {
+    "artist": "Seals & Crofts",
+    "score": 94.8
+  },
+  {
+    "artist": "Carlos Santana & Buddy Miles",
+    "score": 94.6
+  },
+  {
+    "artist": "Cher",
+    "score": 94.3
+  },
+  {
+    "artist": "Gary Glitter",
+    "score": 94.1
+  },
+  {
+    "artist": "Mouth",
+    "score": 93.9
+  },
+  {
+    "artist": "The New Seekers",
+    "score": 93.7
+  },
+  {
+    "artist": "The Chakachas",
+    "score": 93.5
+  },
+  {
+    "artist": "Jim Croce",
+    "score": 93.3
+  },
+  {
+    "artist": "Johnny Rivers",
+    "score": 93.3
+  },
+  {
+    "artist": "Sonny",
+    "score": 93.3
+  },
+  {
+    "artist": "Jackson Browne",
+    "score": 93.2
+  },
+  {
+    "artist": "Isaac Hayes",
+    "score": 93.1
+  },
+  {
+    "artist": "The Delegates",
+    "score": 92.8
+  },
+  {
+    "artist": "Commander Cody",
+    "score": 92.4
+  },
+  {
+    "artist": "Danny O'keefe",
+    "score": 92.3
+  },
+  {
+    "artist": "The Jacksons",
+    "score": 92.1
+  },
+  {
+    "artist": "Wings",
+    "score": 91.7
+  },
+  {
+    "artist": "John Denver",
+    "score": 91.6
+  },
+  {
+    "artist": "George Carlin",
+    "score": 90.5
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "score": 90.4
+  },
+  {
+    "artist": "Jimi Hendrix",
+    "score": 89.9
+  },
+  {
+    "artist": "Various Artists",
+    "score": 89.3
+  },
+  {
+    "artist": "Malo",
+    "score": 89.1
+  },
+  {
+    "artist": "Sonny & Cher",
+    "score": 88.9
+  },
+  {
+    "artist": "Bob Dylan",
+    "score": 88.8
+  },
+  {
+    "artist": "Black Sabbath",
+    "score": 88.1
+  },
+  {
+    "artist": "Van Morrison",
+    "score": 87.2
+  }
+]

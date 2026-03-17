@@ -1,0 +1,449 @@
+{
+  "year": "2005",
+  "top_songs": [
+    {
+      "artist": "Kelly Clarkson",
+      "title": "Since U Been Gone",
+      "weeks": 44,
+      "peak": 2,
+      "score": 982
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "We Belong Together",
+      "weeks": 38,
+      "peak": 1,
+      "score": 974
+    },
+    {
+      "artist": "Green Day",
+      "title": "Boulevard Of Broken Dreams",
+      "weeks": 31,
+      "peak": 2,
+      "score": 801
+    },
+    {
+      "artist": "Gwen Stefani",
+      "title": "Hollaback Girl",
+      "weeks": 31,
+      "peak": 1,
+      "score": 743
+    },
+    {
+      "artist": "50 Cent",
+      "title": "Disco Inferno",
+      "weeks": 26,
+      "peak": 3,
+      "score": 728
+    },
+    {
+      "artist": "Mario",
+      "title": "Let Me Love You",
+      "weeks": 26,
+      "peak": 1,
+      "score": 709
+    },
+    {
+      "artist": "Weezer",
+      "title": "Beverly Hills",
+      "weeks": 38,
+      "peak": 10,
+      "score": 700
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "title": "Behind These Hazel Eyes",
+      "weeks": 34,
+      "peak": 6,
+      "score": 668
+    },
+    {
+      "artist": "Ciara",
+      "title": "1, 2 Step",
+      "weeks": 30,
+      "peak": 2,
+      "score": 663
+    },
+    {
+      "artist": "The Pussycat Dolls",
+      "title": "Don't Cha",
+      "weeks": 35,
+      "peak": 2,
+      "score": 642
+    },
+    {
+      "artist": "50 Cent",
+      "title": "Candy Shop",
+      "weeks": 23,
+      "peak": 1,
+      "score": 623
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Shake It Off",
+      "weeks": 23,
+      "peak": 2,
+      "score": 594
+    },
+    {
+      "artist": "The Killers",
+      "title": "Mr. Brightside",
+      "weeks": 38,
+      "peak": 10,
+      "score": 577
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Gold Digger",
+      "weeks": 23,
+      "peak": 1,
+      "score": 559
+    },
+    {
+      "artist": "The Game",
+      "title": "How We Do",
+      "weeks": 23,
+      "peak": 4,
+      "score": 555
+    },
+    {
+      "artist": "The Black Eyed Peas",
+      "title": "Don't Phunk With My Heart",
+      "weeks": 26,
+      "peak": 3,
+      "score": 555
+    },
+    {
+      "artist": "Ciara",
+      "title": "Oh",
+      "weeks": 23,
+      "peak": 2,
+      "score": 527
+    },
+    {
+      "artist": "The Black Eyed Peas",
+      "title": "My Humps",
+      "weeks": 20,
+      "peak": 3,
+      "score": 523
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Pon de Replay",
+      "weeks": 27,
+      "peak": 2,
+      "score": 513
+    },
+    {
+      "artist": "Rob Thomas",
+      "title": "Lonely No More",
+      "weeks": 34,
+      "peak": 6,
+      "score": 498
+    },
+    {
+      "artist": "Bow Wow",
+      "title": "Like You",
+      "weeks": 21,
+      "peak": 3,
+      "score": 483
+    },
+    {
+      "artist": "Lil Jon",
+      "title": "Lovers And Friends",
+      "weeks": 17,
+      "peak": 3,
+      "score": 481
+    },
+    {
+      "artist": "Missy Elliott",
+      "title": "Lose Control",
+      "weeks": 28,
+      "peak": 3,
+      "score": 481
+    },
+    {
+      "artist": "Destiny's Child",
+      "title": "Soldier",
+      "weeks": 16,
+      "peak": 3,
+      "score": 464
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "title": "Breakaway",
+      "weeks": 28,
+      "peak": 10,
+      "score": 460
+    },
+    {
+      "artist": "Frankie J",
+      "title": "Obsession (No Es Amor)",
+      "weeks": 21,
+      "peak": 3,
+      "score": 458
+    },
+    {
+      "artist": "The Game",
+      "title": "Hate It Or Love It",
+      "weeks": 23,
+      "peak": 2,
+      "score": 450
+    },
+    {
+      "artist": "Will Smith",
+      "title": "Switch",
+      "weeks": 28,
+      "peak": 7,
+      "score": 445
+    },
+    {
+      "artist": "Nickelback",
+      "title": "Photograph",
+      "weeks": 17,
+      "peak": 2,
+      "score": 435
+    },
+    {
+      "artist": "Snoop Dogg",
+      "title": "Drop It Like It's Hot",
+      "weeks": 17,
+      "peak": 2,
+      "score": 434
+    },
+    {
+      "artist": "50 Cent",
+      "title": "Just A Lil Bit",
+      "weeks": 27,
+      "peak": 3,
+      "score": 418
+    },
+    {
+      "artist": "Fall Out Boy",
+      "title": "Sugar, We're Goin' Down",
+      "weeks": 27,
+      "peak": 8,
+      "score": 405
+    },
+    {
+      "artist": "Young Jeezy",
+      "title": "Soul Survivor",
+      "weeks": 18,
+      "peak": 4,
+      "score": 402
+    },
+    {
+      "artist": "Lifehouse",
+      "title": "You And Me",
+      "weeks": 46,
+      "peak": 5,
+      "score": 383
+    },
+    {
+      "artist": "Gwen Stefani",
+      "title": "Rich Girl",
+      "weeks": 26,
+      "peak": 7,
+      "score": 373
+    },
+    {
+      "artist": "Bow Wow",
+      "title": "Let Me Hold You",
+      "weeks": 24,
+      "peak": 4,
+      "score": 350
+    },
+    {
+      "artist": "Gorillaz",
+      "title": "Feel Good Inc",
+      "weeks": 32,
+      "peak": 14,
+      "score": 347
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "title": "Because Of You",
+      "weeks": 18,
+      "peak": 7,
+      "score": 344
+    },
+    {
+      "artist": "Usher",
+      "title": "Caught Up",
+      "weeks": 24,
+      "peak": 8,
+      "score": 334
+    },
+    {
+      "artist": "Chris Brown",
+      "title": "Run It!",
+      "weeks": 19,
+      "peak": 1,
+      "score": 333
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Kelly Clarkson",
+      "hits": 4
+    },
+    {
+      "artist": "Mariah Carey",
+      "hits": 2
+    },
+    {
+      "artist": "Gwen Stefani",
+      "hits": 2
+    },
+    {
+      "artist": "50 Cent",
+      "hits": 3
+    },
+    {
+      "artist": "Ciara",
+      "hits": 2
+    },
+    {
+      "artist": "The Game",
+      "hits": 2
+    },
+    {
+      "artist": "The Black Eyed Peas",
+      "hits": 2
+    },
+    {
+      "artist": "Bow Wow",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Lifehouse",
+      "title": "You And Me",
+      "weeks": 46,
+      "peak": 5,
+      "score": 383
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "title": "Since U Been Gone",
+      "weeks": 44,
+      "peak": 2,
+      "score": 982
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "We Belong Together",
+      "weeks": 38,
+      "peak": 1,
+      "score": 974
+    },
+    {
+      "artist": "Weezer",
+      "title": "Beverly Hills",
+      "weeks": 38,
+      "peak": 10,
+      "score": 700
+    },
+    {
+      "artist": "The Killers",
+      "title": "Mr. Brightside",
+      "weeks": 38,
+      "peak": 10,
+      "score": 577
+    },
+    {
+      "artist": "Papa Roach",
+      "title": "Scars",
+      "weeks": 38,
+      "peak": 15,
+      "score": -85
+    },
+    {
+      "artist": "The Pussycat Dolls",
+      "title": "Don't Cha",
+      "weeks": 35,
+      "peak": 2,
+      "score": 642
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "title": "Behind These Hazel Eyes",
+      "weeks": 34,
+      "peak": 6,
+      "score": 668
+    },
+    {
+      "artist": "Rob Thomas",
+      "title": "Lonely No More",
+      "weeks": 34,
+      "peak": 6,
+      "score": 498
+    },
+    {
+      "artist": "Gorillaz",
+      "title": "Feel Good Inc",
+      "weeks": 32,
+      "peak": 14,
+      "score": 347
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Mariah Carey",
+      "title": "We Belong Together",
+      "weeks": 38,
+      "peak": 1,
+      "score": 974
+    },
+    {
+      "artist": "Gwen Stefani",
+      "title": "Hollaback Girl",
+      "weeks": 31,
+      "peak": 1,
+      "score": 743
+    },
+    {
+      "artist": "Mario",
+      "title": "Let Me Love You",
+      "weeks": 26,
+      "peak": 1,
+      "score": 709
+    },
+    {
+      "artist": "50 Cent",
+      "title": "Candy Shop",
+      "weeks": 23,
+      "peak": 1,
+      "score": 623
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Gold Digger",
+      "weeks": 23,
+      "peak": 1,
+      "score": 559
+    },
+    {
+      "artist": "Chris Brown",
+      "title": "Run It!",
+      "weeks": 19,
+      "peak": 1,
+      "score": 333
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Don't Forget About Us",
+      "weeks": 11,
+      "peak": 1,
+      "score": 182
+    },
+    {
+      "artist": "Carrie Underwood",
+      "title": "Inside Your Heaven",
+      "weeks": 12,
+      "peak": 1,
+      "score": 7
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Vera Kern Type Sample</title>
+  <desc id="desc">Elegant editorial lettering sample for RetroVerse Type and Lettering.</desc>
+  <rect width="1200" height="900" fill="#f3ead7"/>
+  <rect x="54" y="54" width="1092" height="792" rx="36" fill="#faf6ee" stroke="#0f172a" stroke-width="3"/>
+  <path d="M124 156h952" stroke="#0f172a" stroke-width="3" opacity="0.32"/>
+  <path d="M124 742h952" stroke="#0f172a" stroke-width="3" opacity="0.18"/>
+  <text x="124" y="232" fill="#8a1538" font-size="78" font-family="Didot, Bodoni MT, serif" letter-spacing="10">VERA KERN</text>
+  <text x="118" y="530" fill="#101828" font-size="268" font-family="Didot, Bodoni MT, serif" font-style="italic" letter-spacing="-18">Vk</text>
+  <text x="710" y="425" fill="#7c2d12" font-size="86" font-family="Times New Roman, serif" font-style="italic">editorial</text>
+  <text x="706" y="512" fill="#111827" font-size="68" font-family="Didot, Bodoni MT, serif" letter-spacing="8">DISPLAY</text>
+  <text x="706" y="598" fill="#111827" font-size="68" font-family="Didot, Bodoni MT, serif" letter-spacing="8">LETTERING</text>
+  <path d="M700 637c84-19 166-18 246 4" stroke="#8a1538" stroke-width="4" fill="none"/>
+  <path d="M892 366c49 27 96 67 142 118" stroke="#8a1538" stroke-width="3" fill="none" opacity="0.6"/>
+  <circle cx="1026" cy="734" r="44" fill="#8a1538" opacity="0.12"/>
+  <text x="124" y="784" fill="#334155" font-size="34" font-family="Georgia, serif" letter-spacing="5">TYPE &amp; LETTERING DEPARTMENT SAMPLE</text>
+</svg>

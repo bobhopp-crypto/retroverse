@@ -1,0 +1,25 @@
+Retro magazine illustration for page 16 of a 1978 pop culture magazine.
+
+Prompt source: visual_concept
+Page slug: movies
+Page title: Movies of the Year
+Visual concept: cinema_marquee_corridor
+
+Article topic:
+A bustling multiplex corridor with poster cases, concession glow, and moviegoers converging under marquee lights.
+
+Visual direction from page brief:
+Scene description: A bustling multiplex corridor with poster cases, concession glow, and moviegoers converging under marquee lights.
+Camera style: deep-perspective lobby shot
+Lighting style: projector gold with red velvet warmth
+
+Create a lively illustrated scene reflecting the topic.
+1970s editorial illustration style.
+MAD Magazine caricature influence.
+comic line art + watercolor textures.
+late 1970s neon palette.
+handwritten signature "Judge" as a small artist mark only.
+
+Important:
+leave soft areas suitable for text placement.
+Do not include readable typography.

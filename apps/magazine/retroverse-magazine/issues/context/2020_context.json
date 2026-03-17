@@ -1,0 +1,539 @@
+{
+  "year": "2020",
+  "top_songs": [
+    {
+      "artist": "The Weeknd",
+      "title": "Blinding Lights",
+      "weeks": 52,
+      "peak": 1,
+      "score": 1655
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Circles",
+      "weeks": 45,
+      "peak": 1,
+      "score": 1374
+    },
+    {
+      "artist": "Dababy",
+      "title": "Rockstar",
+      "weeks": 35,
+      "peak": 1,
+      "score": 1111
+    },
+    {
+      "artist": "Dua Lipa",
+      "title": "Don't Start Now",
+      "weeks": 45,
+      "peak": 2,
+      "score": 1090
+    },
+    {
+      "artist": "Harry Styles",
+      "title": "Adore You",
+      "weeks": 48,
+      "peak": 6,
+      "score": 1035
+    },
+    {
+      "artist": "Roddy Ricch",
+      "title": "The Box",
+      "weeks": 36,
+      "peak": 1,
+      "score": 1031
+    },
+    {
+      "artist": "Future",
+      "title": "Life Is Good",
+      "weeks": 38,
+      "peak": 2,
+      "score": 935
+    },
+    {
+      "artist": "Gabby Barrett",
+      "title": "I Hope",
+      "weeks": 51,
+      "peak": 3,
+      "score": 861
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "Intentions",
+      "weeks": 31,
+      "peak": 5,
+      "score": 770
+    },
+    {
+      "artist": "Saint Jhn",
+      "title": "Roses",
+      "weeks": 34,
+      "peak": 4,
+      "score": 745
+    },
+    {
+      "artist": "Maren Morris",
+      "title": "The Bones",
+      "weeks": 39,
+      "peak": 12,
+      "score": 742
+    },
+    {
+      "artist": "Megan Thee Stallion",
+      "title": "Savage",
+      "weeks": 28,
+      "peak": 1,
+      "score": 698
+    },
+    {
+      "artist": "Lewis Capaldi",
+      "title": "Someone You Loved",
+      "weeks": 22,
+      "peak": 4,
+      "score": 667
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "Memories",
+      "weeks": 28,
+      "peak": 2,
+      "score": 664
+    },
+    {
+      "artist": "Drake",
+      "title": "Laugh Now Cry Later",
+      "weeks": 18,
+      "peak": 2,
+      "score": 651
+    },
+    {
+      "artist": "Jawsh 685 X Jason Derulo",
+      "title": "Savage Love (Laxed - Siren Beat)",
+      "weeks": 26,
+      "peak": 1,
+      "score": 628
+    },
+    {
+      "artist": "24kgoldn",
+      "title": "Mood",
+      "weeks": 19,
+      "peak": 1,
+      "score": 605
+    },
+    {
+      "artist": "Pop Smoke",
+      "title": "For The Night",
+      "weeks": 24,
+      "peak": 6,
+      "score": 576
+    },
+    {
+      "artist": "Arizona Zervas",
+      "title": "Roxanne",
+      "weeks": 19,
+      "peak": 5,
+      "score": 573
+    },
+    {
+      "artist": "Bts",
+      "title": "Dynamite",
+      "weeks": 17,
+      "peak": 1,
+      "score": 569
+    },
+    {
+      "artist": "Cardi B",
+      "title": "WAP",
+      "weeks": 19,
+      "peak": 1,
+      "score": 561
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Everything I Wanted",
+      "weeks": 27,
+      "peak": 9,
+      "score": 557
+    },
+    {
+      "artist": "Chris Brown",
+      "title": "Go Crazy",
+      "weeks": 32,
+      "peak": 9,
+      "score": 552
+    },
+    {
+      "artist": "Jack Harlow",
+      "title": "Whats Poppin",
+      "weeks": 45,
+      "peak": 2,
+      "score": 541
+    },
+    {
+      "artist": "Harry Styles",
+      "title": "Watermelon Sugar",
+      "weeks": 33,
+      "peak": 1,
+      "score": 511
+    },
+    {
+      "artist": "Tones And I",
+      "title": "Dance Monkey",
+      "weeks": 25,
+      "peak": 4,
+      "score": 489
+    },
+    {
+      "artist": "Lil Mosey",
+      "title": "Blueberry Faygo",
+      "weeks": 33,
+      "peak": 8,
+      "score": 485
+    },
+    {
+      "artist": "Doja Cat",
+      "title": "Say So",
+      "weeks": 38,
+      "peak": 1,
+      "score": 475
+    },
+    {
+      "artist": "Dua Lipa",
+      "title": "Break My Heart",
+      "weeks": 32,
+      "peak": 13,
+      "score": 457
+    },
+    {
+      "artist": "Dan + Shay",
+      "title": "10,000 Hours",
+      "weeks": 19,
+      "peak": 5,
+      "score": 412
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "Holy",
+      "weeks": 13,
+      "peak": 3,
+      "score": 412
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Heartless",
+      "weeks": 19,
+      "peak": 4,
+      "score": 411
+    },
+    {
+      "artist": "Trevor Daniel",
+      "title": "Falling",
+      "weeks": 33,
+      "peak": 17,
+      "score": 394
+    },
+    {
+      "artist": "Mustard",
+      "title": "Ballin'",
+      "weeks": 22,
+      "peak": 11,
+      "score": 384
+    },
+    {
+      "artist": "Juice Wrld X Marshmello",
+      "title": "Come & Go",
+      "weeks": 20,
+      "peak": 2,
+      "score": 359
+    },
+    {
+      "artist": "Internet Money",
+      "title": "Lemonade",
+      "weeks": 18,
+      "peak": 6,
+      "score": 334
+    },
+    {
+      "artist": "Blackbear",
+      "title": "Hot Girl Bummer",
+      "weeks": 28,
+      "peak": 11,
+      "score": 332
+    },
+    {
+      "artist": "Camila Cabello",
+      "title": "My Oh My",
+      "weeks": 25,
+      "peak": 12,
+      "score": 331
+    },
+    {
+      "artist": "Dababy",
+      "title": "BOP",
+      "weeks": 18,
+      "peak": 12,
+      "score": 330
+    },
+    {
+      "artist": "Roddy Ricch",
+      "title": "High Fashion",
+      "weeks": 28,
+      "peak": 20,
+      "score": 308
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "The Weeknd",
+      "hits": 2
+    },
+    {
+      "artist": "Dababy",
+      "hits": 2
+    },
+    {
+      "artist": "Dua Lipa",
+      "hits": 2
+    },
+    {
+      "artist": "Harry Styles",
+      "hits": 2
+    },
+    {
+      "artist": "Roddy Ricch",
+      "hits": 2
+    },
+    {
+      "artist": "Justin Bieber",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "The Weeknd",
+      "title": "Blinding Lights",
+      "weeks": 52,
+      "peak": 1,
+      "score": 1655
+    },
+    {
+      "artist": "Gabby Barrett",
+      "title": "I Hope",
+      "weeks": 51,
+      "peak": 3,
+      "score": 861
+    },
+    {
+      "artist": "Harry Styles",
+      "title": "Adore You",
+      "weeks": 48,
+      "peak": 6,
+      "score": 1035
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Circles",
+      "weeks": 45,
+      "peak": 1,
+      "score": 1374
+    },
+    {
+      "artist": "Dua Lipa",
+      "title": "Don't Start Now",
+      "weeks": 45,
+      "peak": 2,
+      "score": 1090
+    },
+    {
+      "artist": "Jack Harlow",
+      "title": "Whats Poppin",
+      "weeks": 45,
+      "peak": 2,
+      "score": 541
+    },
+    {
+      "artist": "Lewis Capaldi",
+      "title": "Before You Go",
+      "weeks": 44,
+      "peak": 9,
+      "score": 199
+    },
+    {
+      "artist": "Maren Morris",
+      "title": "The Bones",
+      "weeks": 39,
+      "peak": 12,
+      "score": 742
+    },
+    {
+      "artist": "Future",
+      "title": "Life Is Good",
+      "weeks": 38,
+      "peak": 2,
+      "score": 935
+    },
+    {
+      "artist": "Doja Cat",
+      "title": "Say So",
+      "weeks": 38,
+      "peak": 1,
+      "score": 475
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "The Weeknd",
+      "title": "Blinding Lights",
+      "weeks": 52,
+      "peak": 1,
+      "score": 1655
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Circles",
+      "weeks": 45,
+      "peak": 1,
+      "score": 1374
+    },
+    {
+      "artist": "Dababy",
+      "title": "Rockstar",
+      "weeks": 35,
+      "peak": 1,
+      "score": 1111
+    },
+    {
+      "artist": "Roddy Ricch",
+      "title": "The Box",
+      "weeks": 36,
+      "peak": 1,
+      "score": 1031
+    },
+    {
+      "artist": "Megan Thee Stallion",
+      "title": "Savage",
+      "weeks": 28,
+      "peak": 1,
+      "score": 698
+    },
+    {
+      "artist": "Jawsh 685 X Jason Derulo",
+      "title": "Savage Love (Laxed - Siren Beat)",
+      "weeks": 26,
+      "peak": 1,
+      "score": 628
+    },
+    {
+      "artist": "24kgoldn",
+      "title": "Mood",
+      "weeks": 19,
+      "peak": 1,
+      "score": 605
+    },
+    {
+      "artist": "Bts",
+      "title": "Dynamite",
+      "weeks": 17,
+      "peak": 1,
+      "score": 569
+    },
+    {
+      "artist": "Cardi B",
+      "title": "WAP",
+      "weeks": 19,
+      "peak": 1,
+      "score": 561
+    },
+    {
+      "artist": "Harry Styles",
+      "title": "Watermelon Sugar",
+      "weeks": 33,
+      "peak": 1,
+      "score": 511
+    },
+    {
+      "artist": "Doja Cat",
+      "title": "Say So",
+      "weeks": 38,
+      "peak": 1,
+      "score": 475
+    },
+    {
+      "artist": "Drake",
+      "title": "Toosie Slide",
+      "weeks": 20,
+      "peak": 1,
+      "score": 305
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "Positions",
+      "weeks": 8,
+      "peak": 1,
+      "score": 301
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Rain On Me",
+      "weeks": 20,
+      "peak": 1,
+      "score": 246
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "All I Want For Christmas Is You",
+      "weeks": 6,
+      "peak": 1,
+      "score": 197
+    },
+    {
+      "artist": "The Scotts, Travis Scott",
+      "title": "The Scotts",
+      "weeks": 13,
+      "peak": 1,
+      "score": 124
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Willow",
+      "weeks": 1,
+      "peak": 1,
+      "score": 40
+    },
+    {
+      "artist": "Bts",
+      "title": "Life Goes On",
+      "weeks": 3,
+      "peak": 1,
+      "score": 1
+    },
+    {
+      "artist": "6ix9ine",
+      "title": "Trollz",
+      "weeks": 4,
+      "peak": 1,
+      "score": -8
+    },
+    {
+      "artist": "Travis Scott",
+      "title": "Franchise",
+      "weeks": 9,
+      "peak": 1,
+      "score": -20
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Cardigan",
+      "weeks": 14,
+      "peak": 1,
+      "score": -125
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "Stuck With U",
+      "weeks": 18,
+      "peak": 1,
+      "score": -201
+    }
+  ]
+}

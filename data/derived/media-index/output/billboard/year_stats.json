@@ -1,0 +1,671 @@
+{
+  "meta": {
+    "generated_at": "2026-03-10T19:01:34.758995Z",
+    "source_db": "/Users/bobhopp/Sites/retroverse/raw-data/billboard-hot-100.db",
+    "source_system": "RVA-HOT100"
+  },
+  "year_stats": [
+    {
+      "year": 1958,
+      "chart_rows": 2200,
+      "songs_charted": 352,
+      "week_count": 22,
+      "first_week": "1958-08-04",
+      "last_week": "1958-12-29",
+      "number_one_song_count": 8
+    },
+    {
+      "year": 1959,
+      "chart_rows": 5200,
+      "songs_charted": 663,
+      "week_count": 52,
+      "first_week": "1959-01-03",
+      "last_week": "1959-12-26",
+      "number_one_song_count": 16
+    },
+    {
+      "year": 1960,
+      "chart_rows": 5300,
+      "songs_charted": 700,
+      "week_count": 53,
+      "first_week": "1960-01-02",
+      "last_week": "1960-12-31",
+      "number_one_song_count": 19
+    },
+    {
+      "year": 1961,
+      "chart_rows": 5200,
+      "songs_charted": 779,
+      "week_count": 52,
+      "first_week": "1961-01-07",
+      "last_week": "1961-12-30",
+      "number_one_song_count": 21
+    },
+    {
+      "year": 1962,
+      "chart_rows": 5200,
+      "songs_charted": 768,
+      "week_count": 52,
+      "first_week": "1962-01-06",
+      "last_week": "1962-12-29",
+      "number_one_song_count": 21
+    },
+    {
+      "year": 1963,
+      "chart_rows": 5200,
+      "songs_charted": 754,
+      "week_count": 52,
+      "first_week": "1963-01-05",
+      "last_week": "1963-12-28",
+      "number_one_song_count": 21
+    },
+    {
+      "year": 1964,
+      "chart_rows": 5200,
+      "songs_charted": 810,
+      "week_count": 52,
+      "first_week": "1964-01-04",
+      "last_week": "1964-12-26",
+      "number_one_song_count": 23
+    },
+    {
+      "year": 1965,
+      "chart_rows": 5200,
+      "songs_charted": 800,
+      "week_count": 52,
+      "first_week": "1965-01-02",
+      "last_week": "1965-12-25",
+      "number_one_song_count": 27
+    },
+    {
+      "year": 1966,
+      "chart_rows": 5300,
+      "songs_charted": 832,
+      "week_count": 53,
+      "first_week": "1966-01-01",
+      "last_week": "1966-12-31",
+      "number_one_song_count": 27
+    },
+    {
+      "year": 1967,
+      "chart_rows": 5200,
+      "songs_charted": 827,
+      "week_count": 52,
+      "first_week": "1967-01-07",
+      "last_week": "1967-12-30",
+      "number_one_song_count": 19
+    },
+    {
+      "year": 1968,
+      "chart_rows": 5200,
+      "songs_charted": 772,
+      "week_count": 52,
+      "first_week": "1968-01-06",
+      "last_week": "1968-12-28",
+      "number_one_song_count": 16
+    },
+    {
+      "year": 1969,
+      "chart_rows": 5200,
+      "songs_charted": 762,
+      "week_count": 52,
+      "first_week": "1969-01-04",
+      "last_week": "1969-12-27",
+      "number_one_song_count": 17
+    },
+    {
+      "year": 1970,
+      "chart_rows": 5200,
+      "songs_charted": 728,
+      "week_count": 52,
+      "first_week": "1970-01-03",
+      "last_week": "1970-12-26",
+      "number_one_song_count": 21
+    },
+    {
+      "year": 1971,
+      "chart_rows": 5200,
+      "songs_charted": 703,
+      "week_count": 52,
+      "first_week": "1971-01-02",
+      "last_week": "1971-12-25",
+      "number_one_song_count": 19
+    },
+    {
+      "year": 1972,
+      "chart_rows": 5300,
+      "songs_charted": 680,
+      "week_count": 53,
+      "first_week": "1972-01-01",
+      "last_week": "1972-12-30",
+      "number_one_song_count": 22
+    },
+    {
+      "year": 1973,
+      "chart_rows": 5200,
+      "songs_charted": 603,
+      "week_count": 52,
+      "first_week": "1973-01-06",
+      "last_week": "1973-12-29",
+      "number_one_song_count": 27
+    },
+    {
+      "year": 1974,
+      "chart_rows": 5200,
+      "songs_charted": 589,
+      "week_count": 52,
+      "first_week": "1974-01-05",
+      "last_week": "1974-12-28",
+      "number_one_song_count": 36
+    },
+    {
+      "year": 1975,
+      "chart_rows": 5200,
+      "songs_charted": 648,
+      "week_count": 52,
+      "first_week": "1975-01-04",
+      "last_week": "1975-12-27",
+      "number_one_song_count": 35
+    },
+    {
+      "year": 1976,
+      "chart_rows": 5196,
+      "songs_charted": 618,
+      "week_count": 52,
+      "first_week": "1976-01-03",
+      "last_week": "1976-12-25",
+      "number_one_song_count": 26
+    },
+    {
+      "year": 1977,
+      "chart_rows": 5291,
+      "songs_charted": 571,
+      "week_count": 53,
+      "first_week": "1977-01-01",
+      "last_week": "1977-12-31",
+      "number_one_song_count": 29
+    },
+    {
+      "year": 1978,
+      "chart_rows": 5200,
+      "songs_charted": 535,
+      "week_count": 52,
+      "first_week": "1978-01-07",
+      "last_week": "1978-12-30",
+      "number_one_song_count": 20
+    },
+    {
+      "year": 1979,
+      "chart_rows": 5200,
+      "songs_charted": 574,
+      "week_count": 52,
+      "first_week": "1979-01-06",
+      "last_week": "1979-12-29",
+      "number_one_song_count": 24
+    },
+    {
+      "year": 1980,
+      "chart_rows": 5200,
+      "songs_charted": 547,
+      "week_count": 52,
+      "first_week": "1980-01-05",
+      "last_week": "1980-12-27",
+      "number_one_song_count": 17
+    },
+    {
+      "year": 1981,
+      "chart_rows": 5200,
+      "songs_charted": 513,
+      "week_count": 52,
+      "first_week": "1981-01-03",
+      "last_week": "1981-12-26",
+      "number_one_song_count": 17
+    },
+    {
+      "year": 1982,
+      "chart_rows": 5200,
+      "songs_charted": 530,
+      "week_count": 52,
+      "first_week": "1982-01-02",
+      "last_week": "1982-12-25",
+      "number_one_song_count": 16
+    },
+    {
+      "year": 1983,
+      "chart_rows": 5300,
+      "songs_charted": 544,
+      "week_count": 53,
+      "first_week": "1983-01-01",
+      "last_week": "1983-12-31",
+      "number_one_song_count": 17
+    },
+    {
+      "year": 1984,
+      "chart_rows": 5200,
+      "songs_charted": 527,
+      "week_count": 52,
+      "first_week": "1984-01-07",
+      "last_week": "1984-12-29",
+      "number_one_song_count": 20
+    },
+    {
+      "year": 1985,
+      "chart_rows": 5200,
+      "songs_charted": 501,
+      "week_count": 52,
+      "first_week": "1985-01-05",
+      "last_week": "1985-12-28",
+      "number_one_song_count": 27
+    },
+    {
+      "year": 1986,
+      "chart_rows": 5200,
+      "songs_charted": 501,
+      "week_count": 52,
+      "first_week": "1986-01-04",
+      "last_week": "1986-12-27",
+      "number_one_song_count": 31
+    },
+    {
+      "year": 1987,
+      "chart_rows": 5200,
+      "songs_charted": 492,
+      "week_count": 52,
+      "first_week": "1987-01-03",
+      "last_week": "1987-12-26",
+      "number_one_song_count": 30
+    },
+    {
+      "year": 1988,
+      "chart_rows": 5300,
+      "songs_charted": 485,
+      "week_count": 53,
+      "first_week": "1988-01-02",
+      "last_week": "1988-12-31",
+      "number_one_song_count": 33
+    },
+    {
+      "year": 1989,
+      "chart_rows": 5200,
+      "songs_charted": 486,
+      "week_count": 52,
+      "first_week": "1989-01-07",
+      "last_week": "1989-12-30",
+      "number_one_song_count": 33
+    },
+    {
+      "year": 1990,
+      "chart_rows": 5200,
+      "songs_charted": 474,
+      "week_count": 52,
+      "first_week": "1990-01-06",
+      "last_week": "1990-12-29",
+      "number_one_song_count": 26
+    },
+    {
+      "year": 1991,
+      "chart_rows": 5200,
+      "songs_charted": 476,
+      "week_count": 52,
+      "first_week": "1991-01-05",
+      "last_week": "1991-12-28",
+      "number_one_song_count": 27
+    },
+    {
+      "year": 1992,
+      "chart_rows": 5200,
+      "songs_charted": 452,
+      "week_count": 52,
+      "first_week": "1992-01-04",
+      "last_week": "1992-12-26",
+      "number_one_song_count": 13
+    },
+    {
+      "year": 1993,
+      "chart_rows": 5200,
+      "songs_charted": 439,
+      "week_count": 52,
+      "first_week": "1993-01-02",
+      "last_week": "1993-12-25",
+      "number_one_song_count": 11
+    },
+    {
+      "year": 1994,
+      "chart_rows": 5300,
+      "songs_charted": 432,
+      "week_count": 53,
+      "first_week": "1994-01-01",
+      "last_week": "1994-12-31",
+      "number_one_song_count": 10
+    },
+    {
+      "year": 1995,
+      "chart_rows": 5200,
+      "songs_charted": 430,
+      "week_count": 52,
+      "first_week": "1995-01-07",
+      "last_week": "1995-12-30",
+      "number_one_song_count": 12
+    },
+    {
+      "year": 1996,
+      "chart_rows": 5200,
+      "songs_charted": 406,
+      "week_count": 52,
+      "first_week": "1996-01-06",
+      "last_week": "1996-12-28",
+      "number_one_song_count": 9
+    },
+    {
+      "year": 1997,
+      "chart_rows": 5200,
+      "songs_charted": 422,
+      "week_count": 52,
+      "first_week": "1997-01-04",
+      "last_week": "1997-12-27",
+      "number_one_song_count": 10
+    },
+    {
+      "year": 1998,
+      "chart_rows": 5200,
+      "songs_charted": 457,
+      "week_count": 52,
+      "first_week": "1998-01-03",
+      "last_week": "1998-12-26",
+      "number_one_song_count": 16
+    },
+    {
+      "year": 1999,
+      "chart_rows": 5200,
+      "songs_charted": 417,
+      "week_count": 52,
+      "first_week": "1999-01-02",
+      "last_week": "1999-12-25",
+      "number_one_song_count": 15
+    },
+    {
+      "year": 2000,
+      "chart_rows": 5300,
+      "songs_charted": 413,
+      "week_count": 53,
+      "first_week": "2000-01-01",
+      "last_week": "2000-12-30",
+      "number_one_song_count": 18
+    },
+    {
+      "year": 2001,
+      "chart_rows": 5200,
+      "songs_charted": 403,
+      "week_count": 52,
+      "first_week": "2001-01-06",
+      "last_week": "2001-12-29",
+      "number_one_song_count": 15
+    },
+    {
+      "year": 2002,
+      "chart_rows": 5200,
+      "songs_charted": 399,
+      "week_count": 52,
+      "first_week": "2002-01-05",
+      "last_week": "2002-12-28",
+      "number_one_song_count": 9
+    },
+    {
+      "year": 2003,
+      "chart_rows": 5200,
+      "songs_charted": 404,
+      "week_count": 52,
+      "first_week": "2003-01-04",
+      "last_week": "2003-12-27",
+      "number_one_song_count": 12
+    },
+    {
+      "year": 2004,
+      "chart_rows": 5200,
+      "songs_charted": 398,
+      "week_count": 52,
+      "first_week": "2004-01-03",
+      "last_week": "2004-12-25",
+      "number_one_song_count": 12
+    },
+    {
+      "year": 2005,
+      "chart_rows": 5300,
+      "songs_charted": 441,
+      "week_count": 53,
+      "first_week": "2005-01-01",
+      "last_week": "2005-12-31",
+      "number_one_song_count": 8
+    },
+    {
+      "year": 2006,
+      "chart_rows": 5200,
+      "songs_charted": 495,
+      "week_count": 52,
+      "first_week": "2006-01-07",
+      "last_week": "2006-12-30",
+      "number_one_song_count": 19
+    },
+    {
+      "year": 2007,
+      "chart_rows": 5200,
+      "songs_charted": 462,
+      "week_count": 52,
+      "first_week": "2007-01-06",
+      "last_week": "2007-12-29",
+      "number_one_song_count": 18
+    },
+    {
+      "year": 2008,
+      "chart_rows": 5200,
+      "songs_charted": 511,
+      "week_count": 52,
+      "first_week": "2008-01-05",
+      "last_week": "2008-12-27",
+      "number_one_song_count": 14
+    },
+    {
+      "year": 2009,
+      "chart_rows": 5200,
+      "songs_charted": 547,
+      "week_count": 52,
+      "first_week": "2009-01-03",
+      "last_week": "2009-12-26",
+      "number_one_song_count": 13
+    },
+    {
+      "year": 2010,
+      "chart_rows": 5200,
+      "songs_charted": 588,
+      "week_count": 52,
+      "first_week": "2010-01-02",
+      "last_week": "2010-12-25",
+      "number_one_song_count": 17
+    },
+    {
+      "year": 2011,
+      "chart_rows": 5300,
+      "songs_charted": 610,
+      "week_count": 53,
+      "first_week": "2011-01-01",
+      "last_week": "2011-12-31",
+      "number_one_song_count": 14
+    },
+    {
+      "year": 2012,
+      "chart_rows": 5200,
+      "songs_charted": 483,
+      "week_count": 52,
+      "first_week": "2012-01-07",
+      "last_week": "2012-12-29",
+      "number_one_song_count": 13
+    },
+    {
+      "year": 2013,
+      "chart_rows": 5200,
+      "songs_charted": 499,
+      "week_count": 52,
+      "first_week": "2013-01-05",
+      "last_week": "2013-12-28",
+      "number_one_song_count": 11
+    },
+    {
+      "year": 2014,
+      "chart_rows": 5200,
+      "songs_charted": 471,
+      "week_count": 52,
+      "first_week": "2014-01-04",
+      "last_week": "2014-12-27",
+      "number_one_song_count": 10
+    },
+    {
+      "year": 2015,
+      "chart_rows": 5200,
+      "songs_charted": 500,
+      "week_count": 52,
+      "first_week": "2015-01-03",
+      "last_week": "2015-12-26",
+      "number_one_song_count": 9
+    },
+    {
+      "year": 2016,
+      "chart_rows": 5300,
+      "songs_charted": 530,
+      "week_count": 53,
+      "first_week": "2016-01-02",
+      "last_week": "2016-12-31",
+      "number_one_song_count": 11
+    },
+    {
+      "year": 2017,
+      "chart_rows": 5200,
+      "songs_charted": 567,
+      "week_count": 52,
+      "first_week": "2017-01-07",
+      "last_week": "2017-12-30",
+      "number_one_song_count": 12
+    },
+    {
+      "year": 2018,
+      "chart_rows": 5200,
+      "songs_charted": 704,
+      "week_count": 52,
+      "first_week": "2018-01-06",
+      "last_week": "2018-12-29",
+      "number_one_song_count": 12
+    },
+    {
+      "year": 2019,
+      "chart_rows": 5200,
+      "songs_charted": 630,
+      "week_count": 52,
+      "first_week": "2019-01-05",
+      "last_week": "2019-12-28",
+      "number_one_song_count": 16
+    },
+    {
+      "year": 2020,
+      "chart_rows": 5200,
+      "songs_charted": 804,
+      "week_count": 52,
+      "first_week": "2020-01-04",
+      "last_week": "2020-12-26",
+      "number_one_song_count": 22
+    },
+    {
+      "year": 2021,
+      "chart_rows": 5200,
+      "songs_charted": 781,
+      "week_count": 52,
+      "first_week": "2021-01-02",
+      "last_week": "2021-12-25",
+      "number_one_song_count": 19
+    },
+    {
+      "year": 2022,
+      "chart_rows": 5300,
+      "songs_charted": 763,
+      "week_count": 53,
+      "first_week": "2022-01-01",
+      "last_week": "2022-12-31",
+      "number_one_song_count": 14
+    },
+    {
+      "year": 2023,
+      "chart_rows": 5200,
+      "songs_charted": 765,
+      "week_count": 52,
+      "first_week": "2023-01-07",
+      "last_week": "2023-12-30",
+      "number_one_song_count": 19
+    },
+    {
+      "year": 2024,
+      "chart_rows": 5200,
+      "songs_charted": 761,
+      "week_count": 52,
+      "first_week": "2024-01-06",
+      "last_week": "2024-12-28",
+      "number_one_song_count": 18
+    },
+    {
+      "year": 2025,
+      "chart_rows": 5100,
+      "songs_charted": 730,
+      "week_count": 51,
+      "first_week": "2025-01-04",
+      "last_week": "2025-12-20",
+      "number_one_song_count": 10
+    }
+  ],
+  "decade_stats": [
+    {
+      "decade": 1950,
+      "chart_rows": 7400,
+      "songs_charted": 925,
+      "week_count": 74
+    },
+    {
+      "decade": 1960,
+      "chart_rows": 52200,
+      "songs_charted": 6953,
+      "week_count": 522
+    },
+    {
+      "decade": 1970,
+      "chart_rows": 52187,
+      "songs_charted": 5402,
+      "week_count": 522
+    },
+    {
+      "decade": 1980,
+      "chart_rows": 52200,
+      "songs_charted": 4221,
+      "week_count": 522
+    },
+    {
+      "decade": 1990,
+      "chart_rows": 52100,
+      "songs_charted": 3528,
+      "week_count": 521
+    },
+    {
+      "decade": 2000,
+      "chart_rows": 52200,
+      "songs_charted": 3555,
+      "week_count": 522
+    },
+    {
+      "decade": 2010,
+      "chart_rows": 52200,
+      "songs_charted": 4581,
+      "week_count": 522
+    },
+    {
+      "decade": 2020,
+      "chart_rows": 31200,
+      "songs_charted": 3913,
+      "week_count": 312
+    }
+  ]
+}

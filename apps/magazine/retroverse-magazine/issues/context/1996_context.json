@@ -1,0 +1,456 @@
+{
+  "year": "1996",
+  "top_songs": [
+    {
+      "artist": "Los Del Rio",
+      "title": "Macarena (Bayside Boys Mix)",
+      "weeks": 36,
+      "peak": 1,
+      "score": 1041
+    },
+    {
+      "artist": "The Tony Rich Project",
+      "title": "Nobody Knows",
+      "weeks": 44,
+      "peak": 2,
+      "score": 1022
+    },
+    {
+      "artist": "Toni Braxton",
+      "title": "You're Makin' Me High/Let It Flow",
+      "weeks": 30,
+      "peak": 1,
+      "score": 903
+    },
+    {
+      "artist": "Celine Dion",
+      "title": "Because You Loved Me (From \"Up Close & Personal\")",
+      "weeks": 33,
+      "peak": 1,
+      "score": 886
+    },
+    {
+      "artist": "Keith Sweat",
+      "title": "Twisted",
+      "weeks": 28,
+      "peak": 2,
+      "score": 873
+    },
+    {
+      "artist": "Tracy Chapman",
+      "title": "Give Me One Reason",
+      "weeks": 39,
+      "peak": 3,
+      "score": 854
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Always Be My Baby",
+      "weeks": 32,
+      "peak": 1,
+      "score": 763
+    },
+    {
+      "artist": "Everything But The Girl",
+      "title": "Missing",
+      "weeks": 34,
+      "peak": 2,
+      "score": 748
+    },
+    {
+      "artist": "Alanis Morissette",
+      "title": "Ironic",
+      "weeks": 32,
+      "peak": 4,
+      "score": 734
+    },
+    {
+      "artist": "Eric Clapton",
+      "title": "Change The World",
+      "weeks": 24,
+      "peak": 5,
+      "score": 719
+    },
+    {
+      "artist": "Brandy",
+      "title": "Sittin' Up In My Room (From \"Waiting To Exhale\")",
+      "weeks": 32,
+      "peak": 2,
+      "score": 713
+    },
+    {
+      "artist": "Donna Lewis",
+      "title": "I Love You Always Forever",
+      "weeks": 28,
+      "peak": 2,
+      "score": 697
+    },
+    {
+      "artist": "Celine Dion",
+      "title": "It's All Coming Back To Me Now",
+      "weeks": 20,
+      "peak": 2,
+      "score": 691
+    },
+    {
+      "artist": "Gin Blossoms",
+      "title": "Follow You Down/Til I Hear It From You",
+      "weeks": 46,
+      "peak": 9,
+      "score": 676
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "One Sweet Day",
+      "weeks": 22,
+      "peak": 1,
+      "score": 645
+    },
+    {
+      "artist": "2pac",
+      "title": "How Do U Want It/California Love",
+      "weeks": 24,
+      "peak": 1,
+      "score": 582
+    },
+    {
+      "artist": "No Mercy",
+      "title": "Where Do You Go",
+      "weeks": 26,
+      "peak": 5,
+      "score": 571
+    },
+    {
+      "artist": "Alanis Morissette",
+      "title": "You Learn/You Oughta Know",
+      "weeks": 23,
+      "peak": 6,
+      "score": 525
+    },
+    {
+      "artist": "La Bouche",
+      "title": "Be My Lover",
+      "weeks": 30,
+      "peak": 6,
+      "score": 510
+    },
+    {
+      "artist": "Ll Cool J",
+      "title": "Loungin",
+      "weeks": 26,
+      "peak": 3,
+      "score": 507
+    },
+    {
+      "artist": "Jewel",
+      "title": "Who Will Save Your Soul",
+      "weeks": 30,
+      "peak": 11,
+      "score": 504
+    },
+    {
+      "artist": "Joan Osborne",
+      "title": "One Of Us",
+      "weeks": 18,
+      "peak": 4,
+      "score": 475
+    },
+    {
+      "artist": "Bone Thugs-n-harmony",
+      "title": "Tha Crossroads",
+      "weeks": 20,
+      "peak": 1,
+      "score": 473
+    },
+    {
+      "artist": "R. Kelly",
+      "title": "I Can't Sleep Baby (If I)",
+      "weeks": 20,
+      "peak": 5,
+      "score": 467
+    },
+    {
+      "artist": "Mary J. Blige",
+      "title": "Not Gon' Cry (From \"Waiting To Exhale\")",
+      "weeks": 20,
+      "peak": 2,
+      "score": 460
+    },
+    {
+      "artist": "Goo Goo Dolls",
+      "title": "Name",
+      "weeks": 24,
+      "peak": 5,
+      "score": 459
+    },
+    {
+      "artist": "Quad City Dj's",
+      "title": "C'mon N' Ride It (The Train)",
+      "weeks": 42,
+      "peak": 3,
+      "score": 439
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "Exhale (Shoop Shoop) (From \"Waiting To Exhale\")",
+      "weeks": 15,
+      "peak": 2,
+      "score": 425
+    },
+    {
+      "artist": "R. Kelly",
+      "title": "Down Low (Nobody Has To Know)",
+      "weeks": 20,
+      "peak": 4,
+      "score": 419
+    },
+    {
+      "artist": "Blackstreet",
+      "title": "No Diggity",
+      "weeks": 12,
+      "peak": 1,
+      "score": 419
+    },
+    {
+      "artist": "Az Yet",
+      "title": "Last Night (From \"The Nutty Professor\")",
+      "weeks": 19,
+      "peak": 9,
+      "score": 405
+    },
+    {
+      "artist": "Keith Sweat",
+      "title": "Nobody",
+      "weeks": 13,
+      "peak": 3,
+      "score": 394
+    },
+    {
+      "artist": "112",
+      "title": "Only You",
+      "weeks": 28,
+      "peak": 13,
+      "score": 382
+    },
+    {
+      "artist": "Merril Bainbridge",
+      "title": "Mouth",
+      "weeks": 17,
+      "peak": 4,
+      "score": 382
+    },
+    {
+      "artist": "3t",
+      "title": "Anything",
+      "weeks": 20,
+      "peak": 15,
+      "score": 376
+    },
+    {
+      "artist": "Ll Cool J",
+      "title": "Hey Lover",
+      "weeks": 14,
+      "peak": 3,
+      "score": 367
+    },
+    {
+      "artist": "The Smashing Pumpkins",
+      "title": "1979",
+      "weeks": 22,
+      "peak": 12,
+      "score": 364
+    },
+    {
+      "artist": "La Bouche",
+      "title": "Sweet Dreams",
+      "weeks": 32,
+      "peak": 13,
+      "score": 362
+    },
+    {
+      "artist": "Toni Braxton",
+      "title": "Un-Break My Heart",
+      "weeks": 10,
+      "peak": 1,
+      "score": 362
+    },
+    {
+      "artist": "Swv",
+      "title": "You're The One",
+      "weeks": 20,
+      "peak": 5,
+      "score": 360
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Toni Braxton",
+      "hits": 2
+    },
+    {
+      "artist": "Celine Dion",
+      "hits": 2
+    },
+    {
+      "artist": "Keith Sweat",
+      "hits": 2
+    },
+    {
+      "artist": "Mariah Carey",
+      "hits": 2
+    },
+    {
+      "artist": "Alanis Morissette",
+      "hits": 2
+    },
+    {
+      "artist": "La Bouche",
+      "hits": 2
+    },
+    {
+      "artist": "Ll Cool J",
+      "hits": 2
+    },
+    {
+      "artist": "R. Kelly",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Gin Blossoms",
+      "title": "Follow You Down/Til I Hear It From You",
+      "weeks": 46,
+      "peak": 9,
+      "score": 676
+    },
+    {
+      "artist": "The Tony Rich Project",
+      "title": "Nobody Knows",
+      "weeks": 44,
+      "peak": 2,
+      "score": 1022
+    },
+    {
+      "artist": "Quad City Dj's",
+      "title": "C'mon N' Ride It (The Train)",
+      "weeks": 42,
+      "peak": 3,
+      "score": 439
+    },
+    {
+      "artist": "Jann Arden",
+      "title": "Insensitive (From \"Bed Of Roses\")",
+      "weeks": 40,
+      "peak": 12,
+      "score": 305
+    },
+    {
+      "artist": "Tracy Chapman",
+      "title": "Give Me One Reason",
+      "weeks": 39,
+      "peak": 3,
+      "score": 854
+    },
+    {
+      "artist": "Dishwalla",
+      "title": "Counting Blue Cars",
+      "weeks": 39,
+      "peak": 15,
+      "score": 160
+    },
+    {
+      "artist": "Los Del Rio",
+      "title": "Macarena (Bayside Boys Mix)",
+      "weeks": 36,
+      "peak": 1,
+      "score": 1041
+    },
+    {
+      "artist": "Everything But The Girl",
+      "title": "Missing",
+      "weeks": 34,
+      "peak": 2,
+      "score": 748
+    },
+    {
+      "artist": "Natalie Merchant",
+      "title": "Wonder",
+      "weeks": 34,
+      "peak": 20,
+      "score": 330
+    },
+    {
+      "artist": "Celine Dion",
+      "title": "Because You Loved Me (From \"Up Close & Personal\")",
+      "weeks": 33,
+      "peak": 1,
+      "score": 886
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Los Del Rio",
+      "title": "Macarena (Bayside Boys Mix)",
+      "weeks": 36,
+      "peak": 1,
+      "score": 1041
+    },
+    {
+      "artist": "Toni Braxton",
+      "title": "You're Makin' Me High/Let It Flow",
+      "weeks": 30,
+      "peak": 1,
+      "score": 903
+    },
+    {
+      "artist": "Celine Dion",
+      "title": "Because You Loved Me (From \"Up Close & Personal\")",
+      "weeks": 33,
+      "peak": 1,
+      "score": 886
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Always Be My Baby",
+      "weeks": 32,
+      "peak": 1,
+      "score": 763
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "One Sweet Day",
+      "weeks": 22,
+      "peak": 1,
+      "score": 645
+    },
+    {
+      "artist": "2pac",
+      "title": "How Do U Want It/California Love",
+      "weeks": 24,
+      "peak": 1,
+      "score": 582
+    },
+    {
+      "artist": "Bone Thugs-n-harmony",
+      "title": "Tha Crossroads",
+      "weeks": 20,
+      "peak": 1,
+      "score": 473
+    },
+    {
+      "artist": "Blackstreet",
+      "title": "No Diggity",
+      "weeks": 12,
+      "peak": 1,
+      "score": 419
+    },
+    {
+      "artist": "Toni Braxton",
+      "title": "Un-Break My Heart",
+      "weeks": 10,
+      "peak": 1,
+      "score": 362
+    }
+  ]
+}

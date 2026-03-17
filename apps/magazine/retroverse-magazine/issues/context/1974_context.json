@@ -1,0 +1,621 @@
+{
+  "year": "1974",
+  "top_songs": [
+    {
+      "artist": "Barbra Streisand",
+      "title": "The Way We Were",
+      "weeks": 17,
+      "peak": 1,
+      "score": 438
+    },
+    {
+      "artist": "Elton John",
+      "title": "Bennie And The Jets",
+      "weeks": 18,
+      "peak": 1,
+      "score": 417
+    },
+    {
+      "artist": "Kool",
+      "title": "Jungle Boogie",
+      "weeks": 18,
+      "peak": 4,
+      "score": 366
+    },
+    {
+      "artist": "Love Unlimited Orchestra",
+      "title": "Love's Theme",
+      "weeks": 17,
+      "peak": 1,
+      "score": 364
+    },
+    {
+      "artist": "Aretha Franklin",
+      "title": "Until You Come Back To Me (That's What I'm Gonna Do)",
+      "weeks": 15,
+      "peak": 3,
+      "score": 356
+    },
+    {
+      "artist": "Jim Stafford",
+      "title": "Spiders & Snakes",
+      "weeks": 15,
+      "peak": 3,
+      "score": 350
+    },
+    {
+      "artist": "Ringo Starr",
+      "title": "You're Sixteen",
+      "weeks": 12,
+      "peak": 1,
+      "score": 335
+    },
+    {
+      "artist": "Mfsb",
+      "title": "TSOP (The Sound Of Philadelphia)",
+      "weeks": 18,
+      "peak": 1,
+      "score": 334
+    },
+    {
+      "artist": "B.t. Express",
+      "title": "Do It ('til You're Satisfied)",
+      "weeks": 14,
+      "peak": 2,
+      "score": 333
+    },
+    {
+      "artist": "Jackson 5",
+      "title": "Dancing Machine",
+      "weeks": 22,
+      "peak": 2,
+      "score": 329
+    },
+    {
+      "artist": "David Essex",
+      "title": "Rock On",
+      "weeks": 17,
+      "peak": 5,
+      "score": 311
+    },
+    {
+      "artist": "Blue Swede",
+      "title": "Hooked On A Feeling",
+      "weeks": 17,
+      "peak": 1,
+      "score": 299
+    },
+    {
+      "artist": "Olivia Newton-john",
+      "title": "Let Me Be There",
+      "weeks": 12,
+      "peak": 6,
+      "score": 292
+    },
+    {
+      "artist": "Bachman-turner Overdrive",
+      "title": "You Ain't Seen Nothing Yet/Free Wheelin'",
+      "weeks": 15,
+      "peak": 1,
+      "score": 289
+    },
+    {
+      "artist": "Al Wilson",
+      "title": "Show And Tell",
+      "weeks": 11,
+      "peak": 1,
+      "score": 281
+    },
+    {
+      "artist": "Billy Preston",
+      "title": "Nothing From Nothing",
+      "weeks": 18,
+      "peak": 1,
+      "score": 281
+    },
+    {
+      "artist": "Redbone",
+      "title": "Come And Get Your Love",
+      "weeks": 23,
+      "peak": 5,
+      "score": 280
+    },
+    {
+      "artist": "Gladys Knight And The Pips",
+      "title": "Best Thing That Ever Happened To Me",
+      "weeks": 17,
+      "peak": 3,
+      "score": 280
+    },
+    {
+      "artist": "Ray Stevens",
+      "title": "The Streak",
+      "weeks": 17,
+      "peak": 1,
+      "score": 279
+    },
+    {
+      "artist": "Roberta Flack",
+      "title": "Feel Like Makin' Love",
+      "weeks": 16,
+      "peak": 1,
+      "score": 273
+    },
+    {
+      "artist": "The Steve Miller Band",
+      "title": "The Joker",
+      "weeks": 9,
+      "peak": 1,
+      "score": 267
+    },
+    {
+      "artist": "Paul Anka",
+      "title": "(You're) Having My Baby",
+      "weeks": 15,
+      "peak": 1,
+      "score": 262
+    },
+    {
+      "artist": "Dionne Warwicke",
+      "title": "Then Came You",
+      "weeks": 19,
+      "peak": 1,
+      "score": 259
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "You Haven't Done Nothin",
+      "weeks": 19,
+      "peak": 1,
+      "score": 258
+    },
+    {
+      "artist": "Gladys Knight And The Pips",
+      "title": "I've Got To Use My Imagination",
+      "weeks": 10,
+      "peak": 4,
+      "score": 255
+    },
+    {
+      "artist": "John Denver",
+      "title": "Sunshine On My Shoulders",
+      "weeks": 18,
+      "peak": 1,
+      "score": 251
+    },
+    {
+      "artist": "Eddie Kendricks",
+      "title": "Boogie Down",
+      "weeks": 18,
+      "peak": 2,
+      "score": 249
+    },
+    {
+      "artist": "Andy Kim",
+      "title": "Rock Me Gently",
+      "weeks": 18,
+      "peak": 1,
+      "score": 249
+    },
+    {
+      "artist": "Cher",
+      "title": "Dark Lady",
+      "weeks": 16,
+      "peak": 1,
+      "score": 245
+    },
+    {
+      "artist": "Marvin Hamlisch/\"the Sting\"",
+      "title": "The Entertainer",
+      "weeks": 16,
+      "peak": 3,
+      "score": 240
+    },
+    {
+      "artist": "Brownsville Station",
+      "title": "Smokin' In The Boy's Room",
+      "weeks": 9,
+      "peak": 3,
+      "score": 238
+    },
+    {
+      "artist": "Terry Jacks",
+      "title": "Seasons In The Sun",
+      "weeks": 21,
+      "peak": 1,
+      "score": 236
+    },
+    {
+      "artist": "Paul Mccartney And Wings",
+      "title": "Band On The Run",
+      "weeks": 18,
+      "peak": 1,
+      "score": 236
+    },
+    {
+      "artist": "Grand Funk",
+      "title": "The Loco-Motion",
+      "weeks": 20,
+      "peak": 1,
+      "score": 229
+    },
+    {
+      "artist": "Eric Clapton",
+      "title": "I Shot The Sheriff",
+      "weeks": 14,
+      "peak": 1,
+      "score": 229
+    },
+    {
+      "artist": "Helen Reddy",
+      "title": "Angie Baby",
+      "weeks": 11,
+      "peak": 1,
+      "score": 226
+    },
+    {
+      "artist": "Carly Simon",
+      "title": "Mockingbird",
+      "weeks": 16,
+      "peak": 5,
+      "score": 222
+    },
+    {
+      "artist": "Sister Janet Mead",
+      "title": "The Lord's Prayer",
+      "weeks": 13,
+      "peak": 4,
+      "score": 209
+    },
+    {
+      "artist": "Ringo Starr",
+      "title": "Oh My My",
+      "weeks": 14,
+      "peak": 5,
+      "score": 209
+    },
+    {
+      "artist": "Jim Croce",
+      "title": "Time In A Bottle",
+      "weeks": 8,
+      "peak": 1,
+      "score": 208
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Ringo Starr",
+      "hits": 2
+    },
+    {
+      "artist": "Gladys Knight And The Pips",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Mac Davis",
+      "title": "One Hell Of A Woman",
+      "weeks": 28,
+      "peak": 11,
+      "score": -81
+    },
+    {
+      "artist": "The Stylistics",
+      "title": "You Make Me Feel Brand New",
+      "weeks": 25,
+      "peak": 2,
+      "score": 18
+    },
+    {
+      "artist": "Maria Muldaur",
+      "title": "Midnight At The Oasis",
+      "weeks": 24,
+      "peak": 6,
+      "score": 89
+    },
+    {
+      "artist": "Redbone",
+      "title": "Come And Get Your Love",
+      "weeks": 23,
+      "peak": 5,
+      "score": 280
+    },
+    {
+      "artist": "Jackson 5",
+      "title": "Dancing Machine",
+      "weeks": 22,
+      "peak": 2,
+      "score": 329
+    },
+    {
+      "artist": "Terry Jacks",
+      "title": "Seasons In The Sun",
+      "weeks": 21,
+      "peak": 1,
+      "score": 236
+    },
+    {
+      "artist": "Blue Magic",
+      "title": "Sideshow",
+      "weeks": 21,
+      "peak": 8,
+      "score": 169
+    },
+    {
+      "artist": "The Hollies",
+      "title": "The Air That I Breathe",
+      "weeks": 21,
+      "peak": 6,
+      "score": -62
+    },
+    {
+      "artist": "Grand Funk",
+      "title": "The Loco-Motion",
+      "weeks": 20,
+      "peak": 1,
+      "score": 229
+    },
+    {
+      "artist": "Olivia Newton-john",
+      "title": "If You Love Me (let Me Know)",
+      "weeks": 20,
+      "peak": 5,
+      "score": 106
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Barbra Streisand",
+      "title": "The Way We Were",
+      "weeks": 17,
+      "peak": 1,
+      "score": 438
+    },
+    {
+      "artist": "Elton John",
+      "title": "Bennie And The Jets",
+      "weeks": 18,
+      "peak": 1,
+      "score": 417
+    },
+    {
+      "artist": "Love Unlimited Orchestra",
+      "title": "Love's Theme",
+      "weeks": 17,
+      "peak": 1,
+      "score": 364
+    },
+    {
+      "artist": "Ringo Starr",
+      "title": "You're Sixteen",
+      "weeks": 12,
+      "peak": 1,
+      "score": 335
+    },
+    {
+      "artist": "Mfsb",
+      "title": "TSOP (The Sound Of Philadelphia)",
+      "weeks": 18,
+      "peak": 1,
+      "score": 334
+    },
+    {
+      "artist": "Blue Swede",
+      "title": "Hooked On A Feeling",
+      "weeks": 17,
+      "peak": 1,
+      "score": 299
+    },
+    {
+      "artist": "Bachman-turner Overdrive",
+      "title": "You Ain't Seen Nothing Yet/Free Wheelin'",
+      "weeks": 15,
+      "peak": 1,
+      "score": 289
+    },
+    {
+      "artist": "Al Wilson",
+      "title": "Show And Tell",
+      "weeks": 11,
+      "peak": 1,
+      "score": 281
+    },
+    {
+      "artist": "Billy Preston",
+      "title": "Nothing From Nothing",
+      "weeks": 18,
+      "peak": 1,
+      "score": 281
+    },
+    {
+      "artist": "Ray Stevens",
+      "title": "The Streak",
+      "weeks": 17,
+      "peak": 1,
+      "score": 279
+    },
+    {
+      "artist": "Roberta Flack",
+      "title": "Feel Like Makin' Love",
+      "weeks": 16,
+      "peak": 1,
+      "score": 273
+    },
+    {
+      "artist": "The Steve Miller Band",
+      "title": "The Joker",
+      "weeks": 9,
+      "peak": 1,
+      "score": 267
+    },
+    {
+      "artist": "Paul Anka",
+      "title": "(You're) Having My Baby",
+      "weeks": 15,
+      "peak": 1,
+      "score": 262
+    },
+    {
+      "artist": "Dionne Warwicke",
+      "title": "Then Came You",
+      "weeks": 19,
+      "peak": 1,
+      "score": 259
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "You Haven't Done Nothin",
+      "weeks": 19,
+      "peak": 1,
+      "score": 258
+    },
+    {
+      "artist": "John Denver",
+      "title": "Sunshine On My Shoulders",
+      "weeks": 18,
+      "peak": 1,
+      "score": 251
+    },
+    {
+      "artist": "Andy Kim",
+      "title": "Rock Me Gently",
+      "weeks": 18,
+      "peak": 1,
+      "score": 249
+    },
+    {
+      "artist": "Cher",
+      "title": "Dark Lady",
+      "weeks": 16,
+      "peak": 1,
+      "score": 245
+    },
+    {
+      "artist": "Terry Jacks",
+      "title": "Seasons In The Sun",
+      "weeks": 21,
+      "peak": 1,
+      "score": 236
+    },
+    {
+      "artist": "Paul Mccartney And Wings",
+      "title": "Band On The Run",
+      "weeks": 18,
+      "peak": 1,
+      "score": 236
+    },
+    {
+      "artist": "Grand Funk",
+      "title": "The Loco-Motion",
+      "weeks": 20,
+      "peak": 1,
+      "score": 229
+    },
+    {
+      "artist": "Eric Clapton",
+      "title": "I Shot The Sheriff",
+      "weeks": 14,
+      "peak": 1,
+      "score": 229
+    },
+    {
+      "artist": "Helen Reddy",
+      "title": "Angie Baby",
+      "weeks": 11,
+      "peak": 1,
+      "score": 226
+    },
+    {
+      "artist": "Jim Croce",
+      "title": "Time In A Bottle",
+      "weeks": 8,
+      "peak": 1,
+      "score": 208
+    },
+    {
+      "artist": "John Lennon",
+      "title": "Whatever Gets You Thru The Night",
+      "weeks": 14,
+      "peak": 1,
+      "score": 191
+    },
+    {
+      "artist": "John Denver",
+      "title": "Annie's Song",
+      "weeks": 17,
+      "peak": 1,
+      "score": 181
+    },
+    {
+      "artist": "Barry White",
+      "title": "Can't Get Enough Of Your Love, Babe",
+      "weeks": 12,
+      "peak": 1,
+      "score": 164
+    },
+    {
+      "artist": "Billy Swan",
+      "title": "I Can Help",
+      "weeks": 14,
+      "peak": 1,
+      "score": 164
+    },
+    {
+      "artist": "Gordon Lightfoot",
+      "title": "Sundown",
+      "weeks": 18,
+      "peak": 1,
+      "score": 162
+    },
+    {
+      "artist": "Harry Chapin",
+      "title": "Cat's In The Cradle",
+      "weeks": 13,
+      "peak": 1,
+      "score": 138
+    },
+    {
+      "artist": "Paper Lace",
+      "title": "The Night Chicago Died",
+      "weeks": 17,
+      "peak": 1,
+      "score": 127
+    },
+    {
+      "artist": "Carl Douglas",
+      "title": "Kung Fu Fighting",
+      "weeks": 12,
+      "peak": 1,
+      "score": 119
+    },
+    {
+      "artist": "Olivia Newton-john",
+      "title": "I Honestly Love You",
+      "weeks": 15,
+      "peak": 1,
+      "score": 98
+    },
+    {
+      "artist": "Bo Donaldson And The Heywoods",
+      "title": "Billy, Don't Be A Hero",
+      "weeks": 19,
+      "peak": 1,
+      "score": 77
+    },
+    {
+      "artist": "The Hues Corporation",
+      "title": "Rock The Boat",
+      "weeks": 18,
+      "peak": 1,
+      "score": 59
+    },
+    {
+      "artist": "George Mccrae",
+      "title": "Rock Your Baby",
+      "weeks": 17,
+      "peak": 1,
+      "score": 51
+    }
+  ]
+}

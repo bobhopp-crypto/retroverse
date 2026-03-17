@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>RetroVerse 1978 Visual QA Index</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f4efe6;
+      --paper: #fffaf2;
+      --ink: #1f1c17;
+      --muted: #6a6257;
+      --line: #d8cdbb;
+      --ok: #245d3a;
+      --warn: #9a5a00;
+      --danger: #a02020;
+      --accent: #2f4f7a;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      background: linear-gradient(180deg, #efe5d6 0%, var(--bg) 100%);
+      color: var(--ink);
+    }
+    main {
+      max-width: 1440px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 2rem;
+    }
+    .lede {
+      margin: 0 0 18px;
+      color: var(--muted);
+    }
+    .summary {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+      margin: 0 0 20px;
+    }
+    .summary-card {
+      background: rgba(255, 250, 242, 0.96);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 14px 16px;
+    }
+    .summary-card .label {
+      display: block;
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin-bottom: 4px;
+    }
+    .summary-card .value {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+    .report-strip {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 0 0 24px;
+    }
+    .summary-pill, .badge {
+      display: inline-block;
+      border-radius: 999px;
+      padding: 5px 10px;
+      font-size: 0.82rem;
+      border: 1px solid currentColor;
+      background: rgba(255,255,255,0.75);
+    }
+    .summary-pill.ok, .badge.ok {
+      color: var(--ok);
+    }
+    .summary-pill.warn, .badge.warn {
+      color: var(--warn);
+    }
+    .badge.danger {
+      color: var(--danger);
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+    }
+    .page-card {
+      background: rgba(255, 250, 242, 0.97);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      overflow: hidden;
+      box-shadow: 0 10px 28px rgba(44, 33, 14, 0.08);
+    }
+    .thumb {
+      background: #e6dccb;
+      min-height: 340px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .thumb img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .thumb-link {
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+    .missing-thumb {
+      color: var(--danger);
+      font-weight: bold;
+      padding: 24px;
+      text-align: center;
+    }
+    .meta {
+      padding: 14px 16px 16px;
+    }
+    .page-number {
+      font-size: 0.9rem;
+      color: var(--muted);
+      margin-bottom: 4px;
+    }
+    .page-slug {
+      font-size: 1.15rem;
+      font-weight: bold;
+      margin-bottom: 10px;
+      overflow-wrap: anywhere;
+    }
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 10px;
+      min-height: 30px;
+    }
+    .links {
+      font-size: 0.95rem;
+    }
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .missing-link {
+      color: var(--danger);
+    }
+    .sep {
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>RetroVerse 1978 Visual QA Index</h1>
+    <p class="lede">Generated 2026-03-14T20:39:40-05:00. Stable visual review surface built from issue art, layout HTML, trace warnings, and QA reports.</p>
+    <section class="summary">
+      <div class="summary-card"><span class="label">Pages</span><span class="value">30</span></div>
+      <div class="summary-card"><span class="label">Warning Pages</span><span class="value">30</span></div>
+      <div class="summary-card"><span class="label">Missing Images</span><span class="value">0</span></div>
+      <div class="summary-card"><span class="label">Missing Layouts</span><span class="value">0</span></div>
+    </section>
+    <section class="report-strip"><span class="summary-pill ok">1978_art_direction_QA.md: PASS</span><span class="summary-pill ok">1978_art_prompt_QA.md: PASS</span><span class="summary-pill ok">1978_layout_QA.md: PASS</span><span class="summary-pill ok">1978_page_briefs_QA.md: PASS</span><span class="summary-pill ok">1978_press_check_QA.md: PASS</span></section>
+    <section class="grid">
+      <article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_01.png"><img loading="lazy" src="../art/pages/page_01.png" alt="Page 01 art preview" /></a></div><div class="meta"><div class="page-number">Page 01</div><div class="page-slug">cover</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_01.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_01.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_01_cover.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_01.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_02.png"><img loading="lazy" src="../art/pages/page_02.png" alt="Page 02 art preview" /></a></div><div class="meta"><div class="page-number">Page 02</div><div class="page-slug">masthead</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_02.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_02.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_02_masthead.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_02.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_03.png"><img loading="lazy" src="../art/pages/page_03.png" alt="Page 03 art preview" /></a></div><div class="meta"><div class="page-number">Page 03</div><div class="page-slug">editor_letter</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_03.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_03.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_03_editor_letter.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_03.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_04.png"><img loading="lazy" src="../art/pages/page_04.png" alt="Page 04 art preview" /></a></div><div class="meta"><div class="page-number">Page 04</div><div class="page-slug">year_snapshot</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_04.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_04.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_04_year_snapshot.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_04.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_05.png"><img loading="lazy" src="../art/pages/page_05.png" alt="Page 05 art preview" /></a></div><div class="meta"><div class="page-number">Page 05</div><div class="page-slug">charts_overview</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_05.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_05.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_05_charts_overview.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_05.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_06.png"><img loading="lazy" src="../art/pages/page_06.png" alt="Page 06 art preview" /></a></div><div class="meta"><div class="page-number">Page 06</div><div class="page-slug">top_song_1</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_06.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_06.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_06_top_song_1.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_06.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_07.png"><img loading="lazy" src="../art/pages/page_07.png" alt="Page 07 art preview" /></a></div><div class="meta"><div class="page-number">Page 07</div><div class="page-slug">top_song_2</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_07.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_07.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_07_top_song_2.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_07.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_08.png"><img loading="lazy" src="../art/pages/page_08.png" alt="Page 08 art preview" /></a></div><div class="meta"><div class="page-number">Page 08</div><div class="page-slug">top_song_3</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_08.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_08.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_08_top_song_3.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_08.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_09.png"><img loading="lazy" src="../art/pages/page_09.png" alt="Page 09 art preview" /></a></div><div class="meta"><div class="page-number">Page 09</div><div class="page-slug">top_song_4</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_09.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_09.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_09_top_song_4.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_09.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_10.png"><img loading="lazy" src="../art/pages/page_10.png" alt="Page 10 art preview" /></a></div><div class="meta"><div class="page-number">Page 10</div><div class="page-slug">top_song_5</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_10.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_10.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_10_top_song_5.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_10.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_11.png"><img loading="lazy" src="../art/pages/page_11.png" alt="Page 11 art preview" /></a></div><div class="meta"><div class="page-number">Page 11</div><div class="page-slug">top_song_6</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_11.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_11.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_11_top_song_6.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_11.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_12.png"><img loading="lazy" src="../art/pages/page_12.png" alt="Page 12 art preview" /></a></div><div class="meta"><div class="page-number">Page 12</div><div class="page-slug">top_song_7</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_12.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_12.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_12_top_song_7.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_12.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_13.png"><img loading="lazy" src="../art/pages/page_13.png" alt="Page 13 art preview" /></a></div><div class="meta"><div class="page-number">Page 13</div><div class="page-slug">top_song_8</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_13.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_13.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_13_top_song_8.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_13.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_14.png"><img loading="lazy" src="../art/pages/page_14.png" alt="Page 14 art preview" /></a></div><div class="meta"><div class="page-number">Page 14</div><div class="page-slug">top_song_9</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_14.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_14.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_14_top_song_9.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_14.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_15.png"><img loading="lazy" src="../art/pages/page_15.png" alt="Page 15 art preview" /></a></div><div class="meta"><div class="page-number">Page 15</div><div class="page-slug">top_song_10</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_15.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_15.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_15_top_song_10.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_15.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_16.png"><img loading="lazy" src="../art/pages/page_16.png" alt="Page 16 art preview" /></a></div><div class="meta"><div class="page-number">Page 16</div><div class="page-slug">movies</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_16.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_16.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_16_movies.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_16.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_17.png"><img loading="lazy" src="../art/pages/page_17.png" alt="Page 17 art preview" /></a></div><div class="meta"><div class="page-number">Page 17</div><div class="page-slug">television</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_17.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_17.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_17_television.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_17.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_18.png"><img loading="lazy" src="../art/pages/page_18.png" alt="Page 18 art preview" /></a></div><div class="meta"><div class="page-number">Page 18</div><div class="page-slug">culture</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_18.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_18.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_18_culture.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_18.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_19.png"><img loading="lazy" src="../art/pages/page_19.png" alt="Page 19 art preview" /></a></div><div class="meta"><div class="page-number">Page 19</div><div class="page-slug">arcade</div><div class="badges"><span class="badge warn" title="Final page copy includes placeholder or reserve language.">fallback x1</span><span class="badge warn" title="layout-only: issues/1978/art/pages/page_19.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_19.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_19_arcade.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_19.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_20.png"><img loading="lazy" src="../art/pages/page_20.png" alt="Page 20 art preview" /></a></div><div class="meta"><div class="page-number">Page 20</div><div class="page-slug">retro_ad</div><div class="badges"><span class="badge warn" title="Final page copy includes placeholder or reserve language.">fallback x1</span><span class="badge warn" title="layout-only: issues/1978/art/pages/page_20.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_20.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_20_retro_ad.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_20.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_21.png"><img loading="lazy" src="../art/pages/page_21.png" alt="Page 21 art preview" /></a></div><div class="meta"><div class="page-number">Page 21</div><div class="page-slug">comic</div><div class="badges"><span class="badge warn" title="Final page copy includes placeholder or reserve language.">fallback x1</span><span class="badge warn" title="layout-only: issues/1978/art/pages/page_21.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_21.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_21_comic.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_21.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_22.png"><img loading="lazy" src="../art/pages/page_22.png" alt="Page 22 art preview" /></a></div><div class="meta"><div class="page-number">Page 22</div><div class="page-slug">puzzle</div><div class="badges"><span class="badge warn" title="Final page copy includes placeholder or reserve language.">fallback x1</span><span class="badge warn" title="layout-only: issues/1978/art/pages/page_22.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_22.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_22_puzzle.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_22.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_23.png"><img loading="lazy" src="../art/pages/page_23.png" alt="Page 23 art preview" /></a></div><div class="meta"><div class="page-number">Page 23</div><div class="page-slug">letters</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_23.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_23.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_23_letters.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_23.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_24.png"><img loading="lazy" src="../art/pages/page_24.png" alt="Page 24 art preview" /></a></div><div class="meta"><div class="page-number">Page 24</div><div class="page-slug">forgotten_hit</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_24.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_24.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_24_forgotten_hit.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_24.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_25.png"><img loading="lazy" src="../art/pages/page_25.png" alt="Page 25 art preview" /></a></div><div class="meta"><div class="page-number">Page 25</div><div class="page-slug">one_hit_wonder</div><div class="badges"><span class="badge warn" title="Final page copy includes placeholder or reserve language.">fallback x1</span><span class="badge warn" title="layout-only: issues/1978/art/pages/page_25.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_25.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_25_one_hit_wonder.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_25.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_26.png"><img loading="lazy" src="../art/pages/page_26.png" alt="Page 26 art preview" /></a></div><div class="meta"><div class="page-number">Page 26</div><div class="page-slug">album_spotlight</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_26.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_26.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_26_album_spotlight.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_26.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_27.png"><img loading="lazy" src="../art/pages/page_27.png" alt="Page 27 art preview" /></a></div><div class="meta"><div class="page-number">Page 27</div><div class="page-slug">year_timeline</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_27.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_27.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_27_year_timeline.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_27.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_28.png"><img loading="lazy" src="../art/pages/page_28.png" alt="Page 28 art preview" /></a></div><div class="meta"><div class="page-number">Page 28</div><div class="page-slug">culture_collage</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_28.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_28.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_28_culture_collage.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_28.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_29.png"><img loading="lazy" src="../art/pages/page_29.png" alt="Page 29 art preview" /></a></div><div class="meta"><div class="page-number">Page 29</div><div class="page-slug">retro_ads_page</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_29.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_29.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_29_retro_ads_page.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_29.png">Open image</a></div></div></article><article class="page-card"><div class="thumb"><a class="thumb-link" href="../art/pages/page_30.png"><img loading="lazy" src="../art/pages/page_30.png" alt="Page 30 art preview" /></a></div><div class="meta"><div class="page-number">Page 30</div><div class="page-slug">chart_top23</div><div class="badges"><span class="badge warn" title="layout-only: issues/1978/art/pages/page_30.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_30.png">prompt mismatch x2</span></div><div class="links"><a href="../layout/page_30_chart_top23.html">Open layout</a> <span class="sep">|</span> <a href="../art/pages/page_30.png">Open image</a></div></div></article>
+    </section>
+  </main>
+</body>
+</html>

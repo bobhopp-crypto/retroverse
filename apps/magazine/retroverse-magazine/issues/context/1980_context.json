@@ -1,0 +1,500 @@
+{
+  "year": "1980",
+  "top_songs": [
+    {
+      "artist": "Queen",
+      "title": "Another One Bites The Dust",
+      "weeks": 20,
+      "peak": 1,
+      "score": 587
+    },
+    {
+      "artist": "Barbra Streisand",
+      "title": "Woman In Love",
+      "weeks": 17,
+      "peak": 1,
+      "score": 511
+    },
+    {
+      "artist": "Queen",
+      "title": "Crazy Little Thing Called Love",
+      "weeks": 20,
+      "peak": 1,
+      "score": 449
+    },
+    {
+      "artist": "Billy Joel",
+      "title": "It's Still Rock And Roll To Me",
+      "weeks": 21,
+      "peak": 1,
+      "score": 441
+    },
+    {
+      "artist": "Kenny Rogers",
+      "title": "Lady",
+      "weeks": 13,
+      "peak": 1,
+      "score": 435
+    },
+    {
+      "artist": "Blondie",
+      "title": "Call Me",
+      "weeks": 25,
+      "peak": 1,
+      "score": 432
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Upside Down",
+      "weeks": 25,
+      "peak": 1,
+      "score": 403
+    },
+    {
+      "artist": "Captain",
+      "title": "Do That To Me One More Time",
+      "weeks": 16,
+      "peak": 1,
+      "score": 389
+    },
+    {
+      "artist": "Paul Mccartney And Wings",
+      "title": "Coming Up (Live At Glasgow)",
+      "weeks": 21,
+      "peak": 1,
+      "score": 371
+    },
+    {
+      "artist": "Elton John",
+      "title": "Little Jeannie",
+      "weeks": 21,
+      "peak": 3,
+      "score": 366
+    },
+    {
+      "artist": "Christopher Cross",
+      "title": "Ride Like The Wind",
+      "weeks": 21,
+      "peak": 2,
+      "score": 365
+    },
+    {
+      "artist": "Pink Floyd",
+      "title": "Another Brick In The Wall (Part II)",
+      "weeks": 25,
+      "peak": 1,
+      "score": 364
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Rock With You",
+      "weeks": 15,
+      "peak": 1,
+      "score": 329
+    },
+    {
+      "artist": "Teri Desario",
+      "title": "Yes, I'm Ready",
+      "weeks": 16,
+      "peak": 2,
+      "score": 319
+    },
+    {
+      "artist": "Ambrosia",
+      "title": "Biggest Part Of Me",
+      "weeks": 19,
+      "peak": 3,
+      "score": 319
+    },
+    {
+      "artist": "Donna Summer",
+      "title": "The Wanderer",
+      "weeks": 15,
+      "peak": 3,
+      "score": 319
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "Master Blaster (Jammin')",
+      "weeks": 15,
+      "peak": 5,
+      "score": 315
+    },
+    {
+      "artist": "Paul Simon",
+      "title": "Late In The Evening",
+      "weeks": 16,
+      "peak": 6,
+      "score": 277
+    },
+    {
+      "artist": "The Spinners",
+      "title": "Cupid/I've Loved You For A Long Time",
+      "weeks": 19,
+      "peak": 4,
+      "score": 276
+    },
+    {
+      "artist": "The Spinners",
+      "title": "Working My Way Back To You/Forgive Me, Girl",
+      "weeks": 22,
+      "peak": 2,
+      "score": 269
+    },
+    {
+      "artist": "Air Supply",
+      "title": "All Out Of Love",
+      "weeks": 27,
+      "peak": 2,
+      "score": 267
+    },
+    {
+      "artist": "Leo Sayer",
+      "title": "More Than I Can Say",
+      "weeks": 14,
+      "peak": 2,
+      "score": 261
+    },
+    {
+      "artist": "Kenny Rogers",
+      "title": "Don't Fall In Love With A Dreamer",
+      "weeks": 19,
+      "peak": 4,
+      "score": 260
+    },
+    {
+      "artist": "John Lennon",
+      "title": "(Just Like) Starting Over",
+      "weeks": 9,
+      "peak": 1,
+      "score": 258
+    },
+    {
+      "artist": "Smokey Robinson",
+      "title": "Cruisin'",
+      "weeks": 12,
+      "peak": 4,
+      "score": 257
+    },
+    {
+      "artist": "Neil Diamond",
+      "title": "Love On The Rocks",
+      "weeks": 9,
+      "peak": 3,
+      "score": 257
+    },
+    {
+      "artist": "Air Supply",
+      "title": "Lost In Love",
+      "weeks": 23,
+      "peak": 3,
+      "score": 253
+    },
+    {
+      "artist": "Olivia Newton-john",
+      "title": "Magic",
+      "weeks": 23,
+      "peak": 1,
+      "score": 252
+    },
+    {
+      "artist": "Kool",
+      "title": "Too Hot",
+      "weeks": 18,
+      "peak": 5,
+      "score": 251
+    },
+    {
+      "artist": "Andy Gibb",
+      "title": "Desire",
+      "weeks": 15,
+      "peak": 4,
+      "score": 247
+    },
+    {
+      "artist": "Dr. Hook",
+      "title": "Sexy Eyes",
+      "weeks": 21,
+      "peak": 5,
+      "score": 245
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Emotional Rescue",
+      "weeks": 19,
+      "peak": 3,
+      "score": 243
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "title": "You've Lost That Lovin' Feeling",
+      "weeks": 14,
+      "peak": 12,
+      "score": 240
+    },
+    {
+      "artist": "The Pointer Sisters",
+      "title": "He's So Shy",
+      "weeks": 23,
+      "peak": 3,
+      "score": 239
+    },
+    {
+      "artist": "Stephanie Mills",
+      "title": "Never Knew Love Like This Before",
+      "weeks": 21,
+      "peak": 6,
+      "score": 237
+    },
+    {
+      "artist": "Kenny Rogers",
+      "title": "Coward Of The County",
+      "weeks": 12,
+      "peak": 3,
+      "score": 235
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "I'm Coming Out",
+      "weeks": 17,
+      "peak": 5,
+      "score": 234
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "title": "Hungry Heart",
+      "weeks": 8,
+      "peak": 5,
+      "score": 222
+    },
+    {
+      "artist": "Cliff Richard",
+      "title": "Dreaming",
+      "weeks": 16,
+      "peak": 10,
+      "score": 217
+    },
+    {
+      "artist": "Pat Benatar",
+      "title": "Hit Me With Your Best Shot",
+      "weeks": 13,
+      "peak": 9,
+      "score": 205
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Queen",
+      "hits": 2
+    },
+    {
+      "artist": "Kenny Rogers",
+      "hits": 3
+    },
+    {
+      "artist": "Diana Ross",
+      "hits": 2
+    },
+    {
+      "artist": "The Spinners",
+      "hits": 2
+    },
+    {
+      "artist": "Air Supply",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Air Supply",
+      "title": "All Out Of Love",
+      "weeks": 27,
+      "peak": 2,
+      "score": 267
+    },
+    {
+      "artist": "Irene Cara",
+      "title": "Fame",
+      "weeks": 26,
+      "peak": 4,
+      "score": -81
+    },
+    {
+      "artist": "Blondie",
+      "title": "Call Me",
+      "weeks": 25,
+      "peak": 1,
+      "score": 432
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Upside Down",
+      "weeks": 25,
+      "peak": 1,
+      "score": 403
+    },
+    {
+      "artist": "Pink Floyd",
+      "title": "Another Brick In The Wall (Part II)",
+      "weeks": 25,
+      "peak": 1,
+      "score": 364
+    },
+    {
+      "artist": "Bette Midler",
+      "title": "The Rose",
+      "weeks": 25,
+      "peak": 3,
+      "score": 194
+    },
+    {
+      "artist": "Gary Numan",
+      "title": "Cars",
+      "weeks": 25,
+      "peak": 9,
+      "score": 153
+    },
+    {
+      "artist": "Eddie Rabbitt",
+      "title": "Drivin' My Life Away",
+      "weeks": 25,
+      "peak": 5,
+      "score": 90
+    },
+    {
+      "artist": "The Manhattans",
+      "title": "Shining Star",
+      "weeks": 25,
+      "peak": 5,
+      "score": 39
+    },
+    {
+      "artist": "Billy Preston",
+      "title": "With You I'm Born Again",
+      "weeks": 25,
+      "peak": 4,
+      "score": 34
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Queen",
+      "title": "Another One Bites The Dust",
+      "weeks": 20,
+      "peak": 1,
+      "score": 587
+    },
+    {
+      "artist": "Barbra Streisand",
+      "title": "Woman In Love",
+      "weeks": 17,
+      "peak": 1,
+      "score": 511
+    },
+    {
+      "artist": "Queen",
+      "title": "Crazy Little Thing Called Love",
+      "weeks": 20,
+      "peak": 1,
+      "score": 449
+    },
+    {
+      "artist": "Billy Joel",
+      "title": "It's Still Rock And Roll To Me",
+      "weeks": 21,
+      "peak": 1,
+      "score": 441
+    },
+    {
+      "artist": "Kenny Rogers",
+      "title": "Lady",
+      "weeks": 13,
+      "peak": 1,
+      "score": 435
+    },
+    {
+      "artist": "Blondie",
+      "title": "Call Me",
+      "weeks": 25,
+      "peak": 1,
+      "score": 432
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Upside Down",
+      "weeks": 25,
+      "peak": 1,
+      "score": 403
+    },
+    {
+      "artist": "Captain",
+      "title": "Do That To Me One More Time",
+      "weeks": 16,
+      "peak": 1,
+      "score": 389
+    },
+    {
+      "artist": "Paul Mccartney And Wings",
+      "title": "Coming Up (Live At Glasgow)",
+      "weeks": 21,
+      "peak": 1,
+      "score": 371
+    },
+    {
+      "artist": "Pink Floyd",
+      "title": "Another Brick In The Wall (Part II)",
+      "weeks": 25,
+      "peak": 1,
+      "score": 364
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Rock With You",
+      "weeks": 15,
+      "peak": 1,
+      "score": 329
+    },
+    {
+      "artist": "John Lennon",
+      "title": "(Just Like) Starting Over",
+      "weeks": 9,
+      "peak": 1,
+      "score": 258
+    },
+    {
+      "artist": "Olivia Newton-john",
+      "title": "Magic",
+      "weeks": 23,
+      "peak": 1,
+      "score": 252
+    },
+    {
+      "artist": "Rupert Holmes",
+      "title": "Escape (The Pina Colada Song)",
+      "weeks": 10,
+      "peak": 1,
+      "score": 168
+    },
+    {
+      "artist": "Lipps, Inc",
+      "title": "Funkytown",
+      "weeks": 23,
+      "peak": 1,
+      "score": 149
+    },
+    {
+      "artist": "Christopher Cross",
+      "title": "Sailing",
+      "weeks": 21,
+      "peak": 1,
+      "score": 88
+    },
+    {
+      "artist": "Kc And The Sunshine Band",
+      "title": "Please Don't Go",
+      "weeks": 7,
+      "peak": 1,
+      "score": 19
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "source": "virtualdj",
+    "source_file": "/Users/bobhopp/Library/Application Support/VirtualDJ/database.xml",
+    "allowed_video_roots": [
+      "/Users/bobhopp/Sites/retroverse/raw-data/videos/",
+      "/Volumes/Media/Videos/"
+    ],
+    "run_id": "run_1770239599578",
+    "generated_at": "2026-02-04T21:13:20.646Z",
+    "pipeline_name": "retroverse-local-example",
+    "stage": "parse_vdj"
+  },
+  "summary": {
+    "total_entries_scanned": 30124,
+    "video_entries_emitted": 0,
+    "video_entries_excluded_by_path": 10804,
+    "non_video_entries_skipped": 18886,
+    "parse_errors": 434,
+    "reason_counts": {
+      "excluded_by_path": 10804,
+      "unsupported_extension": 18886,
+      "missing_or_relative": 434
+    }
+  },
+  "videos": []
+}

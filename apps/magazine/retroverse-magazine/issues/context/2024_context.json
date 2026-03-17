@@ -1,0 +1,519 @@
+{
+  "year": "2024",
+  "top_songs": [
+    {
+      "artist": "Teddy Swims",
+      "title": "Lose Control",
+      "weeks": 52,
+      "peak": 1,
+      "score": 1682
+    },
+    {
+      "artist": "Benson Boone",
+      "title": "Beautiful Things",
+      "weeks": 48,
+      "peak": 2,
+      "score": 1492
+    },
+    {
+      "artist": "Shaboozey",
+      "title": "A Bar Song (Tipsy)",
+      "weeks": 36,
+      "peak": 1,
+      "score": 1321
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "title": "Espresso",
+      "weeks": 36,
+      "peak": 3,
+      "score": 1229
+    },
+    {
+      "artist": "Post Malone",
+      "title": "I Had Some Help",
+      "weeks": 32,
+      "peak": 1,
+      "score": 1139
+    },
+    {
+      "artist": "Hozier",
+      "title": "Too Sweet",
+      "weeks": 39,
+      "peak": 1,
+      "score": 1136
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Birds Of A Feather",
+      "weeks": 31,
+      "peak": 2,
+      "score": 1026
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "title": "Not Like Us",
+      "weeks": 33,
+      "peak": 1,
+      "score": 992
+    },
+    {
+      "artist": "Tommy Richman",
+      "title": "Million Dollar Baby",
+      "weeks": 31,
+      "peak": 2,
+      "score": 911
+    },
+    {
+      "artist": "Zach Bryan",
+      "title": "I Remember Everything",
+      "weeks": 35,
+      "peak": 4,
+      "score": 870
+    },
+    {
+      "artist": "Jack Harlow",
+      "title": "Lovin On Me",
+      "weeks": 32,
+      "peak": 1,
+      "score": 841
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "title": "Please Please Please",
+      "weeks": 27,
+      "peak": 1,
+      "score": 763
+    },
+    {
+      "artist": "Chappell Roan",
+      "title": "Good Luck, Babe!",
+      "weeks": 37,
+      "peak": 4,
+      "score": 726
+    },
+    {
+      "artist": "Sza",
+      "title": "Saturn",
+      "weeks": 35,
+      "peak": 6,
+      "score": 695
+    },
+    {
+      "artist": "Future, Metro Boomin",
+      "title": "Like That",
+      "weeks": 31,
+      "peak": 1,
+      "score": 676
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Die With A Smile",
+      "weeks": 18,
+      "peak": 2,
+      "score": 654
+    },
+    {
+      "artist": "Noah Kahan",
+      "title": "Stick Season",
+      "weeks": 40,
+      "peak": 9,
+      "score": 647
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Cruel Summer",
+      "weeks": 21,
+      "peak": 2,
+      "score": 601
+    },
+    {
+      "artist": "Tate Mcrae",
+      "title": "Greedy",
+      "weeks": 28,
+      "peak": 3,
+      "score": 579
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "Cowgirls",
+      "weeks": 29,
+      "peak": 12,
+      "score": 565
+    },
+    {
+      "artist": "Zach Bryan",
+      "title": "Pink Skies",
+      "weeks": 25,
+      "peak": 6,
+      "score": 533
+    },
+    {
+      "artist": "Marshmello",
+      "title": "Miles On It",
+      "weeks": 29,
+      "peak": 15,
+      "score": 516
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "title": "Taste",
+      "weeks": 17,
+      "peak": 2,
+      "score": 507
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "We Can't Be Friends (Wait For Your Love)",
+      "weeks": 24,
+      "peak": 1,
+      "score": 489
+    },
+    {
+      "artist": "Doja Cat",
+      "title": "Agora Hills",
+      "weeks": 26,
+      "peak": 7,
+      "score": 481
+    },
+    {
+      "artist": "Sza",
+      "title": "Snooze",
+      "weeks": 16,
+      "peak": 5,
+      "score": 477
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "Lies Lies Lies",
+      "weeks": 21,
+      "peak": 7,
+      "score": 472
+    },
+    {
+      "artist": "Luke Combs",
+      "title": "Ain't No Love In Oklahoma",
+      "weeks": 27,
+      "peak": 13,
+      "score": 430
+    },
+    {
+      "artist": "Tyla",
+      "title": "Water",
+      "weeks": 17,
+      "peak": 7,
+      "score": 415
+    },
+    {
+      "artist": "Luke Combs",
+      "title": "Fast Car",
+      "weeks": 17,
+      "peak": 8,
+      "score": 399
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Fortnight",
+      "weeks": 20,
+      "peak": 1,
+      "score": 366
+    },
+    {
+      "artist": "Dasha",
+      "title": "Austin",
+      "weeks": 36,
+      "peak": 18,
+      "score": 356
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "Last Night",
+      "weeks": 13,
+      "peak": 8,
+      "score": 332
+    },
+    {
+      "artist": "Chappell Roan",
+      "title": "Hot To Go!",
+      "weeks": 25,
+      "peak": 15,
+      "score": 317
+    },
+    {
+      "artist": "Jelly Roll",
+      "title": "I Am Not Okay",
+      "weeks": 27,
+      "peak": 14,
+      "score": 309
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "Thinkin' Bout Me",
+      "weeks": 13,
+      "peak": 11,
+      "score": 292
+    },
+    {
+      "artist": "Doja Cat",
+      "title": "Paint The Town Red",
+      "weeks": 17,
+      "peak": 4,
+      "score": 283
+    },
+    {
+      "artist": "21 Savage",
+      "title": "Redrum",
+      "weeks": 20,
+      "peak": 5,
+      "score": 268
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Timeless",
+      "weeks": 12,
+      "peak": 3,
+      "score": 259
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Is It Over Now? (Taylor's Version) [From The Vault]",
+      "weeks": 14,
+      "peak": 13,
+      "score": 251
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Sabrina Carpenter",
+      "hits": 3
+    },
+    {
+      "artist": "Zach Bryan",
+      "hits": 2
+    },
+    {
+      "artist": "Chappell Roan",
+      "hits": 2
+    },
+    {
+      "artist": "Sza",
+      "hits": 2
+    },
+    {
+      "artist": "Taylor Swift",
+      "hits": 3
+    },
+    {
+      "artist": "Morgan Wallen",
+      "hits": 4
+    },
+    {
+      "artist": "Doja Cat",
+      "hits": 2
+    },
+    {
+      "artist": "Luke Combs",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Teddy Swims",
+      "title": "Lose Control",
+      "weeks": 52,
+      "peak": 1,
+      "score": 1682
+    },
+    {
+      "artist": "Benson Boone",
+      "title": "Beautiful Things",
+      "weeks": 48,
+      "peak": 2,
+      "score": 1492
+    },
+    {
+      "artist": "Noah Kahan",
+      "title": "Stick Season",
+      "weeks": 40,
+      "peak": 9,
+      "score": 647
+    },
+    {
+      "artist": "Hozier",
+      "title": "Too Sweet",
+      "weeks": 39,
+      "peak": 1,
+      "score": 1136
+    },
+    {
+      "artist": "Tucker Wetmore",
+      "title": "Wind Up Missin' You",
+      "weeks": 38,
+      "peak": 40,
+      "score": -1068
+    },
+    {
+      "artist": "Chappell Roan",
+      "title": "Good Luck, Babe!",
+      "weeks": 37,
+      "peak": 4,
+      "score": 726
+    },
+    {
+      "artist": "Shaboozey",
+      "title": "A Bar Song (Tipsy)",
+      "weeks": 36,
+      "peak": 1,
+      "score": 1321
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "title": "Espresso",
+      "weeks": 36,
+      "peak": 3,
+      "score": 1229
+    },
+    {
+      "artist": "Dasha",
+      "title": "Austin",
+      "weeks": 36,
+      "peak": 18,
+      "score": 356
+    },
+    {
+      "artist": "Zach Bryan",
+      "title": "I Remember Everything",
+      "weeks": 35,
+      "peak": 4,
+      "score": 870
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Teddy Swims",
+      "title": "Lose Control",
+      "weeks": 52,
+      "peak": 1,
+      "score": 1682
+    },
+    {
+      "artist": "Shaboozey",
+      "title": "A Bar Song (Tipsy)",
+      "weeks": 36,
+      "peak": 1,
+      "score": 1321
+    },
+    {
+      "artist": "Post Malone",
+      "title": "I Had Some Help",
+      "weeks": 32,
+      "peak": 1,
+      "score": 1139
+    },
+    {
+      "artist": "Hozier",
+      "title": "Too Sweet",
+      "weeks": 39,
+      "peak": 1,
+      "score": 1136
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "title": "Not Like Us",
+      "weeks": 33,
+      "peak": 1,
+      "score": 992
+    },
+    {
+      "artist": "Jack Harlow",
+      "title": "Lovin On Me",
+      "weeks": 32,
+      "peak": 1,
+      "score": 841
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "title": "Please Please Please",
+      "weeks": 27,
+      "peak": 1,
+      "score": 763
+    },
+    {
+      "artist": "Future, Metro Boomin",
+      "title": "Like That",
+      "weeks": 31,
+      "peak": 1,
+      "score": 676
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "We Can't Be Friends (Wait For Your Love)",
+      "weeks": 24,
+      "peak": 1,
+      "score": 489
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Fortnight",
+      "weeks": 20,
+      "peak": 1,
+      "score": 366
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Texas Hold 'Em",
+      "weeks": 20,
+      "peak": 1,
+      "score": 229
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "All I Want For Christmas Is You",
+      "weeks": 6,
+      "peak": 1,
+      "score": 215
+    },
+    {
+      "artist": "Brenda Lee",
+      "title": "Rockin' Around The Christmas Tree",
+      "weeks": 6,
+      "peak": 1,
+      "score": 201
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "Love Somebody",
+      "weeks": 9,
+      "peak": 1,
+      "score": 201
+    },
+    {
+      "artist": "\u00a5$: Ye",
+      "title": "Carnival",
+      "weeks": 19,
+      "peak": 1,
+      "score": 126
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "title": "Squabble Up",
+      "weeks": 4,
+      "peak": 1,
+      "score": 126
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "Yes, And?",
+      "weeks": 13,
+      "peak": 1,
+      "score": 105
+    },
+    {
+      "artist": "Megan Thee Stallion",
+      "title": "Hiss",
+      "weeks": 6,
+      "peak": 1,
+      "score": -64
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "year": 1979,
+  "films": [
+    "Kramer vs. Kramer",
+    "The Amityville Horror",
+    "Rocky II",
+    "Star Trek: The Motion Picture",
+    "Alien",
+    "Apocalypse Now",
+    "10",
+    "The Jerk",
+    "Moonraker",
+    "The Muppet Movie"
+  ],
+  "tv": [
+    "60 Minutes",
+    "Three's Company",
+    "That's Incredible!",
+    "Alice",
+    "Dallas",
+    "Flo",
+    "The Jeffersons",
+    "The Dukes of Hazzard",
+    "One Day at a Time",
+    "Archie Bunker's Place"
+  ],
+  "headlines": [
+    {
+      "event": "United Nations Secretary-General Kurt Waldheim heralds the start of the International Year of the Child . Many musicians donate to the Music for UNICEF Concert fund, among them ABBA , who write the song Chiquitita to commemorate the event.",
+      "date": "1979-01-01"
+    },
+    {
+      "event": "In 1979, the United States officially severed diplomatic ties with the Republic of China (Taiwan). This decision marked a significant shift in U.S. foreign policy, turning to view the People's Republic of China as the sole legitimate representative of China.",
+      "date": "1979-01-01"
+    },
+    {
+      "event": "The United States and the People's Republic of China establish full diplomatic relations .",
+      "date": "1979-01-01"
+    },
+    {
+      "event": "Following a deal agreed during 1978, French carmaker Peugeot completes a takeover of American manufacturer Chrysler 's European operations , which are based in Britain's former Rootes Group factories, as well as the former Simca factories in France.",
+      "date": "1979-01-01"
+    },
+    {
+      "event": "January 6 – Geylang Bahru family murders : Four children, aged five to ten, are brutally killed in Geylang Bahru , Singapore.",
+      "date": "1979-01-06"
+    },
+    {
+      "event": "January 7 – Cambodian–Vietnamese War : The People's Army of Vietnam and Vietnamese-backed Cambodian insurgents announce the fall of Phnom Penh , Cambodia, and the collapse of the Pol Pot regime. Pol Pot and the Khmer Rouge retreat west to an area along the Thai border, ending large-scale fighting.",
+      "date": "1979-01-07"
+    },
+    {
+      "event": "January 8 – Whiddy Island Disaster : The French tanker Betelgeuse explodes at the Gulf Oil terminal at Bantry , Ireland; 50 people are killed.",
+      "date": "1979-01-08"
+    },
+    {
+      "event": "January 9 – The Music for UNICEF Concert is held at the United Nations General Assembly to raise money for UNICEF and promote the Year of the Child. It is broadcast the following day in the United States and around the world. Hosted by the Bee Gees , other performers include Donna Summer , ABBA , Rod Stewart and Earth, Wind & Fire . A soundtrack album is later released.",
+      "date": "1979-01-09"
+    },
+    {
+      "event": "January 16 – Shah Mohammad Reza Pahlavi flees Iran with his family, relocating to Egypt after a year of turmoil.",
+      "date": "1979-01-16"
+    },
+    {
+      "event": "January 19 – Former U.S. Attorney General John N. Mitchell is released on parole after 19 months at a federal prison in Alabama.",
+      "date": "1979-01-19"
+    }
+  ]
+}

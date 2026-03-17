@@ -1,0 +1,365 @@
+{
+  "year": 1977,
+  "top_40": [
+    {
+      "rv_rank": 1,
+      "title": "I Just Want To Be Your Everything",
+      "artist": "Andy Gibb",
+      "peak_rank": 1,
+      "weeks_on_chart": 31,
+      "weeks_in_top_10": 16,
+      "weeks_in_top_40": 23
+    },
+    {
+      "rv_rank": 2,
+      "title": "Best Of My Love",
+      "artist": "The Emotions",
+      "peak_rank": 1,
+      "weeks_on_chart": 23,
+      "weeks_in_top_10": 12,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 3,
+      "title": "Evergreen (Love Theme From \"A Star Is Born\")",
+      "artist": "Barbra Streisand",
+      "peak_rank": 1,
+      "weeks_on_chart": 22,
+      "weeks_in_top_10": 13,
+      "weeks_in_top_40": 18
+    },
+    {
+      "rv_rank": 4,
+      "title": "Angel In Your Arms",
+      "artist": "Hot",
+      "peak_rank": 6,
+      "weeks_on_chart": 27,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 19
+    },
+    {
+      "rv_rank": 5,
+      "title": "Boogie Nights",
+      "artist": "Heatwave",
+      "peak_rank": 2,
+      "weeks_on_chart": 24,
+      "weeks_in_top_10": 9,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 6,
+      "title": "(Your Love Has Lifted Me) Higher And Higher",
+      "artist": "Rita Coolidge",
+      "peak_rank": 2,
+      "weeks_on_chart": 27,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 7,
+      "title": "You Light Up My Life",
+      "artist": "Debby Boone",
+      "peak_rank": 1,
+      "weeks_on_chart": 18,
+      "weeks_in_top_10": 13,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 8,
+      "title": "Don't Leave Me This Way",
+      "artist": "Thelma Houston",
+      "peak_rank": 1,
+      "weeks_on_chart": 22,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 9,
+      "title": "Undercover Angel",
+      "artist": "Alan O'day",
+      "peak_rank": 1,
+      "weeks_on_chart": 25,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 10,
+      "title": "Nobody Does It Better",
+      "artist": "Carly Simon",
+      "peak_rank": 2,
+      "weeks_on_chart": 24,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 11,
+      "title": "I'm Your Boogie Man",
+      "artist": "Kc And The Sunshine Band",
+      "peak_rank": 1,
+      "weeks_on_chart": 23,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 12,
+      "title": "Don't It Make My Brown Eyes Blue",
+      "artist": "Crystal Gayle",
+      "peak_rank": 2,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 10,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 13,
+      "title": "That's Rock 'N' Roll",
+      "artist": "Shaun Cassidy",
+      "peak_rank": 3,
+      "weeks_on_chart": 24,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 14,
+      "title": "I Like Dreamin'",
+      "artist": "Kenny Nolan",
+      "peak_rank": 3,
+      "weeks_on_chart": 19,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 15,
+      "title": "Dancing Queen",
+      "artist": "Abba",
+      "peak_rank": 1,
+      "weeks_on_chart": 19,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 16,
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "peak_rank": 1,
+      "weeks_on_chart": 19,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 17,
+      "title": "Telephone Line",
+      "artist": "Electric Light Orchestra",
+      "peak_rank": 7,
+      "weeks_on_chart": 23,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 18,
+      "title": "Got To Give It Up (Pt. I)",
+      "artist": "Marvin Gaye",
+      "peak_rank": 1,
+      "weeks_on_chart": 18,
+      "weeks_in_top_10": 9,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 19,
+      "title": "Do You Wanna Make Love",
+      "artist": "Peter Mccann",
+      "peak_rank": 5,
+      "weeks_on_chart": 22,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 20,
+      "title": "Heaven On The 7th Floor",
+      "artist": "Paul Nicholas",
+      "peak_rank": 6,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 21,
+      "title": "Swayin' To The Music (slow Dancin')",
+      "artist": "Johnny Rivers",
+      "peak_rank": 10,
+      "weeks_on_chart": 24,
+      "weeks_in_top_10": 1,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 22,
+      "title": "Gonna Fly Now",
+      "artist": "Bill Conti",
+      "peak_rank": 1,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 13
+    },
+    {
+      "rv_rank": 23,
+      "title": "Southern Nights",
+      "artist": "Glen Campbell",
+      "peak_rank": 1,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 24,
+      "title": "Fly Like An Eagle",
+      "artist": "Steve Miller",
+      "peak_rank": 2,
+      "weeks_on_chart": 18,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 25,
+      "title": "Margaritaville",
+      "artist": "Jimmy Buffett",
+      "peak_rank": 8,
+      "weeks_on_chart": 22,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 26,
+      "title": "On And On",
+      "artist": "Stephen Bishop",
+      "peak_rank": 11,
+      "weeks_on_chart": 28,
+      "weeks_in_top_10": 0,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 27,
+      "title": "I Feel Love",
+      "artist": "Donna Summer",
+      "peak_rank": 6,
+      "weeks_on_chart": 22,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 28,
+      "title": "Cold As Ice",
+      "artist": "Foreigner",
+      "peak_rank": 6,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 29,
+      "title": "Torn Between Two Lovers",
+      "artist": "Mary Macgregor",
+      "peak_rank": 1,
+      "weeks_on_chart": 16,
+      "weeks_in_top_10": 10,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 30,
+      "title": "When I Need You",
+      "artist": "Leo Sayer",
+      "peak_rank": 1,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 31,
+      "title": "Keep It Comin' Love",
+      "artist": "Kc And The Sunshine Band",
+      "peak_rank": 2,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 32,
+      "title": "Whatcha Gonna Do?",
+      "artist": "Pablo Cruise",
+      "peak_rank": 6,
+      "weeks_on_chart": 26,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 33,
+      "title": "Star Wars Theme/Cantina Band",
+      "artist": "Meco",
+      "peak_rank": 1,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 13
+    },
+    {
+      "rv_rank": 34,
+      "title": "Don't Give Up On Us",
+      "artist": "David Soul",
+      "peak_rank": 1,
+      "weeks_on_chart": 19,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 13
+    },
+    {
+      "rv_rank": 35,
+      "title": "Easy",
+      "artist": "Commodores",
+      "peak_rank": 4,
+      "weeks_on_chart": 22,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 13
+    },
+    {
+      "rv_rank": 36,
+      "title": "Couldn't Get It Right",
+      "artist": "Climax Blues Band",
+      "peak_rank": 3,
+      "weeks_on_chart": 22,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 37,
+      "title": "Rich Girl",
+      "artist": "Daryl Hall undefined John Oates",
+      "peak_rank": 1,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 38,
+      "title": "I'm In You",
+      "artist": "Peter Frampton",
+      "peak_rank": 2,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 13
+    },
+    {
+      "rv_rank": 39,
+      "title": "Feels Like The First Time",
+      "artist": "Foreigner",
+      "peak_rank": 4,
+      "weeks_on_chart": 22,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 13
+    },
+    {
+      "rv_rank": 40,
+      "title": "I've Got Love On My Mind",
+      "artist": "Natalie Cole",
+      "peak_rank": 5,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 14
+    }
+  ]
+}

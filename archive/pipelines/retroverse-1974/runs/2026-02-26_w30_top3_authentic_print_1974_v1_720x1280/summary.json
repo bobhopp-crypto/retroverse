@@ -1,0 +1,51 @@
+{
+  "run_id": "2026-02-26_w30_top3_authentic_print_1974_v1_720x1280",
+  "started_at": "2026-02-26T02:36:07.025574+00:00",
+  "completed_at": "2026-02-26T02:38:29.975404+00:00",
+  "elapsed_seconds": 142.922,
+  "steps": {
+    "extract": {
+      "run_id": "2026-02-26_w30_top3_authentic_print_1974_v1_720x1280",
+      "spine_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/runs/2026-02-26_w30_top3_authentic_print_1974_v1_720x1280/spine.csv",
+      "row_count": 3,
+      "schema_detection": {
+        "strategy": "event_join",
+        "note": "Detected join strategy event/event_entry/work using event.issue_date, event_entry.rank/weeks_on_chart/peak_pos, work.title_display, artist source p.\"name_display\"."
+      }
+    },
+    "ambient": {
+      "run_id": "2026-02-26_w30_top3_authentic_print_1974_v1_720x1280",
+      "ambient_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/runs/2026-02-26_w30_top3_authentic_print_1974_v1_720x1280/ambient.csv",
+      "row_count": 3,
+      "k_distribution": {
+        "0": 2,
+        "2": 1
+      }
+    },
+    "build": {
+      "run_id": "2026-02-26_w30_top3_authentic_print_1974_v1_720x1280",
+      "prompts_jsonl_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/runs/2026-02-26_w30_top3_authentic_print_1974_v1_720x1280/prompts.jsonl",
+      "batch_log_csv_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/runs/2026-02-26_w30_top3_authentic_print_1974_v1_720x1280/batch_log.csv",
+      "batch_log_jsonl_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/runs/2026-02-26_w30_top3_authentic_print_1974_v1_720x1280/batch_log.jsonl",
+      "record_count": 3
+    },
+    "render": {
+      "run_id": "2026-02-26_w30_top3_authentic_print_1974_v1_720x1280",
+      "record_count": 3,
+      "status_counts": {
+        "success": 3
+      },
+      "batch_log_jsonl_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/runs/2026-02-26_w30_top3_authentic_print_1974_v1_720x1280/batch_log.jsonl",
+      "errors_jsonl_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/runs/2026-02-26_w30_top3_authentic_print_1974_v1_720x1280/errors.jsonl",
+      "render_enabled": true
+    },
+    "validate": {
+      "run_id": "2026-02-26_w30_top3_authentic_print_1974_v1_720x1280",
+      "validation_report_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/runs/2026-02-26_w30_top3_authentic_print_1974_v1_720x1280/validation_report.json",
+      "status": "pass",
+      "expected_cards": 3,
+      "image_files_existing": 3
+    }
+  },
+  "status": "pass"
+}

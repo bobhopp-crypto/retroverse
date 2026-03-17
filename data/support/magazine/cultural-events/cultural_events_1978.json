@@ -1,0 +1,69 @@
+{
+  "year": 1978,
+  "films": [
+    "Grease",
+    "Superman",
+    "National Lampoon's Animal House",
+    "Every Which Way But Loose",
+    "Heaven Can Wait",
+    "Hooper",
+    "Jaws 2",
+    "Revenge of the Pink Panther",
+    "The Deer Hunter",
+    "Halloween"
+  ],
+  "tv": [
+    "Laverne & Shirley",
+    "Three's Company",
+    "Mork & Mindy",
+    "Angie",
+    "60 Minutes",
+    "M*A*S*H",
+    "The Ropers",
+    "All in the Family",
+    "ABC",
+    "Eight Is Enough"
+  ],
+  "headlines": [
+    {
+      "event": "January 1 – Air India Flight 855 , a Boeing 747 passenger jet, crashes off the coast of Bombay , killing 213.",
+      "date": "1978-01-01"
+    },
+    {
+      "event": "January 5 – Bülent Ecevit , of CHP , forms the new government of Turkey (42nd government).",
+      "date": "1978-01-05"
+    },
+    {
+      "event": "January 6 – The Holy Crown of Hungary (also known as Stephen of Hungary Crown) is returned to Hungary from the United States, where it was held since World War II .",
+      "date": "1978-01-06"
+    },
+    {
+      "event": "January 10 – Pedro Joaquín Chamorro Cardenal , a critic of the Nicaraguan government, is assassinated; riots erupt against Somoza 's government.",
+      "date": "1978-01-10"
+    },
+    {
+      "event": "January 13 – Former U.S. Vice President Hubert Humphrey , a Democrat, dies of cancer in Waverly, Minnesota , at the age of 66.",
+      "date": "1978-01-13"
+    },
+    {
+      "event": "January 18 – The European Court of Human Rights finds the British government guilty of mistreating prisoners in Northern Ireland , but not guilty of torture.",
+      "date": "1978-01-18"
+    },
+    {
+      "event": "January 22 – Ethiopia declares the ambassador of West Germany persona non grata .",
+      "date": "1978-01-22"
+    },
+    {
+      "event": "Soviet satellite Kosmos 954 burns up in Earth's atmosphere, scattering radioactive debris over Canada's Northwest Territories .",
+      "date": "1978-01-24"
+    },
+    {
+      "event": "Rose Dugdale and Eddie Gallagher become the first convicted prisoners to marry in prison since the establishment of the Republic of Ireland .",
+      "date": "1978-01-24"
+    },
+    {
+      "event": "January 25 – 27 – The Great Blizzard of 1978 strikes the Ohio Valley and Great Lakes , killing 70.",
+      "date": "1978-01-25"
+    }
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "year": "1998",
+  "top_songs": [
+    {
+      "artist": "Savage Garden",
+      "title": "Truly Madly Deeply",
+      "weeks": 48,
+      "peak": 1,
+      "score": 1328
+    },
+    {
+      "artist": "Next",
+      "title": "Too Close",
+      "weeks": 46,
+      "peak": 1,
+      "score": 1322
+    },
+    {
+      "artist": "Shania Twain",
+      "title": "You're Still The One",
+      "weeks": 42,
+      "peak": 2,
+      "score": 1194
+    },
+    {
+      "artist": "Brandy",
+      "title": "The Boy Is Mine",
+      "weeks": 27,
+      "peak": 1,
+      "score": 855
+    },
+    {
+      "artist": "K-ci",
+      "title": "All My Life",
+      "weeks": 36,
+      "peak": 1,
+      "score": 819
+    },
+    {
+      "artist": "Usher",
+      "title": "My Way",
+      "weeks": 24,
+      "peak": 2,
+      "score": 736
+    },
+    {
+      "artist": "Monica",
+      "title": "The First Night",
+      "weeks": 20,
+      "peak": 1,
+      "score": 717
+    },
+    {
+      "artist": "Sarah Mclachlan",
+      "title": "Adia",
+      "weeks": 27,
+      "peak": 3,
+      "score": 707
+    },
+    {
+      "artist": "Destiny's Child",
+      "title": "No, No, No",
+      "weeks": 30,
+      "peak": 3,
+      "score": 685
+    },
+    {
+      "artist": "Janet",
+      "title": "Together Again",
+      "weeks": 44,
+      "peak": 1,
+      "score": 673
+    },
+    {
+      "artist": "Jennifer Paige",
+      "title": "Crush",
+      "weeks": 25,
+      "peak": 3,
+      "score": 661
+    },
+    {
+      "artist": "Leann Rimes",
+      "title": "How Do I Live",
+      "weeks": 41,
+      "peak": 2,
+      "score": 659
+    },
+    {
+      "artist": "Usher",
+      "title": "Nice & Slow",
+      "weeks": 23,
+      "peak": 1,
+      "score": 622
+    },
+    {
+      "artist": "Will Smith",
+      "title": "Gettin' Jiggy Wit It",
+      "weeks": 32,
+      "peak": 1,
+      "score": 558
+    },
+    {
+      "artist": "Backstreet Boys",
+      "title": "Everybody [Backstreet's Back]",
+      "weeks": 22,
+      "peak": 4,
+      "score": 547
+    },
+    {
+      "artist": "Faith Hill",
+      "title": "This Kiss",
+      "weeks": 41,
+      "peak": 7,
+      "score": 538
+    },
+    {
+      "artist": "Third Eye Blind",
+      "title": "How's It Going To Be",
+      "weeks": 48,
+      "peak": 9,
+      "score": 528
+    },
+    {
+      "artist": "All Saints",
+      "title": "Never Ever",
+      "weeks": 19,
+      "peak": 4,
+      "score": 527
+    },
+    {
+      "artist": "Public Announcement",
+      "title": "Body Bumpin' Yippie-Yi-Yo",
+      "weeks": 22,
+      "peak": 5,
+      "score": 525
+    },
+    {
+      "artist": "Five",
+      "title": "When The Lights Go Out",
+      "weeks": 26,
+      "peak": 10,
+      "score": 505
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "My All",
+      "weeks": 20,
+      "peak": 1,
+      "score": 497
+    },
+    {
+      "artist": "Marcy Playground",
+      "title": "Sex And Candy",
+      "weeks": 28,
+      "peak": 8,
+      "score": 485
+    },
+    {
+      "artist": "Divine",
+      "title": "Lately",
+      "weeks": 16,
+      "peak": 1,
+      "score": 483
+    },
+    {
+      "artist": "Nicole",
+      "title": "Make It Hot",
+      "weeks": 23,
+      "peak": 5,
+      "score": 467
+    },
+    {
+      "artist": "Paula Cole",
+      "title": "I Don't Want To Wait",
+      "weeks": 47,
+      "peak": 11,
+      "score": 465
+    },
+    {
+      "artist": "98 Degrees",
+      "title": "Because Of You",
+      "weeks": 13,
+      "peak": 3,
+      "score": 424
+    },
+    {
+      "artist": "Barenaked Ladies",
+      "title": "One Week",
+      "weeks": 13,
+      "peak": 1,
+      "score": 421
+    },
+    {
+      "artist": "Aerosmith",
+      "title": "I Don't Want To Miss A Thing",
+      "weeks": 17,
+      "peak": 1,
+      "score": 420
+    },
+    {
+      "artist": "*nsync",
+      "title": "I Want You Back",
+      "weeks": 24,
+      "peak": 13,
+      "score": 417
+    },
+    {
+      "artist": "Mase",
+      "title": "What You Want",
+      "weeks": 24,
+      "peak": 6,
+      "score": 412
+    },
+    {
+      "artist": "Wyclef Jean",
+      "title": "Gone Till November",
+      "weeks": 20,
+      "peak": 7,
+      "score": 411
+    },
+    {
+      "artist": "Edwin Mccain",
+      "title": "I'll Be",
+      "weeks": 14,
+      "peak": 5,
+      "score": 407
+    },
+    {
+      "artist": "Uncle Sam",
+      "title": "I Don't Ever Want To See You Again",
+      "weeks": 20,
+      "peak": 6,
+      "score": 402
+    },
+    {
+      "artist": "Puff Daddy",
+      "title": "Been Around The World",
+      "weeks": 17,
+      "peak": 2,
+      "score": 397
+    },
+    {
+      "artist": "Montell Jordan",
+      "title": "Let's Ride",
+      "weeks": 21,
+      "peak": 2,
+      "score": 395
+    },
+    {
+      "artist": "Celine Dion",
+      "title": "My Heart Will Go On",
+      "weeks": 20,
+      "peak": 1,
+      "score": 389
+    },
+    {
+      "artist": "Madonna",
+      "title": "Frozen",
+      "weeks": 20,
+      "peak": 2,
+      "score": 388
+    },
+    {
+      "artist": "Dru Hill",
+      "title": "How Deep Is Your Love",
+      "weeks": 12,
+      "peak": 3,
+      "score": 388
+    },
+    {
+      "artist": "Tatyana Ali",
+      "title": "Daydreamin'",
+      "weeks": 17,
+      "peak": 6,
+      "score": 384
+    },
+    {
+      "artist": "Usher",
+      "title": "You Make Me Wanna...",
+      "weeks": 28,
+      "peak": 6,
+      "score": 345
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Usher",
+      "hits": 3
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Savage Garden",
+      "title": "Truly Madly Deeply",
+      "weeks": 48,
+      "peak": 1,
+      "score": 1328
+    },
+    {
+      "artist": "Third Eye Blind",
+      "title": "How's It Going To Be",
+      "weeks": 48,
+      "peak": 9,
+      "score": 528
+    },
+    {
+      "artist": "Paula Cole",
+      "title": "I Don't Want To Wait",
+      "weeks": 47,
+      "peak": 11,
+      "score": 465
+    },
+    {
+      "artist": "Next",
+      "title": "Too Close",
+      "weeks": 46,
+      "peak": 1,
+      "score": 1322
+    },
+    {
+      "artist": "Janet",
+      "title": "Together Again",
+      "weeks": 44,
+      "peak": 1,
+      "score": 673
+    },
+    {
+      "artist": "Shania Twain",
+      "title": "You're Still The One",
+      "weeks": 42,
+      "peak": 2,
+      "score": 1194
+    },
+    {
+      "artist": "Leann Rimes",
+      "title": "How Do I Live",
+      "weeks": 41,
+      "peak": 2,
+      "score": 659
+    },
+    {
+      "artist": "Faith Hill",
+      "title": "This Kiss",
+      "weeks": 41,
+      "peak": 7,
+      "score": 538
+    },
+    {
+      "artist": "K-ci",
+      "title": "All My Life",
+      "weeks": 36,
+      "peak": 1,
+      "score": 819
+    },
+    {
+      "artist": "Will Smith",
+      "title": "Gettin' Jiggy Wit It",
+      "weeks": 32,
+      "peak": 1,
+      "score": 558
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Savage Garden",
+      "title": "Truly Madly Deeply",
+      "weeks": 48,
+      "peak": 1,
+      "score": 1328
+    },
+    {
+      "artist": "Next",
+      "title": "Too Close",
+      "weeks": 46,
+      "peak": 1,
+      "score": 1322
+    },
+    {
+      "artist": "Brandy",
+      "title": "The Boy Is Mine",
+      "weeks": 27,
+      "peak": 1,
+      "score": 855
+    },
+    {
+      "artist": "K-ci",
+      "title": "All My Life",
+      "weeks": 36,
+      "peak": 1,
+      "score": 819
+    },
+    {
+      "artist": "Monica",
+      "title": "The First Night",
+      "weeks": 20,
+      "peak": 1,
+      "score": 717
+    },
+    {
+      "artist": "Janet",
+      "title": "Together Again",
+      "weeks": 44,
+      "peak": 1,
+      "score": 673
+    },
+    {
+      "artist": "Usher",
+      "title": "Nice & Slow",
+      "weeks": 23,
+      "peak": 1,
+      "score": 622
+    },
+    {
+      "artist": "Will Smith",
+      "title": "Gettin' Jiggy Wit It",
+      "weeks": 32,
+      "peak": 1,
+      "score": 558
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "My All",
+      "weeks": 20,
+      "peak": 1,
+      "score": 497
+    },
+    {
+      "artist": "Divine",
+      "title": "Lately",
+      "weeks": 16,
+      "peak": 1,
+      "score": 483
+    },
+    {
+      "artist": "Barenaked Ladies",
+      "title": "One Week",
+      "weeks": 13,
+      "peak": 1,
+      "score": 421
+    },
+    {
+      "artist": "Aerosmith",
+      "title": "I Don't Want To Miss A Thing",
+      "weeks": 17,
+      "peak": 1,
+      "score": 420
+    },
+    {
+      "artist": "Celine Dion",
+      "title": "My Heart Will Go On",
+      "weeks": 20,
+      "peak": 1,
+      "score": 389
+    },
+    {
+      "artist": "Lauryn Hill",
+      "title": "Doo Wop (That Thing)",
+      "weeks": 7,
+      "peak": 1,
+      "score": 263
+    },
+    {
+      "artist": "Elton John",
+      "title": "Candle In The Wind 1997/Something About The Way You Look Tonight",
+      "weeks": 30,
+      "peak": 1,
+      "score": 257
+    },
+    {
+      "artist": "R. Kelly",
+      "title": "I'm Your Angel",
+      "weeks": 4,
+      "peak": 1,
+      "score": 160
+    }
+  ]
+}

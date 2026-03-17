@@ -1,0 +1,7 @@
+pyyaml
+pandas
+pillow
+python-slugify
+tqdm
+requests
+openai

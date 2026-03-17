@@ -1,0 +1,462 @@
+{
+  "year": "2013",
+  "top_songs": [
+    {
+      "artist": "Imagine Dragons",
+      "title": "Radioactive",
+      "weeks": 52,
+      "peak": 3,
+      "score": 1240
+    },
+    {
+      "artist": "Macklemore",
+      "title": "Thrift Shop",
+      "weeks": 38,
+      "peak": 1,
+      "score": 1043
+    },
+    {
+      "artist": "Robin Thicke",
+      "title": "Blurred Lines",
+      "weeks": 35,
+      "peak": 1,
+      "score": 888
+    },
+    {
+      "artist": "Daft Punk",
+      "title": "Get Lucky",
+      "weeks": 29,
+      "peak": 2,
+      "score": 801
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "Mirrors",
+      "weeks": 42,
+      "peak": 2,
+      "score": 798
+    },
+    {
+      "artist": "Florida Georgia Line",
+      "title": "Cruise",
+      "weeks": 36,
+      "peak": 4,
+      "score": 750
+    },
+    {
+      "artist": "Jay Z",
+      "title": "Holy Grail",
+      "weeks": 23,
+      "peak": 4,
+      "score": 718
+    },
+    {
+      "artist": "P!nk",
+      "title": "Just Give Me A Reason",
+      "weeks": 36,
+      "peak": 1,
+      "score": 708
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Stay",
+      "weeks": 32,
+      "peak": 3,
+      "score": 699
+    },
+    {
+      "artist": "Miley Cyrus",
+      "title": "We Can't Stop",
+      "weeks": 26,
+      "peak": 2,
+      "score": 671
+    },
+    {
+      "artist": "Macklemore",
+      "title": "Can't Hold Us",
+      "weeks": 39,
+      "peak": 1,
+      "score": 663
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Roar",
+      "weeks": 19,
+      "peak": 1,
+      "score": 620
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "When I Was Your Man",
+      "weeks": 34,
+      "peak": 1,
+      "score": 598
+    },
+    {
+      "artist": "Drake",
+      "title": "Hold On, We're Going Home",
+      "weeks": 19,
+      "peak": 4,
+      "score": 595
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "I Knew You Were Trouble.",
+      "weeks": 27,
+      "peak": 2,
+      "score": 590
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "Locked Out Of Heaven",
+      "weeks": 25,
+      "peak": 1,
+      "score": 589
+    },
+    {
+      "artist": "Avicii",
+      "title": "Wake Me Up!",
+      "weeks": 25,
+      "peak": 4,
+      "score": 587
+    },
+    {
+      "artist": "The Lumineers",
+      "title": "Ho Hey",
+      "weeks": 34,
+      "peak": 3,
+      "score": 586
+    },
+    {
+      "artist": "Miley Cyrus",
+      "title": "Wrecking Ball",
+      "weeks": 17,
+      "peak": 1,
+      "score": 570
+    },
+    {
+      "artist": "Lorde",
+      "title": "Royals",
+      "weeks": 24,
+      "peak": 1,
+      "score": 568
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Applause",
+      "weeks": 18,
+      "peak": 4,
+      "score": 562
+    },
+    {
+      "artist": "Will.i.am",
+      "title": "Scream & Shout",
+      "weeks": 21,
+      "peak": 3,
+      "score": 551
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "Suit & Tie",
+      "weeks": 26,
+      "peak": 3,
+      "score": 541
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "The Way",
+      "weeks": 26,
+      "peak": 9,
+      "score": 535
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "Treasure",
+      "weeks": 23,
+      "peak": 5,
+      "score": 508
+    },
+    {
+      "artist": "Selena Gomez",
+      "title": "Come & Get It",
+      "weeks": 22,
+      "peak": 6,
+      "score": 501
+    },
+    {
+      "artist": "Drake",
+      "title": "Started From The Bottom",
+      "weeks": 22,
+      "peak": 6,
+      "score": 461
+    },
+    {
+      "artist": "Swedish House Mafia",
+      "title": "Don't You Worry Child",
+      "weeks": 20,
+      "peak": 6,
+      "score": 451
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "Daylight",
+      "weeks": 23,
+      "peak": 7,
+      "score": 426
+    },
+    {
+      "artist": "Lil Wayne",
+      "title": "Love Me",
+      "weeks": 22,
+      "peak": 9,
+      "score": 425
+    },
+    {
+      "artist": "Lana Del Rey Vs. Cedric Gervais",
+      "title": "Summertime Sadness",
+      "weeks": 23,
+      "peak": 6,
+      "score": 400
+    },
+    {
+      "artist": "Demi Lovato",
+      "title": "Heart Attack",
+      "weeks": 20,
+      "peak": 10,
+      "score": 389
+    },
+    {
+      "artist": "A$ap Rocky",
+      "title": "F**kin Problems",
+      "weeks": 20,
+      "peak": 8,
+      "score": 383
+    },
+    {
+      "artist": "Calvin Harris",
+      "title": "Sweet Nothing",
+      "weeks": 21,
+      "peak": 10,
+      "score": 372
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "Love Somebody",
+      "weeks": 21,
+      "peak": 10,
+      "score": 367
+    },
+    {
+      "artist": "Fall Out Boy",
+      "title": "My Songs Know What You Did In The Dark (Light Em Up)",
+      "weeks": 26,
+      "peak": 13,
+      "score": 352
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "Beauty And A Beat",
+      "weeks": 14,
+      "peak": 5,
+      "score": 350
+    },
+    {
+      "artist": "Alicia Keys",
+      "title": "Girl On Fire",
+      "weeks": 15,
+      "peak": 12,
+      "score": 348
+    },
+    {
+      "artist": "Icona Pop",
+      "title": "I Love It",
+      "weeks": 29,
+      "peak": 7,
+      "score": 330
+    },
+    {
+      "artist": "Pitbull",
+      "title": "Feel This Moment",
+      "weeks": 24,
+      "peak": 8,
+      "score": 328
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Macklemore",
+      "hits": 2
+    },
+    {
+      "artist": "Justin Timberlake",
+      "hits": 2
+    },
+    {
+      "artist": "Miley Cyrus",
+      "hits": 2
+    },
+    {
+      "artist": "Bruno Mars",
+      "hits": 3
+    },
+    {
+      "artist": "Drake",
+      "hits": 2
+    },
+    {
+      "artist": "Maroon 5",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Imagine Dragons",
+      "title": "Radioactive",
+      "weeks": 52,
+      "peak": 3,
+      "score": 1240
+    },
+    {
+      "artist": "Awolnation",
+      "title": "Sail",
+      "weeks": 47,
+      "peak": 17,
+      "score": 240
+    },
+    {
+      "artist": "Anna Kendrick",
+      "title": "Cups (Pitch Perfect's When I'm Gone)",
+      "weeks": 44,
+      "peak": 6,
+      "score": -180
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "Mirrors",
+      "weeks": 42,
+      "peak": 2,
+      "score": 798
+    },
+    {
+      "artist": "Macklemore",
+      "title": "Can't Hold Us",
+      "weeks": 39,
+      "peak": 1,
+      "score": 663
+    },
+    {
+      "artist": "Macklemore",
+      "title": "Thrift Shop",
+      "weeks": 38,
+      "peak": 1,
+      "score": 1043
+    },
+    {
+      "artist": "Florida Georgia Line",
+      "title": "Cruise",
+      "weeks": 36,
+      "peak": 4,
+      "score": 750
+    },
+    {
+      "artist": "P!nk",
+      "title": "Just Give Me A Reason",
+      "weeks": 36,
+      "peak": 1,
+      "score": 708
+    },
+    {
+      "artist": "Robin Thicke",
+      "title": "Blurred Lines",
+      "weeks": 35,
+      "peak": 1,
+      "score": 888
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "When I Was Your Man",
+      "weeks": 34,
+      "peak": 1,
+      "score": 598
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Macklemore",
+      "title": "Thrift Shop",
+      "weeks": 38,
+      "peak": 1,
+      "score": 1043
+    },
+    {
+      "artist": "Robin Thicke",
+      "title": "Blurred Lines",
+      "weeks": 35,
+      "peak": 1,
+      "score": 888
+    },
+    {
+      "artist": "P!nk",
+      "title": "Just Give Me A Reason",
+      "weeks": 36,
+      "peak": 1,
+      "score": 708
+    },
+    {
+      "artist": "Macklemore",
+      "title": "Can't Hold Us",
+      "weeks": 39,
+      "peak": 1,
+      "score": 663
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Roar",
+      "weeks": 19,
+      "peak": 1,
+      "score": 620
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "When I Was Your Man",
+      "weeks": 34,
+      "peak": 1,
+      "score": 598
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "Locked Out Of Heaven",
+      "weeks": 25,
+      "peak": 1,
+      "score": 589
+    },
+    {
+      "artist": "Miley Cyrus",
+      "title": "Wrecking Ball",
+      "weeks": 17,
+      "peak": 1,
+      "score": 570
+    },
+    {
+      "artist": "Lorde",
+      "title": "Royals",
+      "weeks": 24,
+      "peak": 1,
+      "score": 568
+    },
+    {
+      "artist": "Eminem",
+      "title": "The Monster",
+      "weeks": 7,
+      "peak": 1,
+      "score": 274
+    },
+    {
+      "artist": "Baauer",
+      "title": "Harlem Shake",
+      "weeks": 20,
+      "peak": 1,
+      "score": 269
+    }
+  ]
+}

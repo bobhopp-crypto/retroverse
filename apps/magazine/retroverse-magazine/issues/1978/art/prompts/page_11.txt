@@ -1,0 +1,25 @@
+Retro magazine illustration for page 11 of a 1978 pop culture magazine.
+
+Prompt source: visual_concept
+Page slug: top_song_6
+Page title: 06. Can't Smile Without You — Barry Manilow
+Visual concept: bus_stop_longing
+
+Article topic:
+A city bus shelter scene with rain-slick pavement, waiting figures, and a bittersweet romantic pause.
+
+Visual direction from page brief:
+Scene description: A city bus shelter scene with rain-slick pavement, waiting figures, and a bittersweet romantic pause.
+Camera style: medium telephoto street vignette
+Lighting style: soft storefront spill with wet-street reflections
+
+Create a lively illustrated scene reflecting the topic.
+1970s editorial illustration style.
+MAD Magazine caricature influence.
+comic line art + watercolor textures.
+late 1970s neon palette.
+handwritten signature "Judge" as a small artist mark only.
+
+Important:
+leave soft areas suitable for text placement.
+Do not include readable typography.

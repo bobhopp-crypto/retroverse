@@ -1,0 +1,4 @@
+week_number,date_range_start,date_range_end,chart_date,rank,title,artist,weeks_on_chart,peak_position,ambient_lines_json
+30,1974-07-29,1974-08-04,1974-08-03,1,Annie's Song,John Denver,10,1,[]
+30,1974-07-29,1974-08-04,1974-08-03,2,Don't Let The Sun Go Down On Me,Elton John,7,2,[]
+30,1974-07-29,1974-08-04,1974-08-03,3,Feel Like Makin' Love,Roberta Flack,7,3,"[""Cultural Backdrop: Postmark stamps and passport edge perforations"", ""Headlines: civic fatigue""]"

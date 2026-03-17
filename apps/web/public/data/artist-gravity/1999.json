@@ -1,0 +1,534 @@
+[
+  {
+    "artist": "Soundtrack",
+    "score": 675.1
+  },
+  {
+    "artist": "Various Artists",
+    "score": 483.2
+  },
+  {
+    "artist": "Mariah Carey",
+    "score": 398.1
+  },
+  {
+    "artist": "Backstreet Boys",
+    "score": 395.4
+  },
+  {
+    "artist": "Whitney Houston",
+    "score": 381.7
+  },
+  {
+    "artist": "Tlc",
+    "score": 306.7
+  },
+  {
+    "artist": "Ricky Martin",
+    "score": 303.1
+  },
+  {
+    "artist": "Britney Spears",
+    "score": 296.9
+  },
+  {
+    "artist": "Garth Brooks",
+    "score": 296.3
+  },
+  {
+    "artist": "Shania Twain",
+    "score": 293
+  },
+  {
+    "artist": "Christina Aguilera",
+    "score": 289.6
+  },
+  {
+    "artist": "Jennifer Lopez",
+    "score": 289.4
+  },
+  {
+    "artist": "Sarah Mclachlan",
+    "score": 286
+  },
+  {
+    "artist": "Smash Mouth",
+    "score": 282.6
+  },
+  {
+    "artist": "98 Degrees",
+    "score": 282.1
+  },
+  {
+    "artist": "Cher",
+    "score": 203.1
+  },
+  {
+    "artist": "Santana",
+    "score": 202.8
+  },
+  {
+    "artist": "Dixie Chicks",
+    "score": 201.7
+  },
+  {
+    "artist": "Puff Daddy",
+    "score": 199
+  },
+  {
+    "artist": "Lauryn Hill",
+    "score": 197.6
+  },
+  {
+    "artist": "Celine Dion",
+    "score": 197.5
+  },
+  {
+    "artist": "Lou Bega",
+    "score": 197.4
+  },
+  {
+    "artist": "Destiny's Child",
+    "score": 197
+  },
+  {
+    "artist": "Will Smith",
+    "score": 196.1
+  },
+  {
+    "artist": "Jewel",
+    "score": 195.7
+  },
+  {
+    "artist": "Sugar Ray",
+    "score": 195.7
+  },
+  {
+    "artist": "Nas",
+    "score": 194.8
+  },
+  {
+    "artist": "Tim McGraw",
+    "score": 194.2
+  },
+  {
+    "artist": "Brian Mcknight",
+    "score": 194
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "score": 193.6
+  },
+  {
+    "artist": "*nsync",
+    "score": 193.5
+  },
+  {
+    "artist": "Deborah Cox",
+    "score": 193.2
+  },
+  {
+    "artist": "Marc Anthony",
+    "score": 191.7
+  },
+  {
+    "artist": "Savage Garden",
+    "score": 191.5
+  },
+  {
+    "artist": "R. Kelly",
+    "score": 190.1
+  },
+  {
+    "artist": "Lfo",
+    "score": 189.3
+  },
+  {
+    "artist": "JAY-Z",
+    "score": 188.4
+  },
+  {
+    "artist": "Brandy",
+    "score": 186.8
+  },
+  {
+    "artist": "Faith Hill",
+    "score": 186.2
+  },
+  {
+    "artist": "Blaque",
+    "score": 186
+  },
+  {
+    "artist": "Faith Evans",
+    "score": 185.2
+  },
+  {
+    "artist": "BLACKstreet",
+    "score": 179.5
+  },
+  {
+    "artist": "Case",
+    "score": 178.9
+  },
+  {
+    "artist": "DMX",
+    "score": 103.7
+  },
+  {
+    "artist": "'N Sync",
+    "score": 103.2
+  },
+  {
+    "artist": "The Offspring",
+    "score": 103.2
+  },
+  {
+    "artist": "Dave Matthews & Tim Reynolds",
+    "score": 102.3
+  },
+  {
+    "artist": "Eminem",
+    "score": 102.2
+  },
+  {
+    "artist": "2Pac",
+    "score": 101.8
+  },
+  {
+    "artist": "Monica",
+    "score": 101.6
+  },
+  {
+    "artist": "Limp Bizkit",
+    "score": 101.5
+  },
+  {
+    "artist": "Sixpence None The Richer",
+    "score": 101.2
+  },
+  {
+    "artist": "Snoop Dogg",
+    "score": 101.1
+  },
+  {
+    "artist": "Enrique Iglesias",
+    "score": 101
+  },
+  {
+    "artist": "Foxy Brown",
+    "score": 101
+  },
+  {
+    "artist": "Silkk The Shocker",
+    "score": 101
+  },
+  {
+    "artist": "Eve",
+    "score": 100.3
+  },
+  {
+    "artist": "Nine Inch Nails",
+    "score": 100.2
+  },
+  {
+    "artist": "Creed",
+    "score": 100.1
+  },
+  {
+    "artist": "Pearl Jam",
+    "score": 100.1
+  },
+  {
+    "artist": "K-ci",
+    "score": 100
+  },
+  {
+    "artist": "Kid Rock",
+    "score": 100
+  },
+  {
+    "artist": "Andrea Bocelli",
+    "score": 99.7
+  },
+  {
+    "artist": "Ja Rule",
+    "score": 99.7
+  },
+  {
+    "artist": "Mary J. Blige",
+    "score": 99.7
+  },
+  {
+    "artist": "Rage Against The Machine",
+    "score": 99.6
+  },
+  {
+    "artist": "702",
+    "score": 99.5
+  },
+  {
+    "artist": "Korn",
+    "score": 99.4
+  },
+  {
+    "artist": "C-Murder",
+    "score": 99.1
+  },
+  {
+    "artist": "The Notorious B.I.G.",
+    "score": 99.1
+  },
+  {
+    "artist": "Busta Rhymes",
+    "score": 99
+  },
+  {
+    "artist": "Ginuwine",
+    "score": 98.9
+  },
+  {
+    "artist": "Master P",
+    "score": 98.7
+  },
+  {
+    "artist": "London Symphony Orchestra (Williams)",
+    "score": 98.6
+  },
+  {
+    "artist": "Mobb Deep",
+    "score": 98.6
+  },
+  {
+    "artist": "Maxwell",
+    "score": 98.5
+  },
+  {
+    "artist": "Dr. Dre",
+    "score": 98.4
+  },
+  {
+    "artist": "Metallica With Michael Kamen Conducting The San Francisco Symphony Orchestra",
+    "score": 98.3
+  },
+  {
+    "artist": "Divine",
+    "score": 98.1
+  },
+  {
+    "artist": "Jessica Simpson",
+    "score": 98.1
+  },
+  {
+    "artist": "Method Man & Redman",
+    "score": 98.1
+  },
+  {
+    "artist": "George Strait",
+    "score": 97.8
+  },
+  {
+    "artist": "Insane Clown Posse",
+    "score": 97.8
+  },
+  {
+    "artist": "The Roots",
+    "score": 97.8
+  },
+  {
+    "artist": "Lil Wayne",
+    "score": 97.6
+  },
+  {
+    "artist": "Eagle-eye Cherry",
+    "score": 97.4
+  },
+  {
+    "artist": "Mystikal",
+    "score": 97.4
+  },
+  {
+    "artist": "Krayzie Bone",
+    "score": 97.3
+  },
+  {
+    "artist": "Tru",
+    "score": 97.1
+  },
+  {
+    "artist": "Hot Boys",
+    "score": 97
+  },
+  {
+    "artist": "Jt Money",
+    "score": 97
+  },
+  {
+    "artist": "Live",
+    "score": 97
+  },
+  {
+    "artist": "Jim Johnston",
+    "score": 96.6
+  },
+  {
+    "artist": "Third Eye Blind",
+    "score": 96.6
+  },
+  {
+    "artist": "Too $hort",
+    "score": 96.4
+  },
+  {
+    "artist": "Garth Brooks As Chris Gaines",
+    "score": 96
+  },
+  {
+    "artist": "Barbra Streisand",
+    "score": 95.2
+  },
+  {
+    "artist": "Goo Goo Dolls",
+    "score": 95.1
+  },
+  {
+    "artist": "Stone Temple Pilots",
+    "score": 94.7
+  },
+  {
+    "artist": "K-Ci & JoJo",
+    "score": 94.5
+  },
+  {
+    "artist": "B.G.",
+    "score": 94.4
+  },
+  {
+    "artist": "Donell Jones",
+    "score": 94.4
+  },
+  {
+    "artist": "Shawn Mullins",
+    "score": 94.4
+  },
+  {
+    "artist": "Total",
+    "score": 94.2
+  },
+  {
+    "artist": "Memphis Bleek",
+    "score": 93.9
+  },
+  {
+    "artist": "Jimmy Buffett",
+    "score": 93.7
+  },
+  {
+    "artist": "Slick Rick",
+    "score": 93.7
+  },
+  {
+    "artist": "Missy \"misdemeanor\" Elliott",
+    "score": 93.5
+  },
+  {
+    "artist": "Kenny G",
+    "score": 93.4
+  },
+  {
+    "artist": "Len",
+    "score": 93
+  },
+  {
+    "artist": "LeAnn Rimes",
+    "score": 92.7
+  },
+  {
+    "artist": "Counting Crows",
+    "score": 92.6
+  },
+  {
+    "artist": "B*witched",
+    "score": 92.5
+  },
+  {
+    "artist": "Jesse Powell",
+    "score": 92
+  },
+  {
+    "artist": "Jordan Knight",
+    "score": 92
+  },
+  {
+    "artist": "311",
+    "score": 91.9
+  },
+  {
+    "artist": "Chante Moore",
+    "score": 91.8
+  },
+  {
+    "artist": "Alan Jackson",
+    "score": 91.7
+  },
+  {
+    "artist": "Naughty By Nature",
+    "score": 91.7
+  },
+  {
+    "artist": "Joey Mcintyre",
+    "score": 91.4
+  },
+  {
+    "artist": "Kevon Edmonds",
+    "score": 90.8
+  },
+  {
+    "artist": "Lenny Kravitz",
+    "score": 90.8
+  },
+  {
+    "artist": "Tyrese",
+    "score": 90.5
+  },
+  {
+    "artist": "Gerald Levert",
+    "score": 90.2
+  },
+  {
+    "artist": "Everlast",
+    "score": 90.1
+  },
+  {
+    "artist": "Spice Girls",
+    "score": 90
+  },
+  {
+    "artist": "Sporty Thievz",
+    "score": 89.7
+  },
+  {
+    "artist": "Shanice",
+    "score": 89
+  },
+  {
+    "artist": "Silk",
+    "score": 89
+  },
+  {
+    "artist": "Ideal",
+    "score": 88.9
+  },
+  {
+    "artist": "Tal Bachman",
+    "score": 88.8
+  },
+  {
+    "artist": "112",
+    "score": 87.5
+  },
+  {
+    "artist": "Mo Thugs Family",
+    "score": 86.4
+  }
+]

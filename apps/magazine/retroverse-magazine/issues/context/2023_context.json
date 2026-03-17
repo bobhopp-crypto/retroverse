@@ -1,0 +1,518 @@
+{
+  "year": "2023",
+  "top_songs": [
+    {
+      "artist": "Morgan Wallen",
+      "title": "Last Night",
+      "weeks": 47,
+      "peak": 1,
+      "score": 1622
+    },
+    {
+      "artist": "Miley Cyrus",
+      "title": "Flowers",
+      "weeks": 45,
+      "peak": 1,
+      "score": 1427
+    },
+    {
+      "artist": "Sza",
+      "title": "Kill Bill",
+      "weeks": 48,
+      "peak": 1,
+      "score": 1296
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Anti-Hero",
+      "weeks": 44,
+      "peak": 1,
+      "score": 1173
+    },
+    {
+      "artist": "Luke Combs",
+      "title": "Fast Car",
+      "weeks": 39,
+      "peak": 2,
+      "score": 1151
+    },
+    {
+      "artist": "Metro Boomin, The Weeknd",
+      "title": "Creepin'",
+      "weeks": 44,
+      "peak": 3,
+      "score": 1147
+    },
+    {
+      "artist": "Rema",
+      "title": "Calm Down",
+      "weeks": 41,
+      "peak": 3,
+      "score": 1134
+    },
+    {
+      "artist": "Sza",
+      "title": "Snooze",
+      "weeks": 52,
+      "peak": 2,
+      "score": 1003
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Die For You",
+      "weeks": 31,
+      "peak": 1,
+      "score": 936
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Cruel Summer",
+      "weeks": 31,
+      "peak": 1,
+      "score": 922
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "Thinkin' Bout Me",
+      "weeks": 42,
+      "peak": 7,
+      "score": 814
+    },
+    {
+      "artist": "Doja Cat",
+      "title": "Paint The Town Red",
+      "weeks": 20,
+      "peak": 1,
+      "score": 699
+    },
+    {
+      "artist": "Gunna",
+      "title": "Fukumean",
+      "weeks": 26,
+      "peak": 4,
+      "score": 683
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "You Proof",
+      "weeks": 30,
+      "peak": 8,
+      "score": 660
+    },
+    {
+      "artist": "Lil Durk",
+      "title": "All My Life",
+      "weeks": 24,
+      "peak": 2,
+      "score": 656
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "title": "Vampire",
+      "weeks": 23,
+      "peak": 1,
+      "score": 642
+    },
+    {
+      "artist": "David Guetta",
+      "title": "I'm Good (Blue)",
+      "weeks": 31,
+      "peak": 4,
+      "score": 621
+    },
+    {
+      "artist": "Zach Bryan",
+      "title": "Something In The Orange",
+      "weeks": 31,
+      "peak": 10,
+      "score": 604
+    },
+    {
+      "artist": "Pinkpantheress",
+      "title": "Boy's A Liar, Pt. 2",
+      "weeks": 22,
+      "peak": 3,
+      "score": 577
+    },
+    {
+      "artist": "Harry Styles",
+      "title": "As It Was",
+      "weeks": 23,
+      "peak": 7,
+      "score": 574
+    },
+    {
+      "artist": "Bailey Zimmerman",
+      "title": "Rock And A Hard Place",
+      "weeks": 26,
+      "peak": 10,
+      "score": 574
+    },
+    {
+      "artist": "Toosii",
+      "title": "Favorite Song",
+      "weeks": 27,
+      "peak": 5,
+      "score": 559
+    },
+    {
+      "artist": "Dua Lipa",
+      "title": "Dance The Night",
+      "weeks": 26,
+      "peak": 6,
+      "score": 556
+    },
+    {
+      "artist": "Eslabon Armado X Peso Pluma",
+      "title": "Ella Baila Sola",
+      "weeks": 23,
+      "peak": 4,
+      "score": 554
+    },
+    {
+      "artist": "Miguel",
+      "title": "Sure Thing",
+      "weeks": 29,
+      "peak": 11,
+      "score": 552
+    },
+    {
+      "artist": "Zach Bryan",
+      "title": "I Remember Everything",
+      "weeks": 17,
+      "peak": 1,
+      "score": 541
+    },
+    {
+      "artist": "Sam Smith",
+      "title": "Unholy",
+      "weeks": 22,
+      "peak": 2,
+      "score": 494
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "Thought You Should Know",
+      "weeks": 32,
+      "peak": 7,
+      "score": 471
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Karma",
+      "weeks": 24,
+      "peak": 2,
+      "score": 435
+    },
+    {
+      "artist": "Nicki Minaj",
+      "title": "Barbie World",
+      "weeks": 21,
+      "peak": 7,
+      "score": 424
+    },
+    {
+      "artist": "Chris Brown",
+      "title": "Under The Influence",
+      "weeks": 26,
+      "peak": 12,
+      "score": 398
+    },
+    {
+      "artist": "Jelly Roll",
+      "title": "Need A Favor",
+      "weeks": 37,
+      "peak": 13,
+      "score": 363
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "title": "Just Wanna Rock",
+      "weeks": 22,
+      "peak": 10,
+      "score": 351
+    },
+    {
+      "artist": "Tate Mcrae",
+      "title": "Greedy",
+      "weeks": 14,
+      "peak": 7,
+      "score": 339
+    },
+    {
+      "artist": "Kane Brown",
+      "title": "Thank God",
+      "weeks": 27,
+      "peak": 13,
+      "score": 338
+    },
+    {
+      "artist": "Drake",
+      "title": "Rich Flex",
+      "weeks": 21,
+      "peak": 5,
+      "score": 329
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Cuff It",
+      "weeks": 16,
+      "peak": 6,
+      "score": 322
+    },
+    {
+      "artist": "Yng Lvcas X Peso Pluma",
+      "title": "La Bebe",
+      "weeks": 23,
+      "peak": 11,
+      "score": 312
+    },
+    {
+      "artist": "Drake",
+      "title": "Search & Rescue",
+      "weeks": 20,
+      "peak": 2,
+      "score": 295
+    },
+    {
+      "artist": "Bailey Zimmerman",
+      "title": "Religiously",
+      "weeks": 25,
+      "peak": 13,
+      "score": 286
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Morgan Wallen",
+      "hits": 4
+    },
+    {
+      "artist": "Sza",
+      "hits": 2
+    },
+    {
+      "artist": "Taylor Swift",
+      "hits": 3
+    },
+    {
+      "artist": "Zach Bryan",
+      "hits": 2
+    },
+    {
+      "artist": "Bailey Zimmerman",
+      "hits": 2
+    },
+    {
+      "artist": "Drake",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Sza",
+      "title": "Snooze",
+      "weeks": 52,
+      "peak": 2,
+      "score": 1003
+    },
+    {
+      "artist": "Sza",
+      "title": "Kill Bill",
+      "weeks": 48,
+      "peak": 1,
+      "score": 1296
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "Last Night",
+      "weeks": 47,
+      "peak": 1,
+      "score": 1622
+    },
+    {
+      "artist": "Miley Cyrus",
+      "title": "Flowers",
+      "weeks": 45,
+      "peak": 1,
+      "score": 1427
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Anti-Hero",
+      "weeks": 44,
+      "peak": 1,
+      "score": 1173
+    },
+    {
+      "artist": "Metro Boomin, The Weeknd",
+      "title": "Creepin'",
+      "weeks": 44,
+      "peak": 3,
+      "score": 1147
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "Thinkin' Bout Me",
+      "weeks": 42,
+      "peak": 7,
+      "score": 814
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "Everything I Love",
+      "weeks": 42,
+      "peak": 14,
+      "score": -1161
+    },
+    {
+      "artist": "Rema",
+      "title": "Calm Down",
+      "weeks": 41,
+      "peak": 3,
+      "score": 1134
+    },
+    {
+      "artist": "Luke Combs",
+      "title": "Fast Car",
+      "weeks": 39,
+      "peak": 2,
+      "score": 1151
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Morgan Wallen",
+      "title": "Last Night",
+      "weeks": 47,
+      "peak": 1,
+      "score": 1622
+    },
+    {
+      "artist": "Miley Cyrus",
+      "title": "Flowers",
+      "weeks": 45,
+      "peak": 1,
+      "score": 1427
+    },
+    {
+      "artist": "Sza",
+      "title": "Kill Bill",
+      "weeks": 48,
+      "peak": 1,
+      "score": 1296
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Anti-Hero",
+      "weeks": 44,
+      "peak": 1,
+      "score": 1173
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Die For You",
+      "weeks": 31,
+      "peak": 1,
+      "score": 936
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Cruel Summer",
+      "weeks": 31,
+      "peak": 1,
+      "score": 922
+    },
+    {
+      "artist": "Doja Cat",
+      "title": "Paint The Town Red",
+      "weeks": 20,
+      "peak": 1,
+      "score": 699
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "title": "Vampire",
+      "weeks": 23,
+      "peak": 1,
+      "score": 642
+    },
+    {
+      "artist": "Zach Bryan",
+      "title": "I Remember Everything",
+      "weeks": 17,
+      "peak": 1,
+      "score": 541
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "All I Want For Christmas Is You",
+      "weeks": 7,
+      "peak": 1,
+      "score": 259
+    },
+    {
+      "artist": "Brenda Lee",
+      "title": "Rockin' Around The Christmas Tree",
+      "weeks": 6,
+      "peak": 1,
+      "score": 230
+    },
+    {
+      "artist": "Jack Harlow",
+      "title": "Lovin On Me",
+      "weeks": 6,
+      "peak": 1,
+      "score": 223
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Is It Over Now? (Taylor's Version) [From The Vault]",
+      "weeks": 8,
+      "peak": 1,
+      "score": 183
+    },
+    {
+      "artist": "Drake",
+      "title": "First Person Shooter",
+      "weeks": 11,
+      "peak": 1,
+      "score": 154
+    },
+    {
+      "artist": "Jason Aldean",
+      "title": "Try That In A Small Town",
+      "weeks": 20,
+      "peak": 1,
+      "score": 17
+    },
+    {
+      "artist": "Jung Kook",
+      "title": "Seven",
+      "weeks": 15,
+      "peak": 1,
+      "score": -26
+    },
+    {
+      "artist": "Drake",
+      "title": "Slime You Out",
+      "weeks": 12,
+      "peak": 1,
+      "score": -74
+    },
+    {
+      "artist": "Jimin",
+      "title": "Like Crazy",
+      "weeks": 5,
+      "peak": 1,
+      "score": -75
+    },
+    {
+      "artist": "Oliver Anthony Music",
+      "title": "Rich Men North Of Richmond",
+      "weeks": 17,
+      "peak": 1,
+      "score": -96
+    }
+  ]
+}

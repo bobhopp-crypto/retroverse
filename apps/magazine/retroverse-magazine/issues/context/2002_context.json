@@ -1,0 +1,460 @@
+{
+  "year": "2002",
+  "top_songs": [
+    {
+      "artist": "Nelly",
+      "title": "Dilemma",
+      "weeks": 25,
+      "peak": 1,
+      "score": 826
+    },
+    {
+      "artist": "Vanessa Carlton",
+      "title": "A Thousand Miles",
+      "weeks": 41,
+      "peak": 5,
+      "score": 822
+    },
+    {
+      "artist": "Nelly",
+      "title": "Hot In Herre",
+      "weeks": 26,
+      "peak": 1,
+      "score": 794
+    },
+    {
+      "artist": "The Calling",
+      "title": "Wherever You Will Go",
+      "weeks": 37,
+      "peak": 5,
+      "score": 782
+    },
+    {
+      "artist": "Nickelback",
+      "title": "How You Remind Me",
+      "weeks": 32,
+      "peak": 1,
+      "score": 768
+    },
+    {
+      "artist": "Avril Lavigne",
+      "title": "Complicated",
+      "weeks": 31,
+      "peak": 2,
+      "score": 766
+    },
+    {
+      "artist": "Linkin Park",
+      "title": "In The End",
+      "weeks": 29,
+      "peak": 2,
+      "score": 761
+    },
+    {
+      "artist": "Ashanti",
+      "title": "Foolish",
+      "weeks": 32,
+      "peak": 1,
+      "score": 730
+    },
+    {
+      "artist": "Fat Joe",
+      "title": "What's Luv?",
+      "weeks": 28,
+      "peak": 2,
+      "score": 715
+    },
+    {
+      "artist": "Puddle Of Mudd",
+      "title": "Blurry",
+      "weeks": 36,
+      "peak": 5,
+      "score": 672
+    },
+    {
+      "artist": "Jennifer Lopez",
+      "title": "Ain't It Funny",
+      "weeks": 26,
+      "peak": 1,
+      "score": 661
+    },
+    {
+      "artist": "Ja Rule",
+      "title": "Always On Time",
+      "weeks": 20,
+      "peak": 1,
+      "score": 614
+    },
+    {
+      "artist": "P. Diddy",
+      "title": "I Need A Girl (Part Two)",
+      "weeks": 26,
+      "peak": 4,
+      "score": 598
+    },
+    {
+      "artist": "Eve",
+      "title": "Gangsta Lovin'",
+      "weeks": 22,
+      "peak": 2,
+      "score": 552
+    },
+    {
+      "artist": "Usher",
+      "title": "U Don't Have To Call",
+      "weeks": 26,
+      "peak": 3,
+      "score": 543
+    },
+    {
+      "artist": "Jimmy Eat World",
+      "title": "The Middle",
+      "weeks": 33,
+      "peak": 5,
+      "score": 539
+    },
+    {
+      "artist": "P. Diddy",
+      "title": "I Need A Girl (Part One)",
+      "weeks": 23,
+      "peak": 2,
+      "score": 513
+    },
+    {
+      "artist": "Usher",
+      "title": "U Got It Bad",
+      "weeks": 17,
+      "peak": 1,
+      "score": 506
+    },
+    {
+      "artist": "Eminem",
+      "title": "Without Me",
+      "weeks": 20,
+      "peak": 2,
+      "score": 500
+    },
+    {
+      "artist": "Cam'ron",
+      "title": "Hey Ma",
+      "weeks": 18,
+      "peak": 3,
+      "score": 497
+    },
+    {
+      "artist": "Chad Kroeger",
+      "title": "Hero",
+      "weeks": 22,
+      "peak": 3,
+      "score": 486
+    },
+    {
+      "artist": "Creed",
+      "title": "My Sacrifice",
+      "weeks": 19,
+      "peak": 4,
+      "score": 481
+    },
+    {
+      "artist": "Missy \"misdemeanor\" Elliott",
+      "title": "Work It",
+      "weeks": 16,
+      "peak": 2,
+      "score": 465
+    },
+    {
+      "artist": "Eminem",
+      "title": "Lose Yourself",
+      "weeks": 13,
+      "peak": 1,
+      "score": 447
+    },
+    {
+      "artist": "Creed",
+      "title": "One Last Breath",
+      "weeks": 30,
+      "peak": 6,
+      "score": 445
+    },
+    {
+      "artist": "No Doubt",
+      "title": "Underneath It All",
+      "weeks": 18,
+      "peak": 3,
+      "score": 431
+    },
+    {
+      "artist": "Jennifer Lopez",
+      "title": "I'm Gonna Be Alright",
+      "weeks": 23,
+      "peak": 10,
+      "score": 417
+    },
+    {
+      "artist": "Michelle Branch",
+      "title": "All You Wanted",
+      "weeks": 28,
+      "peak": 6,
+      "score": 412
+    },
+    {
+      "artist": "Cam'ron",
+      "title": "Oh Boy",
+      "weeks": 21,
+      "peak": 4,
+      "score": 384
+    },
+    {
+      "artist": "P!nk",
+      "title": "Don't Let Me Get Me",
+      "weeks": 21,
+      "peak": 8,
+      "score": 382
+    },
+    {
+      "artist": "No Doubt",
+      "title": "Hey Baby",
+      "weeks": 16,
+      "peak": 5,
+      "score": 381
+    },
+    {
+      "artist": "P!nk",
+      "title": "Just Like A Pill",
+      "weeks": 20,
+      "peak": 8,
+      "score": 368
+    },
+    {
+      "artist": "P!nk",
+      "title": "Get The Party Started",
+      "weeks": 14,
+      "peak": 4,
+      "score": 359
+    },
+    {
+      "artist": "*nsync",
+      "title": "Girlfriend",
+      "weeks": 20,
+      "peak": 5,
+      "score": 359
+    },
+    {
+      "artist": "Truth Hurts",
+      "title": "Addictive",
+      "weeks": 20,
+      "peak": 9,
+      "score": 349
+    },
+    {
+      "artist": "Mary J. Blige",
+      "title": "Family Affair",
+      "weeks": 18,
+      "peak": 3,
+      "score": 344
+    },
+    {
+      "artist": "Shakira",
+      "title": "Whenever, Wherever",
+      "weeks": 14,
+      "peak": 6,
+      "score": 335
+    },
+    {
+      "artist": "Santana",
+      "title": "The Game Of Love",
+      "weeks": 13,
+      "peak": 5,
+      "score": 335
+    },
+    {
+      "artist": "Jennifer Lopez",
+      "title": "Jenny From The Block",
+      "weeks": 12,
+      "peak": 3,
+      "score": 304
+    },
+    {
+      "artist": "Craig David",
+      "title": "7 Days",
+      "weeks": 16,
+      "peak": 10,
+      "score": 295
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Nelly",
+      "hits": 2
+    },
+    {
+      "artist": "Jennifer Lopez",
+      "hits": 3
+    },
+    {
+      "artist": "P. Diddy",
+      "hits": 2
+    },
+    {
+      "artist": "Usher",
+      "hits": 2
+    },
+    {
+      "artist": "Eminem",
+      "hits": 2
+    },
+    {
+      "artist": "Cam'ron",
+      "hits": 2
+    },
+    {
+      "artist": "Creed",
+      "hits": 2
+    },
+    {
+      "artist": "No Doubt",
+      "hits": 2
+    },
+    {
+      "artist": "P!nk",
+      "hits": 3
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Vanessa Carlton",
+      "title": "A Thousand Miles",
+      "weeks": 41,
+      "peak": 5,
+      "score": 822
+    },
+    {
+      "artist": "The Calling",
+      "title": "Wherever You Will Go",
+      "weeks": 37,
+      "peak": 5,
+      "score": 782
+    },
+    {
+      "artist": "Puddle Of Mudd",
+      "title": "Blurry",
+      "weeks": 36,
+      "peak": 5,
+      "score": 672
+    },
+    {
+      "artist": "Default",
+      "title": "Wasting My Time",
+      "weeks": 35,
+      "peak": 13,
+      "score": 71
+    },
+    {
+      "artist": "Sean Paul",
+      "title": "Gimme The Light",
+      "weeks": 35,
+      "peak": 7,
+      "score": -774
+    },
+    {
+      "artist": "Jimmy Eat World",
+      "title": "The Middle",
+      "weeks": 33,
+      "peak": 5,
+      "score": 539
+    },
+    {
+      "artist": "Nickelback",
+      "title": "How You Remind Me",
+      "weeks": 32,
+      "peak": 1,
+      "score": 768
+    },
+    {
+      "artist": "Ashanti",
+      "title": "Foolish",
+      "weeks": 32,
+      "peak": 1,
+      "score": 730
+    },
+    {
+      "artist": "Avril Lavigne",
+      "title": "Complicated",
+      "weeks": 31,
+      "peak": 2,
+      "score": 766
+    },
+    {
+      "artist": "Creed",
+      "title": "One Last Breath",
+      "weeks": 30,
+      "peak": 6,
+      "score": 445
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Nelly",
+      "title": "Dilemma",
+      "weeks": 25,
+      "peak": 1,
+      "score": 826
+    },
+    {
+      "artist": "Nelly",
+      "title": "Hot In Herre",
+      "weeks": 26,
+      "peak": 1,
+      "score": 794
+    },
+    {
+      "artist": "Nickelback",
+      "title": "How You Remind Me",
+      "weeks": 32,
+      "peak": 1,
+      "score": 768
+    },
+    {
+      "artist": "Ashanti",
+      "title": "Foolish",
+      "weeks": 32,
+      "peak": 1,
+      "score": 730
+    },
+    {
+      "artist": "Jennifer Lopez",
+      "title": "Ain't It Funny",
+      "weeks": 26,
+      "peak": 1,
+      "score": 661
+    },
+    {
+      "artist": "Ja Rule",
+      "title": "Always On Time",
+      "weeks": 20,
+      "peak": 1,
+      "score": 614
+    },
+    {
+      "artist": "Usher",
+      "title": "U Got It Bad",
+      "weeks": 17,
+      "peak": 1,
+      "score": 506
+    },
+    {
+      "artist": "Eminem",
+      "title": "Lose Yourself",
+      "weeks": 13,
+      "peak": 1,
+      "score": 447
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "title": "A Moment Like This",
+      "weeks": 15,
+      "peak": 1,
+      "score": 241
+    }
+  ]
+}

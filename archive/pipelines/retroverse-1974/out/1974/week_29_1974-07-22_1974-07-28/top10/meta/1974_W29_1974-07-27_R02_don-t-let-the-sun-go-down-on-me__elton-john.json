@@ -1,0 +1,23 @@
+{
+  "run_id": "2026-02-25_w29-w32_top10",
+  "week_number": 29,
+  "date_range_start": "1974-07-22",
+  "date_range_end": "1974-07-28",
+  "chart_date": "1974-07-27",
+  "rank": 2,
+  "title": "Don't Let The Sun Go Down On Me",
+  "artist": "Elton John",
+  "weeks_on_chart": 6,
+  "peak_position": 2,
+  "ambient_lines": [
+    "In Theaters (1974): Herbie Rides Again"
+  ],
+  "prompt_text": "Create a vertical 1080x1920 collectible 1974 Billboard Hot 100 chart card.\nStyle: high-detail illustrated print poster from 1974, worn paper grain, subtle ink imperfections, ornate border, period-accurate 1970s typography.\nDo NOT use any real person's likeness or recognizable face.\n\nTop banner text: \"Billboard Hot 100 - Week Ending 1974-07-27\".\nLarge rank display: \"#2\".\nTitle: \"Don't Let The Sun Go Down On Me\".\nArtist: \"Elton John\".\nInclude small fact blocks: \"Weeks on Chart: 6\" and \"Peak Position: 2\".\n\nArtwork: symbolic / atmospheric illustration inspired by the song's mood, not literal portraits.\nComposition should feel like a real printed artifact from 1974.\n\nAmbient context lines (neutral framing only; no soundtrack implication):\nIn Theaters (1974): Herbie Rides Again\n\nNo modern UI, no neon glow boxes, no geometric template panels.\n",
+  "basename": "1974_W29_1974-07-27_R02_don-t-let-the-sun-go-down-on-me__elton-john",
+  "output_paths": {
+    "prompt_txt": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/week_29_1974-07-22_1974-07-28/top10/prompts/1974_W29_1974-07-27_R02_don-t-let-the-sun-go-down-on-me__elton-john.txt",
+    "meta_json": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/week_29_1974-07-22_1974-07-28/top10/meta/1974_W29_1974-07-27_R02_don-t-let-the-sun-go-down-on-me__elton-john.json",
+    "image_png": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/week_29_1974-07-22_1974-07-28/top10/images/1974_W29_1974-07-27_R02_don-t-let-the-sun-go-down-on-me__elton-john.png",
+    "render_log_json": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/week_29_1974-07-22_1974-07-28/top10/logs/1974_W29_1974-07-27_R02_don-t-let-the-sun-go-down-on-me__elton-john.render.json"
+  }
+}

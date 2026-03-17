@@ -1,0 +1,329 @@
+{
+  "library_name": "RetroVerse Layout Library",
+  "version": "1.0.0",
+  "templates": [
+    {
+      "template_id": "cover_page",
+      "name": "Cover Page",
+      "description": "Hero-first issue opener with masthead priority and selective cover lines.",
+      "page_type": "cover",
+      "recommended_content": [
+        "issue title",
+        "year marker",
+        "cover lines",
+        "hero illustration"
+      ],
+      "required_blocks": [
+        "masthead",
+        "headline",
+        "subhead",
+        "hero_image",
+        "caption",
+        "footer_nav",
+        "page_number"
+      ],
+      "optional_blocks": [
+        "artifact_tile",
+        "sidebar_box",
+        "pull_quote",
+        "byline"
+      ],
+      "text_weight": "low",
+      "visual_weight": "very_high",
+      "preferred_illustrator_types": [
+        "hand-ink editorial",
+        "watercolor wash",
+        "poster-style collage"
+      ],
+      "notes": "Use for first page only. Keep copy short and high impact. Render the official masthead as 'RetroVerse' with 'Press ▶ Play for the Past' beneath it, above the year marker."
+    },
+    {
+      "template_id": "contents_page",
+      "name": "Contents Page",
+      "description": "Navigation page with department index and contributor context.",
+      "page_type": "contents",
+      "recommended_content": [
+        "department list",
+        "page map",
+        "contributor credits",
+        "thumbnail collage"
+      ],
+      "required_blocks": [
+        "masthead",
+        "headline",
+        "body_text",
+        "image_grid",
+        "contributors_box",
+        "footer_nav",
+        "page_number"
+      ],
+      "optional_blocks": [
+        "sidebar_box",
+        "artifact_tile",
+        "timeline_box",
+        "caption",
+        "byline"
+      ],
+      "text_weight": "medium",
+      "visual_weight": "high",
+      "preferred_illustrator_types": [
+        "sketch collage",
+        "newsprint texture",
+        "mixed media layout"
+      ],
+      "notes": "Keep navigation clear while preserving visual energy."
+    },
+    {
+      "template_id": "feature_spread",
+      "name": "Feature Spread",
+      "description": "Lead story layout with large visual anchor and multicolumn reporting text.",
+      "page_type": "feature",
+      "recommended_content": [
+        "feature headline",
+        "deck",
+        "longform body",
+        "supporting facts"
+      ],
+      "required_blocks": [
+        "masthead",
+        "headline",
+        "subhead",
+        "hero_image",
+        "byline",
+        "body_text",
+        "pull_quote",
+        "sidebar_box",
+        "footer_nav",
+        "page_number"
+      ],
+      "optional_blocks": [
+        "artifact_tile",
+        "timeline_box",
+        "sketch_divider",
+        "caption",
+        "debate_box"
+      ],
+      "text_weight": "high",
+      "visual_weight": "high",
+      "preferred_illustrator_types": [
+        "narrative editorial",
+        "cinematic brushwork",
+        "ink line collage"
+      ],
+      "notes": "Use for centerpiece reporting and section openers."
+    },
+    {
+      "template_id": "department_column",
+      "name": "Department Column",
+      "description": "Recurring columnist layout with portrait, byline, and compact sidebar support.",
+      "page_type": "department",
+      "recommended_content": [
+        "column voice",
+        "service notes",
+        "short analysis",
+        "reader letters"
+      ],
+      "required_blocks": [
+        "masthead",
+        "headline",
+        "byline",
+        "body_text",
+        "sidebar_box",
+        "footer_nav",
+        "page_number"
+      ],
+      "optional_blocks": [
+        "hero_image",
+        "pull_quote",
+        "letters_box",
+        "sketch_divider",
+        "caption"
+      ],
+      "text_weight": "high",
+      "visual_weight": "medium",
+      "preferred_illustrator_types": [
+        "spot portrait",
+        "line caricature",
+        "margin doodle"
+      ],
+      "notes": "Best for recurring personalities and advice formats."
+    },
+    {
+      "template_id": "grid_collage",
+      "name": "Illustration Grid / Collage",
+      "description": "Modular tile page for artifacts, captions, and visual snippets.",
+      "page_type": "collage",
+      "recommended_content": [
+        "artifact set",
+        "short captions",
+        "trend snapshots",
+        "visual fragments"
+      ],
+      "required_blocks": [
+        "masthead",
+        "headline",
+        "image_grid",
+        "artifact_tile",
+        "caption",
+        "footer_nav",
+        "page_number"
+      ],
+      "optional_blocks": [
+        "sidebar_box",
+        "pull_quote",
+        "timeline_box",
+        "contributors_box"
+      ],
+      "text_weight": "low",
+      "visual_weight": "very_high",
+      "preferred_illustrator_types": [
+        "cut-and-paste collage",
+        "ephemera montage",
+        "texture-first illustration"
+      ],
+      "notes": "Use as pacing reset after dense narrative pages."
+    },
+    {
+      "template_id": "data_page",
+      "name": "Data / Charts Page",
+      "description": "Structured analytics page for charts, rankings, and quick interpretation.",
+      "page_type": "data",
+      "recommended_content": [
+        "chart table",
+        "intro summary",
+        "trend notes",
+        "supporting callouts"
+      ],
+      "required_blocks": [
+        "masthead",
+        "headline",
+        "subhead",
+        "body_text",
+        "chart_table",
+        "sidebar_box",
+        "footer_nav",
+        "page_number"
+      ],
+      "optional_blocks": [
+        "timeline_box",
+        "debate_box",
+        "artifact_tile",
+        "pull_quote",
+        "caption"
+      ],
+      "text_weight": "medium",
+      "visual_weight": "medium",
+      "preferred_illustrator_types": [
+        "diagram sketch",
+        "annotation-heavy graphics",
+        "inked icon set"
+      ],
+      "notes": "Prioritize clarity and scanning speed."
+    },
+    {
+      "template_id": "visual_parody",
+      "name": "Visual Parody Page",
+      "description": "Satirical faux-ad layout with one dominant image and concise commentary.",
+      "page_type": "parody",
+      "recommended_content": [
+        "parody concept",
+        "faux ad headline",
+        "caption or legal joke",
+        "short editorial note"
+      ],
+      "required_blocks": [
+        "masthead",
+        "headline",
+        "hero_image",
+        "faux_ad",
+        "caption",
+        "footer_nav",
+        "page_number"
+      ],
+      "optional_blocks": [
+        "body_text",
+        "sidebar_box",
+        "byline",
+        "pull_quote"
+      ],
+      "text_weight": "low",
+      "visual_weight": "very_high",
+      "preferred_illustrator_types": [
+        "caricature",
+        "madcap poster art",
+        "comic satire"
+      ],
+      "notes": "Use sparingly for tonal punctuation, not every issue section."
+    },
+    {
+      "template_id": "narrative_comic",
+      "name": "Narrative Comic Page",
+      "description": "Sequential storytelling page with panel rows and caption flow.",
+      "page_type": "comic",
+      "recommended_content": [
+        "scene progression",
+        "dialogue snippets",
+        "caption narration",
+        "visual punchline"
+      ],
+      "required_blocks": [
+        "masthead",
+        "headline",
+        "comic_panel_row",
+        "caption",
+        "footer_nav",
+        "page_number"
+      ],
+      "optional_blocks": [
+        "body_text",
+        "timeline_box",
+        "sketch_divider",
+        "debate_box",
+        "byline"
+      ],
+      "text_weight": "medium",
+      "visual_weight": "high",
+      "preferred_illustrator_types": [
+        "comic strip ink",
+        "storyboard linework",
+        "halftone shading"
+      ],
+      "notes": "Great for transitions and character-driven cultural commentary."
+    },
+    {
+      "template_id": "back_page",
+      "name": "Back Page",
+      "description": "Final page with poster-like finish, puzzle, or closing visual gag.",
+      "page_type": "back_page",
+      "recommended_content": [
+        "closing visual",
+        "final caption",
+        "teaser for next issue",
+        "light call-to-action"
+      ],
+      "required_blocks": [
+        "masthead",
+        "headline",
+        "hero_image",
+        "caption",
+        "footer_nav",
+        "page_number"
+      ],
+      "optional_blocks": [
+        "body_text",
+        "faux_ad",
+        "artifact_tile",
+        "sidebar_box",
+        "pull_quote"
+      ],
+      "text_weight": "very_low",
+      "visual_weight": "very_high",
+      "preferred_illustrator_types": [
+        "poster illustration",
+        "single-panel gag",
+        "bold hand-lettering"
+      ],
+      "notes": "Close with collectible impact and minimal clutter."
+    }
+  ]
+}

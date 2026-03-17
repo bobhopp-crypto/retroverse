@@ -1,0 +1,465 @@
+{
+  "year": "2017",
+  "top_songs": [
+    {
+      "artist": "Ed Sheeran",
+      "title": "Shape Of You",
+      "weeks": 49,
+      "peak": 1,
+      "score": 1543
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "That's What I Like",
+      "weeks": 47,
+      "peak": 1,
+      "score": 1192
+    },
+    {
+      "artist": "Luis Fonsi",
+      "title": "Despacito",
+      "weeks": 48,
+      "peak": 1,
+      "score": 945
+    },
+    {
+      "artist": "Sam Hunt",
+      "title": "Body Like A Back Road",
+      "weeks": 41,
+      "peak": 6,
+      "score": 888
+    },
+    {
+      "artist": "The Chainsmokers",
+      "title": "Something Just Like This",
+      "weeks": 39,
+      "peak": 3,
+      "score": 875
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "title": "Humble.",
+      "weeks": 37,
+      "peak": 1,
+      "score": 796
+    },
+    {
+      "artist": "French Montana",
+      "title": "Unforgettable",
+      "weeks": 36,
+      "peak": 3,
+      "score": 792
+    },
+    {
+      "artist": "Imagine Dragons",
+      "title": "Believer",
+      "weeks": 45,
+      "peak": 4,
+      "score": 780
+    },
+    {
+      "artist": "Migos",
+      "title": "Bad And Boujee",
+      "weeks": 31,
+      "peak": 1,
+      "score": 761
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "title": "XO TOUR Llif3",
+      "weeks": 34,
+      "peak": 7,
+      "score": 688
+    },
+    {
+      "artist": "The Chainsmokers",
+      "title": "Closer",
+      "weeks": 32,
+      "peak": 3,
+      "score": 683
+    },
+    {
+      "artist": "Zedd",
+      "title": "Stay",
+      "weeks": 31,
+      "peak": 7,
+      "score": 683
+    },
+    {
+      "artist": "Cardi B",
+      "title": "Bodak Yellow (Money Moves)",
+      "weeks": 24,
+      "peak": 1,
+      "score": 656
+    },
+    {
+      "artist": "Dj Khaled",
+      "title": "I'm The One",
+      "weeks": 22,
+      "peak": 1,
+      "score": 655
+    },
+    {
+      "artist": "James Arthur",
+      "title": "Say You Won't Let Go",
+      "weeks": 44,
+      "peak": 11,
+      "score": 650
+    },
+    {
+      "artist": "Future",
+      "title": "Mask Off",
+      "weeks": 31,
+      "peak": 5,
+      "score": 647
+    },
+    {
+      "artist": "Shawn Mendes",
+      "title": "There's Nothing Holdin' Me Back",
+      "weeks": 34,
+      "peak": 6,
+      "score": 633
+    },
+    {
+      "artist": "Charlie Puth",
+      "title": "Attention",
+      "weeks": 34,
+      "peak": 5,
+      "score": 622
+    },
+    {
+      "artist": "Dj Khaled",
+      "title": "Wild Thoughts",
+      "weeks": 21,
+      "peak": 2,
+      "score": 592
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Congratulations",
+      "weeks": 49,
+      "peak": 8,
+      "score": 581
+    },
+    {
+      "artist": "Kygo X Selena Gomez",
+      "title": "It Ain't Me",
+      "weeks": 29,
+      "peak": 10,
+      "score": 563
+    },
+    {
+      "artist": "Demi Lovato",
+      "title": "Sorry Not Sorry",
+      "weeks": 23,
+      "peak": 6,
+      "score": 556
+    },
+    {
+      "artist": "Zayn / Taylor Swift",
+      "title": "I Don't Wanna Live Forever (Fifty Shades Darker)",
+      "weeks": 22,
+      "peak": 2,
+      "score": 551
+    },
+    {
+      "artist": "Kyle",
+      "title": "iSpy",
+      "weeks": 30,
+      "peak": 4,
+      "score": 532
+    },
+    {
+      "artist": "21 Savage",
+      "title": "Bank Account",
+      "weeks": 23,
+      "peak": 12,
+      "score": 527
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Rockstar",
+      "weeks": 13,
+      "peak": 1,
+      "score": 515
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "I Feel It Coming",
+      "weeks": 22,
+      "peak": 4,
+      "score": 485
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Love On The Brain",
+      "weeks": 22,
+      "peak": 5,
+      "score": 483
+    },
+    {
+      "artist": "J Balvin",
+      "title": "Mi Gente",
+      "weeks": 24,
+      "peak": 3,
+      "score": 474
+    },
+    {
+      "artist": "The Chainsmokers",
+      "title": "Paris",
+      "weeks": 20,
+      "peak": 6,
+      "score": 461
+    },
+    {
+      "artist": "Big Sean",
+      "title": "Bounce Back",
+      "weeks": 22,
+      "peak": 6,
+      "score": 457
+    },
+    {
+      "artist": "Sam Smith",
+      "title": "Too Good At Goodbyes",
+      "weeks": 14,
+      "peak": 4,
+      "score": 456
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "24K Magic",
+      "weeks": 31,
+      "peak": 4,
+      "score": 445
+    },
+    {
+      "artist": "Julia Michaels",
+      "title": "Issues",
+      "weeks": 29,
+      "peak": 11,
+      "score": 438
+    },
+    {
+      "artist": "Liam Payne",
+      "title": "Strip That Down",
+      "weeks": 28,
+      "peak": 10,
+      "score": 423
+    },
+    {
+      "artist": "Drake",
+      "title": "Fake Love",
+      "weeks": 17,
+      "peak": 8,
+      "score": 413
+    },
+    {
+      "artist": "Niall Horan",
+      "title": "Slow Hands",
+      "weeks": 31,
+      "peak": 11,
+      "score": 405
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Starboy",
+      "weeks": 17,
+      "peak": 1,
+      "score": 395
+    },
+    {
+      "artist": "Machine Gun Kelly X Camila Cabello",
+      "title": "Bad Things",
+      "weeks": 16,
+      "peak": 4,
+      "score": 386
+    },
+    {
+      "artist": "Yo Gotti",
+      "title": "Rake It Up",
+      "weeks": 22,
+      "peak": 8,
+      "score": 362
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Bruno Mars",
+      "hits": 2
+    },
+    {
+      "artist": "The Chainsmokers",
+      "hits": 3
+    },
+    {
+      "artist": "Dj Khaled",
+      "hits": 2
+    },
+    {
+      "artist": "Post Malone",
+      "hits": 2
+    },
+    {
+      "artist": "The Weeknd",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Ed Sheeran",
+      "title": "Shape Of You",
+      "weeks": 49,
+      "peak": 1,
+      "score": 1543
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Congratulations",
+      "weeks": 49,
+      "peak": 8,
+      "score": 581
+    },
+    {
+      "artist": "Luis Fonsi",
+      "title": "Despacito",
+      "weeks": 48,
+      "peak": 1,
+      "score": 945
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "That's What I Like",
+      "weeks": 47,
+      "peak": 1,
+      "score": 1192
+    },
+    {
+      "artist": "Imagine Dragons",
+      "title": "Believer",
+      "weeks": 45,
+      "peak": 4,
+      "score": 780
+    },
+    {
+      "artist": "James Arthur",
+      "title": "Say You Won't Let Go",
+      "weeks": 44,
+      "peak": 11,
+      "score": 650
+    },
+    {
+      "artist": "Khalid",
+      "title": "Location",
+      "weeks": 43,
+      "peak": 16,
+      "score": 305
+    },
+    {
+      "artist": "Sam Hunt",
+      "title": "Body Like A Back Road",
+      "weeks": 41,
+      "peak": 6,
+      "score": 888
+    },
+    {
+      "artist": "Childish Gambino",
+      "title": "Redbone",
+      "weeks": 41,
+      "peak": 12,
+      "score": -131
+    },
+    {
+      "artist": "The Chainsmokers",
+      "title": "Something Just Like This",
+      "weeks": 39,
+      "peak": 3,
+      "score": 875
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Ed Sheeran",
+      "title": "Shape Of You",
+      "weeks": 49,
+      "peak": 1,
+      "score": 1543
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "That's What I Like",
+      "weeks": 47,
+      "peak": 1,
+      "score": 1192
+    },
+    {
+      "artist": "Luis Fonsi",
+      "title": "Despacito",
+      "weeks": 48,
+      "peak": 1,
+      "score": 945
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "title": "Humble.",
+      "weeks": 37,
+      "peak": 1,
+      "score": 796
+    },
+    {
+      "artist": "Migos",
+      "title": "Bad And Boujee",
+      "weeks": 31,
+      "peak": 1,
+      "score": 761
+    },
+    {
+      "artist": "Cardi B",
+      "title": "Bodak Yellow (Money Moves)",
+      "weeks": 24,
+      "peak": 1,
+      "score": 656
+    },
+    {
+      "artist": "Dj Khaled",
+      "title": "I'm The One",
+      "weeks": 22,
+      "peak": 1,
+      "score": 655
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Rockstar",
+      "weeks": 13,
+      "peak": 1,
+      "score": 515
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Starboy",
+      "weeks": 17,
+      "peak": 1,
+      "score": 395
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "title": "Black Beatles",
+      "weeks": 13,
+      "peak": 1,
+      "score": 357
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Look What You Made Me Do",
+      "weeks": 17,
+      "peak": 1,
+      "score": 219
+    },
+    {
+      "artist": "Ed Sheeran",
+      "title": "Perfect",
+      "weeks": 16,
+      "peak": 1,
+      "score": 198
+    }
+  ]
+}

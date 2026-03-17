@@ -1,0 +1,517 @@
+{
+  "year": "2006",
+  "top_songs": [
+    {
+      "artist": "Natasha Bedingfield",
+      "title": "Unwritten",
+      "weeks": 38,
+      "peak": 5,
+      "score": 779
+    },
+    {
+      "artist": "James Blunt",
+      "title": "You're Beautiful",
+      "weeks": 30,
+      "peak": 1,
+      "score": 747
+    },
+    {
+      "artist": "Sean Paul",
+      "title": "Temperature",
+      "weeks": 31,
+      "peak": 1,
+      "score": 747
+    },
+    {
+      "artist": "Daniel Powter",
+      "title": "Bad Day",
+      "weeks": 32,
+      "peak": 1,
+      "score": 733
+    },
+    {
+      "artist": "Mary J. Blige",
+      "title": "Be Without You",
+      "weeks": 27,
+      "peak": 3,
+      "score": 712
+    },
+    {
+      "artist": "Nelly Furtado",
+      "title": "Promiscuous",
+      "weeks": 26,
+      "peak": 1,
+      "score": 712
+    },
+    {
+      "artist": "Gnarls Barkley",
+      "title": "Crazy",
+      "weeks": 29,
+      "peak": 2,
+      "score": 634
+    },
+    {
+      "artist": "The Pussycat Dolls",
+      "title": "Buttons",
+      "weeks": 30,
+      "peak": 3,
+      "score": 614
+    },
+    {
+      "artist": "Chamillionaire",
+      "title": "Ridin'",
+      "weeks": 30,
+      "peak": 1,
+      "score": 591
+    },
+    {
+      "artist": "Shakira",
+      "title": "Hips Don't Lie",
+      "weeks": 31,
+      "peak": 1,
+      "score": 557
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Check On It",
+      "weeks": 20,
+      "peak": 1,
+      "score": 538
+    },
+    {
+      "artist": "The Fray",
+      "title": "Over My Head (Cable Car)",
+      "weeks": 42,
+      "peak": 8,
+      "score": 535
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "title": "Dani California",
+      "weeks": 26,
+      "peak": 6,
+      "score": 535
+    },
+    {
+      "artist": "Nelly",
+      "title": "Grillz",
+      "weeks": 20,
+      "peak": 1,
+      "score": 511
+    },
+    {
+      "artist": "Nickelback",
+      "title": "Far Away",
+      "weeks": 22,
+      "peak": 8,
+      "score": 509
+    },
+    {
+      "artist": "Ne-yo",
+      "title": "So Sick",
+      "weeks": 20,
+      "peak": 1,
+      "score": 507
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Unfaithful",
+      "weeks": 20,
+      "peak": 6,
+      "score": 472
+    },
+    {
+      "artist": "Cassie",
+      "title": "Me & U",
+      "weeks": 27,
+      "peak": 3,
+      "score": 468
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "SexyBack",
+      "weeks": 24,
+      "peak": 1,
+      "score": 457
+    },
+    {
+      "artist": "Christina Aguilera",
+      "title": "Ain't No Other Man",
+      "weeks": 20,
+      "peak": 6,
+      "score": 452
+    },
+    {
+      "artist": "Hinder",
+      "title": "Lips Of An Angel",
+      "weeks": 23,
+      "peak": 3,
+      "score": 426
+    },
+    {
+      "artist": "Fergie",
+      "title": "London Bridge",
+      "weeks": 21,
+      "peak": 1,
+      "score": 426
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "My Love",
+      "weeks": 15,
+      "peak": 1,
+      "score": 404
+    },
+    {
+      "artist": "Akon",
+      "title": "Smack That",
+      "weeks": 13,
+      "peak": 2,
+      "score": 400
+    },
+    {
+      "artist": "Evanescence",
+      "title": "Call Me When You're Sober",
+      "weeks": 18,
+      "peak": 10,
+      "score": 396
+    },
+    {
+      "artist": "Ludacris",
+      "title": "Money Maker",
+      "weeks": 19,
+      "peak": 1,
+      "score": 395
+    },
+    {
+      "artist": "Fall Out Boy",
+      "title": "Dance, Dance",
+      "weeks": 22,
+      "peak": 9,
+      "score": 393
+    },
+    {
+      "artist": "Dem Franchize Boyz",
+      "title": "Lean Wit It, Rock Wit It",
+      "weeks": 24,
+      "peak": 7,
+      "score": 378
+    },
+    {
+      "artist": "Chris Brown",
+      "title": "Run It!",
+      "weeks": 19,
+      "peak": 2,
+      "score": 375
+    },
+    {
+      "artist": "Chris Brown",
+      "title": "Yo (Excuse Me Miss)",
+      "weeks": 20,
+      "peak": 7,
+      "score": 362
+    },
+    {
+      "artist": "The All-american Rejects",
+      "title": "Dirty Little Secret",
+      "weeks": 17,
+      "peak": 9,
+      "score": 356
+    },
+    {
+      "artist": "Cascada",
+      "title": "Everytime We Touch",
+      "weeks": 28,
+      "peak": 10,
+      "score": 354
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "title": "Because Of You",
+      "weeks": 19,
+      "peak": 11,
+      "score": 350
+    },
+    {
+      "artist": "Yung Joc",
+      "title": "It's Goin' Down",
+      "weeks": 28,
+      "peak": 3,
+      "score": 343
+    },
+    {
+      "artist": "Bubba Sparxxx",
+      "title": "Ms. New Booty",
+      "weeks": 23,
+      "peak": 7,
+      "score": 339
+    },
+    {
+      "artist": "The Pussycat Dolls",
+      "title": "Stickwitu",
+      "weeks": 15,
+      "peak": 5,
+      "score": 328
+    },
+    {
+      "artist": "Danity Kane",
+      "title": "Show Stopper",
+      "weeks": 18,
+      "peak": 8,
+      "score": 326
+    },
+    {
+      "artist": "T-pain",
+      "title": "I'm N Luv (Wit A Stripper)",
+      "weeks": 18,
+      "peak": 5,
+      "score": 316
+    },
+    {
+      "artist": "Jamie Foxx",
+      "title": "Unpredictable",
+      "weeks": 16,
+      "peak": 8,
+      "score": 315
+    },
+    {
+      "artist": "Rihanna",
+      "title": "SOS",
+      "weeks": 28,
+      "peak": 1,
+      "score": 312
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "The Pussycat Dolls",
+      "hits": 2
+    },
+    {
+      "artist": "Rihanna",
+      "hits": 2
+    },
+    {
+      "artist": "Justin Timberlake",
+      "hits": 2
+    },
+    {
+      "artist": "Chris Brown",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Rascal Flatts",
+      "title": "What Hurts The Most",
+      "weeks": 46,
+      "peak": 6,
+      "score": -23
+    },
+    {
+      "artist": "The Fray",
+      "title": "Over My Head (Cable Car)",
+      "weeks": 42,
+      "peak": 8,
+      "score": 535
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "title": "Unwritten",
+      "weeks": 38,
+      "peak": 5,
+      "score": 779
+    },
+    {
+      "artist": "The All-american Rejects",
+      "title": "Move Along",
+      "weeks": 38,
+      "peak": 15,
+      "score": 272
+    },
+    {
+      "artist": "Panic! At The Disco",
+      "title": "I Write Sins Not Tragedies",
+      "weeks": 37,
+      "peak": 7,
+      "score": 299
+    },
+    {
+      "artist": "The Fray",
+      "title": "How To Save A Life",
+      "weeks": 36,
+      "peak": 3,
+      "score": -120
+    },
+    {
+      "artist": "Daniel Powter",
+      "title": "Bad Day",
+      "weeks": 32,
+      "peak": 1,
+      "score": 733
+    },
+    {
+      "artist": "Sean Paul",
+      "title": "Temperature",
+      "weeks": 31,
+      "peak": 1,
+      "score": 747
+    },
+    {
+      "artist": "Shakira",
+      "title": "Hips Don't Lie",
+      "weeks": 31,
+      "peak": 1,
+      "score": 557
+    },
+    {
+      "artist": "Snow Patrol",
+      "title": "Chasing Cars",
+      "weeks": 31,
+      "peak": 5,
+      "score": 221
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "James Blunt",
+      "title": "You're Beautiful",
+      "weeks": 30,
+      "peak": 1,
+      "score": 747
+    },
+    {
+      "artist": "Sean Paul",
+      "title": "Temperature",
+      "weeks": 31,
+      "peak": 1,
+      "score": 747
+    },
+    {
+      "artist": "Daniel Powter",
+      "title": "Bad Day",
+      "weeks": 32,
+      "peak": 1,
+      "score": 733
+    },
+    {
+      "artist": "Nelly Furtado",
+      "title": "Promiscuous",
+      "weeks": 26,
+      "peak": 1,
+      "score": 712
+    },
+    {
+      "artist": "Chamillionaire",
+      "title": "Ridin'",
+      "weeks": 30,
+      "peak": 1,
+      "score": 591
+    },
+    {
+      "artist": "Shakira",
+      "title": "Hips Don't Lie",
+      "weeks": 31,
+      "peak": 1,
+      "score": 557
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Check On It",
+      "weeks": 20,
+      "peak": 1,
+      "score": 538
+    },
+    {
+      "artist": "Nelly",
+      "title": "Grillz",
+      "weeks": 20,
+      "peak": 1,
+      "score": 511
+    },
+    {
+      "artist": "Ne-yo",
+      "title": "So Sick",
+      "weeks": 20,
+      "peak": 1,
+      "score": 507
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "SexyBack",
+      "weeks": 24,
+      "peak": 1,
+      "score": 457
+    },
+    {
+      "artist": "Fergie",
+      "title": "London Bridge",
+      "weeks": 21,
+      "peak": 1,
+      "score": 426
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "My Love",
+      "weeks": 15,
+      "peak": 1,
+      "score": 404
+    },
+    {
+      "artist": "Ludacris",
+      "title": "Money Maker",
+      "weeks": 19,
+      "peak": 1,
+      "score": 395
+    },
+    {
+      "artist": "Rihanna",
+      "title": "SOS",
+      "weeks": 28,
+      "peak": 1,
+      "score": 312
+    },
+    {
+      "artist": "D4l",
+      "title": "Laffy Taffy",
+      "weeks": 11,
+      "peak": 1,
+      "score": 249
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Don't Forget About Us",
+      "weeks": 10,
+      "peak": 1,
+      "score": 237
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Irreplaceable",
+      "weeks": 9,
+      "peak": 1,
+      "score": 237
+    },
+    {
+      "artist": "Akon",
+      "title": "I Wanna Love You",
+      "weeks": 12,
+      "peak": 1,
+      "score": 146
+    },
+    {
+      "artist": "Ne-Yo",
+      "title": "So Sick",
+      "weeks": 1,
+      "peak": 1,
+      "score": 40
+    },
+    {
+      "artist": "Taylor Hicks",
+      "title": "Do I Make You Proud",
+      "weeks": 8,
+      "peak": 1,
+      "score": 13
+    }
+  ]
+}

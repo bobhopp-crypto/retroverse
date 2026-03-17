@@ -1,0 +1,52 @@
+{
+  "story_id": "story_011",
+  "headline": "Almost Hits: Can't Smile Without You — Barry Manilow",
+  "byline": "By BJ Lovestreet",
+  "writer": "BJ Lovestreet",
+  "writer_profile": {
+    "name": "BJ Lovestreet",
+    "beat": "editorial",
+    "voice": "editorial framing voice",
+    "tone": "decisive and connective",
+    "data_focus": "issue-wide synthesis across charts, albums, sonic profile, and cultural context"
+  },
+  "story_type": "sidebar",
+  "layout_type": "modular sidebar",
+  "page_count_estimate": null,
+  "word_count": 194,
+  "target_word_count": 200,
+  "target_word_range": {
+    "min": 180,
+    "max": 221,
+    "raw": "150-250",
+    "mode": "range"
+  },
+  "sections": {
+    "lede": "BJ Lovestreet treats \"Almost Hits: Can't Smile Without You — Barry Manilow\" as the issue's central framing argument, not just a single isolated story. Near-miss pressure is clearest in \"Can't Smile Without You\" by Barry Manilow, which peaked at No. ? across ? weeks. In 1978, almost hits: can't smile without you — barry manilow becomes a measurable editorial claim.",
+    "analysis": "The editorial approach links chart outcomes to the broader way the year felt in real time. The album_dynamics source contributes 2 structured fields for this story build. Planning rationale: Near-miss records are highly reusable and work well as quick-reference editorial modules.",
+    "data_context": "Data reference: chart_dynamics.near_miss_hits: 10 entries. Data reference: album_dynamics: 2 fields.",
+    "cultural_significance": "The frame stays connective: songs, albums, and screens are read as one audience system. The shared 1978 frame still connects Hot 100, Billboard 200, sonic profile, and screen-culture signals. The cultural clock starts at January 1, 1978, when January 1 – Air India Flight 855 , a Boeing 747 passenger jet, crashes off the coast of Bombay , killing 213.",
+    "closing": "The takeaway is editorial by design: data first, then meaning, then memory. Rule check: Articles must use real historical data."
+  },
+  "datasets_used": [
+    "chart_dynamics",
+    "Billboard Hot 100 data",
+    "album_dynamics",
+    "Billboard 200 album data",
+    "sonic_profile",
+    "screen_culture_warehouse"
+  ],
+  "data_references": [
+    "chart_dynamics.near_miss_hits: 10 entries",
+    "album_dynamics: 2 fields",
+    "sonic_profile: aggregate danceability/energy/valence and danceable share",
+    "movies: 10 titles in year context"
+  ],
+  "source_files": [
+    "PROJECT_STATE.md",
+    "issues/context/1978_context.json",
+    "issues/plans/1978_narrative_plan.json",
+    "issues/1978/articles/story_011.json",
+    "issues/1978/layout/1978_production_targets.json"
+  ]
+}

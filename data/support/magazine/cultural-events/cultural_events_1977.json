@@ -1,0 +1,69 @@
+{
+  "year": 1977,
+  "films": [
+    "Star Wars: Episode IV - A New Hope",
+    "Smokey and the Bandit",
+    "Close Encounters of the Third Kind",
+    "Saturday Night Fever",
+    "A Bridge Too Far",
+    "The Deep",
+    "The Spy Who Loved Me",
+    "Oh, God!",
+    "Annie Hall",
+    "Semi-Tough"
+  ],
+  "tv": [
+    "Laverne & Shirley",
+    "Happy Days",
+    "Three's Company",
+    "60 Minutes",
+    "ABC",
+    "CBS",
+    "Little House on the Prairie",
+    "Alice",
+    "One Day at a Time",
+    "How the West Was Won"
+  ],
+  "headlines": [
+    {
+      "event": "January 8 – Three bombs explode in Moscow within 37 minutes, killing seven. The bombings are attributed to an Armenian separatist group.",
+      "date": "1977-01-08"
+    },
+    {
+      "event": "January 10 – Mount Nyiragongo erupts in eastern Zaire (now the Democratic Republic of the Congo ).",
+      "date": "1977-01-10"
+    },
+    {
+      "event": "January 11 – The first episode of Finnish children's TV show Pikku Kakkonen (\"Little Number Two\") is aired on Yle TV2 .",
+      "date": "1977-01-11"
+    },
+    {
+      "event": "January 17 – 49 marines from the USS Trenton and USS Guam are killed as a result of a collision in Barcelona harbour, Spain.",
+      "date": "1977-01-17"
+    },
+    {
+      "event": "Scientists identify a previously unknown bacterium as the cause of the mysterious Legionnaires' disease .",
+      "date": "1977-01-18"
+    },
+    {
+      "event": "Australia's worst railway disaster at Granville , a suburb of Sydney, leaves 83 people dead.",
+      "date": "1977-01-18"
+    },
+    {
+      "event": "SFR Yugoslavia Prime minister Džemal Bijedić , his wife and 6 others are killed in a plane crash in Bosnia and Herzegovina .",
+      "date": "1977-01-18"
+    },
+    {
+      "event": "January 19 – An Ejército del Aire CASA C-207C Azor (registration T.7-15) plane crashes into the side of a mountain near Chiva , on approach to Valencia Airport in Spain , killing all 11 people on board.",
+      "date": "1977-01-19"
+    },
+    {
+      "event": "January 20 - Jimmy Carter is sworn in as the 39th President of the United States after defeating Gerald Ford in the 1976 election .",
+      "date": "1977-01-20"
+    },
+    {
+      "event": "January 23 – Prime Minister Indira Gandhi of India calls for fresh elections to the Lok Sabha , and releases all political prisoners.",
+      "date": "1977-01-23"
+    }
+  ]
+}

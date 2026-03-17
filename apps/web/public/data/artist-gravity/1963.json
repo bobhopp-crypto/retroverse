@@ -1,0 +1,494 @@
+[
+  {
+    "artist": "Soundtrack",
+    "score": 579.1
+  },
+  {
+    "artist": "The Beach Boys",
+    "score": 564.2
+  },
+  {
+    "artist": "Elvis Presley",
+    "score": 513.5
+  },
+  {
+    "artist": "Bobby Vinton",
+    "score": 392.5
+  },
+  {
+    "artist": "The 4 Seasons",
+    "score": 380.8
+  },
+  {
+    "artist": "Lesley Gore",
+    "score": 373
+  },
+  {
+    "artist": "Joan Baez",
+    "score": 354
+  },
+  {
+    "artist": "Roy Orbison",
+    "score": 338
+  },
+  {
+    "artist": "Allan Sherman",
+    "score": 336.3
+  },
+  {
+    "artist": "The Kingston Trio",
+    "score": 333.6
+  },
+  {
+    "artist": "Peter, Paul & Mary",
+    "score": 305.4
+  },
+  {
+    "artist": "Andy Williams",
+    "score": 293.9
+  },
+  {
+    "artist": "Ray Charles",
+    "score": 289.3
+  },
+  {
+    "artist": "Trini Lopez",
+    "score": 285
+  },
+  {
+    "artist": "The Tymes",
+    "score": 284.6
+  },
+  {
+    "artist": "Al Martino",
+    "score": 284
+  },
+  {
+    "artist": "Nat King Cole",
+    "score": 252.6
+  },
+  {
+    "artist": "Tony Bennett",
+    "score": 243.3
+  },
+  {
+    "artist": "Original Cast",
+    "score": 231.6
+  },
+  {
+    "artist": "Robert Goulet",
+    "score": 228.4
+  },
+  {
+    "artist": "Johnny Mathis",
+    "score": 221.3
+  },
+  {
+    "artist": "Peter, Paul",
+    "score": 198.9
+  },
+  {
+    "artist": "The Chiffons",
+    "score": 196.5
+  },
+  {
+    "artist": "Barbra Streisand",
+    "score": 195.8
+  },
+  {
+    "artist": "Paul And Paula",
+    "score": 195.4
+  },
+  {
+    "artist": "The Village Stompers",
+    "score": 195.3
+  },
+  {
+    "artist": "Dion",
+    "score": 194.4
+  },
+  {
+    "artist": "Skeeter Davis",
+    "score": 194
+  },
+  {
+    "artist": "The Crystals",
+    "score": 193.5
+  },
+  {
+    "artist": "The Surfaris",
+    "score": 189.8
+  },
+  {
+    "artist": "Various Artists",
+    "score": 186.4
+  },
+  {
+    "artist": "Los Indios Tabajaras",
+    "score": 184.1
+  },
+  {
+    "artist": "Nancy Wilson",
+    "score": 181.4
+  },
+  {
+    "artist": "Kyu Sakamoto",
+    "score": 178.4
+  },
+  {
+    "artist": "Jimmy Gilmer And The Fireballs",
+    "score": 175.2
+  },
+  {
+    "artist": "Rolf Harris",
+    "score": 173
+  },
+  {
+    "artist": "The Angels",
+    "score": 168.8
+  },
+  {
+    "artist": "Jimmy Smith",
+    "score": 162.7
+  },
+  {
+    "artist": "Bill Anderson",
+    "score": 161.8
+  },
+  {
+    "artist": "The Smothers Brothers",
+    "score": 140.4
+  },
+  {
+    "artist": "Stevie Wonder",
+    "score": 103.7
+  },
+  {
+    "artist": "Little Stevie Wonder",
+    "score": 100.5
+  },
+  {
+    "artist": "Nino Tempo",
+    "score": 100.5
+  },
+  {
+    "artist": "Jimmy Soul",
+    "score": 100.4
+  },
+  {
+    "artist": "Little Peggy March",
+    "score": 100.4
+  },
+  {
+    "artist": "Dale",
+    "score": 100.3
+  },
+  {
+    "artist": "Jan",
+    "score": 100.3
+  },
+  {
+    "artist": "Ruby And The Romantics",
+    "score": 100.3
+  },
+  {
+    "artist": "The Essex",
+    "score": 100.3
+  },
+  {
+    "artist": "The Rooftop Singers",
+    "score": 100.3
+  },
+  {
+    "artist": "Steve Lawrence",
+    "score": 99.9
+  },
+  {
+    "artist": "The Singing Nun",
+    "score": 99.8
+  },
+  {
+    "artist": "The Singing Nun (Soeur Sourire)",
+    "score": 99.8
+  },
+  {
+    "artist": "The Tornadoes",
+    "score": 99.7
+  },
+  {
+    "artist": "The Ronettes",
+    "score": 99.3
+  },
+  {
+    "artist": "James Brown",
+    "score": 99.2
+  },
+  {
+    "artist": "The Jaynetts",
+    "score": 99.2
+  },
+  {
+    "artist": "The Kingsmen",
+    "score": 98.8
+  },
+  {
+    "artist": "The Cascades",
+    "score": 98.6
+  },
+  {
+    "artist": "Barbara Lewis",
+    "score": 98.4
+  },
+  {
+    "artist": "Bobby Darin",
+    "score": 98.4
+  },
+  {
+    "artist": "The Dovells",
+    "score": 98.4
+  },
+  {
+    "artist": "The Orlons",
+    "score": 98.3
+  },
+  {
+    "artist": "Tommy Roe",
+    "score": 98.2
+  },
+  {
+    "artist": "Bobby Vee",
+    "score": 98
+  },
+  {
+    "artist": "The Caravelles",
+    "score": 97.9
+  },
+  {
+    "artist": "Brook Benton",
+    "score": 97.6
+  },
+  {
+    "artist": "Chantay's",
+    "score": 97.6
+  },
+  {
+    "artist": "Chubby Checker",
+    "score": 97.6
+  },
+  {
+    "artist": "Garnet Mimms",
+    "score": 97.4
+  },
+  {
+    "artist": "Martha",
+    "score": 97.4
+  },
+  {
+    "artist": "The Impressions",
+    "score": 97.4
+  },
+  {
+    "artist": "The Shirelles",
+    "score": 97.4
+  },
+  {
+    "artist": "Ray Charles And His Orchestra",
+    "score": 97.2
+  },
+  {
+    "artist": "Lenny Welch",
+    "score": 97
+  },
+  {
+    "artist": "Johnny Thunder",
+    "score": 96.9
+  },
+  {
+    "artist": "The Exciters",
+    "score": 96.8
+  },
+  {
+    "artist": "Marcie Blane",
+    "score": 96.5
+  },
+  {
+    "artist": "Lonnie Mack",
+    "score": 96.3
+  },
+  {
+    "artist": "Jackie Wilson",
+    "score": 96.2
+  },
+  {
+    "artist": "The Drifters",
+    "score": 96.1
+  },
+  {
+    "artist": "Lou Monte",
+    "score": 95.6
+  },
+  {
+    "artist": "Lou Christie",
+    "score": 95.5
+  },
+  {
+    "artist": "Brenda Lee",
+    "score": 95.3
+  },
+  {
+    "artist": "Ned Miller",
+    "score": 95.2
+  },
+  {
+    "artist": "Paul Petersen",
+    "score": 94.9
+  },
+  {
+    "artist": "Rick Nelson",
+    "score": 94.9
+  },
+  {
+    "artist": "Inez Foxx",
+    "score": 94.8
+  },
+  {
+    "artist": "Dion Di Muci",
+    "score": 94.7
+  },
+  {
+    "artist": "Eydie Gorme",
+    "score": 94.5
+  },
+  {
+    "artist": "The Cookies",
+    "score": 94.3
+  },
+  {
+    "artist": "Bobby Bland",
+    "score": 94.2
+  },
+  {
+    "artist": "Bobby Rydell",
+    "score": 93.8
+  },
+  {
+    "artist": "Mary Wells",
+    "score": 93.8
+  },
+  {
+    "artist": "Kai Winding",
+    "score": 93.5
+  },
+  {
+    "artist": "Major Lance",
+    "score": 93.5
+  },
+  {
+    "artist": "Frank Sinatra",
+    "score": 93.3
+  },
+  {
+    "artist": "The Miracles",
+    "score": 93.2
+  },
+  {
+    "artist": "Bob B. Soxx And The Blue Jeans",
+    "score": 92.6
+  },
+  {
+    "artist": "Frank Sinatra (Riddle)",
+    "score": 89.2
+  },
+  {
+    "artist": "The New Christy Minstrels",
+    "score": 86.9
+  },
+  {
+    "artist": "Henry Mancini",
+    "score": 85.7
+  },
+  {
+    "artist": "Swingle Singers",
+    "score": 85
+  },
+  {
+    "artist": "Del Shannon",
+    "score": 82
+  },
+  {
+    "artist": "John Gary",
+    "score": 79.8
+  },
+  {
+    "artist": "Bob Dylan",
+    "score": 79.7
+  },
+  {
+    "artist": "Jerry Vale",
+    "score": 79.7
+  },
+  {
+    "artist": "Johnny Cash",
+    "score": 79.2
+  },
+  {
+    "artist": "Frank Fontaine",
+    "score": 77.2
+  },
+  {
+    "artist": "Ferrante & Teicher",
+    "score": 76.8
+  },
+  {
+    "artist": "Jan & Dean",
+    "score": 73.2
+  },
+  {
+    "artist": "Percy Faith",
+    "score": 73.2
+  },
+  {
+    "artist": "Chuck Berry",
+    "score": 72.7
+  },
+  {
+    "artist": "Lawrence Welk",
+    "score": 72.2
+  },
+  {
+    "artist": "The Ventures",
+    "score": 71.8
+  },
+  {
+    "artist": "Jimmy Durante",
+    "score": 71.5
+  },
+  {
+    "artist": "Peter Nero",
+    "score": 70.7
+  },
+  {
+    "artist": "Mantovani",
+    "score": 69.9
+  },
+  {
+    "artist": "Al Hirt",
+    "score": 67.5
+  },
+  {
+    "artist": "Original Cast Recording",
+    "score": 66.2
+  },
+  {
+    "artist": "Stan Getz/Charlie Byrd",
+    "score": 65.2
+  },
+  {
+    "artist": "Annette",
+    "score": 62.1
+  },
+  {
+    "artist": "The Chad Mitchell Trio",
+    "score": 61.8
+  }
+]

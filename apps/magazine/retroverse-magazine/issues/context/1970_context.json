@@ -1,0 +1,528 @@
+{
+  "year": "1970",
+  "top_songs": [
+    {
+      "artist": "Jackson 5",
+      "title": "I'll Be There",
+      "weeks": 15,
+      "peak": 1,
+      "score": 498
+    },
+    {
+      "artist": "Simon",
+      "title": "Bridge Over Troubled Water",
+      "weeks": 14,
+      "peak": 1,
+      "score": 448
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Let It Be",
+      "weeks": 14,
+      "peak": 1,
+      "score": 447
+    },
+    {
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "weeks": 17,
+      "peak": 1,
+      "score": 445
+    },
+    {
+      "artist": "B.j. Thomas",
+      "title": "Raindrops Keep Fallin' On My Head",
+      "weeks": 13,
+      "peak": 1,
+      "score": 425
+    },
+    {
+      "artist": "The Guess Who",
+      "title": "American Woman/No Sugar Tonight",
+      "weeks": 15,
+      "peak": 1,
+      "score": 407
+    },
+    {
+      "artist": "Jackson 5",
+      "title": "ABC",
+      "weeks": 13,
+      "peak": 1,
+      "score": 404
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Ain't No Mountain High Enough",
+      "weeks": 14,
+      "peak": 1,
+      "score": 401
+    },
+    {
+      "artist": "Edwin Starr",
+      "title": "War",
+      "weeks": 15,
+      "peak": 1,
+      "score": 391
+    },
+    {
+      "artist": "Jackson 5",
+      "title": "The Love You Save/I Found That Girl",
+      "weeks": 13,
+      "peak": 1,
+      "score": 389
+    },
+    {
+      "artist": "Jackson 5",
+      "title": "I Want You Back",
+      "weeks": 12,
+      "peak": 1,
+      "score": 382
+    },
+    {
+      "artist": "Carpenters",
+      "title": "We've Only Just Begun",
+      "weeks": 16,
+      "peak": 2,
+      "score": 374
+    },
+    {
+      "artist": "Norman Greenbaum",
+      "title": "Spirit In The Sky",
+      "weeks": 15,
+      "peak": 3,
+      "score": 373
+    },
+    {
+      "artist": "The Shocking Blue",
+      "title": "Venus",
+      "weeks": 11,
+      "peak": 1,
+      "score": 361
+    },
+    {
+      "artist": "Three Dog Night",
+      "title": "Mama Told Me (Not To Come)",
+      "weeks": 15,
+      "peak": 1,
+      "score": 360
+    },
+    {
+      "artist": "Neil Diamond",
+      "title": "Cracklin' Rosie",
+      "weeks": 15,
+      "peak": 1,
+      "score": 360
+    },
+    {
+      "artist": "The Temptations",
+      "title": "Ball Of Confusion (That's What The World Is Today)",
+      "weeks": 15,
+      "peak": 3,
+      "score": 353
+    },
+    {
+      "artist": "John Ono Lennon",
+      "title": "Instant Karma (We All Shine On)",
+      "weeks": 13,
+      "peak": 3,
+      "score": 341
+    },
+    {
+      "artist": "The Moments",
+      "title": "Love On A Two-Way Street",
+      "weeks": 15,
+      "peak": 3,
+      "score": 340
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "Signed, Sealed, Delivered I'm Yours",
+      "weeks": 14,
+      "peak": 3,
+      "score": 333
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "title": "Lookin' Out My Back Door/Long As I Can See The Light",
+      "weeks": 13,
+      "peak": 2,
+      "score": 329
+    },
+    {
+      "artist": "Sly",
+      "title": "Thank You Falettinme Be Mice Elf Agin/Everybody Is A Star",
+      "weeks": 13,
+      "peak": 1,
+      "score": 327
+    },
+    {
+      "artist": "James Taylor",
+      "title": "Fire And Rain",
+      "weeks": 16,
+      "peak": 3,
+      "score": 324
+    },
+    {
+      "artist": "Edison Lighthouse",
+      "title": "Love Grows (Where My Rosemary Goes)",
+      "weeks": 13,
+      "peak": 5,
+      "score": 316
+    },
+    {
+      "artist": "Ray Stevens",
+      "title": "Everything Is Beautiful",
+      "weeks": 15,
+      "peak": 1,
+      "score": 310
+    },
+    {
+      "artist": "Eddie Holman",
+      "title": "Hey There Lonely Girl",
+      "weeks": 13,
+      "peak": 2,
+      "score": 295
+    },
+    {
+      "artist": "The Beatles",
+      "title": "The Long And Winding Road/For You Blue",
+      "weeks": 10,
+      "peak": 1,
+      "score": 294
+    },
+    {
+      "artist": "Rare Earth",
+      "title": "Get Ready",
+      "weeks": 20,
+      "peak": 4,
+      "score": 289
+    },
+    {
+      "artist": "Bread",
+      "title": "Make It With You",
+      "weeks": 17,
+      "peak": 1,
+      "score": 287
+    },
+    {
+      "artist": "Bobby Sherman",
+      "title": "Julie, Do Ya Love Me",
+      "weeks": 15,
+      "peak": 5,
+      "score": 287
+    },
+    {
+      "artist": "R. Dean Taylor",
+      "title": "Indiana Wants Me",
+      "weeks": 15,
+      "peak": 5,
+      "score": 287
+    },
+    {
+      "artist": "Freda Payne",
+      "title": "Band Of Gold",
+      "weeks": 20,
+      "peak": 3,
+      "score": 283
+    },
+    {
+      "artist": "The Jaggerz",
+      "title": "The Rapper",
+      "weeks": 13,
+      "peak": 2,
+      "score": 280
+    },
+    {
+      "artist": "Smokey Robinson",
+      "title": "The Tears Of A Clown",
+      "weeks": 11,
+      "peak": 1,
+      "score": 278
+    },
+    {
+      "artist": "The Partridge Family Starring Shirley Jones",
+      "title": "I Think I Love You",
+      "weeks": 12,
+      "peak": 1,
+      "score": 273
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "title": "Up Around The Bend/Run Through The Jungle",
+      "weeks": 11,
+      "peak": 4,
+      "score": 272
+    },
+    {
+      "artist": "Clarence Carter",
+      "title": "Patches",
+      "weeks": 14,
+      "peak": 4,
+      "score": 270
+    },
+    {
+      "artist": "Simon",
+      "title": "Cecilia",
+      "weeks": 13,
+      "peak": 4,
+      "score": 267
+    },
+    {
+      "artist": "Chicago",
+      "title": "25 Or 6 To 4",
+      "weeks": 12,
+      "peak": 4,
+      "score": 267
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "title": "Travelin' Band/Who'll Stop The Rain",
+      "weeks": 10,
+      "peak": 2,
+      "score": 264
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Jackson 5",
+      "hits": 4
+    },
+    {
+      "artist": "Simon",
+      "hits": 2
+    },
+    {
+      "artist": "The Beatles",
+      "hits": 2
+    },
+    {
+      "artist": "Carpenters",
+      "hits": 2
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "hits": 3
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Christie",
+      "title": "Yellow River",
+      "weeks": 23,
+      "peak": 23,
+      "score": -277
+    },
+    {
+      "artist": "Vanity Fare",
+      "title": "Hitchin' A Ride",
+      "weeks": 22,
+      "peak": 5,
+      "score": 83
+    },
+    {
+      "artist": "Eric Burdon And War",
+      "title": "Spill The Wine",
+      "weeks": 21,
+      "peak": 3,
+      "score": 43
+    },
+    {
+      "artist": "Rare Earth",
+      "title": "Get Ready",
+      "weeks": 20,
+      "peak": 4,
+      "score": 289
+    },
+    {
+      "artist": "Freda Payne",
+      "title": "Band Of Gold",
+      "weeks": 20,
+      "peak": 3,
+      "score": 283
+    },
+    {
+      "artist": "Dawn",
+      "title": "Candida",
+      "weeks": 18,
+      "peak": 3,
+      "score": 234
+    },
+    {
+      "artist": "Ray Price",
+      "title": "For The Good Times",
+      "weeks": 18,
+      "peak": 14,
+      "score": -136
+    },
+    {
+      "artist": "Ike",
+      "title": "I Want To Take You Higher",
+      "weeks": 18,
+      "peak": 34,
+      "score": -167
+    },
+    {
+      "artist": "Mashmakhan",
+      "title": "As The Years Go By",
+      "weeks": 18,
+      "peak": 31,
+      "score": -202
+    },
+    {
+      "artist": "The Sandpipers",
+      "title": "Come Saturday Morning",
+      "weeks": 18,
+      "peak": 17,
+      "score": -218
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Jackson 5",
+      "title": "I'll Be There",
+      "weeks": 15,
+      "peak": 1,
+      "score": 498
+    },
+    {
+      "artist": "Simon",
+      "title": "Bridge Over Troubled Water",
+      "weeks": 14,
+      "peak": 1,
+      "score": 448
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Let It Be",
+      "weeks": 14,
+      "peak": 1,
+      "score": 447
+    },
+    {
+      "artist": "Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "weeks": 17,
+      "peak": 1,
+      "score": 445
+    },
+    {
+      "artist": "B.j. Thomas",
+      "title": "Raindrops Keep Fallin' On My Head",
+      "weeks": 13,
+      "peak": 1,
+      "score": 425
+    },
+    {
+      "artist": "The Guess Who",
+      "title": "American Woman/No Sugar Tonight",
+      "weeks": 15,
+      "peak": 1,
+      "score": 407
+    },
+    {
+      "artist": "Jackson 5",
+      "title": "ABC",
+      "weeks": 13,
+      "peak": 1,
+      "score": 404
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Ain't No Mountain High Enough",
+      "weeks": 14,
+      "peak": 1,
+      "score": 401
+    },
+    {
+      "artist": "Edwin Starr",
+      "title": "War",
+      "weeks": 15,
+      "peak": 1,
+      "score": 391
+    },
+    {
+      "artist": "Jackson 5",
+      "title": "The Love You Save/I Found That Girl",
+      "weeks": 13,
+      "peak": 1,
+      "score": 389
+    },
+    {
+      "artist": "Jackson 5",
+      "title": "I Want You Back",
+      "weeks": 12,
+      "peak": 1,
+      "score": 382
+    },
+    {
+      "artist": "The Shocking Blue",
+      "title": "Venus",
+      "weeks": 11,
+      "peak": 1,
+      "score": 361
+    },
+    {
+      "artist": "Three Dog Night",
+      "title": "Mama Told Me (Not To Come)",
+      "weeks": 15,
+      "peak": 1,
+      "score": 360
+    },
+    {
+      "artist": "Neil Diamond",
+      "title": "Cracklin' Rosie",
+      "weeks": 15,
+      "peak": 1,
+      "score": 360
+    },
+    {
+      "artist": "Sly",
+      "title": "Thank You Falettinme Be Mice Elf Agin/Everybody Is A Star",
+      "weeks": 13,
+      "peak": 1,
+      "score": 327
+    },
+    {
+      "artist": "Ray Stevens",
+      "title": "Everything Is Beautiful",
+      "weeks": 15,
+      "peak": 1,
+      "score": 310
+    },
+    {
+      "artist": "The Beatles",
+      "title": "The Long And Winding Road/For You Blue",
+      "weeks": 10,
+      "peak": 1,
+      "score": 294
+    },
+    {
+      "artist": "Bread",
+      "title": "Make It With You",
+      "weeks": 17,
+      "peak": 1,
+      "score": 287
+    },
+    {
+      "artist": "Smokey Robinson",
+      "title": "The Tears Of A Clown",
+      "weeks": 11,
+      "peak": 1,
+      "score": 278
+    },
+    {
+      "artist": "The Partridge Family Starring Shirley Jones",
+      "title": "I Think I Love You",
+      "weeks": 12,
+      "peak": 1,
+      "score": 273
+    },
+    {
+      "artist": "George Harrison",
+      "title": "My Sweet Lord/Isn't It A Pity",
+      "weeks": 5,
+      "peak": 1,
+      "score": 111
+    }
+  ]
+}

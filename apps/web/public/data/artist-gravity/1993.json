@@ -1,0 +1,562 @@
+[
+  {
+    "artist": "Janet Jackson",
+    "score": 401.6
+  },
+  {
+    "artist": "Whitney Houston",
+    "score": 401.4
+  },
+  {
+    "artist": "Swv",
+    "score": 395.4
+  },
+  {
+    "artist": "Soundtrack",
+    "score": 387.1
+  },
+  {
+    "artist": "Shai",
+    "score": 383.5
+  },
+  {
+    "artist": "Michael Bolton",
+    "score": 377.7
+  },
+  {
+    "artist": "Mariah Carey",
+    "score": 301.6
+  },
+  {
+    "artist": "Dr. Dre",
+    "score": 296.9
+  },
+  {
+    "artist": "Garth Brooks",
+    "score": 294.1
+  },
+  {
+    "artist": "Duran Duran",
+    "score": 291.8
+  },
+  {
+    "artist": "Toni Braxton",
+    "score": 280.9
+  },
+  {
+    "artist": "Michael Jackson",
+    "score": 278
+  },
+  {
+    "artist": "Billy Ray Cyrus",
+    "score": 201.7
+  },
+  {
+    "artist": "Meat Loaf",
+    "score": 200.8
+  },
+  {
+    "artist": "Snow",
+    "score": 200.3
+  },
+  {
+    "artist": "Billy Joel",
+    "score": 200
+  },
+  {
+    "artist": "Pearl Jam",
+    "score": 199
+  },
+  {
+    "artist": "Silk",
+    "score": 199
+  },
+  {
+    "artist": "Rod Stewart",
+    "score": 198.1
+  },
+  {
+    "artist": "Spin Doctors",
+    "score": 198.1
+  },
+  {
+    "artist": "Ub40",
+    "score": 197.9
+  },
+  {
+    "artist": "Naughty By Nature",
+    "score": 194.3
+  },
+  {
+    "artist": "Wreckx-n-effect",
+    "score": 193.6
+  },
+  {
+    "artist": "Reba McEntire",
+    "score": 193.3
+  },
+  {
+    "artist": "Arrested Development",
+    "score": 193.1
+  },
+  {
+    "artist": "Aerosmith",
+    "score": 192.6
+  },
+  {
+    "artist": "George Strait",
+    "score": 192.3
+  },
+  {
+    "artist": "P.m. Dawn",
+    "score": 192.3
+  },
+  {
+    "artist": "Soul Asylum",
+    "score": 191.8
+  },
+  {
+    "artist": "Brooks & Dunn",
+    "score": 190.4
+  },
+  {
+    "artist": "Various Artists",
+    "score": 190.3
+  },
+  {
+    "artist": "Eric Clapton",
+    "score": 187.9
+  },
+  {
+    "artist": "Bryan Adams",
+    "score": 187.5
+  },
+  {
+    "artist": "Tony! Toni! Tone!",
+    "score": 186.5
+  },
+  {
+    "artist": "Mary J. Blige",
+    "score": 184.1
+  },
+  {
+    "artist": "Madonna",
+    "score": 182.3
+  },
+  {
+    "artist": "Ice Cube",
+    "score": 182.1
+  },
+  {
+    "artist": "Bobby Brown",
+    "score": 181.8
+  },
+  {
+    "artist": "Def Leppard",
+    "score": 181.6
+  },
+  {
+    "artist": "Inner Circle",
+    "score": 180.1
+  },
+  {
+    "artist": "4 Non Blondes",
+    "score": 179.5
+  },
+  {
+    "artist": "2pac",
+    "score": 179.4
+  },
+  {
+    "artist": "Kenny G",
+    "score": 103.2
+  },
+  {
+    "artist": "Stone Temple Pilots",
+    "score": 102.1
+  },
+  {
+    "artist": "Sting",
+    "score": 102
+  },
+  {
+    "artist": "Depeche Mode",
+    "score": 101.9
+  },
+  {
+    "artist": "Barbra Streisand",
+    "score": 101.4
+  },
+  {
+    "artist": "U2",
+    "score": 101.3
+  },
+  {
+    "artist": "Cypress Hill",
+    "score": 101.1
+  },
+  {
+    "artist": "Peabo Bryson",
+    "score": 101.1
+  },
+  {
+    "artist": "Tag Team",
+    "score": 101.1
+  },
+  {
+    "artist": "Nirvana",
+    "score": 100.2
+  },
+  {
+    "artist": "Vanessa Williams/brian Mcknight",
+    "score": 99.8
+  },
+  {
+    "artist": "Ace Of Base",
+    "score": 99.5
+  },
+  {
+    "artist": "H-town",
+    "score": 99.5
+  },
+  {
+    "artist": "Xscape",
+    "score": 99.5
+  },
+  {
+    "artist": "Blind Melon",
+    "score": 99.3
+  },
+  {
+    "artist": "Jade",
+    "score": 99.3
+  },
+  {
+    "artist": "Snoop Doggy Dogg",
+    "score": 99.3
+  },
+  {
+    "artist": "Porno For Pyros",
+    "score": 99.1
+  },
+  {
+    "artist": "The Proclaimers",
+    "score": 99
+  },
+  {
+    "artist": "Rush",
+    "score": 98.8
+  },
+  {
+    "artist": "Frank Sinatra",
+    "score": 98.6
+  },
+  {
+    "artist": "Boyz Ii Men",
+    "score": 98.5
+  },
+  {
+    "artist": "Jodeci",
+    "score": 98.4
+  },
+  {
+    "artist": "Wynonna",
+    "score": 98.1
+  },
+  {
+    "artist": "Onyx",
+    "score": 98
+  },
+  {
+    "artist": "Robin S",
+    "score": 97.8
+  },
+  {
+    "artist": "Coverdale/Page",
+    "score": 97.4
+  },
+  {
+    "artist": "LL Cool J",
+    "score": 97.4
+  },
+  {
+    "artist": "Shanice",
+    "score": 97.4
+  },
+  {
+    "artist": "Van Halen",
+    "score": 97.3
+  },
+  {
+    "artist": "Salt-n-pepa",
+    "score": 97.2
+  },
+  {
+    "artist": "Drs",
+    "score": 97.1
+  },
+  {
+    "artist": "R.E.M.",
+    "score": 97
+  },
+  {
+    "artist": "Snap!",
+    "score": 96.9
+  },
+  {
+    "artist": "Luther Vandross",
+    "score": 96.7
+  },
+  {
+    "artist": "Too $hort",
+    "score": 96.7
+  },
+  {
+    "artist": "Guns N' Roses",
+    "score": 96.3
+  },
+  {
+    "artist": "Primus",
+    "score": 96.2
+  },
+  {
+    "artist": "Sade",
+    "score": 96.2
+  },
+  {
+    "artist": "Ugly Kid Joe",
+    "score": 96
+  },
+  {
+    "artist": "Eazy-E",
+    "score": 95.8
+  },
+  {
+    "artist": "Zhane",
+    "score": 95.8
+  },
+  {
+    "artist": "Bryan Adams/rod Stewart/sting",
+    "score": 95.5
+  },
+  {
+    "artist": "Beavis & Butt-Head",
+    "score": 95.3
+  },
+  {
+    "artist": "Expose",
+    "score": 94.9
+  },
+  {
+    "artist": "Prince And The New Power Generation",
+    "score": 94.8
+  },
+  {
+    "artist": "Anthrax",
+    "score": 94.7
+  },
+  {
+    "artist": "Run-D.M.C.",
+    "score": 94.6
+  },
+  {
+    "artist": "Scarface",
+    "score": 94.6
+  },
+  {
+    "artist": "John Mellencamp",
+    "score": 94.4
+  },
+  {
+    "artist": "Amy Grant",
+    "score": 93.4
+  },
+  {
+    "artist": "Tina Turner",
+    "score": 93.4
+  },
+  {
+    "artist": "Paperboy",
+    "score": 92.8
+  },
+  {
+    "artist": "A Tribe Called Quest",
+    "score": 92.5
+  },
+  {
+    "artist": "Barney",
+    "score": 92.5
+  },
+  {
+    "artist": "Tom Petty And The Heartbreakers",
+    "score": 92.4
+  },
+  {
+    "artist": "Alan Jackson",
+    "score": 92.2
+  },
+  {
+    "artist": "KISS",
+    "score": 92.2
+  },
+  {
+    "artist": "Bon Jovi",
+    "score": 92
+  },
+  {
+    "artist": "Duice",
+    "score": 92
+  },
+  {
+    "artist": "Lenny Kravitz",
+    "score": 92
+  },
+  {
+    "artist": "The Smashing Pumpkins",
+    "score": 92
+  },
+  {
+    "artist": "Tlc",
+    "score": 92
+  },
+  {
+    "artist": "Donald Fagen",
+    "score": 91.9
+  },
+  {
+    "artist": "Geto Boys",
+    "score": 91.7
+  },
+  {
+    "artist": "95 South",
+    "score": 91.5
+  },
+  {
+    "artist": "Neil Diamond",
+    "score": 91.5
+  },
+  {
+    "artist": "Snoop Dogg",
+    "score": 91.4
+  },
+  {
+    "artist": "Tevin Campbell",
+    "score": 91.1
+  },
+  {
+    "artist": "Spice 1",
+    "score": 91
+  },
+  {
+    "artist": "Haddaway",
+    "score": 90.8
+  },
+  {
+    "artist": "Mick Jagger",
+    "score": 90.6
+  },
+  {
+    "artist": "New Order",
+    "score": 90.6
+  },
+  {
+    "artist": "Portrait",
+    "score": 90.6
+  },
+  {
+    "artist": "Restless Heart",
+    "score": 90.3
+  },
+  {
+    "artist": "Brian Mcknight",
+    "score": 89.2
+  },
+  {
+    "artist": "Brand Nubian",
+    "score": 89
+  },
+  {
+    "artist": "Jazzy Jeff",
+    "score": 89
+  },
+  {
+    "artist": "Kris Kross",
+    "score": 88.9
+  },
+  {
+    "artist": "Vince Neil",
+    "score": 88.3
+  },
+  {
+    "artist": "Clint Black",
+    "score": 88.2
+  },
+  {
+    "artist": "Jeremy Jordan",
+    "score": 88.2
+  },
+  {
+    "artist": "Johnny Gill",
+    "score": 88
+  },
+  {
+    "artist": "Positive K",
+    "score": 88
+  },
+  {
+    "artist": "Mad Cobra",
+    "score": 87.8
+  },
+  {
+    "artist": "10,000 Maniacs",
+    "score": 87.7
+  },
+  {
+    "artist": "The Heights",
+    "score": 87.7
+  },
+  {
+    "artist": "Phil Collins",
+    "score": 87.5
+  },
+  {
+    "artist": "Go West",
+    "score": 87.2
+  },
+  {
+    "artist": "Ice-T",
+    "score": 87.1
+  },
+  {
+    "artist": "Digable Planets",
+    "score": 87
+  },
+  {
+    "artist": "Boy George",
+    "score": 86.7
+  },
+  {
+    "artist": "Harry Connick, Jr.",
+    "score": 86.7
+  },
+  {
+    "artist": "En Vogue",
+    "score": 86.6
+  },
+  {
+    "artist": "N2deep",
+    "score": 86.5
+  },
+  {
+    "artist": "Saigon Kick",
+    "score": 86.5
+  },
+  {
+    "artist": "Captain Hollywood Project",
+    "score": 85
+  },
+  {
+    "artist": "The Cranberries",
+    "score": 85
+  }
+]

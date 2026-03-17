@@ -1,0 +1,566 @@
+{
+  "year": "1973",
+  "top_songs": [
+    {
+      "artist": "Marvin Gaye",
+      "title": "Let's Get It On",
+      "weeks": 19,
+      "peak": 1,
+      "score": 506
+    },
+    {
+      "artist": "Gladys Knight And The Pips",
+      "title": "Midnight Train To Georgia",
+      "weeks": 18,
+      "peak": 1,
+      "score": 416
+    },
+    {
+      "artist": "Eddie Kendricks",
+      "title": "Keep On Truckin' (Part 1)",
+      "weeks": 19,
+      "peak": 1,
+      "score": 409
+    },
+    {
+      "artist": "Elton John",
+      "title": "Crocodile Rock",
+      "weeks": 13,
+      "peak": 1,
+      "score": 401
+    },
+    {
+      "artist": "Roberta Flack",
+      "title": "Killing Me Softly With His Song",
+      "weeks": 16,
+      "peak": 1,
+      "score": 388
+    },
+    {
+      "artist": "Carly Simon",
+      "title": "You're So Vain",
+      "weeks": 12,
+      "peak": 1,
+      "score": 385
+    },
+    {
+      "artist": "Dawn",
+      "title": "Tie A Yellow Ribbon Round The Ole Oak Tree",
+      "weeks": 23,
+      "peak": 1,
+      "score": 366
+    },
+    {
+      "artist": "Paul Simon",
+      "title": "Loves Me Like A Rock",
+      "weeks": 16,
+      "peak": 2,
+      "score": 356
+    },
+    {
+      "artist": "Paul Mccartney And Wings",
+      "title": "My Love",
+      "weeks": 18,
+      "peak": 1,
+      "score": 351
+    },
+    {
+      "artist": "Jim Croce",
+      "title": "Bad, Bad Leroy Brown",
+      "weeks": 22,
+      "peak": 1,
+      "score": 332
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Touch Me In The Morning",
+      "weeks": 21,
+      "peak": 1,
+      "score": 328
+    },
+    {
+      "artist": "The O'jays",
+      "title": "Love Train",
+      "weeks": 14,
+      "peak": 1,
+      "score": 324
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Angie",
+      "weeks": 16,
+      "peak": 1,
+      "score": 321
+    },
+    {
+      "artist": "Stories",
+      "title": "Brother Louie",
+      "weeks": 18,
+      "peak": 1,
+      "score": 320
+    },
+    {
+      "artist": "Three Dog Night",
+      "title": "Shambala",
+      "weeks": 16,
+      "peak": 3,
+      "score": 307
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "You Are The Sunshine Of My Life",
+      "weeks": 17,
+      "peak": 1,
+      "score": 305
+    },
+    {
+      "artist": "The Spinners",
+      "title": "Could It Be I'm Falling In Love",
+      "weeks": 14,
+      "peak": 4,
+      "score": 303
+    },
+    {
+      "artist": "Wings",
+      "title": "Live And Let Die",
+      "weeks": 14,
+      "peak": 2,
+      "score": 301
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "Superstition",
+      "weeks": 9,
+      "peak": 1,
+      "score": 294
+    },
+    {
+      "artist": "Dawn",
+      "title": "Say, Has Anybody Seen My Sweet Gypsy Rose",
+      "weeks": 16,
+      "peak": 3,
+      "score": 293
+    },
+    {
+      "artist": "Carpenters",
+      "title": "Top Of The World",
+      "weeks": 13,
+      "peak": 1,
+      "score": 291
+    },
+    {
+      "artist": "Elton John",
+      "title": "Daniel",
+      "weeks": 15,
+      "peak": 2,
+      "score": 284
+    },
+    {
+      "artist": "Edward Bear",
+      "title": "Last Song",
+      "weeks": 15,
+      "peak": 3,
+      "score": 282
+    },
+    {
+      "artist": "George Harrison",
+      "title": "Give Me Love - (Give Me Peace On Earth)",
+      "weeks": 14,
+      "peak": 1,
+      "score": 282
+    },
+    {
+      "artist": "Hurricane Smith",
+      "title": "Oh, Babe, What Would You Say?",
+      "weeks": 10,
+      "peak": 3,
+      "score": 281
+    },
+    {
+      "artist": "Billy Preston",
+      "title": "Space Race",
+      "weeks": 15,
+      "peak": 4,
+      "score": 281
+    },
+    {
+      "artist": "Carpenters",
+      "title": "Sing",
+      "weeks": 14,
+      "peak": 3,
+      "score": 280
+    },
+    {
+      "artist": "Deliverance/eric Weissberg",
+      "title": "Dueling Banjos",
+      "weeks": 14,
+      "peak": 2,
+      "score": 279
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "Higher Ground",
+      "weeks": 14,
+      "peak": 4,
+      "score": 276
+    },
+    {
+      "artist": "Helen Reddy",
+      "title": "Delta Dawn",
+      "weeks": 20,
+      "peak": 1,
+      "score": 274
+    },
+    {
+      "artist": "Chicago",
+      "title": "Just You 'n' Me",
+      "weeks": 14,
+      "peak": 4,
+      "score": 274
+    },
+    {
+      "artist": "Ringo Starr",
+      "title": "Photograph",
+      "weeks": 13,
+      "peak": 1,
+      "score": 274
+    },
+    {
+      "artist": "The Defranco Family",
+      "title": "Heartbeat - It's A Lovebeat",
+      "weeks": 17,
+      "peak": 3,
+      "score": 273
+    },
+    {
+      "artist": "The Isley Brothers",
+      "title": "That Lady (Part 1)",
+      "weeks": 20,
+      "peak": 6,
+      "score": 271
+    },
+    {
+      "artist": "Grand Funk",
+      "title": "We're An American Band",
+      "weeks": 17,
+      "peak": 1,
+      "score": 270
+    },
+    {
+      "artist": "Cher",
+      "title": "Half-Breed",
+      "weeks": 20,
+      "peak": 1,
+      "score": 269
+    },
+    {
+      "artist": "Timmy Thomas",
+      "title": "Why Can't We Live Together",
+      "weeks": 9,
+      "peak": 3,
+      "score": 268
+    },
+    {
+      "artist": "Jermaine Jackson",
+      "title": "Daddy's Home",
+      "weeks": 14,
+      "peak": 9,
+      "score": 268
+    },
+    {
+      "artist": "John Denver",
+      "title": "Rocky Mountain High",
+      "weeks": 13,
+      "peak": 9,
+      "score": 264
+    },
+    {
+      "artist": "The Allman Brothers Band",
+      "title": "Ramblin Man",
+      "weeks": 16,
+      "peak": 2,
+      "score": 262
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Elton John",
+      "hits": 2
+    },
+    {
+      "artist": "Dawn",
+      "hits": 2
+    },
+    {
+      "artist": "Stevie Wonder",
+      "hits": 3
+    },
+    {
+      "artist": "Carpenters",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Kris Kristofferson",
+      "title": "Why Me",
+      "weeks": 38,
+      "peak": 16,
+      "score": -138
+    },
+    {
+      "artist": "Dawn",
+      "title": "Tie A Yellow Ribbon Round The Ole Oak Tree",
+      "weeks": 23,
+      "peak": 1,
+      "score": 366
+    },
+    {
+      "artist": "Clint Holmes",
+      "title": "Playground In My Mind",
+      "weeks": 23,
+      "peak": 2,
+      "score": 230
+    },
+    {
+      "artist": "The Sweet",
+      "title": "Little Willy",
+      "weeks": 23,
+      "peak": 3,
+      "score": 72
+    },
+    {
+      "artist": "Jim Croce",
+      "title": "Bad, Bad Leroy Brown",
+      "weeks": 22,
+      "peak": 1,
+      "score": 332
+    },
+    {
+      "artist": "Billy Preston",
+      "title": "Will It Go Round In Circles",
+      "weeks": 22,
+      "peak": 1,
+      "score": 189
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Touch Me In The Morning",
+      "weeks": 21,
+      "peak": 1,
+      "score": 328
+    },
+    {
+      "artist": "Dobie Gray",
+      "title": "Drift Away",
+      "weeks": 21,
+      "peak": 5,
+      "score": 203
+    },
+    {
+      "artist": "Sylvia",
+      "title": "Pillow Talk",
+      "weeks": 21,
+      "peak": 3,
+      "score": 142
+    },
+    {
+      "artist": "Skylark",
+      "title": "Wildflower",
+      "weeks": 21,
+      "peak": 9,
+      "score": 70
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Marvin Gaye",
+      "title": "Let's Get It On",
+      "weeks": 19,
+      "peak": 1,
+      "score": 506
+    },
+    {
+      "artist": "Gladys Knight And The Pips",
+      "title": "Midnight Train To Georgia",
+      "weeks": 18,
+      "peak": 1,
+      "score": 416
+    },
+    {
+      "artist": "Eddie Kendricks",
+      "title": "Keep On Truckin' (Part 1)",
+      "weeks": 19,
+      "peak": 1,
+      "score": 409
+    },
+    {
+      "artist": "Elton John",
+      "title": "Crocodile Rock",
+      "weeks": 13,
+      "peak": 1,
+      "score": 401
+    },
+    {
+      "artist": "Roberta Flack",
+      "title": "Killing Me Softly With His Song",
+      "weeks": 16,
+      "peak": 1,
+      "score": 388
+    },
+    {
+      "artist": "Carly Simon",
+      "title": "You're So Vain",
+      "weeks": 12,
+      "peak": 1,
+      "score": 385
+    },
+    {
+      "artist": "Dawn",
+      "title": "Tie A Yellow Ribbon Round The Ole Oak Tree",
+      "weeks": 23,
+      "peak": 1,
+      "score": 366
+    },
+    {
+      "artist": "Paul Mccartney And Wings",
+      "title": "My Love",
+      "weeks": 18,
+      "peak": 1,
+      "score": 351
+    },
+    {
+      "artist": "Jim Croce",
+      "title": "Bad, Bad Leroy Brown",
+      "weeks": 22,
+      "peak": 1,
+      "score": 332
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Touch Me In The Morning",
+      "weeks": 21,
+      "peak": 1,
+      "score": 328
+    },
+    {
+      "artist": "The O'jays",
+      "title": "Love Train",
+      "weeks": 14,
+      "peak": 1,
+      "score": 324
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Angie",
+      "weeks": 16,
+      "peak": 1,
+      "score": 321
+    },
+    {
+      "artist": "Stories",
+      "title": "Brother Louie",
+      "weeks": 18,
+      "peak": 1,
+      "score": 320
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "You Are The Sunshine Of My Life",
+      "weeks": 17,
+      "peak": 1,
+      "score": 305
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "Superstition",
+      "weeks": 9,
+      "peak": 1,
+      "score": 294
+    },
+    {
+      "artist": "Carpenters",
+      "title": "Top Of The World",
+      "weeks": 13,
+      "peak": 1,
+      "score": 291
+    },
+    {
+      "artist": "George Harrison",
+      "title": "Give Me Love - (Give Me Peace On Earth)",
+      "weeks": 14,
+      "peak": 1,
+      "score": 282
+    },
+    {
+      "artist": "Helen Reddy",
+      "title": "Delta Dawn",
+      "weeks": 20,
+      "peak": 1,
+      "score": 274
+    },
+    {
+      "artist": "Ringo Starr",
+      "title": "Photograph",
+      "weeks": 13,
+      "peak": 1,
+      "score": 274
+    },
+    {
+      "artist": "Grand Funk",
+      "title": "We're An American Band",
+      "weeks": 17,
+      "peak": 1,
+      "score": 270
+    },
+    {
+      "artist": "Cher",
+      "title": "Half-Breed",
+      "weeks": 20,
+      "peak": 1,
+      "score": 269
+    },
+    {
+      "artist": "Vicki Lawrence",
+      "title": "The Night The Lights Went Out In Georgia",
+      "weeks": 20,
+      "peak": 1,
+      "score": 226
+    },
+    {
+      "artist": "Maureen Mcgovern",
+      "title": "The Morning After",
+      "weeks": 15,
+      "peak": 1,
+      "score": 202
+    },
+    {
+      "artist": "Billy Preston",
+      "title": "Will It Go Round In Circles",
+      "weeks": 22,
+      "peak": 1,
+      "score": 189
+    },
+    {
+      "artist": "Charlie Rich",
+      "title": "The Most Beautiful Girl",
+      "weeks": 14,
+      "peak": 1,
+      "score": 174
+    },
+    {
+      "artist": "Edgar Winter Group",
+      "title": "Frankenstein",
+      "weeks": 20,
+      "peak": 1,
+      "score": 170
+    },
+    {
+      "artist": "Jim Croce",
+      "title": "Time In A Bottle",
+      "weeks": 7,
+      "peak": 1,
+      "score": 120
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "year": "1969",
+  "top_songs": [
+    {
+      "artist": "The 5th Dimension",
+      "title": "Aquarius/Let The Sunshine In (The Flesh Failures)",
+      "weeks": 17,
+      "peak": 1,
+      "score": 485
+    },
+    {
+      "artist": "The Archies",
+      "title": "Sugar, Sugar",
+      "weeks": 22,
+      "peak": 1,
+      "score": 477
+    },
+    {
+      "artist": "Tommy James And The Shondells",
+      "title": "Crimson And Clover",
+      "weeks": 13,
+      "peak": 1,
+      "score": 456
+    },
+    {
+      "artist": "Sly",
+      "title": "Everyday People",
+      "weeks": 14,
+      "peak": 1,
+      "score": 446
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Honky Tonk Women",
+      "weeks": 15,
+      "peak": 1,
+      "score": 431
+    },
+    {
+      "artist": "The Temptations",
+      "title": "I Can't Get Next To You",
+      "weeks": 17,
+      "peak": 1,
+      "score": 415
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Get Back",
+      "weeks": 12,
+      "peak": 1,
+      "score": 410
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Come Together/Something",
+      "weeks": 11,
+      "peak": 1,
+      "score": 372
+    },
+    {
+      "artist": "The 5th Dimension",
+      "title": "Wedding Bell Blues",
+      "weeks": 14,
+      "peak": 1,
+      "score": 357
+    },
+    {
+      "artist": "Johnny Cash",
+      "title": "A Boy Named Sue",
+      "weeks": 12,
+      "peak": 2,
+      "score": 355
+    },
+    {
+      "artist": "Tommy Roe",
+      "title": "Dizzy",
+      "weeks": 15,
+      "peak": 1,
+      "score": 353
+    },
+    {
+      "artist": "Henry Mancini And His Orchestra",
+      "title": "Love Theme From Romeo & Juliet",
+      "weeks": 14,
+      "peak": 1,
+      "score": 351
+    },
+    {
+      "artist": "The Doors",
+      "title": "Touch Me",
+      "weeks": 12,
+      "peak": 3,
+      "score": 347
+    },
+    {
+      "artist": "Zager",
+      "title": "In The Year 2525",
+      "weeks": 13,
+      "peak": 1,
+      "score": 341
+    },
+    {
+      "artist": "The Foundations",
+      "title": "Build Me Up Buttercup",
+      "weeks": 15,
+      "peak": 3,
+      "score": 338
+    },
+    {
+      "artist": "Tommy James And The Shondells",
+      "title": "Crystal Blue Persuasion",
+      "weeks": 15,
+      "peak": 2,
+      "score": 330
+    },
+    {
+      "artist": "Blood, Sweat",
+      "title": "Spinning Wheel",
+      "weeks": 13,
+      "peak": 2,
+      "score": 329
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "title": "Proud Mary",
+      "weeks": 14,
+      "peak": 2,
+      "score": 319
+    },
+    {
+      "artist": "The Cowsills",
+      "title": "Hair",
+      "weeks": 15,
+      "peak": 2,
+      "score": 316
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "title": "Green River",
+      "weeks": 13,
+      "peak": 2,
+      "score": 314
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "Suspicious Minds",
+      "weeks": 15,
+      "peak": 1,
+      "score": 310
+    },
+    {
+      "artist": "The Isley Brothers",
+      "title": "It's Your Thing",
+      "weeks": 14,
+      "peak": 2,
+      "score": 308
+    },
+    {
+      "artist": "Neil Diamond",
+      "title": "Sweet Caroline (Good Times Never Seemed So Good)",
+      "weeks": 14,
+      "peak": 4,
+      "score": 308
+    },
+    {
+      "artist": "Oliver",
+      "title": "Jean",
+      "weeks": 14,
+      "peak": 2,
+      "score": 304
+    },
+    {
+      "artist": "Marvin Gaye",
+      "title": "I Heard It Through The Grapevine",
+      "weeks": 9,
+      "peak": 1,
+      "score": 302
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "title": "Bad Moon Rising",
+      "weeks": 14,
+      "peak": 2,
+      "score": 300
+    },
+    {
+      "artist": "Three Dog Night",
+      "title": "Easy To Be Hard",
+      "weeks": 13,
+      "peak": 4,
+      "score": 299
+    },
+    {
+      "artist": "Blood, Sweat",
+      "title": "And When I Die",
+      "weeks": 11,
+      "peak": 2,
+      "score": 298
+    },
+    {
+      "artist": "Marvin Gaye",
+      "title": "Too Busy Thinking About My Baby",
+      "weeks": 15,
+      "peak": 4,
+      "score": 296
+    },
+    {
+      "artist": "Sly",
+      "title": "Hot Fun In The Summertime",
+      "weeks": 16,
+      "peak": 2,
+      "score": 292
+    },
+    {
+      "artist": "The Supremes",
+      "title": "I'm Gonna Make You Love Me",
+      "weeks": 9,
+      "peak": 2,
+      "score": 290
+    },
+    {
+      "artist": "Brooklyn Bridge",
+      "title": "Worst That Could Happen",
+      "weeks": 10,
+      "peak": 3,
+      "score": 284
+    },
+    {
+      "artist": "Tom Jones",
+      "title": "I'll Never Fall In Love Again",
+      "weeks": 16,
+      "peak": 6,
+      "score": 282
+    },
+    {
+      "artist": "Tyrone Davis",
+      "title": "Can I Change My Mind",
+      "weeks": 11,
+      "peak": 5,
+      "score": 275
+    },
+    {
+      "artist": "Three Dog Night",
+      "title": "One",
+      "weeks": 16,
+      "peak": 5,
+      "score": 275
+    },
+    {
+      "artist": "Jerry Butler",
+      "title": "Only The Strong Survive",
+      "weeks": 13,
+      "peak": 4,
+      "score": 274
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "In The Ghetto",
+      "weeks": 13,
+      "peak": 3,
+      "score": 273
+    },
+    {
+      "artist": "R.b. Greaves",
+      "title": "Take A Letter Maria",
+      "weeks": 11,
+      "peak": 2,
+      "score": 270
+    },
+    {
+      "artist": "The Zombies",
+      "title": "Time Of The Season",
+      "weeks": 13,
+      "peak": 3,
+      "score": 269
+    },
+    {
+      "artist": "Mercy",
+      "title": "Love (Can Make You Happy)",
+      "weeks": 13,
+      "peak": 2,
+      "score": 262
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "The 5th Dimension",
+      "hits": 2
+    },
+    {
+      "artist": "Tommy James And The Shondells",
+      "hits": 2
+    },
+    {
+      "artist": "Sly",
+      "hits": 2
+    },
+    {
+      "artist": "The Beatles",
+      "hits": 2
+    },
+    {
+      "artist": "Blood, Sweat",
+      "hits": 2
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "hits": 3
+    },
+    {
+      "artist": "Elvis Presley",
+      "hits": 2
+    },
+    {
+      "artist": "Marvin Gaye",
+      "hits": 2
+    },
+    {
+      "artist": "Three Dog Night",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "The Archies",
+      "title": "Sugar, Sugar",
+      "weeks": 22,
+      "peak": 1,
+      "score": 477
+    },
+    {
+      "artist": "The Lettermen",
+      "title": "Hurt So Bad",
+      "weeks": 21,
+      "peak": 12,
+      "score": -164
+    },
+    {
+      "artist": "The Friends Of Distinction",
+      "title": "Going In Circles",
+      "weeks": 20,
+      "peak": 15,
+      "score": 36
+    },
+    {
+      "artist": "Mama Cass",
+      "title": "It's Getting Better",
+      "weeks": 19,
+      "peak": 30,
+      "score": -163
+    },
+    {
+      "artist": "The 5th Dimension",
+      "title": "Aquarius/Let The Sunshine In (The Flesh Failures)",
+      "weeks": 17,
+      "peak": 1,
+      "score": 485
+    },
+    {
+      "artist": "The Temptations",
+      "title": "I Can't Get Next To You",
+      "weeks": 17,
+      "peak": 1,
+      "score": 415
+    },
+    {
+      "artist": "The Youngbloods",
+      "title": "Get Together",
+      "weeks": 17,
+      "peak": 5,
+      "score": 167
+    },
+    {
+      "artist": "The Watts 103rd Street Rhythm Band",
+      "title": "Do Your Thing",
+      "weeks": 17,
+      "peak": 11,
+      "score": -1
+    },
+    {
+      "artist": "Evie Sands",
+      "title": "Any Way That You Want Me",
+      "weeks": 17,
+      "peak": 53,
+      "score": -475
+    },
+    {
+      "artist": "Sly",
+      "title": "Hot Fun In The Summertime",
+      "weeks": 16,
+      "peak": 2,
+      "score": 292
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "The 5th Dimension",
+      "title": "Aquarius/Let The Sunshine In (The Flesh Failures)",
+      "weeks": 17,
+      "peak": 1,
+      "score": 485
+    },
+    {
+      "artist": "The Archies",
+      "title": "Sugar, Sugar",
+      "weeks": 22,
+      "peak": 1,
+      "score": 477
+    },
+    {
+      "artist": "Tommy James And The Shondells",
+      "title": "Crimson And Clover",
+      "weeks": 13,
+      "peak": 1,
+      "score": 456
+    },
+    {
+      "artist": "Sly",
+      "title": "Everyday People",
+      "weeks": 14,
+      "peak": 1,
+      "score": 446
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Honky Tonk Women",
+      "weeks": 15,
+      "peak": 1,
+      "score": 431
+    },
+    {
+      "artist": "The Temptations",
+      "title": "I Can't Get Next To You",
+      "weeks": 17,
+      "peak": 1,
+      "score": 415
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Get Back",
+      "weeks": 12,
+      "peak": 1,
+      "score": 410
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Come Together/Something",
+      "weeks": 11,
+      "peak": 1,
+      "score": 372
+    },
+    {
+      "artist": "The 5th Dimension",
+      "title": "Wedding Bell Blues",
+      "weeks": 14,
+      "peak": 1,
+      "score": 357
+    },
+    {
+      "artist": "Tommy Roe",
+      "title": "Dizzy",
+      "weeks": 15,
+      "peak": 1,
+      "score": 353
+    },
+    {
+      "artist": "Henry Mancini And His Orchestra",
+      "title": "Love Theme From Romeo & Juliet",
+      "weeks": 14,
+      "peak": 1,
+      "score": 351
+    },
+    {
+      "artist": "Zager",
+      "title": "In The Year 2525",
+      "weeks": 13,
+      "peak": 1,
+      "score": 341
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "Suspicious Minds",
+      "weeks": 15,
+      "peak": 1,
+      "score": 310
+    },
+    {
+      "artist": "Marvin Gaye",
+      "title": "I Heard It Through The Grapevine",
+      "weeks": 9,
+      "peak": 1,
+      "score": 302
+    },
+    {
+      "artist": "Steam",
+      "title": "Na Na Hey Hey Kiss Him Goodbye",
+      "weeks": 11,
+      "peak": 1,
+      "score": 223
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Someday We'll Be Together",
+      "weeks": 8,
+      "peak": 1,
+      "score": 198
+    },
+    {
+      "artist": "Peter, Paul",
+      "title": "Leaving On A Jet Plane",
+      "weeks": 10,
+      "peak": 1,
+      "score": 189
+    }
+  ]
+}

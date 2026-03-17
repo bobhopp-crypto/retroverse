@@ -1,0 +1,43 @@
+Create a vertical 720x1280 premium collectible chart card in cinematic 1974 painterly style.
+
+This is a single hero card, not a poster layout.
+
+Visual direction: dramatic oil-painted realism with period-authentic 1970s styling. Warm golden lighting, deep shadows, layered depth, subtle film grain. Slightly textured brush strokes. No modern UI. No glossy 3D rendering. No photoreal portraits. No flat minimalism.
+
+Composition:
+
+Cinematic illustrated background inspired by the mood of the song.
+Foreground symbolic scene with dramatic lighting.
+Metallic or embossed rank badge with visual weight scaled to chart position.
+Layered title typography with gold or warm highlight edges.
+Artist name secondary but strong.
+Small contextual cultural inserts from 1974 subtly integrated into the design (TV, film, headlines) - not floating labels.
+
+Lighting:
+
+Single dominant warm key light.
+Secondary rim light for depth.
+Slight atmospheric haze.
+
+Texture:
+
+Subtle canvas grain.
+Light vintage wear.
+Soft vignette.
+
+Content:
+Rank: 3
+Title: Feel Like Makin' Love
+Artist: Roberta Flack
+Weeks on Chart: 7
+Peak Position: 3
+Ambient references:
+Headlines: hard-earned resilience
+
+The result must feel like a premium 1974 radio-station display card with cinematic depth and layered realism.
+Interpret romance themes only as symbolic, non-sexual visual storytelling. No nudity or erotic imagery.
+
+Resolved layout logic (computed in code): Single hero-card composition with cinematic illustrated background and symbolic foreground scene. Rank badge scaling: large metallic badge (strong weight). Layered title typography with warm highlight edges, artist secondary but strong. Integrate ambient 1974 references into the scene composition instead of floating labels. Use warm key light, secondary rim light, subtle haze, canvas grain, vintage wear, and soft vignette.
+Render resolution override for this run: 720x1280.
+Style version pin: cinematic_painterly_1974_v1.
+Negative block (enforced): no modern UI, no glossy 3D rendering, no photoreal portraits, no flat minimalism, no nudity, no sexual content.

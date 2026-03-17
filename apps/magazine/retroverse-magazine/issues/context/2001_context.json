@@ -1,0 +1,482 @@
+{
+  "year": "2001",
+  "top_songs": [
+    {
+      "artist": "Lifehouse",
+      "title": "Hanging By A Moment",
+      "weeks": 47,
+      "peak": 2,
+      "score": 1089
+    },
+    {
+      "artist": "Jennifer Lopez",
+      "title": "I'm Real",
+      "weeks": 26,
+      "peak": 1,
+      "score": 811
+    },
+    {
+      "artist": "Train",
+      "title": "Drops Of Jupiter (Tell Me)",
+      "weeks": 42,
+      "peak": 5,
+      "score": 760
+    },
+    {
+      "artist": "Eve",
+      "title": "Let Me Blow Ya Mind",
+      "weeks": 33,
+      "peak": 2,
+      "score": 753
+    },
+    {
+      "artist": "Lenny Kravitz",
+      "title": "Again",
+      "weeks": 25,
+      "peak": 4,
+      "score": 702
+    },
+    {
+      "artist": "Usher",
+      "title": "U Remind Me",
+      "weeks": 24,
+      "peak": 1,
+      "score": 661
+    },
+    {
+      "artist": "Jagged Edge",
+      "title": "Where The Party At",
+      "weeks": 29,
+      "peak": 3,
+      "score": 652
+    },
+    {
+      "artist": "Nelly",
+      "title": "Ride Wit Me",
+      "weeks": 29,
+      "peak": 3,
+      "score": 626
+    },
+    {
+      "artist": "Mary J. Blige",
+      "title": "Family Affair",
+      "weeks": 23,
+      "peak": 1,
+      "score": 621
+    },
+    {
+      "artist": "Janet",
+      "title": "All For You",
+      "weeks": 22,
+      "peak": 1,
+      "score": 617
+    },
+    {
+      "artist": "Alicia Keys",
+      "title": "Fallin'",
+      "weeks": 29,
+      "peak": 1,
+      "score": 617
+    },
+    {
+      "artist": "Staind",
+      "title": "It's Been Awhile",
+      "weeks": 38,
+      "peak": 5,
+      "score": 613
+    },
+    {
+      "artist": "Joe",
+      "title": "Stutter",
+      "weeks": 25,
+      "peak": 1,
+      "score": 604
+    },
+    {
+      "artist": "Shaggy",
+      "title": "Angel",
+      "weeks": 26,
+      "peak": 1,
+      "score": 591
+    },
+    {
+      "artist": "112",
+      "title": "Peaches & Cream",
+      "weeks": 29,
+      "peak": 4,
+      "score": 585
+    },
+    {
+      "artist": "Dido",
+      "title": "Thank You",
+      "weeks": 39,
+      "peak": 3,
+      "score": 568
+    },
+    {
+      "artist": "Matchbox Twenty",
+      "title": "If You're Gone",
+      "weeks": 30,
+      "peak": 5,
+      "score": 529
+    },
+    {
+      "artist": "Uncle Kracker",
+      "title": "Follow Me",
+      "weeks": 33,
+      "peak": 5,
+      "score": 500
+    },
+    {
+      "artist": "Craig David",
+      "title": "Fill Me In",
+      "weeks": 27,
+      "peak": 15,
+      "score": 485
+    },
+    {
+      "artist": "Christina Aguilera, Lil' Kim, Mya",
+      "title": "Lady Marmalade",
+      "weeks": 20,
+      "peak": 1,
+      "score": 484
+    },
+    {
+      "artist": "Jennifer Lopez",
+      "title": "Love Don't Cost A Thing",
+      "weeks": 17,
+      "peak": 3,
+      "score": 483
+    },
+    {
+      "artist": "City High",
+      "title": "What Would You Do?",
+      "weeks": 28,
+      "peak": 8,
+      "score": 477
+    },
+    {
+      "artist": "Ja Rule",
+      "title": "Put It On Me",
+      "weeks": 24,
+      "peak": 8,
+      "score": 461
+    },
+    {
+      "artist": "Shaggy",
+      "title": "It Wasn't Me",
+      "weeks": 15,
+      "peak": 1,
+      "score": 452
+    },
+    {
+      "artist": "Ginuwine",
+      "title": "Differences",
+      "weeks": 23,
+      "peak": 4,
+      "score": 451
+    },
+    {
+      "artist": "Madonna",
+      "title": "Don't Tell Me",
+      "weeks": 17,
+      "peak": 4,
+      "score": 427
+    },
+    {
+      "artist": "Enrique Iglesias",
+      "title": "Hero",
+      "weeks": 14,
+      "peak": 3,
+      "score": 425
+    },
+    {
+      "artist": "Blu Cantrell",
+      "title": "Hit 'Em Up Style (Oops!)",
+      "weeks": 34,
+      "peak": 2,
+      "score": 417
+    },
+    {
+      "artist": "Lee Ann Womack",
+      "title": "I Hope You Dance",
+      "weeks": 28,
+      "peak": 14,
+      "score": 409
+    },
+    {
+      "artist": "Missy \"misdemeanor\" Elliott",
+      "title": "Get Ur Freak On",
+      "weeks": 24,
+      "peak": 7,
+      "score": 406
+    },
+    {
+      "artist": "K-ci",
+      "title": "Crazy",
+      "weeks": 20,
+      "peak": 11,
+      "score": 401
+    },
+    {
+      "artist": "Crazy Town",
+      "title": "Butterfly",
+      "weeks": 23,
+      "peak": 1,
+      "score": 399
+    },
+    {
+      "artist": "Janet",
+      "title": "Someone To Call My Lover",
+      "weeks": 20,
+      "peak": 3,
+      "score": 399
+    },
+    {
+      "artist": "Destiny's Child",
+      "title": "Independent Women Part I",
+      "weeks": 13,
+      "peak": 1,
+      "score": 398
+    },
+    {
+      "artist": "Moby",
+      "title": "South Side",
+      "weeks": 26,
+      "peak": 14,
+      "score": 377
+    },
+    {
+      "artist": "Outkast",
+      "title": "Ms. Jackson",
+      "weeks": 14,
+      "peak": 2,
+      "score": 374
+    },
+    {
+      "artist": "O-town",
+      "title": "All Or Nothing",
+      "weeks": 20,
+      "peak": 3,
+      "score": 372
+    },
+    {
+      "artist": "Ja Rule",
+      "title": "Livin' It Up",
+      "weeks": 18,
+      "peak": 6,
+      "score": 368
+    },
+    {
+      "artist": "Dream",
+      "title": "He Loves U Not",
+      "weeks": 14,
+      "peak": 2,
+      "score": 362
+    },
+    {
+      "artist": "Nelly Furtado",
+      "title": "Turn Off The Light",
+      "weeks": 20,
+      "peak": 5,
+      "score": 361
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Jennifer Lopez",
+      "hits": 2
+    },
+    {
+      "artist": "Janet",
+      "hits": 2
+    },
+    {
+      "artist": "Shaggy",
+      "hits": 2
+    },
+    {
+      "artist": "Ja Rule",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Lifehouse",
+      "title": "Hanging By A Moment",
+      "weeks": 47,
+      "peak": 2,
+      "score": 1089
+    },
+    {
+      "artist": "Train",
+      "title": "Drops Of Jupiter (Tell Me)",
+      "weeks": 42,
+      "peak": 5,
+      "score": 760
+    },
+    {
+      "artist": "Dido",
+      "title": "Thank You",
+      "weeks": 39,
+      "peak": 3,
+      "score": 568
+    },
+    {
+      "artist": "Incubus",
+      "title": "Drive",
+      "weeks": 39,
+      "peak": 9,
+      "score": 202
+    },
+    {
+      "artist": "Staind",
+      "title": "It's Been Awhile",
+      "weeks": 38,
+      "peak": 5,
+      "score": 613
+    },
+    {
+      "artist": "Blu Cantrell",
+      "title": "Hit 'Em Up Style (Oops!)",
+      "weeks": 34,
+      "peak": 2,
+      "score": 417
+    },
+    {
+      "artist": "Eve",
+      "title": "Let Me Blow Ya Mind",
+      "weeks": 33,
+      "peak": 2,
+      "score": 753
+    },
+    {
+      "artist": "Uncle Kracker",
+      "title": "Follow Me",
+      "weeks": 33,
+      "peak": 5,
+      "score": 500
+    },
+    {
+      "artist": "Toya",
+      "title": "I Do!!",
+      "weeks": 31,
+      "peak": 16,
+      "score": -30
+    },
+    {
+      "artist": "Matchbox Twenty",
+      "title": "If You're Gone",
+      "weeks": 30,
+      "peak": 5,
+      "score": 529
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Jennifer Lopez",
+      "title": "I'm Real",
+      "weeks": 26,
+      "peak": 1,
+      "score": 811
+    },
+    {
+      "artist": "Usher",
+      "title": "U Remind Me",
+      "weeks": 24,
+      "peak": 1,
+      "score": 661
+    },
+    {
+      "artist": "Mary J. Blige",
+      "title": "Family Affair",
+      "weeks": 23,
+      "peak": 1,
+      "score": 621
+    },
+    {
+      "artist": "Janet",
+      "title": "All For You",
+      "weeks": 22,
+      "peak": 1,
+      "score": 617
+    },
+    {
+      "artist": "Alicia Keys",
+      "title": "Fallin'",
+      "weeks": 29,
+      "peak": 1,
+      "score": 617
+    },
+    {
+      "artist": "Joe",
+      "title": "Stutter",
+      "weeks": 25,
+      "peak": 1,
+      "score": 604
+    },
+    {
+      "artist": "Shaggy",
+      "title": "Angel",
+      "weeks": 26,
+      "peak": 1,
+      "score": 591
+    },
+    {
+      "artist": "Christina Aguilera, Lil' Kim, Mya",
+      "title": "Lady Marmalade",
+      "weeks": 20,
+      "peak": 1,
+      "score": 484
+    },
+    {
+      "artist": "Shaggy",
+      "title": "It Wasn't Me",
+      "weeks": 15,
+      "peak": 1,
+      "score": 452
+    },
+    {
+      "artist": "Crazy Town",
+      "title": "Butterfly",
+      "weeks": 23,
+      "peak": 1,
+      "score": 399
+    },
+    {
+      "artist": "Destiny's Child",
+      "title": "Independent Women Part I",
+      "weeks": 13,
+      "peak": 1,
+      "score": 398
+    },
+    {
+      "artist": "Usher",
+      "title": "U Got It Bad",
+      "weeks": 15,
+      "peak": 1,
+      "score": 277
+    },
+    {
+      "artist": "Nickelback",
+      "title": "How You Remind Me",
+      "weeks": 17,
+      "peak": 1,
+      "score": 228
+    },
+    {
+      "artist": "Destiny's Child",
+      "title": "Bootylicious",
+      "weeks": 19,
+      "peak": 1,
+      "score": 129
+    },
+    {
+      "artist": "OutKast",
+      "title": "Ms. Jackson",
+      "weeks": 1,
+      "peak": 1,
+      "score": 40
+    }
+  ]
+}

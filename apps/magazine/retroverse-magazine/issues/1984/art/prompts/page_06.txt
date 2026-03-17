@@ -1,0 +1,18 @@
+Retro magazine illustration for page 6 of a 1984 pop culture magazine.
+
+Prompt source: legacy
+Page slug: top_song_1
+Page title: Top Song 1
+
+Article topic:
+This page slot is part of the canonical RetroVerse issue structure. The top_song_1 section is wired into the build pipeline and currently holds a reserve editorial slot for 1984. Production Note Keep this slot in the issue order. Replace this reserve slot when year-specific editorial content is approved.
+
+Visual direction from page brief:
+Top Song 1 Top Song #1 Present Top Song 1 as a complete RetroVerse 1984 top_song reserve page page, with page-aware artwork under real typography and no text baked into the illustration layer for `top_song_1`. Top Song 1 Top Song #1 This page slot is part of the canonical RetroVerse issue structure. The top_song_1 section is wired into the build pipeline and currently holds a reserve editorial slot for 1984. Production Note Keep this slot in the issue order. Replace this reserve slot when year-specific editorial content is approved.
+
+Create a lively illustrated scene reflecting the topic.
+1970s editorial illustration style, bold color palette, energetic composition.
+
+Important:
+leave soft areas suitable for text placement.
+Do not include readable typography.

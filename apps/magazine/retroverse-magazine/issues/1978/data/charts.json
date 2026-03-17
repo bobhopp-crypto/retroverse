@@ -1,0 +1,74 @@
+{
+  "year": 1978,
+  "chart_name": "1978 Pop and Disco Pulse",
+  "artists_focus": [
+    "Bee Gees",
+    "Donna Summer",
+    "Chic",
+    "Rolling Stones",
+    "Billy Joel",
+    "Village People"
+  ],
+  "entries": [
+    {
+      "rank": 1,
+      "title": "Night Fever",
+      "artist": "Bee Gees",
+      "weeks_on_chart": 18
+    },
+    {
+      "rank": 2,
+      "title": "Hot Stuff",
+      "artist": "Donna Summer",
+      "weeks_on_chart": 14
+    },
+    {
+      "rank": 3,
+      "title": "Le Freak",
+      "artist": "Chic",
+      "weeks_on_chart": 17
+    },
+    {
+      "rank": 4,
+      "title": "Miss You",
+      "artist": "Rolling Stones",
+      "weeks_on_chart": 16
+    },
+    {
+      "rank": 5,
+      "title": "My Life",
+      "artist": "Billy Joel",
+      "weeks_on_chart": 15
+    },
+    {
+      "rank": 6,
+      "title": "Y.M.C.A.",
+      "artist": "Village People",
+      "weeks_on_chart": 13
+    },
+    {
+      "rank": 7,
+      "title": "Stayin Alive",
+      "artist": "Bee Gees",
+      "weeks_on_chart": 23
+    },
+    {
+      "rank": 8,
+      "title": "MacArthur Park",
+      "artist": "Donna Summer",
+      "weeks_on_chart": 12
+    },
+    {
+      "rank": 9,
+      "title": "September",
+      "artist": "Earth, Wind & Fire",
+      "weeks_on_chart": 11
+    },
+    {
+      "rank": 10,
+      "title": "Shadow Dancing",
+      "artist": "Andy Gibb",
+      "weeks_on_chart": 27
+    }
+  ]
+}

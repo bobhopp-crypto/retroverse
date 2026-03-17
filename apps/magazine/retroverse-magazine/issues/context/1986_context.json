@@ -1,0 +1,598 @@
+{
+  "year": "1986",
+  "top_songs": [
+    {
+      "artist": "The Human League",
+      "title": "Human",
+      "weeks": 16,
+      "peak": 1,
+      "score": 325
+    },
+    {
+      "artist": "Lionel Richie",
+      "title": "Dancing On The Ceiling",
+      "weeks": 17,
+      "peak": 2,
+      "score": 297
+    },
+    {
+      "artist": "Boston",
+      "title": "Amanda",
+      "weeks": 14,
+      "peak": 1,
+      "score": 291
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "Greatest Love Of All",
+      "weeks": 18,
+      "peak": 1,
+      "score": 289
+    },
+    {
+      "artist": "Prince And The Revolution",
+      "title": "Kiss",
+      "weeks": 18,
+      "peak": 1,
+      "score": 278
+    },
+    {
+      "artist": "Madonna",
+      "title": "True Blue",
+      "weeks": 13,
+      "peak": 3,
+      "score": 278
+    },
+    {
+      "artist": "Huey Lewis",
+      "title": "Hip To Be Square",
+      "weeks": 11,
+      "peak": 3,
+      "score": 277
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "How Will I Know",
+      "weeks": 19,
+      "peak": 1,
+      "score": 276
+    },
+    {
+      "artist": "Mr. Mister",
+      "title": "Kyrie",
+      "weeks": 18,
+      "peak": 1,
+      "score": 268
+    },
+    {
+      "artist": "Peter Cetera",
+      "title": "The Next Time I Fall",
+      "weeks": 15,
+      "peak": 1,
+      "score": 264
+    },
+    {
+      "artist": "Carl Anderson",
+      "title": "Friends And Lovers",
+      "weeks": 21,
+      "peak": 2,
+      "score": 250
+    },
+    {
+      "artist": "Madonna",
+      "title": "Live To Tell",
+      "weeks": 18,
+      "peak": 1,
+      "score": 248
+    },
+    {
+      "artist": "Falco",
+      "title": "Rock Me Amadeus",
+      "weeks": 17,
+      "peak": 1,
+      "score": 246
+    },
+    {
+      "artist": "Van Halen",
+      "title": "Why Can't This Be Love",
+      "weeks": 16,
+      "peak": 3,
+      "score": 240
+    },
+    {
+      "artist": "Pet Shop Boys",
+      "title": "West End Girls",
+      "weeks": 20,
+      "peak": 1,
+      "score": 234
+    },
+    {
+      "artist": "Survivor",
+      "title": "Burning Heart",
+      "weeks": 13,
+      "peak": 2,
+      "score": 233
+    },
+    {
+      "artist": "Madonna",
+      "title": "Papa Don't Preach",
+      "weeks": 18,
+      "peak": 1,
+      "score": 233
+    },
+    {
+      "artist": "Cameo",
+      "title": "Word Up",
+      "weeks": 16,
+      "peak": 6,
+      "score": 230
+    },
+    {
+      "artist": "Bon Jovi",
+      "title": "You Give Love A Bad Name",
+      "weeks": 17,
+      "peak": 1,
+      "score": 222
+    },
+    {
+      "artist": "Dionne",
+      "title": "That's What Friends Are For",
+      "weeks": 15,
+      "peak": 1,
+      "score": 219
+    },
+    {
+      "artist": "Lionel Richie",
+      "title": "Love Will Conquer All",
+      "weeks": 13,
+      "peak": 9,
+      "score": 216
+    },
+    {
+      "artist": "Starship",
+      "title": "Sara",
+      "weeks": 19,
+      "peak": 1,
+      "score": 213
+    },
+    {
+      "artist": "James Brown",
+      "title": "Living In America",
+      "weeks": 15,
+      "peak": 4,
+      "score": 207
+    },
+    {
+      "artist": "Patti Labelle",
+      "title": "On My Own",
+      "weeks": 23,
+      "peak": 1,
+      "score": 202
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "When I Think Of You",
+      "weeks": 19,
+      "peak": 1,
+      "score": 202
+    },
+    {
+      "artist": "Tina Turner",
+      "title": "Typical Male",
+      "weeks": 16,
+      "peak": 2,
+      "score": 202
+    },
+    {
+      "artist": "Sade",
+      "title": "The Sweetest Taboo",
+      "weeks": 16,
+      "peak": 5,
+      "score": 200
+    },
+    {
+      "artist": "Billy Idol",
+      "title": "To Be A Lover",
+      "weeks": 13,
+      "peak": 6,
+      "score": 200
+    },
+    {
+      "artist": "Huey Lewis",
+      "title": "Stuck With You",
+      "weeks": 19,
+      "peak": 1,
+      "score": 199
+    },
+    {
+      "artist": "Wang Chung",
+      "title": "Everybody Have Fun Tonight",
+      "weeks": 13,
+      "peak": 2,
+      "score": 199
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Harlem Shuffle",
+      "weeks": 13,
+      "peak": 5,
+      "score": 196
+    },
+    {
+      "artist": "Billy Ocean",
+      "title": "There'll Be Sad Songs (To Make You Cry)",
+      "weeks": 21,
+      "peak": 1,
+      "score": 195
+    },
+    {
+      "artist": "Atlantic Starr",
+      "title": "Secret Lovers",
+      "weeks": 22,
+      "peak": 3,
+      "score": 194
+    },
+    {
+      "artist": "Bruce Hornsby",
+      "title": "The Way It Is",
+      "weeks": 15,
+      "peak": 1,
+      "score": 192
+    },
+    {
+      "artist": "Genesis",
+      "title": "Invisible Touch",
+      "weeks": 17,
+      "peak": 1,
+      "score": 190
+    },
+    {
+      "artist": "Genesis",
+      "title": "Throwing It All Away",
+      "weeks": 16,
+      "peak": 4,
+      "score": 190
+    },
+    {
+      "artist": "John Mellencamp",
+      "title": "R.O.C.K. In The U.S.A. (A Salute to 60's Rock)",
+      "weeks": 17,
+      "peak": 2,
+      "score": 188
+    },
+    {
+      "artist": "Robert Palmer",
+      "title": "Addicted To Love",
+      "weeks": 22,
+      "peak": 1,
+      "score": 188
+    },
+    {
+      "artist": "Belinda Carlisle",
+      "title": "Mad About You",
+      "weeks": 21,
+      "peak": 3,
+      "score": 182
+    },
+    {
+      "artist": "Phil Collins",
+      "title": "Take Me Home",
+      "weeks": 16,
+      "peak": 7,
+      "score": 181
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Lionel Richie",
+      "hits": 2
+    },
+    {
+      "artist": "Whitney Houston",
+      "hits": 2
+    },
+    {
+      "artist": "Madonna",
+      "hits": 3
+    },
+    {
+      "artist": "Huey Lewis",
+      "hits": 2
+    },
+    {
+      "artist": "Genesis",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Level 42",
+      "title": "Something About You",
+      "weeks": 27,
+      "peak": 7,
+      "score": -48
+    },
+    {
+      "artist": "Glass Tiger",
+      "title": "Don't Forget Me (When I'm Gone)",
+      "weeks": 24,
+      "peak": 2,
+      "score": 46
+    },
+    {
+      "artist": "Miami Sound Machine",
+      "title": "Words Get In The Way",
+      "weeks": 24,
+      "peak": 5,
+      "score": 6
+    },
+    {
+      "artist": "Sly Fox",
+      "title": "Let's Go All The Way",
+      "weeks": 24,
+      "peak": 7,
+      "score": 2
+    },
+    {
+      "artist": "Patti Labelle",
+      "title": "On My Own",
+      "weeks": 23,
+      "peak": 1,
+      "score": 202
+    },
+    {
+      "artist": "Nu Shooz",
+      "title": "I Can't Wait",
+      "weeks": 23,
+      "peak": 3,
+      "score": 137
+    },
+    {
+      "artist": "Simply Red",
+      "title": "Holding Back The Years",
+      "weeks": 23,
+      "peak": 1,
+      "score": 75
+    },
+    {
+      "artist": "Lisa Lisa And Cult Jam",
+      "title": "All Cried Out",
+      "weeks": 23,
+      "peak": 8,
+      "score": 41
+    },
+    {
+      "artist": "Howard Jones",
+      "title": "No One Is To Blame",
+      "weeks": 23,
+      "peak": 4,
+      "score": 18
+    },
+    {
+      "artist": "Atlantic Starr",
+      "title": "Secret Lovers",
+      "weeks": 22,
+      "peak": 3,
+      "score": 194
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "The Human League",
+      "title": "Human",
+      "weeks": 16,
+      "peak": 1,
+      "score": 325
+    },
+    {
+      "artist": "Boston",
+      "title": "Amanda",
+      "weeks": 14,
+      "peak": 1,
+      "score": 291
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "Greatest Love Of All",
+      "weeks": 18,
+      "peak": 1,
+      "score": 289
+    },
+    {
+      "artist": "Prince And The Revolution",
+      "title": "Kiss",
+      "weeks": 18,
+      "peak": 1,
+      "score": 278
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "How Will I Know",
+      "weeks": 19,
+      "peak": 1,
+      "score": 276
+    },
+    {
+      "artist": "Mr. Mister",
+      "title": "Kyrie",
+      "weeks": 18,
+      "peak": 1,
+      "score": 268
+    },
+    {
+      "artist": "Peter Cetera",
+      "title": "The Next Time I Fall",
+      "weeks": 15,
+      "peak": 1,
+      "score": 264
+    },
+    {
+      "artist": "Madonna",
+      "title": "Live To Tell",
+      "weeks": 18,
+      "peak": 1,
+      "score": 248
+    },
+    {
+      "artist": "Falco",
+      "title": "Rock Me Amadeus",
+      "weeks": 17,
+      "peak": 1,
+      "score": 246
+    },
+    {
+      "artist": "Pet Shop Boys",
+      "title": "West End Girls",
+      "weeks": 20,
+      "peak": 1,
+      "score": 234
+    },
+    {
+      "artist": "Madonna",
+      "title": "Papa Don't Preach",
+      "weeks": 18,
+      "peak": 1,
+      "score": 233
+    },
+    {
+      "artist": "Bon Jovi",
+      "title": "You Give Love A Bad Name",
+      "weeks": 17,
+      "peak": 1,
+      "score": 222
+    },
+    {
+      "artist": "Dionne",
+      "title": "That's What Friends Are For",
+      "weeks": 15,
+      "peak": 1,
+      "score": 219
+    },
+    {
+      "artist": "Starship",
+      "title": "Sara",
+      "weeks": 19,
+      "peak": 1,
+      "score": 213
+    },
+    {
+      "artist": "Patti Labelle",
+      "title": "On My Own",
+      "weeks": 23,
+      "peak": 1,
+      "score": 202
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "When I Think Of You",
+      "weeks": 19,
+      "peak": 1,
+      "score": 202
+    },
+    {
+      "artist": "Huey Lewis",
+      "title": "Stuck With You",
+      "weeks": 19,
+      "peak": 1,
+      "score": 199
+    },
+    {
+      "artist": "Billy Ocean",
+      "title": "There'll Be Sad Songs (To Make You Cry)",
+      "weeks": 21,
+      "peak": 1,
+      "score": 195
+    },
+    {
+      "artist": "Bruce Hornsby",
+      "title": "The Way It Is",
+      "weeks": 15,
+      "peak": 1,
+      "score": 192
+    },
+    {
+      "artist": "Genesis",
+      "title": "Invisible Touch",
+      "weeks": 17,
+      "peak": 1,
+      "score": 190
+    },
+    {
+      "artist": "Robert Palmer",
+      "title": "Addicted To Love",
+      "weeks": 22,
+      "peak": 1,
+      "score": 188
+    },
+    {
+      "artist": "Bananarama",
+      "title": "Venus",
+      "weeks": 19,
+      "peak": 1,
+      "score": 181
+    },
+    {
+      "artist": "Peter Cetera",
+      "title": "Glory Of Love (Theme From \"The Karate Kid Part II\")",
+      "weeks": 21,
+      "peak": 1,
+      "score": 174
+    },
+    {
+      "artist": "Cyndi Lauper",
+      "title": "True Colors",
+      "weeks": 18,
+      "peak": 1,
+      "score": 165
+    },
+    {
+      "artist": "Lionel Richie",
+      "title": "Say You, Say Me",
+      "weeks": 12,
+      "peak": 1,
+      "score": 164
+    },
+    {
+      "artist": "Peter Gabriel",
+      "title": "Sledgehammer",
+      "weeks": 21,
+      "peak": 1,
+      "score": 164
+    },
+    {
+      "artist": "Heart",
+      "title": "These Dreams",
+      "weeks": 20,
+      "peak": 1,
+      "score": 159
+    },
+    {
+      "artist": "Steve Winwood",
+      "title": "Higher Love",
+      "weeks": 22,
+      "peak": 1,
+      "score": 155
+    },
+    {
+      "artist": "Berlin",
+      "title": "Take My Breath Away (Love Theme From \"Top Gun\")",
+      "weeks": 21,
+      "peak": 1,
+      "score": 147
+    },
+    {
+      "artist": "The Bangles",
+      "title": "Walk Like An Egyptian",
+      "weeks": 14,
+      "peak": 1,
+      "score": 134
+    },
+    {
+      "artist": "Simply Red",
+      "title": "Holding Back The Years",
+      "weeks": 23,
+      "peak": 1,
+      "score": 75
+    }
+  ]
+}

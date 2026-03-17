@@ -1,0 +1,185 @@
+/**
+ * RetroVerse Theme System
+ * Centralized color tokens. Use var(--rv-*) everywhere.
+ * Themes: retroverse (default), light, dark
+ */
+
+/* --- RetroVerse (default) --- */
+:root,
+[data-theme='retroverse'] {
+  /* Base */
+  --rv-bg: #cdeae7;
+  --rv-bg-page: #f7f1e3;
+  --rv-frame-bg: #F0E7D2;
+  --rv-panel: #ffffff;
+  --rv-panel-cream: #EFE6CF;
+  --rv-panel-inner: #E4D9BE;
+  --rv-surface: #F6F2EA;
+
+  /* Ink / text */
+  --rv-ink: #0b0d17;
+  --rv-ink-secondary: #3f4554;
+  --rv-text: #0b0d17;
+  --rv-muted: #3f4554;
+
+  /* Borders / lines */
+  --rv-line: #0b0d17;
+  --rv-border: #b39c7f;
+  --rv-border-soft: color-mix(in srgb, var(--rv-border) 88%, var(--rv-surface) 12%);
+
+  /* Brand / accent */
+  --rv-coral: #e5534b;
+  --rv-teal: #4eb3b0;
+  --rv-blue: #A9D6E5;
+  --rv-mint: #B8E1C8;
+  --rv-yellow: #F2D57E;
+  --rv-power: #F2D57E;
+  --rv-accent: var(--rv-coral);
+  --rv-secondary: var(--rv-mint);
+
+  /* Unified UI palette aliases */
+  --rv1: var(--rv-ink);
+  --rv2: var(--rv-border-soft);
+  --rv3: var(--rv-panel);
+  --rv4: var(--rv-mint);
+  --rv5: var(--rv-coral);
+
+  /* UI states */
+  --rv-btn-primary-bg: #e5534b;
+  --rv-btn-primary-fg: #fff;
+  --rv-btn-secondary-bg: #4eb3b0;
+  --rv-btn-secondary-fg: #0b0d17;
+  --rv-shadow-offset: #0b0d17;
+
+  /* Display / retro components (alias for ring/display components) */
+  --rv-display-frame: #f8f1de;
+  --rv-display-window: #cfe6df;
+  --rv-display-mint: #bfd8d2;
+  --rv-display-ink: #5a3a24;
+  --rv-display-ink-secondary: #3c3a36;
+
+  /* Layout */
+  --rv-page-pad: 10px;
+
+  /* Hub dark variant */
+  --rv-hub-bg-start: #1f2e4f;
+  --rv-hub-bg-mid: #111a33;
+  --rv-hub-bg-end: #0b1226;
+  --rv-hub-border: rgba(210, 176, 90, 0.35);
+  --rv-hub-card-bg: linear-gradient(180deg, rgba(21, 35, 66, 0.95) 0%, rgba(14, 24, 49, 0.95) 100%);
+  --rv-hub-title: #f8e5b1;
+  --rv-hub-desc: rgba(245, 236, 214, 0.9);
+  --rv-hub-cta: #f5dc8c;
+}
+
+/* --- Light mode --- */
+[data-theme='light'] {
+  --rv-bg: #e8f4f3;
+  --rv-bg-page: #faf9f7;
+  --rv-frame-bg: #fdfcf9;
+  --rv-panel: #ffffff;
+  --rv-panel-cream: #f8f6f0;
+  --rv-panel-inner: #f0ede6;
+  --rv-surface: #f8f8f8;
+
+  --rv-ink: #1a1a1a;
+  --rv-ink-secondary: #4a4a4a;
+  --rv-text: #1a1a1a;
+  --rv-muted: #5a5a5a;
+
+  --rv-line: #2a2a2a;
+  --rv-border: #9a8b6f;
+  --rv-border-soft: #c4b9a0;
+
+  --rv-coral: #d94a42;
+  --rv-teal: #3ea39f;
+  --rv-blue: #99c6d5;
+  --rv-mint: #a8d1b8;
+  --rv-yellow: #e2c56e;
+  --rv-power: #e2c56e;
+  --rv-accent: var(--rv-coral);
+  --rv-secondary: var(--rv-mint);
+
+  --rv1: var(--rv-ink);
+  --rv2: var(--rv-border-soft);
+  --rv3: var(--rv-panel);
+  --rv4: var(--rv-mint);
+  --rv5: var(--rv-coral);
+
+  --rv-btn-primary-bg: #d94a42;
+  --rv-btn-primary-fg: #fff;
+  --rv-btn-secondary-bg: #3ea39f;
+  --rv-btn-secondary-fg: #1a1a1a;
+  --rv-shadow-offset: #1a1a1a;
+
+  --rv-display-frame: #f5f0e0;
+  --rv-display-window: #c5e0da;
+  --rv-display-mint: #b5d0ca;
+  --rv-display-ink: #4a2a18;
+  --rv-display-ink-secondary: #4a4a4a;
+
+  --rv-hub-bg-start: #2a3a5a;
+  --rv-hub-bg-mid: #1a2a44;
+  --rv-hub-bg-end: #0f1828;
+  --rv-hub-border: rgba(180, 150, 80, 0.4);
+  --rv-hub-card-bg: linear-gradient(180deg, rgba(30, 45, 75, 0.95) 0%, rgba(20, 35, 60, 0.95) 100%);
+  --rv-hub-title: #f0e0a0;
+  --rv-hub-desc: rgba(235, 225, 200, 0.9);
+  --rv-hub-cta: #e5cc7c;
+}
+
+/* --- Dark mode --- */
+[data-theme='dark'] {
+  --rv-bg: #0d1418;
+  --rv-bg-page: #0a0f12;
+  --rv-frame-bg: #141a1f;
+  --rv-panel: #1a2228;
+  --rv-panel-cream: #1e262c;
+  --rv-panel-inner: #242c33;
+  --rv-surface: #1a1f24;
+
+  --rv-ink: #e8e6e3;
+  --rv-ink-secondary: #b0ada8;
+  --rv-text: #e8e6e3;
+  --rv-muted: #8a8782;
+
+  --rv-line: #3a3a38;
+  --rv-border: #5a5548;
+  --rv-border-soft: #4a453a;
+
+  --rv-coral: #e5635b;
+  --rv-teal: #5ec3bf;
+  --rv-blue: #b9e6f5;
+  --rv-mint: #c8f1d8;
+  --rv-yellow: #f2e58e;
+  --rv-power: #f2e58e;
+  --rv-accent: var(--rv-coral);
+  --rv-secondary: var(--rv-mint);
+
+  --rv1: var(--rv-ink);
+  --rv2: var(--rv-border-soft);
+  --rv3: var(--rv-panel);
+  --rv4: var(--rv-mint);
+  --rv5: var(--rv-coral);
+
+  --rv-btn-primary-bg: #e5635b;
+  --rv-btn-primary-fg: #fff;
+  --rv-btn-secondary-bg: #5ec3bf;
+  --rv-btn-secondary-fg: #0a0f12;
+  --rv-shadow-offset: #000000;
+
+  --rv-display-frame: #1e262c;
+  --rv-display-window: #2a3a38;
+  --rv-display-mint: #2a3a36;
+  --rv-display-ink: #c8b8a8;
+  --rv-display-ink-secondary: #b0ada8;
+
+  --rv-hub-bg-start: #0f1520;
+  --rv-hub-bg-mid: #0a0f18;
+  --rv-hub-bg-end: #050810;
+  --rv-hub-border: rgba(140, 120, 70, 0.35);
+  --rv-hub-card-bg: linear-gradient(180deg, rgba(15, 22, 35, 0.98) 0%, rgba(8, 14, 25, 0.98) 100%);
+  --rv-hub-title: #e8d8a0;
+  --rv-hub-desc: rgba(220, 210, 190, 0.85);
+  --rv-hub-cta: #e0c87c;
+}

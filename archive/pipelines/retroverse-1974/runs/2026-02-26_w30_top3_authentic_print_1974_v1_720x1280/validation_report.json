@@ -1,0 +1,21 @@
+{
+  "run_id": "2026-02-26_w30_top3_authentic_print_1974_v1_720x1280",
+  "expected_cards": 3,
+  "prompt_records": 3,
+  "prompt_files_existing": 3,
+  "meta_files_existing": 3,
+  "image_files_existing": 3,
+  "missing_prompt_count": 0,
+  "missing_meta_count": 0,
+  "missing_image_count": 0,
+  "invalid_dimension_count": 0,
+  "invalid_dimensions": [],
+  "render_status_counts": {
+    "prompt_built": 3,
+    "success": 3
+  },
+  "pre_render_validation_passed": true,
+  "full_render_validation_passed": true,
+  "status": "pass",
+  "note": ""
+}

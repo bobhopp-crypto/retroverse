@@ -1,0 +1,521 @@
+{
+  "year": "1984",
+  "top_songs": [
+    {
+      "artist": "Prince",
+      "title": "When Doves Cry",
+      "weeks": 21,
+      "peak": 1,
+      "score": 394
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "I Just Called To Say I Love You",
+      "weeks": 20,
+      "peak": 1,
+      "score": 389
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "title": "Out Of Touch",
+      "weeks": 14,
+      "peak": 1,
+      "score": 372
+    },
+    {
+      "artist": "Wham!",
+      "title": "Wake Me Up Before You Go-Go",
+      "weeks": 17,
+      "peak": 1,
+      "score": 348
+    },
+    {
+      "artist": "Deniece Williams",
+      "title": "Let's Hear It For The Boy",
+      "weeks": 19,
+      "peak": 1,
+      "score": 340
+    },
+    {
+      "artist": "Kenny Loggins",
+      "title": "Footloose",
+      "weeks": 23,
+      "peak": 1,
+      "score": 336
+    },
+    {
+      "artist": "Chaka Khan",
+      "title": "I Feel For You",
+      "weeks": 17,
+      "peak": 3,
+      "score": 331
+    },
+    {
+      "artist": "Van Halen",
+      "title": "Jump",
+      "weeks": 21,
+      "peak": 1,
+      "score": 316
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "title": "Dancing In The Dark",
+      "weeks": 21,
+      "peak": 2,
+      "score": 314
+    },
+    {
+      "artist": "Prince And The Revolution",
+      "title": "Purple Rain",
+      "weeks": 13,
+      "peak": 2,
+      "score": 311
+    },
+    {
+      "artist": "Cyndi Lauper",
+      "title": "All Through The Night",
+      "weeks": 13,
+      "peak": 5,
+      "score": 295
+    },
+    {
+      "artist": "Phil Collins",
+      "title": "Against All Odds (Take A Look At Me Now)",
+      "weeks": 24,
+      "peak": 1,
+      "score": 288
+    },
+    {
+      "artist": "Lionel Richie",
+      "title": "Hello",
+      "weeks": 24,
+      "peak": 1,
+      "score": 287
+    },
+    {
+      "artist": "Ray Parker Jr",
+      "title": "Ghostbusters",
+      "weeks": 21,
+      "peak": 1,
+      "score": 277
+    },
+    {
+      "artist": "Tina Turner",
+      "title": "Better Be Good To Me",
+      "weeks": 16,
+      "peak": 5,
+      "score": 275
+    },
+    {
+      "artist": "Rockwell",
+      "title": "Somebody's Watching Me",
+      "weeks": 19,
+      "peak": 2,
+      "score": 274
+    },
+    {
+      "artist": "Cyndi Lauper",
+      "title": "She Bop",
+      "weeks": 18,
+      "peak": 3,
+      "score": 274
+    },
+    {
+      "artist": "Prince And The Revolution",
+      "title": "Let's Go Crazy",
+      "weeks": 19,
+      "peak": 1,
+      "score": 273
+    },
+    {
+      "artist": "Lionel Richie",
+      "title": "Penny Lover",
+      "weeks": 13,
+      "peak": 8,
+      "score": 272
+    },
+    {
+      "artist": "Chicago",
+      "title": "Hard Habit To Break",
+      "weeks": 22,
+      "peak": 3,
+      "score": 270
+    },
+    {
+      "artist": "Paul Mccartney",
+      "title": "No More Lonely Nights",
+      "weeks": 12,
+      "peak": 6,
+      "score": 269
+    },
+    {
+      "artist": "Billy Ocean",
+      "title": "Caribbean Queen (No More Love On The Run)",
+      "weeks": 21,
+      "peak": 1,
+      "score": 266
+    },
+    {
+      "artist": "Duran Duran",
+      "title": "The Wild Boys",
+      "weeks": 9,
+      "peak": 2,
+      "score": 255
+    },
+    {
+      "artist": "Thompson Twins",
+      "title": "Hold Me Now",
+      "weeks": 21,
+      "peak": 3,
+      "score": 252
+    },
+    {
+      "artist": "Tina Turner",
+      "title": "What's Love Got To Do With It",
+      "weeks": 28,
+      "peak": 1,
+      "score": 249
+    },
+    {
+      "artist": "Lionel Richie",
+      "title": "Stuck On You",
+      "weeks": 19,
+      "peak": 3,
+      "score": 247
+    },
+    {
+      "artist": "Sheena Easton",
+      "title": "Strut",
+      "weeks": 19,
+      "peak": 7,
+      "score": 241
+    },
+    {
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "weeks": 20,
+      "peak": 1,
+      "score": 236
+    },
+    {
+      "artist": "The Honeydrippers",
+      "title": "Sea Of Love",
+      "weeks": 12,
+      "peak": 4,
+      "score": 235
+    },
+    {
+      "artist": "Duran Duran",
+      "title": "The Reflex",
+      "weeks": 21,
+      "peak": 1,
+      "score": 224
+    },
+    {
+      "artist": "Culture Club",
+      "title": "Karma Chameleon",
+      "weeks": 17,
+      "peak": 1,
+      "score": 218
+    },
+    {
+      "artist": "John Waite",
+      "title": "Missing You",
+      "weeks": 24,
+      "peak": 1,
+      "score": 218
+    },
+    {
+      "artist": "Cyndi Lauper",
+      "title": "Girls Just Want To Have Fun",
+      "weeks": 22,
+      "peak": 2,
+      "score": 217
+    },
+    {
+      "artist": "Steve Perry",
+      "title": "Oh, Sherrie",
+      "weeks": 20,
+      "peak": 3,
+      "score": 214
+    },
+    {
+      "artist": "Pat Benatar",
+      "title": "We Belong",
+      "weeks": 10,
+      "peak": 6,
+      "score": 210
+    },
+    {
+      "artist": "Rod Stewart",
+      "title": "Infatuation",
+      "weeks": 18,
+      "peak": 6,
+      "score": 205
+    },
+    {
+      "artist": "The Cars",
+      "title": "Drive",
+      "weeks": 19,
+      "peak": 3,
+      "score": 203
+    },
+    {
+      "artist": "The Romantics",
+      "title": "Talking In Your Sleep",
+      "weeks": 13,
+      "peak": 3,
+      "score": 201
+    },
+    {
+      "artist": "Rick Springfield",
+      "title": "Love Somebody",
+      "weeks": 16,
+      "peak": 5,
+      "score": 197
+    },
+    {
+      "artist": "Kool",
+      "title": "Joanna",
+      "weeks": 15,
+      "peak": 2,
+      "score": 194
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Prince And The Revolution",
+      "hits": 2
+    },
+    {
+      "artist": "Cyndi Lauper",
+      "hits": 4
+    },
+    {
+      "artist": "Lionel Richie",
+      "hits": 3
+    },
+    {
+      "artist": "Tina Turner",
+      "hits": 2
+    },
+    {
+      "artist": "Duran Duran",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Madonna",
+      "title": "Borderline",
+      "weeks": 30,
+      "peak": 10,
+      "score": -159
+    },
+    {
+      "artist": "Tina Turner",
+      "title": "What's Love Got To Do With It",
+      "weeks": 28,
+      "peak": 1,
+      "score": 249
+    },
+    {
+      "artist": "Sheila E",
+      "title": "The Glamorous Life",
+      "weeks": 26,
+      "peak": 7,
+      "score": 46
+    },
+    {
+      "artist": "Laura Branigan",
+      "title": "Self Control",
+      "weeks": 25,
+      "peak": 4,
+      "score": 109
+    },
+    {
+      "artist": "Dan Hartman",
+      "title": "I Can Dream About You",
+      "weeks": 25,
+      "peak": 6,
+      "score": 97
+    },
+    {
+      "artist": "Peabo Bryson",
+      "title": "If Ever You're In My Arms Again",
+      "weeks": 25,
+      "peak": 10,
+      "score": -46
+    },
+    {
+      "artist": "Phil Collins",
+      "title": "Against All Odds (Take A Look At Me Now)",
+      "weeks": 24,
+      "peak": 1,
+      "score": 288
+    },
+    {
+      "artist": "Lionel Richie",
+      "title": "Hello",
+      "weeks": 24,
+      "peak": 1,
+      "score": 287
+    },
+    {
+      "artist": "John Waite",
+      "title": "Missing You",
+      "weeks": 24,
+      "peak": 1,
+      "score": 218
+    },
+    {
+      "artist": "The Pointer Sisters",
+      "title": "Jump (for My Love)",
+      "weeks": 24,
+      "peak": 3,
+      "score": 139
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Prince",
+      "title": "When Doves Cry",
+      "weeks": 21,
+      "peak": 1,
+      "score": 394
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "I Just Called To Say I Love You",
+      "weeks": 20,
+      "peak": 1,
+      "score": 389
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "title": "Out Of Touch",
+      "weeks": 14,
+      "peak": 1,
+      "score": 372
+    },
+    {
+      "artist": "Wham!",
+      "title": "Wake Me Up Before You Go-Go",
+      "weeks": 17,
+      "peak": 1,
+      "score": 348
+    },
+    {
+      "artist": "Deniece Williams",
+      "title": "Let's Hear It For The Boy",
+      "weeks": 19,
+      "peak": 1,
+      "score": 340
+    },
+    {
+      "artist": "Kenny Loggins",
+      "title": "Footloose",
+      "weeks": 23,
+      "peak": 1,
+      "score": 336
+    },
+    {
+      "artist": "Van Halen",
+      "title": "Jump",
+      "weeks": 21,
+      "peak": 1,
+      "score": 316
+    },
+    {
+      "artist": "Phil Collins",
+      "title": "Against All Odds (Take A Look At Me Now)",
+      "weeks": 24,
+      "peak": 1,
+      "score": 288
+    },
+    {
+      "artist": "Lionel Richie",
+      "title": "Hello",
+      "weeks": 24,
+      "peak": 1,
+      "score": 287
+    },
+    {
+      "artist": "Ray Parker Jr",
+      "title": "Ghostbusters",
+      "weeks": 21,
+      "peak": 1,
+      "score": 277
+    },
+    {
+      "artist": "Prince And The Revolution",
+      "title": "Let's Go Crazy",
+      "weeks": 19,
+      "peak": 1,
+      "score": 273
+    },
+    {
+      "artist": "Billy Ocean",
+      "title": "Caribbean Queen (No More Love On The Run)",
+      "weeks": 21,
+      "peak": 1,
+      "score": 266
+    },
+    {
+      "artist": "Tina Turner",
+      "title": "What's Love Got To Do With It",
+      "weeks": 28,
+      "peak": 1,
+      "score": 249
+    },
+    {
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
+      "weeks": 20,
+      "peak": 1,
+      "score": 236
+    },
+    {
+      "artist": "Duran Duran",
+      "title": "The Reflex",
+      "weeks": 21,
+      "peak": 1,
+      "score": 224
+    },
+    {
+      "artist": "Culture Club",
+      "title": "Karma Chameleon",
+      "weeks": 17,
+      "peak": 1,
+      "score": 218
+    },
+    {
+      "artist": "John Waite",
+      "title": "Missing You",
+      "weeks": 24,
+      "peak": 1,
+      "score": 218
+    },
+    {
+      "artist": "Yes",
+      "title": "Owner Of A Lonely Heart",
+      "weeks": 14,
+      "peak": 1,
+      "score": 170
+    },
+    {
+      "artist": "Madonna",
+      "title": "Like A Virgin",
+      "weeks": 7,
+      "peak": 1,
+      "score": 164
+    },
+    {
+      "artist": "Paul Mccartney And Michael Jackson",
+      "title": "Say Say Say",
+      "weeks": 10,
+      "peak": 1,
+      "score": 90
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+# RetroVerse Data Registry
+# Documents datasets and their relationships to pipelines and applications.
+# See docs/DATA_REGISTRY.md for schema and usage.
+
+datasets:
+  billboard_hot_100:
+    type: raw
+    path: data/raw/charts/billboard-hot-100.db
+    description: Canonical Billboard Hot 100 historical chart database
+    owner_pipeline: pipelines/support-data
+    consumers:
+      - pipelines/cards-1974
+      - pipelines/support-data
+      - apps/web
+      - apps/magazine
+
+  billboard_200_albums:
+    type: raw
+    path: data/raw/charts/billboard-200-albums-charts.db
+    description: Billboard 200 album chart dataset
+    owner_pipeline: pipelines/support-data
+    consumers:
+      - pipelines/support-data
+
+  vdj_history:
+    type: raw
+    path: data/raw/media/vdj_history_full.json
+    description: VirtualDJ historical play history dataset
+    owner_pipeline: pipelines/media-index
+    consumers:
+      - pipelines/media-index
+
+  media_index:
+    type: derived
+    path: data/derived/media-index/
+    description: Generated media index used by the web app
+    owner_pipeline: pipelines/media-index
+    inputs:
+      - vdj_history
+      - billboard_hot_100
+    consumers:
+      - apps/web
+
+  cards_1974_dataset:
+    type: derived
+    path: data/derived/cards/1974/
+    description: Weekly cultural card dataset generated for the 1974 card system
+    owner_pipeline: pipelines/cards-1974
+    consumers:
+      - apps/web
+      - pipelines/cards-1974
+
+  imdb_datasets:
+    type: raw
+    path: data/raw/imdb/
+    description: IMDb public dataset snapshots used for film and television metadata enrichment
+    owner_pipeline: apps/magazine
+    consumers:
+      - apps/magazine
+      - pipelines/support-data
+
+  screen_culture_dataset:
+    type: raw
+    path: data/raw/screen-culture/
+    description: Curated cultural datasets for movies, television, and media context
+    owner_pipeline: apps/magazine
+    consumers:
+      - apps/magazine
+
+  culture_derived_dataset:
+    type: derived
+    path: data/derived/culture/
+    description: Normalized cultural reference tables generated from multiple sources
+    owner_pipeline: pipelines/support-data
+    inputs:
+      - billboard_hot_100
+    consumers:
+      - apps/web
+      - apps/magazine
+
+  year_master_dataset:
+    type: derived
+    path: data/derived/year-masters/
+    description: Yearly cultural summary datasets used for charts, cards, and magazine generation
+    owner_pipeline: pipelines/support-data
+    inputs:
+      - billboard_hot_100
+      - retroverse_support_cultural
+    consumers:
+      - apps/web
+      - apps/magazine
+      - pipelines/cards-1974
+
+  retroverse_support_cultural:
+    type: derived
+    path: data/support/retroverse/retroverse_support_cultural_1958_2024_top10.csv
+    description: Curated cultural support CSV used to build year-master outputs
+    owner_pipeline: pipelines/support-data
+    consumers:
+      - pipelines/support-data
+      - apps/magazine
+
+  web_public_data:
+    type: derived
+    path: apps/web/public/data
+    description: Published data bundle consumed directly by the web app
+    owner_pipeline: apps/web
+    inputs:
+      - media_index
+      - cards_1974_dataset
+      - billboard_hot_100
+      - billboard_200_albums
+    consumers:
+      - apps/web
+      - pipelines/media-index
+      - pipelines/cards-1974
+      - pipelines/support-data
+
+  web_public_cards_1974:
+    type: derived
+    path: apps/web/public/cards/1974
+    description: Published 1974 card image set consumed by the web app
+    owner_pipeline: pipelines/cards-1974
+    inputs:
+      - cards_1974_dataset
+    consumers:
+      - apps/web
+      - pipelines/cards-1974

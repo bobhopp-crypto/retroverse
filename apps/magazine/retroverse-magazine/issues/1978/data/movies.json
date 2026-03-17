@@ -1,0 +1,56 @@
+{
+  "year": 1978,
+  "chart_name": "Top Box Office 1978",
+  "films": [
+    {
+      "rank": 1,
+      "title": "Grease",
+      "note": "Musical blockbuster with broad repeat attendance."
+    },
+    {
+      "rank": 2,
+      "title": "Superman",
+      "note": "Holiday-season event release with major theatrical draw."
+    },
+    {
+      "rank": 3,
+      "title": "Animal House",
+      "note": "Campus comedy breakout with durable audience momentum."
+    },
+    {
+      "rank": 4,
+      "title": "Heaven Can Wait",
+      "note": "Star-led fantasy comedy with strong mainstream appeal."
+    },
+    {
+      "rank": 5,
+      "title": "Every Which Way But Loose",
+      "note": "Late-year crowd-pleaser with crossover audience pull."
+    },
+    {
+      "rank": 6,
+      "title": "Hooper",
+      "note": "Stunt-driven action comedy built around star persona."
+    },
+    {
+      "rank": 7,
+      "title": "Jaws 2",
+      "note": "Sequel event benefiting from summer franchise awareness."
+    },
+    {
+      "rank": 8,
+      "title": "Halloween",
+      "note": "Low-budget suspense hit with exceptional return."
+    },
+    {
+      "rank": 9,
+      "title": "The Deer Hunter",
+      "note": "Prestige drama with critical and audience impact."
+    },
+    {
+      "rank": 10,
+      "title": "Midnight Express",
+      "note": "Intense drama title with strong word-of-mouth visibility."
+    }
+  ]
+}

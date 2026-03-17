@@ -1,0 +1,462 @@
+[
+  {
+    "artist": "The Beatles",
+    "score": 695.5
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "score": 689.7
+  },
+  {
+    "artist": "Glen Campbell",
+    "score": 579.1
+  },
+  {
+    "artist": "The Temptations",
+    "score": 574
+  },
+  {
+    "artist": "Tom Jones",
+    "score": 573.7
+  },
+  {
+    "artist": "Elvis Presley",
+    "score": 472.2
+  },
+  {
+    "artist": "Three Dog Night",
+    "score": 468.8
+  },
+  {
+    "artist": "The Rolling Stones",
+    "score": 394.8
+  },
+  {
+    "artist": "Soundtrack",
+    "score": 363.6
+  },
+  {
+    "artist": "The 5th Dimension",
+    "score": 302.2
+  },
+  {
+    "artist": "Blood, Sweat",
+    "score": 297.7
+  },
+  {
+    "artist": "Tommy James And The Shondells",
+    "score": 293.8
+  },
+  {
+    "artist": "Marvin Gaye",
+    "score": 291.6
+  },
+  {
+    "artist": "Stevie Wonder",
+    "score": 290
+  },
+  {
+    "artist": "Led Zeppelin",
+    "score": 286
+  },
+  {
+    "artist": "Cream",
+    "score": 285.1
+  },
+  {
+    "artist": "Dionne Warwick",
+    "score": 271.6
+  },
+  {
+    "artist": "Aretha Franklin",
+    "score": 261
+  },
+  {
+    "artist": "Diana Ross & The Supremes",
+    "score": 203
+  },
+  {
+    "artist": "Iron Butterfly",
+    "score": 202.6
+  },
+  {
+    "artist": "Johnny Cash",
+    "score": 200.8
+  },
+  {
+    "artist": "Sly",
+    "score": 200
+  },
+  {
+    "artist": "Oliver",
+    "score": 197.7
+  },
+  {
+    "artist": "Steppenwolf",
+    "score": 196.8
+  },
+  {
+    "artist": "Bob Dylan",
+    "score": 194.9
+  },
+  {
+    "artist": "Donovan",
+    "score": 194.8
+  },
+  {
+    "artist": "The Doors",
+    "score": 194.3
+  },
+  {
+    "artist": "B.j. Thomas",
+    "score": 193.8
+  },
+  {
+    "artist": "Diana Ross",
+    "score": 193.3
+  },
+  {
+    "artist": "Neil Diamond",
+    "score": 192.3
+  },
+  {
+    "artist": "The Jimi Hendrix Experience",
+    "score": 191.8
+  },
+  {
+    "artist": "Young-holt Unlimited",
+    "score": 191.8
+  },
+  {
+    "artist": "Classics Iv",
+    "score": 191.7
+  },
+  {
+    "artist": "The Ventures",
+    "score": 188.8
+  },
+  {
+    "artist": "Bee Gees",
+    "score": 188.2
+  },
+  {
+    "artist": "Booker T",
+    "score": 187.3
+  },
+  {
+    "artist": "The Supremes",
+    "score": 186.7
+  },
+  {
+    "artist": "The Cowsills",
+    "score": 185.9
+  },
+  {
+    "artist": "The Edwin Hawkins' Singers",
+    "score": 184.3
+  },
+  {
+    "artist": "Smith",
+    "score": 181
+  },
+  {
+    "artist": "Jose Feliciano",
+    "score": 179.1
+  },
+  {
+    "artist": "The Rascals",
+    "score": 178.9
+  },
+  {
+    "artist": "Frank Sinatra",
+    "score": 175.6
+  },
+  {
+    "artist": "Jefferson Airplane",
+    "score": 172.6
+  },
+  {
+    "artist": "Original Cast Recording",
+    "score": 104.2
+  },
+  {
+    "artist": "Blood, Sweat & Tears",
+    "score": 103.8
+  },
+  {
+    "artist": "The Archies",
+    "score": 101.2
+  },
+  {
+    "artist": "The Association",
+    "score": 101.2
+  },
+  {
+    "artist": "Blind Faith",
+    "score": 101
+  },
+  {
+    "artist": "Tommy Roe",
+    "score": 100.5
+  },
+  {
+    "artist": "Henry Mancini And His Orchestra",
+    "score": 100.4
+  },
+  {
+    "artist": "Zager",
+    "score": 100.3
+  },
+  {
+    "artist": "Steam",
+    "score": 100.1
+  },
+  {
+    "artist": "Peter, Paul",
+    "score": 100
+  },
+  {
+    "artist": "Sergio Mendes",
+    "score": 99.6
+  },
+  {
+    "artist": "The Isley Brothers",
+    "score": 99.4
+  },
+  {
+    "artist": "Mercy",
+    "score": 99.3
+  },
+  {
+    "artist": "R.b. Greaves",
+    "score": 99.1
+  },
+  {
+    "artist": "Big Brother And The Holding Company",
+    "score": 98.8
+  },
+  {
+    "artist": "The Friends Of Distinction",
+    "score": 98.6
+  },
+  {
+    "artist": "Henry Mancini",
+    "score": 98.5
+  },
+  {
+    "artist": "The Foundations",
+    "score": 98.5
+  },
+  {
+    "artist": "Bobby Sherman",
+    "score": 98.3
+  },
+  {
+    "artist": "The Zombies",
+    "score": 98.3
+  },
+  {
+    "artist": "Brooklyn Bridge",
+    "score": 98
+  },
+  {
+    "artist": "Jr. Walker",
+    "score": 97.6
+  },
+  {
+    "artist": "Santana",
+    "score": 97.6
+  },
+  {
+    "artist": "Jackie Deshannon",
+    "score": 97.4
+  },
+  {
+    "artist": "Jerry Butler",
+    "score": 97.3
+  },
+  {
+    "artist": "Crosby, Stills & Nash",
+    "score": 96.7
+  },
+  {
+    "artist": "The Youngbloods",
+    "score": 96.7
+  },
+  {
+    "artist": "1910 Fruitgum Co",
+    "score": 96.3
+  },
+  {
+    "artist": "The Flying Machine",
+    "score": 96.3
+  },
+  {
+    "artist": "Janis Joplin",
+    "score": 96.2
+  },
+  {
+    "artist": "Tyrone Davis",
+    "score": 96.1
+  },
+  {
+    "artist": "The Who",
+    "score": 96
+  },
+  {
+    "artist": "Tommy James",
+    "score": 95.5
+  },
+  {
+    "artist": "Edwin Starr",
+    "score": 95.4
+  },
+  {
+    "artist": "The Guess Who",
+    "score": 95.4
+  },
+  {
+    "artist": "Jay",
+    "score": 95.3
+  },
+  {
+    "artist": "Kenny Rogers",
+    "score": 95.3
+  },
+  {
+    "artist": "Nilsson",
+    "score": 95.2
+  },
+  {
+    "artist": "The Turtles",
+    "score": 95.2
+  },
+  {
+    "artist": "Walter",
+    "score": 94.8
+  },
+  {
+    "artist": "Isaac Hayes",
+    "score": 94.5
+  },
+  {
+    "artist": "Judy Collins",
+    "score": 94.3
+  },
+  {
+    "artist": "The Winstons",
+    "score": 94.3
+  },
+  {
+    "artist": "Simon",
+    "score": 94
+  },
+  {
+    "artist": "Smokey Robinson",
+    "score": 93.4
+  },
+  {
+    "artist": "Andy Williams",
+    "score": 93.3
+  },
+  {
+    "artist": "Ray Stevens",
+    "score": 93.3
+  },
+  {
+    "artist": "Barbra Streisand",
+    "score": 93.2
+  },
+  {
+    "artist": "Tony Joe White",
+    "score": 93.2
+  },
+  {
+    "artist": "Jackson 5",
+    "score": 92.7
+  },
+  {
+    "artist": "Andy Kim",
+    "score": 92.6
+  },
+  {
+    "artist": "The Cuff Links",
+    "score": 92.2
+  },
+  {
+    "artist": "Gary Puckett And The Union Gap",
+    "score": 92.1
+  },
+  {
+    "artist": "David Ruffin",
+    "score": 92
+  },
+  {
+    "artist": "Desmond Dekker And The Aces",
+    "score": 92
+  },
+  {
+    "artist": "Johnnie Taylor",
+    "score": 91.4
+  },
+  {
+    "artist": "Sly & The Family Stone",
+    "score": 90.6
+  },
+  {
+    "artist": "Bobby Vinton",
+    "score": 90.5
+  },
+  {
+    "artist": "Peter, Paul & Mary",
+    "score": 90.5
+  },
+  {
+    "artist": "Engelbert Humperdinck",
+    "score": 90.4
+  },
+  {
+    "artist": "The Band",
+    "score": 90.1
+  },
+  {
+    "artist": "Dean Martin",
+    "score": 88.5
+  },
+  {
+    "artist": "Jeff Beck",
+    "score": 87.1
+  },
+  {
+    "artist": "Vanilla Fudge",
+    "score": 86.7
+  },
+  {
+    "artist": "Chicago",
+    "score": 86.3
+  },
+  {
+    "artist": "Joe Cocker",
+    "score": 85.6
+  },
+  {
+    "artist": "Bill Cosby",
+    "score": 85.5
+  },
+  {
+    "artist": "Traffic",
+    "score": 85.1
+  },
+  {
+    "artist": "The Lettermen",
+    "score": 84.7
+  },
+  {
+    "artist": "Al Kooper",
+    "score": 84
+  },
+  {
+    "artist": "Canned Heat",
+    "score": 83.3
+  }
+]

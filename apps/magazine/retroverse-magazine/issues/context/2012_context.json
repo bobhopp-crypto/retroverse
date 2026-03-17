@@ -1,0 +1,484 @@
+{
+  "year": "2012",
+  "top_songs": [
+    {
+      "artist": "Gotye",
+      "title": "Somebody That I Used To Know",
+      "weeks": 50,
+      "peak": 1,
+      "score": 1163
+    },
+    {
+      "artist": "Carly Rae Jepsen",
+      "title": "Call Me Maybe",
+      "weeks": 43,
+      "peak": 1,
+      "score": 1145
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "Payphone",
+      "weeks": 31,
+      "peak": 2,
+      "score": 884
+    },
+    {
+      "artist": "Nicki Minaj",
+      "title": "Starships",
+      "weeks": 31,
+      "peak": 5,
+      "score": 848
+    },
+    {
+      "artist": "Fun",
+      "title": "We Are Young",
+      "weeks": 40,
+      "peak": 1,
+      "score": 843
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "title": "Stronger (What Doesn't Kill You)",
+      "weeks": 35,
+      "peak": 1,
+      "score": 790
+    },
+    {
+      "artist": "One Direction",
+      "title": "What Makes You Beautiful",
+      "weeks": 34,
+      "peak": 4,
+      "score": 743
+    },
+    {
+      "artist": "The Wanted",
+      "title": "Glad You Came",
+      "weeks": 37,
+      "peak": 3,
+      "score": 718
+    },
+    {
+      "artist": "Adele",
+      "title": "Set Fire To The Rain",
+      "weeks": 27,
+      "peak": 1,
+      "score": 683
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Wide Awake",
+      "weeks": 26,
+      "peak": 2,
+      "score": 674
+    },
+    {
+      "artist": "Rihanna",
+      "title": "We Found Love",
+      "weeks": 28,
+      "peak": 1,
+      "score": 609
+    },
+    {
+      "artist": "P!nk",
+      "title": "Blow Me (One Last Kiss)",
+      "weeks": 24,
+      "peak": 5,
+      "score": 595
+    },
+    {
+      "artist": "Drake",
+      "title": "The Motto",
+      "weeks": 30,
+      "peak": 14,
+      "score": 588
+    },
+    {
+      "artist": "Owl City",
+      "title": "Good Time",
+      "weeks": 24,
+      "peak": 8,
+      "score": 582
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "We Are Never Ever Getting Back Together",
+      "weeks": 19,
+      "peak": 1,
+      "score": 568
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "One More Night",
+      "weeks": 26,
+      "peak": 1,
+      "score": 566
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Where Have You Been",
+      "weeks": 25,
+      "peak": 5,
+      "score": 554
+    },
+    {
+      "artist": "Kanye West, Big Sean, Pusha T, 2 Chainz",
+      "title": "Mercy",
+      "weeks": 32,
+      "peak": 13,
+      "score": 536
+    },
+    {
+      "artist": "Flo Rida",
+      "title": "Wild Ones",
+      "weeks": 36,
+      "peak": 5,
+      "score": 526
+    },
+    {
+      "artist": "Flo Rida",
+      "title": "Good Feeling",
+      "weeks": 25,
+      "peak": 3,
+      "score": 525
+    },
+    {
+      "artist": "Snoop Dogg",
+      "title": "Young, Wild & Free",
+      "weeks": 22,
+      "peak": 7,
+      "score": 520
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Part Of Me",
+      "weeks": 22,
+      "peak": 1,
+      "score": 509
+    },
+    {
+      "artist": "Drake",
+      "title": "Take Care",
+      "weeks": 29,
+      "peak": 7,
+      "score": 505
+    },
+    {
+      "artist": "David Guetta",
+      "title": "Turn Me On",
+      "weeks": 24,
+      "peak": 4,
+      "score": 497
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "As Long As You Love Me",
+      "weeks": 26,
+      "peak": 6,
+      "score": 494
+    },
+    {
+      "artist": "David Guetta",
+      "title": "Titanium",
+      "weeks": 32,
+      "peak": 7,
+      "score": 482
+    },
+    {
+      "artist": "Psy",
+      "title": "Gangnam Style",
+      "weeks": 15,
+      "peak": 2,
+      "score": 470
+    },
+    {
+      "artist": "Lmfao",
+      "title": "Sexy And I Know It",
+      "weeks": 26,
+      "peak": 1,
+      "score": 467
+    },
+    {
+      "artist": "Train",
+      "title": "Drive By",
+      "weeks": 36,
+      "peak": 10,
+      "score": 464
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "Boyfriend",
+      "weeks": 20,
+      "peak": 2,
+      "score": 459
+    },
+    {
+      "artist": "Ke$ha",
+      "title": "Die Young",
+      "weeks": 12,
+      "peak": 2,
+      "score": 424
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Diamonds",
+      "weeks": 12,
+      "peak": 1,
+      "score": 421
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "It Will Rain",
+      "weeks": 17,
+      "peak": 3,
+      "score": 400
+    },
+    {
+      "artist": "Jessie J",
+      "title": "Domino",
+      "weeks": 19,
+      "peak": 6,
+      "score": 400
+    },
+    {
+      "artist": "Usher",
+      "title": "Scream",
+      "weeks": 21,
+      "peak": 9,
+      "score": 393
+    },
+    {
+      "artist": "Tyga",
+      "title": "Rack City",
+      "weeks": 21,
+      "peak": 7,
+      "score": 384
+    },
+    {
+      "artist": "Flo Rida",
+      "title": "Whistle",
+      "weeks": 29,
+      "peak": 1,
+      "score": 383
+    },
+    {
+      "artist": "Phillip Phillips",
+      "title": "Home",
+      "weeks": 25,
+      "peak": 7,
+      "score": 378
+    },
+    {
+      "artist": "Neon Trees",
+      "title": "Everybody Talks",
+      "weeks": 39,
+      "peak": 6,
+      "score": 376
+    },
+    {
+      "artist": "Fun",
+      "title": "Some Nights",
+      "weeks": 43,
+      "peak": 3,
+      "score": 370
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Maroon 5",
+      "hits": 2
+    },
+    {
+      "artist": "Fun",
+      "hits": 2
+    },
+    {
+      "artist": "Katy Perry",
+      "hits": 2
+    },
+    {
+      "artist": "Rihanna",
+      "hits": 3
+    },
+    {
+      "artist": "Drake",
+      "hits": 2
+    },
+    {
+      "artist": "Flo Rida",
+      "hits": 3
+    },
+    {
+      "artist": "David Guetta",
+      "hits": 2
+    },
+    {
+      "artist": "Justin Bieber",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Ellie Goulding",
+      "title": "Lights",
+      "weeks": 51,
+      "peak": 2,
+      "score": 278
+    },
+    {
+      "artist": "Gotye",
+      "title": "Somebody That I Used To Know",
+      "weeks": 50,
+      "peak": 1,
+      "score": 1163
+    },
+    {
+      "artist": "Jason Mraz",
+      "title": "I Won't Give Up",
+      "weeks": 44,
+      "peak": 8,
+      "score": 112
+    },
+    {
+      "artist": "Carly Rae Jepsen",
+      "title": "Call Me Maybe",
+      "weeks": 43,
+      "peak": 1,
+      "score": 1145
+    },
+    {
+      "artist": "Fun",
+      "title": "Some Nights",
+      "weeks": 43,
+      "peak": 3,
+      "score": 370
+    },
+    {
+      "artist": "Fun",
+      "title": "We Are Young",
+      "weeks": 40,
+      "peak": 1,
+      "score": 843
+    },
+    {
+      "artist": "Neon Trees",
+      "title": "Everybody Talks",
+      "weeks": 39,
+      "peak": 6,
+      "score": 376
+    },
+    {
+      "artist": "Alex Clare",
+      "title": "Too Close",
+      "weeks": 38,
+      "peak": 7,
+      "score": 147
+    },
+    {
+      "artist": "The Wanted",
+      "title": "Glad You Came",
+      "weeks": 37,
+      "peak": 3,
+      "score": 718
+    },
+    {
+      "artist": "Flo Rida",
+      "title": "Wild Ones",
+      "weeks": 36,
+      "peak": 5,
+      "score": 526
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Gotye",
+      "title": "Somebody That I Used To Know",
+      "weeks": 50,
+      "peak": 1,
+      "score": 1163
+    },
+    {
+      "artist": "Carly Rae Jepsen",
+      "title": "Call Me Maybe",
+      "weeks": 43,
+      "peak": 1,
+      "score": 1145
+    },
+    {
+      "artist": "Fun",
+      "title": "We Are Young",
+      "weeks": 40,
+      "peak": 1,
+      "score": 843
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "title": "Stronger (What Doesn't Kill You)",
+      "weeks": 35,
+      "peak": 1,
+      "score": 790
+    },
+    {
+      "artist": "Adele",
+      "title": "Set Fire To The Rain",
+      "weeks": 27,
+      "peak": 1,
+      "score": 683
+    },
+    {
+      "artist": "Rihanna",
+      "title": "We Found Love",
+      "weeks": 28,
+      "peak": 1,
+      "score": 609
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "We Are Never Ever Getting Back Together",
+      "weeks": 19,
+      "peak": 1,
+      "score": 568
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "One More Night",
+      "weeks": 26,
+      "peak": 1,
+      "score": 566
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Part Of Me",
+      "weeks": 22,
+      "peak": 1,
+      "score": 509
+    },
+    {
+      "artist": "Lmfao",
+      "title": "Sexy And I Know It",
+      "weeks": 26,
+      "peak": 1,
+      "score": 467
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Diamonds",
+      "weeks": 12,
+      "peak": 1,
+      "score": 421
+    },
+    {
+      "artist": "Flo Rida",
+      "title": "Whistle",
+      "weeks": 29,
+      "peak": 1,
+      "score": 383
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "Locked Out Of Heaven",
+      "weeks": 11,
+      "peak": 1,
+      "score": 337
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "run_id": "2026-02-25_w29-w32_top10",
+  "week_number": 31,
+  "date_range_start": "1974-08-05",
+  "date_range_end": "1974-08-11",
+  "chart_date": "1974-08-10",
+  "rank": 7,
+  "title": "Waterloo",
+  "artist": "Abba",
+  "weeks_on_chart": 11,
+  "peak_position": 7,
+  "ambient_lines": [],
+  "prompt_text": "Create a vertical 1080x1920 collectible 1974 Billboard Hot 100 chart card.\nStyle: high-detail illustrated print poster from 1974, worn paper grain, subtle ink imperfections, ornate border, period-accurate 1970s typography.\nDo NOT use any real person's likeness or recognizable face.\n\nTop banner text: \"Billboard Hot 100 - Week Ending 1974-08-10\".\nLarge rank display: \"#7\".\nTitle: \"Waterloo\".\nArtist: \"Abba\".\nInclude small fact blocks: \"Weeks on Chart: 11\" and \"Peak Position: 7\".\n\nArtwork: symbolic / atmospheric illustration inspired by the song's mood, not literal portraits.\nComposition should feel like a real printed artifact from 1974.\n\nNo modern UI, no neon glow boxes, no geometric template panels.\n",
+  "basename": "1974_W31_1974-08-10_R07_waterloo__abba",
+  "output_paths": {
+    "prompt_txt": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/week_31_1974-08-05_1974-08-11/top10/prompts/1974_W31_1974-08-10_R07_waterloo__abba.txt",
+    "meta_json": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/week_31_1974-08-05_1974-08-11/top10/meta/1974_W31_1974-08-10_R07_waterloo__abba.json",
+    "image_png": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/week_31_1974-08-05_1974-08-11/top10/images/1974_W31_1974-08-10_R07_waterloo__abba.png",
+    "render_log_json": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/week_31_1974-08-05_1974-08-11/top10/logs/1974_W31_1974-08-10_R07_waterloo__abba.render.json"
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "year": "1979",
+  "top_songs": [
+    {
+      "artist": "Donna Summer",
+      "title": "Hot Stuff",
+      "weeks": 21,
+      "peak": 1,
+      "score": 455
+    },
+    {
+      "artist": "M",
+      "title": "Pop Muzik",
+      "weeks": 21,
+      "peak": 1,
+      "score": 447
+    },
+    {
+      "artist": "Olivia Newton-john",
+      "title": "A Little More Love",
+      "weeks": 14,
+      "peak": 3,
+      "score": 417
+    },
+    {
+      "artist": "Rod Stewart",
+      "title": "Da Ya Think I'm Sexy?",
+      "weeks": 19,
+      "peak": 1,
+      "score": 409
+    },
+    {
+      "artist": "Eagles",
+      "title": "Heartache Tonight",
+      "weeks": 13,
+      "peak": 1,
+      "score": 376
+    },
+    {
+      "artist": "Commodores",
+      "title": "Still",
+      "weeks": 14,
+      "peak": 1,
+      "score": 373
+    },
+    {
+      "artist": "Styx",
+      "title": "Babe",
+      "weeks": 13,
+      "peak": 1,
+      "score": 350
+    },
+    {
+      "artist": "Donna Summer",
+      "title": "Bad Girls",
+      "weeks": 20,
+      "peak": 1,
+      "score": 345
+    },
+    {
+      "artist": "The Knack",
+      "title": "My Sharona",
+      "weeks": 22,
+      "peak": 1,
+      "score": 345
+    },
+    {
+      "artist": "The Pointer Sisters",
+      "title": "Fire",
+      "weeks": 15,
+      "peak": 2,
+      "score": 344
+    },
+    {
+      "artist": "Chic",
+      "title": "Le Freak",
+      "weeks": 15,
+      "peak": 1,
+      "score": 325
+    },
+    {
+      "artist": "Village People",
+      "title": "Y.M.C.A.",
+      "weeks": 15,
+      "peak": 2,
+      "score": 319
+    },
+    {
+      "artist": "Donna Summer",
+      "title": "Dim All The Lights",
+      "weeks": 19,
+      "peak": 2,
+      "score": 319
+    },
+    {
+      "artist": "Dionne Warwick",
+      "title": "I'll Never Love This Way Again",
+      "weeks": 24,
+      "peak": 5,
+      "score": 316
+    },
+    {
+      "artist": "Barbra Streisand/donna Summer",
+      "title": "No More Tears (Enough Is Enough)",
+      "weeks": 11,
+      "peak": 1,
+      "score": 313
+    },
+    {
+      "artist": "Gloria Gaynor",
+      "title": "I Will Survive",
+      "weeks": 24,
+      "peak": 1,
+      "score": 307
+    },
+    {
+      "artist": "Chic",
+      "title": "Good Times",
+      "weeks": 19,
+      "peak": 1,
+      "score": 290
+    },
+    {
+      "artist": "Earth, Wind",
+      "title": "After The Love Has Gone",
+      "weeks": 17,
+      "peak": 2,
+      "score": 287
+    },
+    {
+      "artist": "Barbra Streisand",
+      "title": "The Main Event/Fight",
+      "weeks": 17,
+      "peak": 3,
+      "score": 286
+    },
+    {
+      "artist": "Kenny Rogers",
+      "title": "She Believes In Me",
+      "weeks": 16,
+      "peak": 5,
+      "score": 281
+    },
+    {
+      "artist": "Robert John",
+      "title": "Sad Eyes",
+      "weeks": 27,
+      "peak": 1,
+      "score": 275
+    },
+    {
+      "artist": "Kc And The Sunshine Band",
+      "title": "Please Don't Go",
+      "weeks": 19,
+      "peak": 2,
+      "score": 260
+    },
+    {
+      "artist": "Nicolette Larson",
+      "title": "Lotta Love",
+      "weeks": 13,
+      "peak": 8,
+      "score": 259
+    },
+    {
+      "artist": "The Doobie Brothers",
+      "title": "What A Fool Believes",
+      "weeks": 20,
+      "peak": 1,
+      "score": 255
+    },
+    {
+      "artist": "Dire Straits",
+      "title": "Sultans Of Swing",
+      "weeks": 15,
+      "peak": 4,
+      "score": 255
+    },
+    {
+      "artist": "Wings",
+      "title": "Goodnight Tonight",
+      "weeks": 16,
+      "peak": 5,
+      "score": 255
+    },
+    {
+      "artist": "Rickie Lee Jones",
+      "title": "Chuck E.'s In Love",
+      "weeks": 15,
+      "peak": 4,
+      "score": 247
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "Send One Your Love",
+      "weeks": 9,
+      "peak": 4,
+      "score": 244
+    },
+    {
+      "artist": "Barry Manilow",
+      "title": "Ships",
+      "weeks": 12,
+      "peak": 9,
+      "score": 236
+    },
+    {
+      "artist": "Little River Band",
+      "title": "Lonesome Loser",
+      "weeks": 18,
+      "peak": 6,
+      "score": 232
+    },
+    {
+      "artist": "Anita Ward",
+      "title": "Ring My Bell",
+      "weeks": 21,
+      "peak": 1,
+      "score": 231
+    },
+    {
+      "artist": "Electric Light Orchestra",
+      "title": "Don't Bring Me Down",
+      "weeks": 15,
+      "peak": 4,
+      "score": 229
+    },
+    {
+      "artist": "Herb Alpert",
+      "title": "Rise",
+      "weeks": 23,
+      "peak": 1,
+      "score": 223
+    },
+    {
+      "artist": "Earth, Wind",
+      "title": "Boogie Wonderland",
+      "weeks": 16,
+      "peak": 6,
+      "score": 214
+    },
+    {
+      "artist": "Amii Stewart",
+      "title": "Knock On Wood",
+      "weeks": 20,
+      "peak": 1,
+      "score": 209
+    },
+    {
+      "artist": "Elton John",
+      "title": "Mama Can't Buy You Love",
+      "weeks": 18,
+      "peak": 9,
+      "score": 208
+    },
+    {
+      "artist": "Melissa Manchester",
+      "title": "Don't Cry Out Loud",
+      "weeks": 16,
+      "peak": 10,
+      "score": 205
+    },
+    {
+      "artist": "Electric Light Orchestra",
+      "title": "Shine A Little Love",
+      "weeks": 15,
+      "peak": 8,
+      "score": 200
+    },
+    {
+      "artist": "Blondie",
+      "title": "Heart Of Glass",
+      "weeks": 21,
+      "peak": 1,
+      "score": 198
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "title": "Tusk",
+      "weeks": 13,
+      "peak": 8,
+      "score": 193
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Donna Summer",
+      "hits": 3
+    },
+    {
+      "artist": "Chic",
+      "hits": 2
+    },
+    {
+      "artist": "Earth, Wind",
+      "hits": 2
+    },
+    {
+      "artist": "Electric Light Orchestra",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Robert John",
+      "title": "Sad Eyes",
+      "weeks": 27,
+      "peak": 1,
+      "score": 275
+    },
+    {
+      "artist": "Dr. Hook",
+      "title": "When You're In Love With A Beautiful Woman",
+      "weeks": 25,
+      "peak": 6,
+      "score": 119
+    },
+    {
+      "artist": "Dionne Warwick",
+      "title": "I'll Never Love This Way Again",
+      "weeks": 24,
+      "peak": 5,
+      "score": 316
+    },
+    {
+      "artist": "Gloria Gaynor",
+      "title": "I Will Survive",
+      "weeks": 24,
+      "peak": 1,
+      "score": 307
+    },
+    {
+      "artist": "David Naughton",
+      "title": "Makin' It",
+      "weeks": 24,
+      "peak": 5,
+      "score": 168
+    },
+    {
+      "artist": "Herb Alpert",
+      "title": "Rise",
+      "weeks": 23,
+      "peak": 1,
+      "score": 223
+    },
+    {
+      "artist": "Peaches",
+      "title": "Reunited",
+      "weeks": 23,
+      "peak": 1,
+      "score": 177
+    },
+    {
+      "artist": "Maxine Nightingale",
+      "title": "Lead Me On",
+      "weeks": 23,
+      "peak": 5,
+      "score": 129
+    },
+    {
+      "artist": "Bonnie Pointer",
+      "title": "Heaven Must Have Sent You",
+      "weeks": 23,
+      "peak": 11,
+      "score": 68
+    },
+    {
+      "artist": "The Knack",
+      "title": "My Sharona",
+      "weeks": 22,
+      "peak": 1,
+      "score": 345
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Donna Summer",
+      "title": "Hot Stuff",
+      "weeks": 21,
+      "peak": 1,
+      "score": 455
+    },
+    {
+      "artist": "M",
+      "title": "Pop Muzik",
+      "weeks": 21,
+      "peak": 1,
+      "score": 447
+    },
+    {
+      "artist": "Rod Stewart",
+      "title": "Da Ya Think I'm Sexy?",
+      "weeks": 19,
+      "peak": 1,
+      "score": 409
+    },
+    {
+      "artist": "Eagles",
+      "title": "Heartache Tonight",
+      "weeks": 13,
+      "peak": 1,
+      "score": 376
+    },
+    {
+      "artist": "Commodores",
+      "title": "Still",
+      "weeks": 14,
+      "peak": 1,
+      "score": 373
+    },
+    {
+      "artist": "Styx",
+      "title": "Babe",
+      "weeks": 13,
+      "peak": 1,
+      "score": 350
+    },
+    {
+      "artist": "Donna Summer",
+      "title": "Bad Girls",
+      "weeks": 20,
+      "peak": 1,
+      "score": 345
+    },
+    {
+      "artist": "The Knack",
+      "title": "My Sharona",
+      "weeks": 22,
+      "peak": 1,
+      "score": 345
+    },
+    {
+      "artist": "Chic",
+      "title": "Le Freak",
+      "weeks": 15,
+      "peak": 1,
+      "score": 325
+    },
+    {
+      "artist": "Barbra Streisand/donna Summer",
+      "title": "No More Tears (Enough Is Enough)",
+      "weeks": 11,
+      "peak": 1,
+      "score": 313
+    },
+    {
+      "artist": "Gloria Gaynor",
+      "title": "I Will Survive",
+      "weeks": 24,
+      "peak": 1,
+      "score": 307
+    },
+    {
+      "artist": "Chic",
+      "title": "Good Times",
+      "weeks": 19,
+      "peak": 1,
+      "score": 290
+    },
+    {
+      "artist": "Robert John",
+      "title": "Sad Eyes",
+      "weeks": 27,
+      "peak": 1,
+      "score": 275
+    },
+    {
+      "artist": "The Doobie Brothers",
+      "title": "What A Fool Believes",
+      "weeks": 20,
+      "peak": 1,
+      "score": 255
+    },
+    {
+      "artist": "Anita Ward",
+      "title": "Ring My Bell",
+      "weeks": 21,
+      "peak": 1,
+      "score": 231
+    },
+    {
+      "artist": "Herb Alpert",
+      "title": "Rise",
+      "weeks": 23,
+      "peak": 1,
+      "score": 223
+    },
+    {
+      "artist": "Amii Stewart",
+      "title": "Knock On Wood",
+      "weeks": 20,
+      "peak": 1,
+      "score": 209
+    },
+    {
+      "artist": "Blondie",
+      "title": "Heart Of Glass",
+      "weeks": 21,
+      "peak": 1,
+      "score": 198
+    },
+    {
+      "artist": "Peaches",
+      "title": "Reunited",
+      "weeks": 23,
+      "peak": 1,
+      "score": 177
+    },
+    {
+      "artist": "Rupert Holmes",
+      "title": "Escape (The Pina Colada Song)",
+      "weeks": 11,
+      "peak": 1,
+      "score": 140
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "Love You Inside Out",
+      "weeks": 19,
+      "peak": 1,
+      "score": 102
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "Too Much Heaven",
+      "weeks": 14,
+      "peak": 1,
+      "score": 79
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "Tragedy",
+      "weeks": 20,
+      "peak": 1,
+      "score": 75
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Don't Stop 'Til You Get Enough",
+      "weeks": 21,
+      "peak": 1,
+      "score": 63
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "run_id": "2026-02-26_w30_top3_cinematic_painterly_1974_v1_720x1280",
+  "style_version": "cinematic_painterly_1974_v1",
+  "week_number": 30,
+  "date_range_start": "1974-07-29",
+  "date_range_end": "1974-08-04",
+  "chart_date": "1974-08-03",
+  "rank": 2,
+  "title": "Don't Let The Sun Go Down On Me",
+  "artist": "Elton John",
+  "weeks_on_chart": 7,
+  "peak_position": 2,
+  "ambient_lines": [
+    "Cultural Backdrop: Comic speed lines on matte black stock"
+  ],
+  "layout_logic_resolved": "Single hero-card composition with cinematic illustrated background and symbolic foreground scene. Rank badge scaling: very large embossed badge (high weight). Layered title typography with warm highlight edges, artist secondary but strong. Integrate ambient 1974 references into the scene composition instead of floating labels. Use warm key light, secondary rim light, subtle haze, canvas grain, vintage wear, and soft vignette.",
+  "strict_injected_variables": {
+    "rank": 2,
+    "title": "Don't Let The Sun Go Down On Me",
+    "artist": "Elton John",
+    "weeks_on_chart": 7,
+    "peak_position": 2,
+    "ambient_lines": [
+      "Cultural Backdrop: Comic speed lines on matte black stock"
+    ]
+  },
+  "negative_block_enforced": [
+    "no modern UI",
+    "no glossy 3D rendering",
+    "no photoreal portraits",
+    "no flat minimalism",
+    "no nudity",
+    "no sexual content"
+  ],
+  "prompt_text": "Create a vertical 720x1280 premium collectible chart card in cinematic 1974 painterly style.\n\nThis is a single hero card, not a poster layout.\n\nVisual direction: dramatic oil-painted realism with period-authentic 1970s styling. Warm golden lighting, deep shadows, layered depth, subtle film grain. Slightly textured brush strokes. No modern UI. No glossy 3D rendering. No photoreal portraits. No flat minimalism.\n\nComposition:\n\nCinematic illustrated background inspired by the mood of the song.\nForeground symbolic scene with dramatic lighting.\nMetallic or embossed rank badge with visual weight scaled to chart position.\nLayered title typography with gold or warm highlight edges.\nArtist name secondary but strong.\nSmall contextual cultural inserts from 1974 subtly integrated into the design (TV, film, headlines) - not floating labels.\n\nLighting:\n\nSingle dominant warm key light.\nSecondary rim light for depth.\nSlight atmospheric haze.\n\nTexture:\n\nSubtle canvas grain.\nLight vintage wear.\nSoft vignette.\n\nContent:\nRank: 2\nTitle: Don't Let The Sun Go Down On Me\nArtist: Elton John\nWeeks on Chart: 7\nPeak Position: 2\nAmbient references:\nCultural Backdrop: Comic speed lines on matte black stock\n\nThe result must feel like a premium 1974 radio-station display card with cinematic depth and layered realism.\nInterpret romance themes only as symbolic, non-sexual visual storytelling. No nudity or erotic imagery.\n\nResolved layout logic (computed in code): Single hero-card composition with cinematic illustrated background and symbolic foreground scene. Rank badge scaling: very large embossed badge (high weight). Layered title typography with warm highlight edges, artist secondary but strong. Integrate ambient 1974 references into the scene composition instead of floating labels. Use warm key light, secondary rim light, subtle haze, canvas grain, vintage wear, and soft vignette.\nRender resolution override for this run: 720x1280.\nStyle version pin: cinematic_painterly_1974_v1.\nNegative block (enforced): no modern UI, no glossy 3D rendering, no photoreal portraits, no flat minimalism, no nudity, no sexual content.\n",
+  "basename": "1974_W30_1974-08-03_R02_don-t-let-the-sun-go-down-on-me__elton-john",
+  "output_paths": {
+    "prompt_txt": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/cinematic_painterly_1974_v1/week_30_1974-07-29_1974-08-04/top3/prompts/1974_W30_1974-08-03_R02_don-t-let-the-sun-go-down-on-me__elton-john.txt",
+    "meta_json": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/cinematic_painterly_1974_v1/week_30_1974-07-29_1974-08-04/top3/meta/1974_W30_1974-08-03_R02_don-t-let-the-sun-go-down-on-me__elton-john.json",
+    "image_png": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/cinematic_painterly_1974_v1/week_30_1974-07-29_1974-08-04/top3/images/1974_W30_1974-08-03_R02_don-t-let-the-sun-go-down-on-me__elton-john.png",
+    "render_log_json": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/cinematic_painterly_1974_v1/week_30_1974-07-29_1974-08-04/top3/logs/1974_W30_1974-08-03_R02_don-t-let-the-sun-go-down-on-me__elton-john.render.json"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "year": 1978,
+  "page_slug": "culture_collage",
+  "page_number": 28,
+  "page_title": "Culture Collage",
+  "story_subtitle": "Visual fragments from the year",
+  "page_purpose": "Present Culture Collage as a complete RetroVerse 1978 collage page page, with page-aware artwork under real typography and no text baked into the illustration layer for `culture_collage`.",
+  "page_intent_readback": "Present Culture Collage as a complete RetroVerse 1978 collage page page, with page-aware artwork under real typography and no text baked into the illustration layer for `culture_collage`.",
+  "composition_type": "full-page editorial background with protected overlay zones",
+  "page_orientation": "portrait",
+  "art_zone_dimensions": [
+    {
+      "id": "full_page_background",
+      "x": 0,
+      "y": 0,
+      "width": 100,
+      "height": 100,
+      "unit": "percent",
+      "purpose": "Background illustration layer beneath final layout typography."
+    }
+  ],
+  "text_safe_zones": [
+    {
+      "id": "title_zone",
+      "x": 7,
+      "y": 6,
+      "width": 50,
+      "height": 12,
+      "unit": "percent"
+    },
+    {
+      "id": "body_zone",
+      "x": 7,
+      "y": 22,
+      "width": 48,
+      "height": 62,
+      "unit": "percent"
+    },
+    {
+      "id": "sidebar_zone",
+      "x": 60,
+      "y": 22,
+      "width": 29,
+      "height": 60,
+      "unit": "percent"
+    },
+    {
+      "id": "footer_zone",
+      "x": 7,
+      "y": 93,
+      "width": 86,
+      "height": 3,
+      "unit": "percent"
+    }
+  ],
+  "mood": "editorial and period-aware",
+  "color_palette": "warm paper stock, halftone black, amber, teal, and late-70s saturated accent colors",
+  "scene_description": "A broad cultural collage of 1978, built from objects and environments instead of rendered page furniture.",
+  "visual_hierarchy": [
+    "Primary focal area supports Culture Collage.",
+    "Secondary props reinforce `culture_collage` without competing with text zones.",
+    "Negative space stays calm inside title, body, sidebar, and footer zones.",
+    "Character and environment detail support the story while preserving calm text landing zones."
+  ],
+  "optional_easter_egg_guidance": "Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography.",
+  "page_aware_design": true,
+  "illustrator_role": "EDITORIAL_SCENE_ARTIST",
+  "studio_role_responsibility": "Create page-aware narrative scenes that support feature storytelling and leave disciplined overlay space for typography.",
+  "studio_style_rules": [
+    "Stage one coherent editorial moment or environment tied directly to the article summary.",
+    "Use period-correct props, lighting, and human activity to imply the story without baking in labels or captions.",
+    "Keep the calmest negative space inside the declared title, body, and sidebar zones."
+  ],
+  "text_rendering_instruction": "DO NOT RENDER FINAL TEXT INTO THE ARTWORK",
+  "artwork_text_rule": "no readable text inside artwork",
+  "forbidden_rendering": [
+    "article body text",
+    "charts/tables",
+    "exact production typography",
+    "magazine headlines",
+    "page titles",
+    "pull quotes",
+    "sidebars",
+    "chart tables",
+    "magazine layout elements"
+  ]
+}

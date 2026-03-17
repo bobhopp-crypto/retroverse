@@ -1,0 +1,95 @@
+billboard_hot_100:
+  type: sqlite
+  path: /Users/bobhopp/Sites/retroverse/data/raw/charts/billboard-hot-100.db
+  required: true
+  description: Weekly Billboard Hot 100 charts (1958–present)
+
+billboard_200:
+  type: sqlite
+  path: /Users/bobhopp/Sites/retroverse/data/raw/charts/billboard-200-albums-charts.db
+  required: true
+  description: Weekly Billboard 200 album charts
+
+year_master_json:
+  path: ../../../data/derived/year-masters/retroverse_year_master_1958_2024.json
+  type: json
+  required: false
+  description: Consolidated year master dataset
+
+cultural_events_glob:
+  path: ../../../data/support/magazine/cultural-events/cultural_events_*.json
+  type: json_glob
+  required: false
+  description: Cultural event datasets by year or topic
+
+year_end_top_40_glob:
+  path: ../../../data/support/magazine/year-end-top40/year_end_top_40_*.json
+  type: json_glob
+  required: false
+  description: Year-end Top 40 exports
+
+billboard_stats_dir:
+  path: ../../../data/derived/media-index/output/billboard
+  type: directory
+  required: false
+  description: Derived Billboard analytics
+
+retroverse_output_dir:
+  path: ../../../data/derived/year-masters
+  type: directory
+  required: false
+  description: Generated RetroVerse output datasets
+
+public_data_dir:
+  path: ../../../apps/web/public/data
+  type: directory
+  required: false
+  description: Front-end ready data bundles
+
+vdj_history_json:
+  path: ../../../data/raw/media/vdj_history_full.json
+  type: json
+  required: false
+  description: Personal DJ history dataset
+
+screen_culture_root_dir:
+  path: /Users/bobhopp/Sites/retroverse/data/raw/screen-culture
+  type: directory
+  required: false
+  description: Root directory for screen/culture warehouse artifacts
+
+screen_culture_movies_master:
+  path: /Users/bobhopp/Sites/retroverse/data/raw/screen-culture/warehouse/movies_master.json
+  type: json
+  required: false
+  description: Movies warehouse master records with provenance and trust labels
+
+screen_culture_television_master:
+  path: /Users/bobhopp/Sites/retroverse/data/raw/screen-culture/warehouse/television_master.json
+  type: json
+  required: false
+  description: Television warehouse master records with provenance and trust labels
+
+screen_culture_movies_by_year:
+  path: /Users/bobhopp/Sites/retroverse/data/raw/screen-culture/warehouse/movies_by_year.json
+  type: json
+  required: false
+  description: Movies grouped by year for issue context generation
+
+screen_culture_television_by_year:
+  path: /Users/bobhopp/Sites/retroverse/data/raw/screen-culture/warehouse/television_by_year.json
+  type: json
+  required: false
+  description: Television grouped by year for issue context generation
+
+screen_culture_inventory:
+  path: /Users/bobhopp/Sites/retroverse/data/raw/screen-culture/warehouse/screen_culture_inventory.json
+  type: json
+  required: false
+  description: Warehouse inventory and source-layer metadata for screen/culture data
+
+screen_culture_warehouse_db:
+  path: /Users/bobhopp/Sites/retroverse/data/raw/screen-culture/warehouse/screen_culture.db
+  type: sqlite
+  required: false
+  description: SQLite mirror of screen/culture warehouse masters

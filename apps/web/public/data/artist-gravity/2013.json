@@ -1,0 +1,518 @@
+[
+  {
+    "artist": "One Direction",
+    "score": 661.1
+  },
+  {
+    "artist": "Eminem",
+    "score": 476.8
+  },
+  {
+    "artist": "Bruno Mars",
+    "score": 405.4
+  },
+  {
+    "artist": "Justin Timberlake",
+    "score": 404.8
+  },
+  {
+    "artist": "Soundtrack",
+    "score": 404.6
+  },
+  {
+    "artist": "Macklemore",
+    "score": 384
+  },
+  {
+    "artist": "Lady Gaga",
+    "score": 377.3
+  },
+  {
+    "artist": "Luke Bryan",
+    "score": 373.6
+  },
+  {
+    "artist": "Katy Perry",
+    "score": 371.8
+  },
+  {
+    "artist": "Miley Cyrus",
+    "score": 301.3
+  },
+  {
+    "artist": "Various Artists",
+    "score": 299.4
+  },
+  {
+    "artist": "Drake",
+    "score": 294.3
+  },
+  {
+    "artist": "Taylor Swift",
+    "score": 288.4
+  },
+  {
+    "artist": "Imagine Dragons",
+    "score": 286.5
+  },
+  {
+    "artist": "Justin Bieber",
+    "score": 283.9
+  },
+  {
+    "artist": "Maroon 5",
+    "score": 282
+  },
+  {
+    "artist": "Pitbull",
+    "score": 277.5
+  },
+  {
+    "artist": "Kanye West",
+    "score": 272.1
+  },
+  {
+    "artist": "The Lumineers",
+    "score": 203.6
+  },
+  {
+    "artist": "Robin Thicke",
+    "score": 203.5
+  },
+  {
+    "artist": "Daft Punk",
+    "score": 202.9
+  },
+  {
+    "artist": "Kidz Bop Kids",
+    "score": 200
+  },
+  {
+    "artist": "JAY-Z",
+    "score": 199.6
+  },
+  {
+    "artist": "Rihanna",
+    "score": 199.6
+  },
+  {
+    "artist": "Lorde",
+    "score": 199.5
+  },
+  {
+    "artist": "Five Finger Death Punch",
+    "score": 198.4
+  },
+  {
+    "artist": "Selena Gomez",
+    "score": 197.3
+  },
+  {
+    "artist": "A$AP Rocky",
+    "score": 196.7
+  },
+  {
+    "artist": "P!nk",
+    "score": 195.2
+  },
+  {
+    "artist": "Ariana Grande",
+    "score": 194.1
+  },
+  {
+    "artist": "Lil Wayne",
+    "score": 193.9
+  },
+  {
+    "artist": "Fall Out Boy",
+    "score": 192.1
+  },
+  {
+    "artist": "Psy",
+    "score": 192.1
+  },
+  {
+    "artist": "Demi Lovato",
+    "score": 191.5
+  },
+  {
+    "artist": "Blake Shelton",
+    "score": 190.9
+  },
+  {
+    "artist": "Darius Rucker",
+    "score": 188.6
+  },
+  {
+    "artist": "J. Cole",
+    "score": 185
+  },
+  {
+    "artist": "Will.i.am",
+    "score": 183.7
+  },
+  {
+    "artist": "2 Chainz",
+    "score": 183.1
+  },
+  {
+    "artist": "Calvin Harris",
+    "score": 178.6
+  },
+  {
+    "artist": "Mumford & Sons",
+    "score": 104.2
+  },
+  {
+    "artist": "Michael Buble",
+    "score": 102.4
+  },
+  {
+    "artist": "Paramore",
+    "score": 102.4
+  },
+  {
+    "artist": "Lady Antebellum",
+    "score": 102.2
+  },
+  {
+    "artist": "Chris Tomlin",
+    "score": 102.1
+  },
+  {
+    "artist": "Josh Groban",
+    "score": 101.8
+  },
+  {
+    "artist": "Vampire Weekend",
+    "score": 101.8
+  },
+  {
+    "artist": "Gary Allan",
+    "score": 101.7
+  },
+  {
+    "artist": "The Band Perry",
+    "score": 101.7
+  },
+  {
+    "artist": "Tim McGraw",
+    "score": 101.7
+  },
+  {
+    "artist": "Kacey Musgraves",
+    "score": 101.2
+  },
+  {
+    "artist": "Kenny Chesney",
+    "score": 101.2
+  },
+  {
+    "artist": "Baauer",
+    "score": 101
+  },
+  {
+    "artist": "George Strait",
+    "score": 100.8
+  },
+  {
+    "artist": "T.I.",
+    "score": 100.7
+  },
+  {
+    "artist": "Avenged Sevenfold",
+    "score": 100.6
+  },
+  {
+    "artist": "Queens Of The Stone Age",
+    "score": 100.6
+  },
+  {
+    "artist": "The Civil Wars",
+    "score": 100.6
+  },
+  {
+    "artist": "Black Sabbath",
+    "score": 100.5
+  },
+  {
+    "artist": "Wale",
+    "score": 100.5
+  },
+  {
+    "artist": "Keith Urban",
+    "score": 100.4
+  },
+  {
+    "artist": "Jack Johnson",
+    "score": 100.3
+  },
+  {
+    "artist": "Andrea Bocelli",
+    "score": 100.1
+  },
+  {
+    "artist": "Brad Paisley",
+    "score": 100.1
+  },
+  {
+    "artist": "Bon Jovi",
+    "score": 100
+  },
+  {
+    "artist": "Fantasia",
+    "score": 100
+  },
+  {
+    "artist": "Pearl Jam",
+    "score": 99.9
+  },
+  {
+    "artist": "Sara Bareilles",
+    "score": 99.9
+  },
+  {
+    "artist": "Arcade Fire",
+    "score": 99.7
+  },
+  {
+    "artist": "John Mayer",
+    "score": 99.7
+  },
+  {
+    "artist": "Florida Georgia Line",
+    "score": 99.6
+  },
+  {
+    "artist": "Onerepublic",
+    "score": 99.6
+  },
+  {
+    "artist": "Alice In Chains",
+    "score": 99.5
+  },
+  {
+    "artist": "Tamar Braxton",
+    "score": 99.5
+  },
+  {
+    "artist": "K. Michelle",
+    "score": 99.4
+  },
+  {
+    "artist": "Kid Cudi",
+    "score": 99.4
+  },
+  {
+    "artist": "Garth Brooks",
+    "score": 99.3
+  },
+  {
+    "artist": "Justin Moore",
+    "score": 99.3
+  },
+  {
+    "artist": "Kings Of Leon",
+    "score": 99.2
+  },
+  {
+    "artist": "Beyonce",
+    "score": 99.1
+  },
+  {
+    "artist": "David Bowie",
+    "score": 99.1
+  },
+  {
+    "artist": "Jimi Hendrix",
+    "score": 99.1
+  },
+  {
+    "artist": "Ciara",
+    "score": 99
+  },
+  {
+    "artist": "Panic! At The Disco",
+    "score": 99
+  },
+  {
+    "artist": "The Weeknd",
+    "score": 99
+  },
+  {
+    "artist": "The National",
+    "score": 98.9
+  },
+  {
+    "artist": "Hollywood Undead",
+    "score": 98.8
+  },
+  {
+    "artist": "Atoms For Peace",
+    "score": 98.7
+  },
+  {
+    "artist": "Celine Dion",
+    "score": 98.6
+  },
+  {
+    "artist": "Avicii",
+    "score": 98.5
+  },
+  {
+    "artist": "TGT",
+    "score": 98.5
+  },
+  {
+    "artist": "Anna Kendrick",
+    "score": 98.4
+  },
+  {
+    "artist": "John Fogerty",
+    "score": 98.4
+  },
+  {
+    "artist": "Mac Miller",
+    "score": 98.3
+  },
+  {
+    "artist": "Cher",
+    "score": 98.2
+  },
+  {
+    "artist": "Sleeping With Sirens",
+    "score": 98.2
+  },
+  {
+    "artist": "Nine Inch Nails",
+    "score": 98.1
+  },
+  {
+    "artist": "Tegan And Sara",
+    "score": 98.1
+  },
+  {
+    "artist": "Chris Young",
+    "score": 98
+  },
+  {
+    "artist": "Tyler, The Creator",
+    "score": 98
+  },
+  {
+    "artist": "Paul McCartney",
+    "score": 97.9
+  },
+  {
+    "artist": "Big Sean",
+    "score": 97.7
+  },
+  {
+    "artist": "Kelly Clarkson",
+    "score": 97.7
+  },
+  {
+    "artist": "The Robertsons",
+    "score": 97.7
+  },
+  {
+    "artist": "A Great Big World",
+    "score": 96.6
+  },
+  {
+    "artist": "Lana Del Rey Vs. Cedric Gervais",
+    "score": 96.3
+  },
+  {
+    "artist": "Swedish House Mafia",
+    "score": 96
+  },
+  {
+    "artist": "Icona Pop",
+    "score": 95.9
+  },
+  {
+    "artist": "Phillip Phillips",
+    "score": 95.5
+  },
+  {
+    "artist": "Ylvis",
+    "score": 95.5
+  },
+  {
+    "artist": "Capital Cities",
+    "score": 95.3
+  },
+  {
+    "artist": "Zedd",
+    "score": 95.3
+  },
+  {
+    "artist": "Ke$ha",
+    "score": 95
+  },
+  {
+    "artist": "Passenger",
+    "score": 93
+  },
+  {
+    "artist": "Flo Rida",
+    "score": 92.9
+  },
+  {
+    "artist": "Mike Will Made-it",
+    "score": 90.3
+  },
+  {
+    "artist": "Mumford",
+    "score": 90
+  },
+  {
+    "artist": "Alicia Keys",
+    "score": 89.5
+  },
+  {
+    "artist": "Britney Spears",
+    "score": 89.2
+  },
+  {
+    "artist": "The Neighbourhood",
+    "score": 88.7
+  },
+  {
+    "artist": "Ellie Goulding",
+    "score": 88.5
+  },
+  {
+    "artist": "Fun",
+    "score": 88.3
+  },
+  {
+    "artist": "Awolnation",
+    "score": 87.7
+  },
+  {
+    "artist": "Pentatonix",
+    "score": 87.2
+  },
+  {
+    "artist": "Mariah Carey",
+    "score": 86.6
+  },
+  {
+    "artist": "Ne-yo",
+    "score": 85.8
+  },
+  {
+    "artist": "Ed Sheeran",
+    "score": 85
+  },
+  {
+    "artist": "Jason Derulo",
+    "score": 84.1
+  },
+  {
+    "artist": "Hunter Hayes",
+    "score": 83
+  }
+]

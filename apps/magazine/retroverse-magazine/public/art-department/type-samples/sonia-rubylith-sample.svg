@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Sonia Rubylith Type Sample</title>
+  <desc id="desc">Psychedelic display lettering sample for RetroVerse Type and Lettering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffecd1"/>
+      <stop offset="45%" stop-color="#ffd166"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect x="56" y="56" width="1088" height="788" rx="44" fill="#fff8e7" opacity="0.88"/>
+  <path d="M136 708c140-168 280-254 420-258 154-6 296 84 504 182" fill="none" stroke="#db2777" stroke-width="18" stroke-linecap="round" opacity="0.48"/>
+  <path d="M110 294c124-96 274-130 402-92 96 28 194 96 340 226" fill="none" stroke="#7c3aed" stroke-width="14" stroke-linecap="round" opacity="0.42"/>
+  <text x="112" y="206" fill="#5b21b6" font-size="64" font-family="Trebuchet MS, Arial, sans-serif" letter-spacing="10">SONIA RUBYLITH</text>
+  <text x="128" y="492" fill="#be185d" font-size="250" font-family="Georgia, serif" font-style="italic" letter-spacing="-16">Sr</text>
+  <text x="702" y="402" fill="#5b21b6" font-size="88" font-family="Georgia, serif" font-style="italic">poster</text>
+  <text x="700" y="496" fill="#1f2937" font-size="70" font-family="Trebuchet MS, Arial, sans-serif" letter-spacing="8">PSYCHEDELIC</text>
+  <text x="700" y="584" fill="#1f2937" font-size="70" font-family="Trebuchet MS, Arial, sans-serif" letter-spacing="8">DISPLAY</text>
+  <circle cx="986" cy="714" r="70" fill="#db2777" opacity="0.14"/>
+  <circle cx="1070" cy="194" r="36" fill="#5b21b6" opacity="0.2"/>
+  <text x="112" y="788" fill="#334155" font-size="34" font-family="Trebuchet MS, Arial, sans-serif" letter-spacing="5">TYPE &amp; LETTERING DEPARTMENT SAMPLE</text>
+</svg>

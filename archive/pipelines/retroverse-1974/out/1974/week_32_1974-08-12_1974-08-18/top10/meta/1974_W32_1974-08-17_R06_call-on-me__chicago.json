@@ -1,0 +1,23 @@
+{
+  "run_id": "2026-02-25_w29-w32_top10",
+  "week_number": 32,
+  "date_range_start": "1974-08-12",
+  "date_range_end": "1974-08-18",
+  "chart_date": "1974-08-17",
+  "rank": 6,
+  "title": "Call On Me",
+  "artist": "Chicago",
+  "weeks_on_chart": 9,
+  "peak_position": 6,
+  "ambient_lines": [
+    "Cultural Backdrop: Stage curtain folds in oxblood velvet"
+  ],
+  "prompt_text": "Create a vertical 1080x1920 collectible 1974 Billboard Hot 100 chart card.\nStyle: high-detail illustrated print poster from 1974, worn paper grain, subtle ink imperfections, ornate border, period-accurate 1970s typography.\nDo NOT use any real person's likeness or recognizable face.\n\nTop banner text: \"Billboard Hot 100 - Week Ending 1974-08-17\".\nLarge rank display: \"#6\".\nTitle: \"Call On Me\".\nArtist: \"Chicago\".\nInclude small fact blocks: \"Weeks on Chart: 9\" and \"Peak Position: 6\".\n\nArtwork: symbolic / atmospheric illustration inspired by the song's mood, not literal portraits.\nComposition should feel like a real printed artifact from 1974.\n\nAmbient context lines (neutral framing only; no soundtrack implication):\nCultural Backdrop: Stage curtain folds in oxblood velvet\n\nNo modern UI, no neon glow boxes, no geometric template panels.\n",
+  "basename": "1974_W32_1974-08-17_R06_call-on-me__chicago",
+  "output_paths": {
+    "prompt_txt": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/week_32_1974-08-12_1974-08-18/top10/prompts/1974_W32_1974-08-17_R06_call-on-me__chicago.txt",
+    "meta_json": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/week_32_1974-08-12_1974-08-18/top10/meta/1974_W32_1974-08-17_R06_call-on-me__chicago.json",
+    "image_png": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/week_32_1974-08-12_1974-08-18/top10/images/1974_W32_1974-08-17_R06_call-on-me__chicago.png",
+    "render_log_json": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/week_32_1974-08-12_1974-08-18/top10/logs/1974_W32_1974-08-17_R06_call-on-me__chicago.render.json"
+  }
+}

@@ -1,0 +1,494 @@
+[
+  {
+    "artist": "Olivia Newton-john",
+    "score": 479.4
+  },
+  {
+    "artist": "Go-Go's",
+    "score": 391.3
+  },
+  {
+    "artist": "Diana Ross",
+    "score": 366.1
+  },
+  {
+    "artist": "Neil Diamond",
+    "score": 363.6
+  },
+  {
+    "artist": "John Cougar",
+    "score": 304.4
+  },
+  {
+    "artist": "The J. Geils Band",
+    "score": 302.5
+  },
+  {
+    "artist": "Men At Work",
+    "score": 295.9
+  },
+  {
+    "artist": "Journey",
+    "score": 294.7
+  },
+  {
+    "artist": "Daryl Hall undefined John Oates",
+    "score": 293.1
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "score": 288.5
+  },
+  {
+    "artist": "Stevie Nicks",
+    "score": 284.5
+  },
+  {
+    "artist": "Juice Newton",
+    "score": 279.7
+  },
+  {
+    "artist": "Dan Fogelberg",
+    "score": 267.8
+  },
+  {
+    "artist": "Elton John",
+    "score": 264.8
+  },
+  {
+    "artist": "Vangelis",
+    "score": 205.1
+  },
+  {
+    "artist": "Foreigner",
+    "score": 203
+  },
+  {
+    "artist": "The Human League",
+    "score": 202.6
+  },
+  {
+    "artist": "Survivor",
+    "score": 202.2
+  },
+  {
+    "artist": "Rick Springfield",
+    "score": 201.6
+  },
+  {
+    "artist": "The Steve Miller Band",
+    "score": 201.2
+  },
+  {
+    "artist": "Asia",
+    "score": 200.7
+  },
+  {
+    "artist": "Toto",
+    "score": 199.9
+  },
+  {
+    "artist": "Willie Nelson",
+    "score": 199.4
+  },
+  {
+    "artist": "Lionel Richie",
+    "score": 198.2
+  },
+  {
+    "artist": "Stevie Wonder",
+    "score": 196.6
+  },
+  {
+    "artist": "The Rolling Stones",
+    "score": 196.5
+  },
+  {
+    "artist": "Joan Jett",
+    "score": 195.5
+  },
+  {
+    "artist": "The Alan Parsons Project",
+    "score": 195.3
+  },
+  {
+    "artist": "Chicago",
+    "score": 195.1
+  },
+  {
+    "artist": "Daryl Hall John Oates",
+    "score": 194.6
+  },
+  {
+    "artist": "Quarterflash",
+    "score": 194.6
+  },
+  {
+    "artist": "Joe Jackson",
+    "score": 194.3
+  },
+  {
+    "artist": "Michael Mcdonald",
+    "score": 193.7
+  },
+  {
+    "artist": "Air Supply",
+    "score": 193.5
+  },
+  {
+    "artist": "Paul McCartney",
+    "score": 193.5
+  },
+  {
+    "artist": "The Police",
+    "score": 193.5
+  },
+  {
+    "artist": "Stray Cats",
+    "score": 193.1
+  },
+  {
+    "artist": "The Cars",
+    "score": 192.2
+  },
+  {
+    "artist": "REO Speedwagon",
+    "score": 190
+  },
+  {
+    "artist": "Van Halen",
+    "score": 190
+  },
+  {
+    "artist": "Ray Parker Jr",
+    "score": 189.8
+  },
+  {
+    "artist": "Marvin Gaye",
+    "score": 187.5
+  },
+  {
+    "artist": "Rod Stewart",
+    "score": 187.3
+  },
+  {
+    "artist": "Dazz Band",
+    "score": 186.7
+  },
+  {
+    "artist": "A Flock Of Seagulls",
+    "score": 186.4
+  },
+  {
+    "artist": "Paul Davis",
+    "score": 186.1
+  },
+  {
+    "artist": "Supertramp",
+    "score": 185.6
+  },
+  {
+    "artist": "Genesis",
+    "score": 185.1
+  },
+  {
+    "artist": "38 Special",
+    "score": 184.8
+  },
+  {
+    "artist": "George Benson",
+    "score": 184.2
+  },
+  {
+    "artist": "Barbra Streisand",
+    "score": 182.7
+  },
+  {
+    "artist": "Melissa Manchester",
+    "score": 181.8
+  },
+  {
+    "artist": "The Motels",
+    "score": 180.9
+  },
+  {
+    "artist": "Pat Benatar",
+    "score": 180.7
+  },
+  {
+    "artist": "Queen",
+    "score": 178.3
+  },
+  {
+    "artist": "Kenny Rogers",
+    "score": 177.1
+  },
+  {
+    "artist": "Ozzy Osbourne",
+    "score": 172.5
+  },
+  {
+    "artist": "The Beatles",
+    "score": 171.3
+  },
+  {
+    "artist": "Joan Jett & the Blackhearts",
+    "score": 103.2
+  },
+  {
+    "artist": "AC/DC",
+    "score": 101.7
+  },
+  {
+    "artist": "Royal Philharmonic Orchestra Conducted By Louis Clark",
+    "score": 101.2
+  },
+  {
+    "artist": "Joe Cocker And Jennifer Warnes",
+    "score": 100.9
+  },
+  {
+    "artist": "Paul Mccartney And Stevie Wonder",
+    "score": 100.9
+  },
+  {
+    "artist": "Toni Basil",
+    "score": 100.7
+  },
+  {
+    "artist": "Laura Branigan",
+    "score": 100.5
+  },
+  {
+    "artist": "Charlene",
+    "score": 99
+  },
+  {
+    "artist": "Tommy Tutone",
+    "score": 98.7
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "score": 98.2
+  },
+  {
+    "artist": "Loverboy",
+    "score": 98.2
+  },
+  {
+    "artist": "Earth, Wind",
+    "score": 98.1
+  },
+  {
+    "artist": "Michael Jackson And Paul Mccartney",
+    "score": 97.8
+  },
+  {
+    "artist": "Robert Plant",
+    "score": 97.4
+  },
+  {
+    "artist": "Billy Squier",
+    "score": 97.1
+  },
+  {
+    "artist": "Don Henley",
+    "score": 96.9
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "score": 96.8
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "score": 96.8
+  },
+  {
+    "artist": "Soft Cell",
+    "score": 96.3
+  },
+  {
+    "artist": "Aldo Nova",
+    "score": 95.7
+  },
+  {
+    "artist": "Jackson Browne",
+    "score": 94.9
+  },
+  {
+    "artist": "Huey Lewis",
+    "score": 94.7
+  },
+  {
+    "artist": "Crosby, Stills & Nash",
+    "score": 94.4
+  },
+  {
+    "artist": "Bertie Higgins",
+    "score": 94.2
+  },
+  {
+    "artist": "Billy Joel",
+    "score": 94.1
+  },
+  {
+    "artist": "Bob And Doug Mckenzie",
+    "score": 94.1
+  },
+  {
+    "artist": "Quincy Jones",
+    "score": 94.1
+  },
+  {
+    "artist": "America",
+    "score": 94
+  },
+  {
+    "artist": "Scorpions",
+    "score": 94
+  },
+  {
+    "artist": "The Who",
+    "score": 93.4
+  },
+  {
+    "artist": "Buckner",
+    "score": 92.9
+  },
+  {
+    "artist": "The Clash",
+    "score": 92.9
+  },
+  {
+    "artist": "Crosby, Stills",
+    "score": 92.5
+  },
+  {
+    "artist": "Lindsey Buckingham",
+    "score": 91.9
+  },
+  {
+    "artist": "Original Cast",
+    "score": 91.9
+  },
+  {
+    "artist": "Donna Summer",
+    "score": 91.8
+  },
+  {
+    "artist": "Deniece Williams",
+    "score": 91.7
+  },
+  {
+    "artist": "Kool",
+    "score": 91.7
+  },
+  {
+    "artist": "Little River Band",
+    "score": 91.5
+  },
+  {
+    "artist": "Rush",
+    "score": 91.3
+  },
+  {
+    "artist": "Led Zeppelin",
+    "score": 91.2
+  },
+  {
+    "artist": "Royal Philharmonic Orchestra",
+    "score": 91.1
+  },
+  {
+    "artist": "Huey Lewis & The News",
+    "score": 90.5
+  },
+  {
+    "artist": "Alabama",
+    "score": 90.2
+  },
+  {
+    "artist": "Donald Fagen",
+    "score": 89.9
+  },
+  {
+    "artist": "The Oak Ridge Boys",
+    "score": 89.4
+  },
+  {
+    "artist": "Rick James",
+    "score": 89.3
+  },
+  {
+    "artist": "Dionne Warwick",
+    "score": 89.2
+  },
+  {
+    "artist": "Michael Jackson",
+    "score": 89.1
+  },
+  {
+    "artist": "Roberta Flack",
+    "score": 89.1
+  },
+  {
+    "artist": "The Gap Band",
+    "score": 88.9
+  },
+  {
+    "artist": "Patrice Rushen",
+    "score": 88.8
+  },
+  {
+    "artist": "Tom Petty And The Heartbreakers",
+    "score": 88.6
+  },
+  {
+    "artist": "Kenny Loggins",
+    "score": 88.4
+  },
+  {
+    "artist": "Kool & The Gang",
+    "score": 88.2
+  },
+  {
+    "artist": "Soundtrack",
+    "score": 86.9
+  },
+  {
+    "artist": "Phil Collins",
+    "score": 86.5
+  },
+  {
+    "artist": "Kansas",
+    "score": 86
+  },
+  {
+    "artist": "Judas Priest",
+    "score": 85.3
+  },
+  {
+    "artist": "Atlantic Starr",
+    "score": 84.9
+  },
+  {
+    "artist": "Skyy",
+    "score": 84.7
+  },
+  {
+    "artist": "Placido Domingo",
+    "score": 83.9
+  },
+  {
+    "artist": "Jethro Tull",
+    "score": 82.7
+  },
+  {
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "score": 82.1
+  },
+  {
+    "artist": "Dire Straits",
+    "score": 82.1
+  }
+]

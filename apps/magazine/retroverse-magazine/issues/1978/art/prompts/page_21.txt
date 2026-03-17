@@ -1,0 +1,25 @@
+Retro magazine illustration for page 21 of a 1978 pop culture magazine.
+
+Prompt source: visual_concept
+Page slug: comic
+Page title: Comic Page
+Visual concept: back_alley_panel_world
+
+Article topic:
+An expressive urban back alley with exaggerated props and strong silhouettes designed to support comic panel overlays.
+
+Visual direction from page brief:
+Scene description: An expressive urban back alley with exaggerated props and strong silhouettes designed to support comic panel overlays.
+Camera style: panel-friendly medium wide shot
+Lighting style: graphic noir contrast with colored edge light
+
+Create a lively illustrated scene reflecting the topic.
+1970s editorial illustration style.
+MAD Magazine caricature influence.
+comic line art + watercolor textures.
+late 1970s neon palette.
+handwritten signature "Judge" as a small artist mark only.
+
+Important:
+leave soft areas suitable for text placement.
+Do not include readable typography.

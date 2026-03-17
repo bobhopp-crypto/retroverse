@@ -1,0 +1,41 @@
+rv_rank,title,artist,total_score,weekly_score_top26,peak_bonus,peak_rank,weeks_on_chart,weeks_in_top_10,weeks_in_top_40,first_chart_date,last_chart_date
+1,Hands To Heaven,Breathe,9834.9699,9759.9699,75,2,29,6,16,1988-04-16,1988-10-29
+2,I'll Always Love You,Taylor Dayne,9750.6616,9675.6616,75,3,30,6,16,1988-06-11,1988-12-31
+3,Wishing Well,Terence Trent D'arby,9605.7845,9485.7845,120,1,25,6,15,1988-01-16,1988-07-02
+4,The Flame,Cheap Trick,9370.4865,9250.4865,120,1,27,6,14,1988-04-09,1988-10-08
+5,Angel,Aerosmith,9161.6785,9086.6785,75,3,25,5,15,1988-01-30,1988-07-16
+6,Sweet Child O' Mine,Guns N' Roses,9134.5843,9014.5843,120,1,24,7,14,1988-06-25,1988-12-03
+7,Naughty Girls (Need Love Too),Samantha Fox,9126.8865,9051.8865,75,3,27,6,14,1988-02-27,1988-08-27
+8,Pour Some Sugar On Me,Def Leppard,9099.6489,9024.6489,75,2,24,7,15,1988-04-23,1988-10-01
+9,Never Gonna Give You Up,Rick Astley,9067.1206,8947.1206,120,1,22,7,14,1988-01-02,1988-05-28
+10,Anything For You,Gloria Estefan,9032.7278,8912.7278,120,1,23,7,14,1988-03-12,1988-08-13
+11,"Wild, Wild West",The Escape Club,8775.8118,8655.8118,120,1,20,7,16,1988-08-20,1988-12-31
+12,Hold On To The Nights,Richard Marx,8703.0985,8583.0985,120,1,21,6,14,1988-05-21,1988-10-08
+13,"Get Outta My Dreams, Get Into My Car",Billy Ocean,8446.4609,8326.4609,120,1,20,7,14,1988-02-13,1988-06-25
+14,Simply Irresistible,Robert Palmer,8432.3169,8357.3169,75,2,20,6,14,1988-07-02,1988-11-12
+15,Endless Summer Nights,Richard Marx,8419.0595,8344.0595,75,2,21,6,15,1988-01-23,1988-06-11
+16,Make Me Lose Control,Eric Carmen,8318.2689,8243.2689,75,3,20,6,13,1988-05-21,1988-10-01
+17,I Don't Wanna Live Without Your Love,Chicago,8262.7905,8187.7905,75,3,21,5,13,1988-06-04,1988-10-22
+18,What's On Your Mind (Pure Energy),Information Society,8258.9387,8183.9387,75,3,25,6,14,1988-07-16,1988-12-31
+19,"Don't Worry, Be Happy (From ""Cocktail"")",Bobby Mcferrin,8243.8136,8123.8136,120,1,23,6,13,1988-07-30,1988-12-31
+20,Groovy Kind Of Love,Phil Collins,8229.8267,8109.8267,120,1,18,6,13,1988-09-03,1988-12-31
+21,Roll With It,Steve Winwood,8181.5573,8061.5573,120,1,18,7,14,1988-06-11,1988-10-08
+22,Foolish Beat,Debbie Gibson,8137.6296,8017.6296,120,1,20,6,14,1988-04-23,1988-09-03
+23,One More Try,George Michael,8069.0544,7949.0544,120,1,18,7,14,1988-04-16,1988-08-13
+24,Love Bites,Def Leppard,8063.9723,7943.9723,120,1,21,6,13,1988-08-13,1988-12-31
+25,Red Red Wine,Ub40,8049.7661,7929.7661,120,1,21,6,12,1988-08-13,1988-12-31
+26,Shattered Dreams,Johnny Hates Jazz,8045.5199,7970.5199,75,2,19,6,13,1988-03-19,1988-07-23
+27,She's Like The Wind,Patrick Swayze,8023.9621,7948.9621,75,3,19,6,13,1988-01-02,1988-05-07
+28,The Loco-Motion,Kylie Minogue,7951.4513,7876.4513,75,3,19,6,13,1988-08-27,1988-12-31
+29,I Still Believe,Brenda K. Starr,7895.1769,7895.1769,0,13,26,0,12,1988-04-02,1988-09-24
+30,How Can I Fall?,Breathe,7823.6871,7748.6871,75,3,17,5,14,1988-09-10,1988-12-31
+31,Man In The Mirror,Michael Jackson,7815.7768,7695.7768,120,1,17,7,13,1988-02-06,1988-05-28
+32,"Kokomo (From""Cocktail"" )",The Beach Boys,7804.8904,7684.8904,120,1,18,5,15,1988-09-03,1988-12-31
+33,Where Do Broken Hearts Go,Whitney Houston,7784.8069,7664.8069,120,1,18,6,13,1988-02-27,1988-06-25
+34,Sign Your Name,Terence Trent D'arby,7780.1626,7740.1626,40,4,21,5,13,1988-05-28,1988-10-15
+35,I Don't Wanna Go On With You Like That,Elton John,7763.5835,7688.5835,75,2,18,6,13,1988-06-18,1988-10-15
+36,Girlfriend,Pebbles,7747.0312,7707.0312,40,5,20,5,12,1988-01-30,1988-06-11
+37,Piano In The Dark,Brenda Russell,7711.7631,7696.7631,15,6,25,2,13,1988-02-20,1988-08-06
+38,Make It Real,The Jets,7700.2986,7660.2986,40,4,20,5,13,1988-04-16,1988-08-27
+39,Don't Be Cruel,Bobby Brown,7691.8173,7676.8173,15,8,24,2,14,1988-07-23,1988-12-31
+40,Father Figure,George Michael,7654.2479,7534.2479,120,1,17,6,13,1988-01-16,1988-05-07

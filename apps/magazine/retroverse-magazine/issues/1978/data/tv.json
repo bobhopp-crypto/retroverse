@@ -1,0 +1,30 @@
+{
+  "year": 1978,
+  "shows": [
+    {
+      "title": "Mork and Mindy",
+      "network": "ABC",
+      "note": "Fast-rising comedy with broad cultural pickup."
+    },
+    {
+      "title": "WKRP in Cincinnati",
+      "network": "CBS",
+      "note": "Radio workplace comedy tuned to music-era sensibility."
+    },
+    {
+      "title": "Taxi",
+      "network": "ABC",
+      "note": "Character-focused comedy with emotional range."
+    },
+    {
+      "title": "Dallas",
+      "network": "CBS",
+      "note": "Prime-time drama signaling appetite for serialized conflict."
+    },
+    {
+      "title": "Diff'rent Strokes",
+      "network": "NBC",
+      "note": "Family sitcom format with evolving social framing."
+    }
+  ]
+}

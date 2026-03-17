@@ -1,0 +1,69 @@
+{
+  "year": 1976,
+  "films": [
+    "Rocky",
+    "A Star Is Born",
+    "King Kong",
+    "Silver Streak",
+    "All the President's Men",
+    "The Omen",
+    "The Bad News Bears",
+    "The Enforcer",
+    "In Search of Noah's Ark",
+    "Midway"
+  ],
+  "tv": [
+    "Happy Days",
+    "Laverne & Shirley",
+    "ABC Monday Night Movie",
+    "M*A*S*H",
+    "Charlie's Angels",
+    "The Big Event",
+    "The Six Million Dollar Man",
+    "ABC Sunday Night Movie",
+    "CBS",
+    "Three's Company"
+  ],
+  "headlines": [
+    {
+      "event": "January 2 – The International Covenant on Economic, Social and Cultural Rights enters into force.",
+      "date": "1976-01-02"
+    },
+    {
+      "event": "January 5 – The Pol Pot regime proclaims a new constitution for Democratic Kampuchea .",
+      "date": "1976-01-05"
+    },
+    {
+      "event": "January 16 – A locomotive crashes into the rear of a commuter train in Glenbrook , Australia , killing one person onboard and injuring ten others in the 1976 Glenbrook rail accident .",
+      "date": "1976-01-16"
+    },
+    {
+      "event": "January 18 – Full diplomatic relations are established between Bangladesh and Pakistan 5 years after the Bangladesh Liberation War .",
+      "date": "1976-01-18"
+    },
+    {
+      "event": "The United States vetoes a United Nations resolution that calls for an independent Palestinian state .",
+      "date": "1976-01-27"
+    },
+    {
+      "event": "Western Sahara War : The First Battle of Amgala breaks out between Morocco and Algeria in the Spanish Sahara.",
+      "date": "1976-01-27"
+    },
+    {
+      "event": "The 1976 Winter Olympics begin in Innsbruck , Austria.",
+      "date": "1976-02-04"
+    },
+    {
+      "event": "The 7.5 M w Guatemala earthquake affects Guatemala and Honduras with a maximum Mercalli intensity of IX ( Violent ), leaving 23,000 dead and 76,000 injured.",
+      "date": "1976-02-04"
+    },
+    {
+      "event": "February 9 – The Australian Defence Force is formed by unification of the Australian Army , the Royal Australian Navy and the Royal Australian Air Force .",
+      "date": "1976-02-09"
+    },
+    {
+      "event": "February 13 – General Murtala Mohammed of Nigeria is assassinated in a military coup.",
+      "date": "1976-02-13"
+    }
+  ]
+}

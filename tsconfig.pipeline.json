@@ -2,7 +2,7 @@
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "outDir": "./dist-pipeline",
-    "rootDir": ".",
+    "rootDir": "./pipelines/media-index/pipeline",
     "tsBuildInfoFile": "./node_modules/.cache/tsbuildinfo/pipeline.tsbuildinfo",
     "composite": true,
     "noEmit": false,
@@ -15,6 +15,6 @@
     "allowSyntheticDefaultImports": true,
     "types": ["node"]
   },
-  "include": ["pipeline/**/*.ts", "src/lib/media/thumbnail.ts"],
+  "include": ["pipelines/media-index/pipeline/**/*.ts"],
   "exclude": ["node_modules", "dist"]
 }

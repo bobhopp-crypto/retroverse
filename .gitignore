@@ -17,6 +17,19 @@ dist-ssr
 !.vscode/extensions.json
 .idea
 .DS_Store
+.env
+.env.*
+!.env.example
+.netlify/
+.tmp.driveupload/
+.venv/
+__pycache__/
+*.pyc
+*.bak
+*.bak.*
+11.11.1
+retroverse@0.0.0
+tsx
 *.suo
 *.ntvs*
 *.njsproj
@@ -28,12 +41,19 @@ node_modules/
 dist/
 dist-pipeline/
 raw-data/
+data/raw/
+archive/artifacts/
+archive/apps/**/.next/
 artifacts/
 tools/
 *.db
 *.xml
 r2_inventory.json
 r2_thumbs.json
+apps/magazine/retroverse-magazine/name
+apps/magazine/retroverse-magazine/artifacts/output/
+apps/magazine/retroverse-magazine/issues/*/pdf/
+data/derived/media-index/matching/*.pdf
 
 # Keep real production index artifact tracked for build sync
 !artifacts/

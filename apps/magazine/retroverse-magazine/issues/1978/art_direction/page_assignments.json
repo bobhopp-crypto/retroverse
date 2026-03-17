@@ -1,0 +1,437 @@
+{
+  "year": 1978,
+  "roles": {
+    "COVER_ARTIST": {
+      "responsibility": "Own cover-scale compositions with strong focal contrast, broad scene storytelling, and clear masthead breathing room.",
+      "style_rules": [
+        "Design for a full-page magazine cover, not an insert illustration.",
+        "Hold the top third open enough for masthead and cover-line placement.",
+        "Favor one dominant scene with secondary supporting details rather than a busy collage of unrelated moments."
+      ]
+    },
+    "EDITORIAL_SCENE_ARTIST": {
+      "responsibility": "Create page-aware narrative scenes that support feature storytelling and leave disciplined overlay space for typography.",
+      "style_rules": [
+        "Stage one coherent editorial moment or environment tied directly to the article summary.",
+        "Use period-correct props, lighting, and human activity to imply the story without baking in labels or captions.",
+        "Keep the calmest negative space inside the declared title, body, and sidebar zones."
+      ]
+    },
+    "INFOGRAPHIC_ARTIST": {
+      "responsibility": "Build restrained background structures for chart, stat, snapshot, and timeline pages without replacing the real data overlay.",
+      "style_rules": [
+        "Support numeric storytelling with graphic rhythm, framing, and icon-level cues rather than finished charts.",
+        "Keep backgrounds quieter and more modular than feature-scene artwork.",
+        "Never render legible data labels, axes, tables, or ranking text into the art layer."
+      ]
+    },
+    "COMIC_ARTIST": {
+      "responsibility": "Provide comic-specific artwork support with panel-friendly staging, expressive action, and clean room for page composition.",
+      "style_rules": [
+        "Compose for sequential storytelling and panel rhythm rather than a single poster-like illustration.",
+        "Use bold silhouettes and readable action beats that survive downscaling on a magazine page.",
+        "Keep speech, captions, and final panel text out of the generated artwork."
+      ]
+    },
+    "SPOT_ARTIST": {
+      "responsibility": "Handle small decorative, utility, and department pages with compact scene motifs that support layout without overwhelming copy.",
+      "style_rules": [
+        "Favor simple props, vignettes, and atmospheric details over large cinematic action.",
+        "Keep ornamentation modular so the layout engine can place typography cleanly on top.",
+        "Treat the page as editorial support art, not a simulated finished advertisement or magazine spread."
+      ]
+    }
+  },
+  "assignments": [
+    {
+      "page_number": 1,
+      "page_slug": "cover",
+      "page_type": "cover",
+      "title": "1978",
+      "illustrator_role": "COVER_ARTIST",
+      "studio_role_responsibility": "Own cover-scale compositions with strong focal contrast, broad scene storytelling, and clear masthead breathing room.",
+      "studio_style_rules": [
+        "Design for a full-page magazine cover, not an insert illustration.",
+        "Hold the top third open enough for masthead and cover-line placement.",
+        "Favor one dominant scene with secondary supporting details rather than a busy collage of unrelated moments."
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_slug": "masthead",
+      "page_type": "department masthead",
+      "title": "Masthead",
+      "illustrator_role": "SPOT_ARTIST",
+      "studio_role_responsibility": "Handle small decorative, utility, and department pages with compact scene motifs that support layout without overwhelming copy.",
+      "studio_style_rules": [
+        "Favor simple props, vignettes, and atmospheric details over large cinematic action.",
+        "Keep ornamentation modular so the layout engine can place typography cleanly on top.",
+        "Treat the page as editorial support art, not a simulated finished advertisement or magazine spread."
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_slug": "editor_letter",
+      "page_type": "department letter",
+      "title": "Editor Letter",
+      "illustrator_role": "SPOT_ARTIST",
+      "studio_role_responsibility": "Handle small decorative, utility, and department pages with compact scene motifs that support layout without overwhelming copy.",
+      "studio_style_rules": [
+        "Favor simple props, vignettes, and atmospheric details over large cinematic action.",
+        "Keep ornamentation modular so the layout engine can place typography cleanly on top.",
+        "Treat the page as editorial support art, not a simulated finished advertisement or magazine spread."
+      ]
+    },
+    {
+      "page_number": 4,
+      "page_slug": "year_snapshot",
+      "page_type": "snapshot page",
+      "title": "Year Snapshot: 1978 in Motion: Dance Floors, Marquees, and Living Rooms",
+      "illustrator_role": "INFOGRAPHIC_ARTIST",
+      "studio_role_responsibility": "Build restrained background structures for chart, stat, snapshot, and timeline pages without replacing the real data overlay.",
+      "studio_style_rules": [
+        "Support numeric storytelling with graphic rhythm, framing, and icon-level cues rather than finished charts.",
+        "Keep backgrounds quieter and more modular than feature-scene artwork.",
+        "Never render legible data labels, axes, tables, or ranking text into the art layer."
+      ]
+    },
+    {
+      "page_number": 5,
+      "page_slug": "charts_overview",
+      "page_type": "chart overview",
+      "title": "Charts Overview: The Shape of 1978",
+      "illustrator_role": "INFOGRAPHIC_ARTIST",
+      "studio_role_responsibility": "Build restrained background structures for chart, stat, snapshot, and timeline pages without replacing the real data overlay.",
+      "studio_style_rules": [
+        "Support numeric storytelling with graphic rhythm, framing, and icon-level cues rather than finished charts.",
+        "Keep backgrounds quieter and more modular than feature-scene artwork.",
+        "Never render legible data labels, axes, tables, or ranking text into the art layer."
+      ]
+    },
+    {
+      "page_number": 6,
+      "page_slug": "top_song_1",
+      "page_type": "top song page",
+      "title": "01. Stayin' Alive — Bee Gees",
+      "illustrator_role": "INFOGRAPHIC_ARTIST",
+      "studio_role_responsibility": "Build restrained background structures for chart, stat, snapshot, and timeline pages without replacing the real data overlay.",
+      "studio_style_rules": [
+        "Support numeric storytelling with graphic rhythm, framing, and icon-level cues rather than finished charts.",
+        "Keep backgrounds quieter and more modular than feature-scene artwork.",
+        "Never render legible data labels, axes, tables, or ranking text into the art layer."
+      ]
+    },
+    {
+      "page_number": 7,
+      "page_slug": "top_song_2",
+      "page_type": "top song page",
+      "title": "02. Night Fever — Bee Gees",
+      "illustrator_role": "INFOGRAPHIC_ARTIST",
+      "studio_role_responsibility": "Build restrained background structures for chart, stat, snapshot, and timeline pages without replacing the real data overlay.",
+      "studio_style_rules": [
+        "Support numeric storytelling with graphic rhythm, framing, and icon-level cues rather than finished charts.",
+        "Keep backgrounds quieter and more modular than feature-scene artwork.",
+        "Never render legible data labels, axes, tables, or ranking text into the art layer."
+      ]
+    },
+    {
+      "page_number": 8,
+      "page_slug": "top_song_3",
+      "page_type": "top song page",
+      "title": "03. (Love Is) Thicker Than Water — Andy Gibb",
+      "illustrator_role": "INFOGRAPHIC_ARTIST",
+      "studio_role_responsibility": "Build restrained background structures for chart, stat, snapshot, and timeline pages without replacing the real data overlay.",
+      "studio_style_rules": [
+        "Support numeric storytelling with graphic rhythm, framing, and icon-level cues rather than finished charts.",
+        "Keep backgrounds quieter and more modular than feature-scene artwork.",
+        "Never render legible data labels, axes, tables, or ranking text into the art layer."
+      ]
+    },
+    {
+      "page_number": 9,
+      "page_slug": "top_song_4",
+      "page_type": "top song page",
+      "title": "04. Three Times A Lady — Commodores",
+      "illustrator_role": "INFOGRAPHIC_ARTIST",
+      "studio_role_responsibility": "Build restrained background structures for chart, stat, snapshot, and timeline pages without replacing the real data overlay.",
+      "studio_style_rules": [
+        "Support numeric storytelling with graphic rhythm, framing, and icon-level cues rather than finished charts.",
+        "Keep backgrounds quieter and more modular than feature-scene artwork.",
+        "Never render legible data labels, axes, tables, or ranking text into the art layer."
+      ]
+    },
+    {
+      "page_number": 10,
+      "page_slug": "top_song_5",
+      "page_type": "top song page",
+      "title": "05. Kiss You All Over — Exile",
+      "illustrator_role": "INFOGRAPHIC_ARTIST",
+      "studio_role_responsibility": "Build restrained background structures for chart, stat, snapshot, and timeline pages without replacing the real data overlay.",
+      "studio_style_rules": [
+        "Support numeric storytelling with graphic rhythm, framing, and icon-level cues rather than finished charts.",
+        "Keep backgrounds quieter and more modular than feature-scene artwork.",
+        "Never render legible data labels, axes, tables, or ranking text into the art layer."
+      ]
+    },
+    {
+      "page_number": 11,
+      "page_slug": "top_song_6",
+      "page_type": "top song page",
+      "title": "06. Can't Smile Without You — Barry Manilow",
+      "illustrator_role": "INFOGRAPHIC_ARTIST",
+      "studio_role_responsibility": "Build restrained background structures for chart, stat, snapshot, and timeline pages without replacing the real data overlay.",
+      "studio_style_rules": [
+        "Support numeric storytelling with graphic rhythm, framing, and icon-level cues rather than finished charts.",
+        "Keep backgrounds quieter and more modular than feature-scene artwork.",
+        "Never render legible data labels, axes, tables, or ranking text into the art layer."
+      ]
+    },
+    {
+      "page_number": 12,
+      "page_slug": "top_song_7",
+      "page_type": "top song page",
+      "title": "07. MacArthur Park — Donna Summer",
+      "illustrator_role": "INFOGRAPHIC_ARTIST",
+      "studio_role_responsibility": "Build restrained background structures for chart, stat, snapshot, and timeline pages without replacing the real data overlay.",
+      "studio_style_rules": [
+        "Support numeric storytelling with graphic rhythm, framing, and icon-level cues rather than finished charts.",
+        "Keep backgrounds quieter and more modular than feature-scene artwork.",
+        "Never render legible data labels, axes, tables, or ranking text into the art layer."
+      ]
+    },
+    {
+      "page_number": 13,
+      "page_slug": "top_song_8",
+      "page_type": "top song page",
+      "title": "08. Lay Down Sally — Eric Clapton",
+      "illustrator_role": "INFOGRAPHIC_ARTIST",
+      "studio_role_responsibility": "Build restrained background structures for chart, stat, snapshot, and timeline pages without replacing the real data overlay.",
+      "studio_style_rules": [
+        "Support numeric storytelling with graphic rhythm, framing, and icon-level cues rather than finished charts.",
+        "Keep backgrounds quieter and more modular than feature-scene artwork.",
+        "Never render legible data labels, axes, tables, or ranking text into the art layer."
+      ]
+    },
+    {
+      "page_number": 14,
+      "page_slug": "top_song_9",
+      "page_type": "top song page",
+      "title": "09. Shadow Dancing — Andy Gibb",
+      "illustrator_role": "INFOGRAPHIC_ARTIST",
+      "studio_role_responsibility": "Build restrained background structures for chart, stat, snapshot, and timeline pages without replacing the real data overlay.",
+      "studio_style_rules": [
+        "Support numeric storytelling with graphic rhythm, framing, and icon-level cues rather than finished charts.",
+        "Keep backgrounds quieter and more modular than feature-scene artwork.",
+        "Never render legible data labels, axes, tables, or ranking text into the art layer."
+      ]
+    },
+    {
+      "page_number": 15,
+      "page_slug": "top_song_10",
+      "page_type": "top song page",
+      "title": "10. Boogie Oogie Oogie — A Taste Of Honey",
+      "illustrator_role": "INFOGRAPHIC_ARTIST",
+      "studio_role_responsibility": "Build restrained background structures for chart, stat, snapshot, and timeline pages without replacing the real data overlay.",
+      "studio_style_rules": [
+        "Support numeric storytelling with graphic rhythm, framing, and icon-level cues rather than finished charts.",
+        "Keep backgrounds quieter and more modular than feature-scene artwork.",
+        "Never render legible data labels, axes, tables, or ranking text into the art layer."
+      ]
+    },
+    {
+      "page_number": 16,
+      "page_slug": "movies",
+      "page_type": "screen feature",
+      "title": "Movies of the Year",
+      "illustrator_role": "EDITORIAL_SCENE_ARTIST",
+      "studio_role_responsibility": "Create page-aware narrative scenes that support feature storytelling and leave disciplined overlay space for typography.",
+      "studio_style_rules": [
+        "Stage one coherent editorial moment or environment tied directly to the article summary.",
+        "Use period-correct props, lighting, and human activity to imply the story without baking in labels or captions.",
+        "Keep the calmest negative space inside the declared title, body, and sidebar zones."
+      ]
+    },
+    {
+      "page_number": 17,
+      "page_slug": "television",
+      "page_type": "screen feature",
+      "title": "Television of the Year",
+      "illustrator_role": "EDITORIAL_SCENE_ARTIST",
+      "studio_role_responsibility": "Create page-aware narrative scenes that support feature storytelling and leave disciplined overlay space for typography.",
+      "studio_style_rules": [
+        "Stage one coherent editorial moment or environment tied directly to the article summary.",
+        "Use period-correct props, lighting, and human activity to imply the story without baking in labels or captions.",
+        "Keep the calmest negative space inside the declared title, body, and sidebar zones."
+      ]
+    },
+    {
+      "page_number": 18,
+      "page_slug": "culture",
+      "page_type": "department feature",
+      "title": "Culture Feature: Everyday 1978",
+      "illustrator_role": "EDITORIAL_SCENE_ARTIST",
+      "studio_role_responsibility": "Create page-aware narrative scenes that support feature storytelling and leave disciplined overlay space for typography.",
+      "studio_style_rules": [
+        "Stage one coherent editorial moment or environment tied directly to the article summary.",
+        "Use period-correct props, lighting, and human activity to imply the story without baking in labels or captions.",
+        "Keep the calmest negative space inside the declared title, body, and sidebar zones."
+      ]
+    },
+    {
+      "page_number": 19,
+      "page_slug": "arcade",
+      "page_type": "department feature",
+      "title": "Arcade / Technology",
+      "illustrator_role": "EDITORIAL_SCENE_ARTIST",
+      "studio_role_responsibility": "Create page-aware narrative scenes that support feature storytelling and leave disciplined overlay space for typography.",
+      "studio_style_rules": [
+        "Stage one coherent editorial moment or environment tied directly to the article summary.",
+        "Use period-correct props, lighting, and human activity to imply the story without baking in labels or captions.",
+        "Keep the calmest negative space inside the declared title, body, and sidebar zones."
+      ]
+    },
+    {
+      "page_number": 20,
+      "page_slug": "retro_ad",
+      "page_type": "ad page",
+      "title": "Retro Ad",
+      "illustrator_role": "SPOT_ARTIST",
+      "studio_role_responsibility": "Handle small decorative, utility, and department pages with compact scene motifs that support layout without overwhelming copy.",
+      "studio_style_rules": [
+        "Favor simple props, vignettes, and atmospheric details over large cinematic action.",
+        "Keep ornamentation modular so the layout engine can place typography cleanly on top.",
+        "Treat the page as editorial support art, not a simulated finished advertisement or magazine spread."
+      ]
+    },
+    {
+      "page_number": 21,
+      "page_slug": "comic",
+      "page_type": "comic page",
+      "title": "Comic Page",
+      "illustrator_role": "COMIC_ARTIST",
+      "studio_role_responsibility": "Provide comic-specific artwork support with panel-friendly staging, expressive action, and clean room for page composition.",
+      "studio_style_rules": [
+        "Compose for sequential storytelling and panel rhythm rather than a single poster-like illustration.",
+        "Use bold silhouettes and readable action beats that survive downscaling on a magazine page.",
+        "Keep speech, captions, and final panel text out of the generated artwork."
+      ]
+    },
+    {
+      "page_number": 22,
+      "page_slug": "puzzle",
+      "page_type": "puzzle page",
+      "title": "Puzzle 1",
+      "illustrator_role": "SPOT_ARTIST",
+      "studio_role_responsibility": "Handle small decorative, utility, and department pages with compact scene motifs that support layout without overwhelming copy.",
+      "studio_style_rules": [
+        "Favor simple props, vignettes, and atmospheric details over large cinematic action.",
+        "Keep ornamentation modular so the layout engine can place typography cleanly on top.",
+        "Treat the page as editorial support art, not a simulated finished advertisement or magazine spread."
+      ]
+    },
+    {
+      "page_number": 23,
+      "page_slug": "letters",
+      "page_type": "department letters",
+      "title": "Letters",
+      "illustrator_role": "SPOT_ARTIST",
+      "studio_role_responsibility": "Handle small decorative, utility, and department pages with compact scene motifs that support layout without overwhelming copy.",
+      "studio_style_rules": [
+        "Favor simple props, vignettes, and atmospheric details over large cinematic action.",
+        "Keep ornamentation modular so the layout engine can place typography cleanly on top.",
+        "Treat the page as editorial support art, not a simulated finished advertisement or magazine spread."
+      ]
+    },
+    {
+      "page_number": 24,
+      "page_slug": "forgotten_hit",
+      "page_type": "feature story",
+      "title": "Almost Hits: Can't Smile Without You — Barry Manilow",
+      "illustrator_role": "EDITORIAL_SCENE_ARTIST",
+      "studio_role_responsibility": "Create page-aware narrative scenes that support feature storytelling and leave disciplined overlay space for typography.",
+      "studio_style_rules": [
+        "Stage one coherent editorial moment or environment tied directly to the article summary.",
+        "Use period-correct props, lighting, and human activity to imply the story without baking in labels or captions.",
+        "Keep the calmest negative space inside the declared title, body, and sidebar zones."
+      ]
+    },
+    {
+      "page_number": 25,
+      "page_slug": "one_hit_wonder",
+      "page_type": "one_hit_wonder reserve page",
+      "title": "One Hit Wonder",
+      "illustrator_role": "EDITORIAL_SCENE_ARTIST",
+      "studio_role_responsibility": "Create page-aware narrative scenes that support feature storytelling and leave disciplined overlay space for typography.",
+      "studio_style_rules": [
+        "Stage one coherent editorial moment or environment tied directly to the article summary.",
+        "Use period-correct props, lighting, and human activity to imply the story without baking in labels or captions.",
+        "Keep the calmest negative space inside the declared title, body, and sidebar zones."
+      ]
+    },
+    {
+      "page_number": 26,
+      "page_slug": "album_spotlight",
+      "page_type": "feature story",
+      "title": "Album Gravity: Saturday Night Fever — Soundtrack",
+      "illustrator_role": "EDITORIAL_SCENE_ARTIST",
+      "studio_role_responsibility": "Create page-aware narrative scenes that support feature storytelling and leave disciplined overlay space for typography.",
+      "studio_style_rules": [
+        "Stage one coherent editorial moment or environment tied directly to the article summary.",
+        "Use period-correct props, lighting, and human activity to imply the story without baking in labels or captions.",
+        "Keep the calmest negative space inside the declared title, body, and sidebar zones."
+      ]
+    },
+    {
+      "page_number": 27,
+      "page_slug": "year_timeline",
+      "page_type": "timeline page",
+      "title": "The Week-by-Week Yearline",
+      "illustrator_role": "INFOGRAPHIC_ARTIST",
+      "studio_role_responsibility": "Build restrained background structures for chart, stat, snapshot, and timeline pages without replacing the real data overlay.",
+      "studio_style_rules": [
+        "Support numeric storytelling with graphic rhythm, framing, and icon-level cues rather than finished charts.",
+        "Keep backgrounds quieter and more modular than feature-scene artwork.",
+        "Never render legible data labels, axes, tables, or ranking text into the art layer."
+      ]
+    },
+    {
+      "page_number": 28,
+      "page_slug": "culture_collage",
+      "page_type": "collage page",
+      "title": "Culture Collage",
+      "illustrator_role": "EDITORIAL_SCENE_ARTIST",
+      "studio_role_responsibility": "Create page-aware narrative scenes that support feature storytelling and leave disciplined overlay space for typography.",
+      "studio_style_rules": [
+        "Stage one coherent editorial moment or environment tied directly to the article summary.",
+        "Use period-correct props, lighting, and human activity to imply the story without baking in labels or captions.",
+        "Keep the calmest negative space inside the declared title, body, and sidebar zones."
+      ]
+    },
+    {
+      "page_number": 29,
+      "page_slug": "retro_ads_page",
+      "page_type": "ad roundup",
+      "title": "Retro Ads Page",
+      "illustrator_role": "SPOT_ARTIST",
+      "studio_role_responsibility": "Handle small decorative, utility, and department pages with compact scene motifs that support layout without overwhelming copy.",
+      "studio_style_rules": [
+        "Favor simple props, vignettes, and atmospheric details over large cinematic action.",
+        "Keep ornamentation modular so the layout engine can place typography cleanly on top.",
+        "Treat the page as editorial support art, not a simulated finished advertisement or magazine spread."
+      ]
+    },
+    {
+      "page_number": 30,
+      "page_slug": "chart_top23",
+      "page_type": "chart page",
+      "title": "RetroVerse Top 23",
+      "illustrator_role": "INFOGRAPHIC_ARTIST",
+      "studio_role_responsibility": "Build restrained background structures for chart, stat, snapshot, and timeline pages without replacing the real data overlay.",
+      "studio_style_rules": [
+        "Support numeric storytelling with graphic rhythm, framing, and icon-level cues rather than finished charts.",
+        "Keep backgrounds quieter and more modular than feature-scene artwork.",
+        "Never render legible data labels, axes, tables, or ranking text into the art layer."
+      ]
+    }
+  ]
+}

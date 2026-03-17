@@ -1,0 +1,512 @@
+{
+  "year": "1983",
+  "top_songs": [
+    {
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "weeks": 22,
+      "peak": 1,
+      "score": 555
+    },
+    {
+      "artist": "Irene Cara",
+      "title": "Flashdance...What A Feeling",
+      "weeks": 25,
+      "peak": 1,
+      "score": 525
+    },
+    {
+      "artist": "Kenny Rogers Duet",
+      "title": "Islands In The Stream",
+      "weeks": 19,
+      "peak": 1,
+      "score": 512
+    },
+    {
+      "artist": "Lionel Richie",
+      "title": "All Night Long (All Night)",
+      "weeks": 16,
+      "peak": 1,
+      "score": 473
+    },
+    {
+      "artist": "Bob Seger",
+      "title": "Shame On The Moon",
+      "weeks": 19,
+      "peak": 2,
+      "score": 434
+    },
+    {
+      "artist": "Culture Club",
+      "title": "Do You Really Want To Hurt Me",
+      "weeks": 21,
+      "peak": 2,
+      "score": 416
+    },
+    {
+      "artist": "Paul Mccartney And Michael Jackson",
+      "title": "Say Say Say",
+      "weeks": 12,
+      "peak": 1,
+      "score": 416
+    },
+    {
+      "artist": "Bonnie Tyler",
+      "title": "Total Eclipse Of The Heart",
+      "weeks": 25,
+      "peak": 1,
+      "score": 404
+    },
+    {
+      "artist": "Billy Joel",
+      "title": "Uptown Girl",
+      "weeks": 15,
+      "peak": 3,
+      "score": 377
+    },
+    {
+      "artist": "Donna Summer",
+      "title": "She Works Hard For The Money",
+      "weeks": 21,
+      "peak": 3,
+      "score": 373
+    },
+    {
+      "artist": "Lionel Richie",
+      "title": "You Are",
+      "weeks": 18,
+      "peak": 4,
+      "score": 369
+    },
+    {
+      "artist": "Styx",
+      "title": "Mr. Roboto",
+      "weeks": 18,
+      "peak": 3,
+      "score": 369
+    },
+    {
+      "artist": "Journey",
+      "title": "Separate Ways (Worlds Apart)",
+      "weeks": 17,
+      "peak": 8,
+      "score": 350
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Billie Jean",
+      "weeks": 24,
+      "peak": 1,
+      "score": 348
+    },
+    {
+      "artist": "Men At Work",
+      "title": "Down Under",
+      "weeks": 17,
+      "peak": 1,
+      "score": 345
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Beat It",
+      "weeks": 25,
+      "peak": 1,
+      "score": 340
+    },
+    {
+      "artist": "Patti Austin A Duet",
+      "title": "Baby, Come To Me",
+      "weeks": 17,
+      "peak": 1,
+      "score": 328
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Let's Dance",
+      "weeks": 20,
+      "peak": 1,
+      "score": 317
+    },
+    {
+      "artist": "Culture Club",
+      "title": "Time (Clock Of The Heart)",
+      "weeks": 18,
+      "peak": 2,
+      "score": 314
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "title": "Say It Isn't So",
+      "weeks": 10,
+      "peak": 2,
+      "score": 312
+    },
+    {
+      "artist": "Michael Sembello",
+      "title": "Maniac",
+      "weeks": 22,
+      "peak": 1,
+      "score": 306
+    },
+    {
+      "artist": "Air Supply",
+      "title": "Making Love Out Of Nothing At All",
+      "weeks": 23,
+      "peak": 2,
+      "score": 305
+    },
+    {
+      "artist": "Duran Duran",
+      "title": "Hungry Like The Wolf",
+      "weeks": 22,
+      "peak": 3,
+      "score": 299
+    },
+    {
+      "artist": "Men At Work",
+      "title": "Overkill",
+      "weeks": 16,
+      "peak": 3,
+      "score": 292
+    },
+    {
+      "artist": "Spandau Ballet",
+      "title": "True",
+      "weeks": 18,
+      "peak": 4,
+      "score": 291
+    },
+    {
+      "artist": "Billy Joel",
+      "title": "Tell Her About It",
+      "weeks": 18,
+      "peak": 1,
+      "score": 289
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "title": "One On One",
+      "weeks": 18,
+      "peak": 7,
+      "score": 282
+    },
+    {
+      "artist": "Pat Benatar",
+      "title": "Love Is A Battlefield",
+      "weeks": 15,
+      "peak": 5,
+      "score": 272
+    },
+    {
+      "artist": "Kenny Rogers And Sheena Easton",
+      "title": "We've Got Tonight",
+      "weeks": 18,
+      "peak": 6,
+      "score": 269
+    },
+    {
+      "artist": "Eurythmics",
+      "title": "Sweet Dreams (Are Made Of This)",
+      "weeks": 26,
+      "peak": 1,
+      "score": 262
+    },
+    {
+      "artist": "Stray Cats",
+      "title": "Stray Cat Strut",
+      "weeks": 18,
+      "peak": 3,
+      "score": 255
+    },
+    {
+      "artist": "Sergio Mendes",
+      "title": "Never Gonna Let You Go",
+      "weeks": 23,
+      "peak": 4,
+      "score": 251
+    },
+    {
+      "artist": "Greg Kihn Band",
+      "title": "Jeopardy",
+      "weeks": 22,
+      "peak": 2,
+      "score": 246
+    },
+    {
+      "artist": "John Cougar Mellencamp",
+      "title": "Crumblin' Down",
+      "weeks": 12,
+      "peak": 9,
+      "score": 246
+    },
+    {
+      "artist": "Stray Cats",
+      "title": "(she's) Sexy + 17",
+      "weeks": 15,
+      "peak": 5,
+      "score": 242
+    },
+    {
+      "artist": "Eddie Rabbitt",
+      "title": "You And I",
+      "weeks": 17,
+      "peak": 7,
+      "score": 241
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Wanna Be Startin' Somethin'",
+      "weeks": 15,
+      "peak": 5,
+      "score": 241
+    },
+    {
+      "artist": "Toto",
+      "title": "Africa",
+      "weeks": 12,
+      "peak": 1,
+      "score": 233
+    },
+    {
+      "artist": "Eddy Grant",
+      "title": "Electric Avenue",
+      "weeks": 22,
+      "peak": 2,
+      "score": 233
+    },
+    {
+      "artist": "Styx",
+      "title": "Don't Let It End",
+      "weeks": 16,
+      "peak": 6,
+      "score": 228
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Lionel Richie",
+      "hits": 2
+    },
+    {
+      "artist": "Culture Club",
+      "hits": 2
+    },
+    {
+      "artist": "Billy Joel",
+      "hits": 2
+    },
+    {
+      "artist": "Styx",
+      "hits": 2
+    },
+    {
+      "artist": "Michael Jackson",
+      "hits": 3
+    },
+    {
+      "artist": "Men At Work",
+      "hits": 2
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "hits": 2
+    },
+    {
+      "artist": "Stray Cats",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Eurythmics",
+      "title": "Sweet Dreams (Are Made Of This)",
+      "weeks": 26,
+      "peak": 1,
+      "score": 262
+    },
+    {
+      "artist": "Peabo Bryson/roberta Flack",
+      "title": "Tonight, I Celebrate My Love",
+      "weeks": 26,
+      "peak": 16,
+      "score": 37
+    },
+    {
+      "artist": "Irene Cara",
+      "title": "Flashdance...What A Feeling",
+      "weeks": 25,
+      "peak": 1,
+      "score": 525
+    },
+    {
+      "artist": "Bonnie Tyler",
+      "title": "Total Eclipse Of The Heart",
+      "weeks": 25,
+      "peak": 1,
+      "score": 404
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Beat It",
+      "weeks": 25,
+      "peak": 1,
+      "score": 340
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Billie Jean",
+      "weeks": 24,
+      "peak": 1,
+      "score": 348
+    },
+    {
+      "artist": "Men",
+      "title": "The Safety Dance",
+      "weeks": 24,
+      "peak": 3,
+      "score": 164
+    },
+    {
+      "artist": "Air Supply",
+      "title": "Making Love Out Of Nothing At All",
+      "weeks": 23,
+      "peak": 2,
+      "score": 305
+    },
+    {
+      "artist": "Sergio Mendes",
+      "title": "Never Gonna Let You Go",
+      "weeks": 23,
+      "peak": 4,
+      "score": 251
+    },
+    {
+      "artist": "Dexys Midnight Runners",
+      "title": "Come On Eileen",
+      "weeks": 23,
+      "peak": 1,
+      "score": 172
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "weeks": 22,
+      "peak": 1,
+      "score": 555
+    },
+    {
+      "artist": "Irene Cara",
+      "title": "Flashdance...What A Feeling",
+      "weeks": 25,
+      "peak": 1,
+      "score": 525
+    },
+    {
+      "artist": "Kenny Rogers Duet",
+      "title": "Islands In The Stream",
+      "weeks": 19,
+      "peak": 1,
+      "score": 512
+    },
+    {
+      "artist": "Lionel Richie",
+      "title": "All Night Long (All Night)",
+      "weeks": 16,
+      "peak": 1,
+      "score": 473
+    },
+    {
+      "artist": "Paul Mccartney And Michael Jackson",
+      "title": "Say Say Say",
+      "weeks": 12,
+      "peak": 1,
+      "score": 416
+    },
+    {
+      "artist": "Bonnie Tyler",
+      "title": "Total Eclipse Of The Heart",
+      "weeks": 25,
+      "peak": 1,
+      "score": 404
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Billie Jean",
+      "weeks": 24,
+      "peak": 1,
+      "score": 348
+    },
+    {
+      "artist": "Men At Work",
+      "title": "Down Under",
+      "weeks": 17,
+      "peak": 1,
+      "score": 345
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Beat It",
+      "weeks": 25,
+      "peak": 1,
+      "score": 340
+    },
+    {
+      "artist": "Patti Austin A Duet",
+      "title": "Baby, Come To Me",
+      "weeks": 17,
+      "peak": 1,
+      "score": 328
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Let's Dance",
+      "weeks": 20,
+      "peak": 1,
+      "score": 317
+    },
+    {
+      "artist": "Michael Sembello",
+      "title": "Maniac",
+      "weeks": 22,
+      "peak": 1,
+      "score": 306
+    },
+    {
+      "artist": "Billy Joel",
+      "title": "Tell Her About It",
+      "weeks": 18,
+      "peak": 1,
+      "score": 289
+    },
+    {
+      "artist": "Eurythmics",
+      "title": "Sweet Dreams (Are Made Of This)",
+      "weeks": 26,
+      "peak": 1,
+      "score": 262
+    },
+    {
+      "artist": "Toto",
+      "title": "Africa",
+      "weeks": 12,
+      "peak": 1,
+      "score": 233
+    },
+    {
+      "artist": "Dexys Midnight Runners",
+      "title": "Come On Eileen",
+      "weeks": 23,
+      "peak": 1,
+      "score": 172
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "title": "Maneater",
+      "weeks": 12,
+      "peak": 1,
+      "score": 146
+    }
+  ]
+}

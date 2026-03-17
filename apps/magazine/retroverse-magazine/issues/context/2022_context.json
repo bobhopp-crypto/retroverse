@@ -1,0 +1,487 @@
+{
+  "year": "2022",
+  "top_songs": [
+    {
+      "artist": "Glass Animals",
+      "title": "Heat Waves",
+      "weeks": 43,
+      "peak": 1,
+      "score": 1416
+    },
+    {
+      "artist": "Harry Styles",
+      "title": "As It Was",
+      "weeks": 38,
+      "peak": 1,
+      "score": 1352
+    },
+    {
+      "artist": "The Kid Laroi",
+      "title": "Stay",
+      "weeks": 40,
+      "peak": 2,
+      "score": 1196
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "Ghost",
+      "weeks": 40,
+      "peak": 5,
+      "score": 906
+    },
+    {
+      "artist": "Future",
+      "title": "Wait For U",
+      "weeks": 32,
+      "peak": 1,
+      "score": 891
+    },
+    {
+      "artist": "Jack Harlow",
+      "title": "First Class",
+      "weeks": 28,
+      "peak": 1,
+      "score": 872
+    },
+    {
+      "artist": "Lizzo",
+      "title": "About Damn Time",
+      "weeks": 33,
+      "peak": 1,
+      "score": 842
+    },
+    {
+      "artist": "Latto",
+      "title": "Big Energy",
+      "weeks": 43,
+      "peak": 3,
+      "score": 814
+    },
+    {
+      "artist": "Ed Sheeran",
+      "title": "Shivers",
+      "weeks": 38,
+      "peak": 4,
+      "score": 778
+    },
+    {
+      "artist": "Post Malone",
+      "title": "I Like You (A Happier Song)",
+      "weeks": 27,
+      "peak": 3,
+      "score": 762
+    },
+    {
+      "artist": "Ed Sheeran",
+      "title": "Bad Habits",
+      "weeks": 31,
+      "peak": 8,
+      "score": 744
+    },
+    {
+      "artist": "Kodak Black",
+      "title": "Super Gremlin",
+      "weeks": 36,
+      "peak": 3,
+      "score": 739
+    },
+    {
+      "artist": "Bad Bunny",
+      "title": "Me Porto Bonito",
+      "weeks": 26,
+      "peak": 6,
+      "score": 720
+    },
+    {
+      "artist": "Steve Lacy",
+      "title": "Bad Habit",
+      "weeks": 25,
+      "peak": 1,
+      "score": 700
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "Wasted On You",
+      "weeks": 37,
+      "peak": 11,
+      "score": 696
+    },
+    {
+      "artist": "Elton John",
+      "title": "Cold Heart (PNAU Remix)",
+      "weeks": 37,
+      "peak": 7,
+      "score": 693
+    },
+    {
+      "artist": "Bad Bunny",
+      "title": "Titi Me Pregunto",
+      "weeks": 30,
+      "peak": 5,
+      "score": 680
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "You Proof",
+      "weeks": 32,
+      "peak": 5,
+      "score": 653
+    },
+    {
+      "artist": "Adele",
+      "title": "Easy On Me",
+      "weeks": 21,
+      "peak": 1,
+      "score": 643
+    },
+    {
+      "artist": "Harry Styles",
+      "title": "Late Night Talking",
+      "weeks": 24,
+      "peak": 3,
+      "score": 634
+    },
+    {
+      "artist": "Gayle",
+      "title": "abcdefu",
+      "weeks": 21,
+      "peak": 3,
+      "score": 629
+    },
+    {
+      "artist": "Kate Bush",
+      "title": "Running Up That Hill (A Deal With God)",
+      "weeks": 20,
+      "peak": 3,
+      "score": 611
+    },
+    {
+      "artist": "Lil Nas X",
+      "title": "Thats What I Want",
+      "weeks": 32,
+      "peak": 8,
+      "score": 570
+    },
+    {
+      "artist": "Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz",
+      "title": "We Don't Talk About Bruno",
+      "weeks": 20,
+      "peak": 1,
+      "score": 514
+    },
+    {
+      "artist": "Nicky Youre",
+      "title": "Sunroof",
+      "weeks": 27,
+      "peak": 4,
+      "score": 514
+    },
+    {
+      "artist": "Doja Cat",
+      "title": "Need To Know",
+      "weeks": 21,
+      "peak": 8,
+      "score": 512
+    },
+    {
+      "artist": "Imagine Dragons X Jid",
+      "title": "Enemy",
+      "weeks": 32,
+      "peak": 5,
+      "score": 495
+    },
+    {
+      "artist": "Luke Combs",
+      "title": "The Kind Of Love We Make",
+      "weeks": 23,
+      "peak": 8,
+      "score": 493
+    },
+    {
+      "artist": "Drake",
+      "title": "Jimmy Cooks",
+      "weeks": 24,
+      "peak": 1,
+      "score": 483
+    },
+    {
+      "artist": "Lil Nas X",
+      "title": "Industry Baby",
+      "weeks": 21,
+      "peak": 6,
+      "score": 465
+    },
+    {
+      "artist": "Sam Smith",
+      "title": "Unholy",
+      "weeks": 13,
+      "peak": 1,
+      "score": 465
+    },
+    {
+      "artist": "Nicki Minaj",
+      "title": "Super Freaky Girl",
+      "weeks": 19,
+      "peak": 1,
+      "score": 464
+    },
+    {
+      "artist": "Dua Lipa",
+      "title": "Levitating",
+      "weeks": 17,
+      "peak": 12,
+      "score": 410
+    },
+    {
+      "artist": "Onerepublic",
+      "title": "I Ain't Worried",
+      "weeks": 25,
+      "peak": 6,
+      "score": 395
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Save Your Tears",
+      "weeks": 17,
+      "peak": 16,
+      "score": 382
+    },
+    {
+      "artist": "Doja Cat",
+      "title": "Woman",
+      "weeks": 32,
+      "peak": 7,
+      "score": 370
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Break My Soul",
+      "weeks": 18,
+      "peak": 1,
+      "score": 365
+    },
+    {
+      "artist": "Bad Bunny",
+      "title": "Moscow Mule",
+      "weeks": 23,
+      "peak": 4,
+      "score": 353
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Anti-Hero",
+      "weeks": 9,
+      "peak": 1,
+      "score": 341
+    },
+    {
+      "artist": "Post Malone",
+      "title": "One Right Now",
+      "weeks": 21,
+      "peak": 17,
+      "score": 333
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Harry Styles",
+      "hits": 2
+    },
+    {
+      "artist": "Ed Sheeran",
+      "hits": 2
+    },
+    {
+      "artist": "Post Malone",
+      "hits": 2
+    },
+    {
+      "artist": "Bad Bunny",
+      "hits": 3
+    },
+    {
+      "artist": "Morgan Wallen",
+      "hits": 2
+    },
+    {
+      "artist": "Lil Nas X",
+      "hits": 2
+    },
+    {
+      "artist": "Doja Cat",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Glass Animals",
+      "title": "Heat Waves",
+      "weeks": 43,
+      "peak": 1,
+      "score": 1416
+    },
+    {
+      "artist": "Latto",
+      "title": "Big Energy",
+      "weeks": 43,
+      "peak": 3,
+      "score": 814
+    },
+    {
+      "artist": "The Kid Laroi",
+      "title": "Stay",
+      "weeks": 40,
+      "peak": 2,
+      "score": 1196
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "Ghost",
+      "weeks": 40,
+      "peak": 5,
+      "score": 906
+    },
+    {
+      "artist": "Harry Styles",
+      "title": "As It Was",
+      "weeks": 38,
+      "peak": 1,
+      "score": 1352
+    },
+    {
+      "artist": "Ed Sheeran",
+      "title": "Shivers",
+      "weeks": 38,
+      "peak": 4,
+      "score": 778
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "Wasted On You",
+      "weeks": 37,
+      "peak": 11,
+      "score": 696
+    },
+    {
+      "artist": "Elton John",
+      "title": "Cold Heart (PNAU Remix)",
+      "weeks": 37,
+      "peak": 7,
+      "score": 693
+    },
+    {
+      "artist": "Kodak Black",
+      "title": "Super Gremlin",
+      "weeks": 36,
+      "peak": 3,
+      "score": 739
+    },
+    {
+      "artist": "Zach Bryan",
+      "title": "Something In The Orange",
+      "weeks": 35,
+      "peak": 12,
+      "score": 116
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Glass Animals",
+      "title": "Heat Waves",
+      "weeks": 43,
+      "peak": 1,
+      "score": 1416
+    },
+    {
+      "artist": "Harry Styles",
+      "title": "As It Was",
+      "weeks": 38,
+      "peak": 1,
+      "score": 1352
+    },
+    {
+      "artist": "Future",
+      "title": "Wait For U",
+      "weeks": 32,
+      "peak": 1,
+      "score": 891
+    },
+    {
+      "artist": "Jack Harlow",
+      "title": "First Class",
+      "weeks": 28,
+      "peak": 1,
+      "score": 872
+    },
+    {
+      "artist": "Lizzo",
+      "title": "About Damn Time",
+      "weeks": 33,
+      "peak": 1,
+      "score": 842
+    },
+    {
+      "artist": "Steve Lacy",
+      "title": "Bad Habit",
+      "weeks": 25,
+      "peak": 1,
+      "score": 700
+    },
+    {
+      "artist": "Adele",
+      "title": "Easy On Me",
+      "weeks": 21,
+      "peak": 1,
+      "score": 643
+    },
+    {
+      "artist": "Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz",
+      "title": "We Don't Talk About Bruno",
+      "weeks": 20,
+      "peak": 1,
+      "score": 514
+    },
+    {
+      "artist": "Drake",
+      "title": "Jimmy Cooks",
+      "weeks": 24,
+      "peak": 1,
+      "score": 483
+    },
+    {
+      "artist": "Sam Smith",
+      "title": "Unholy",
+      "weeks": 13,
+      "peak": 1,
+      "score": 465
+    },
+    {
+      "artist": "Nicki Minaj",
+      "title": "Super Freaky Girl",
+      "weeks": 19,
+      "peak": 1,
+      "score": 464
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Break My Soul",
+      "weeks": 18,
+      "peak": 1,
+      "score": 365
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Anti-Hero",
+      "weeks": 9,
+      "peak": 1,
+      "score": 341
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "All I Want For Christmas Is You",
+      "weeks": 8,
+      "peak": 1,
+      "score": 291
+    }
+  ]
+}

@@ -1,0 +1,938 @@
+[
+  {
+    "week": 1,
+    "start_date": "1974-01-07",
+    "end_date": "1974-01-13",
+    "song_title": "The Joker",
+    "song_artist": "The Steve Miller Band",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 2,
+    "start_date": "1974-01-14",
+    "end_date": "1974-01-20",
+    "song_title": "Show And Tell",
+    "song_artist": "Al Wilson",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 3,
+    "start_date": "1974-01-21",
+    "end_date": "1974-01-27",
+    "song_title": "You're Sixteen",
+    "song_artist": "Ringo Starr",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 4,
+    "start_date": "1974-01-28",
+    "end_date": "1974-02-03",
+    "song_title": "The Way We Were",
+    "song_artist": "Barbra Streisand",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 5,
+    "start_date": "1974-02-04",
+    "end_date": "1974-02-10",
+    "song_title": "Love's Theme",
+    "song_artist": "Love Unlimited Orchestra",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 6,
+    "start_date": "1974-02-11",
+    "end_date": "1974-02-17",
+    "song_title": "The Way We Were",
+    "song_artist": "Barbra Streisand",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 7,
+    "start_date": "1974-02-18",
+    "end_date": "1974-02-24",
+    "song_title": "The Way We Were",
+    "song_artist": "Barbra Streisand",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 8,
+    "start_date": "1974-02-25",
+    "end_date": "1974-03-03",
+    "song_title": "Seasons In The Sun",
+    "song_artist": "Terry Jacks",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 9,
+    "start_date": "1974-03-04",
+    "end_date": "1974-03-10",
+    "song_title": "Seasons In The Sun",
+    "song_artist": "Terry Jacks",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 10,
+    "start_date": "1974-03-11",
+    "end_date": "1974-03-17",
+    "song_title": "Seasons In The Sun",
+    "song_artist": "Terry Jacks",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 11,
+    "start_date": "1974-03-18",
+    "end_date": "1974-03-24",
+    "song_title": "Dark Lady",
+    "song_artist": "Cher",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 12,
+    "start_date": "1974-03-25",
+    "end_date": "1974-03-31",
+    "song_title": "Sunshine On My Shoulders",
+    "song_artist": "John Denver",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 13,
+    "start_date": "1974-04-01",
+    "end_date": "1974-04-07",
+    "song_title": "Hooked On A Feeling",
+    "song_artist": "Blue Swede",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 14,
+    "start_date": "1974-04-08",
+    "end_date": "1974-04-14",
+    "song_title": "Bennie And The Jets",
+    "song_artist": "Elton John",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 15,
+    "start_date": "1974-04-15",
+    "end_date": "1974-04-21",
+    "song_title": "TSOP (The Sound Of Philadelphia)",
+    "song_artist": "Mfsb",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 16,
+    "start_date": "1974-04-22",
+    "end_date": "1974-04-28",
+    "song_title": "TSOP (The Sound Of Philadelphia)",
+    "song_artist": "Mfsb",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 17,
+    "start_date": "1974-04-29",
+    "end_date": "1974-05-05",
+    "song_title": "The Loco-Motion",
+    "song_artist": "Grand Funk",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 18,
+    "start_date": "1974-05-06",
+    "end_date": "1974-05-12",
+    "song_title": "The Loco-Motion",
+    "song_artist": "Grand Funk",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 19,
+    "start_date": "1974-05-13",
+    "end_date": "1974-05-19",
+    "song_title": "The Streak",
+    "song_artist": "Ray Stevens",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 20,
+    "start_date": "1974-05-20",
+    "end_date": "1974-05-26",
+    "song_title": "The Streak",
+    "song_artist": "Ray Stevens",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 21,
+    "start_date": "1974-05-27",
+    "end_date": "1974-06-02",
+    "song_title": "The Streak",
+    "song_artist": "Ray Stevens",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 22,
+    "start_date": "1974-06-03",
+    "end_date": "1974-06-09",
+    "song_title": "Band On The Run",
+    "song_artist": "Paul Mccartney And Wings",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 23,
+    "start_date": "1974-06-10",
+    "end_date": "1974-06-16",
+    "song_title": "Billy, Don't Be A Hero",
+    "song_artist": "Bo Donaldson And The Heywoods",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 24,
+    "start_date": "1974-06-17",
+    "end_date": "1974-06-23",
+    "song_title": "Billy, Don't Be A Hero",
+    "song_artist": "Bo Donaldson And The Heywoods",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 25,
+    "start_date": "1974-06-24",
+    "end_date": "1974-06-30",
+    "song_title": "Sundown",
+    "song_artist": "Gordon Lightfoot",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 26,
+    "start_date": "1974-07-01",
+    "end_date": "1974-07-07",
+    "song_title": "Rock The Boat",
+    "song_artist": "The Hues Corporation",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 27,
+    "start_date": "1974-07-08",
+    "end_date": "1974-07-14",
+    "song_title": "Rock Your Baby",
+    "song_artist": "George Mccrae",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 28,
+    "start_date": "1974-07-15",
+    "end_date": "1974-07-21",
+    "song_title": "Rock Your Baby",
+    "song_artist": "George Mccrae",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 29,
+    "start_date": "1974-07-22",
+    "end_date": "1974-07-28",
+    "song_title": "Annie's Song",
+    "song_artist": "John Denver",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 30,
+    "start_date": "1974-07-29",
+    "end_date": "1974-08-04",
+    "song_title": "Annie's Song",
+    "song_artist": "John Denver",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 31,
+    "start_date": "1974-08-05",
+    "end_date": "1974-08-11",
+    "song_title": "Feel Like Makin' Love",
+    "song_artist": "Roberta Flack",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 32,
+    "start_date": "1974-08-12",
+    "end_date": "1974-08-18",
+    "song_title": "The Night Chicago Died",
+    "song_artist": "Paper Lace",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 33,
+    "start_date": "1974-08-19",
+    "end_date": "1974-08-25",
+    "song_title": "(You're) Having My Baby",
+    "song_artist": "Paul Anka",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 34,
+    "start_date": "1974-08-26",
+    "end_date": "1974-09-01",
+    "song_title": "(You're) Having My Baby",
+    "song_artist": "Paul Anka",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 35,
+    "start_date": "1974-09-02",
+    "end_date": "1974-09-08",
+    "song_title": "(You're) Having My Baby",
+    "song_artist": "Paul Anka",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 36,
+    "start_date": "1974-09-09",
+    "end_date": "1974-09-15",
+    "song_title": "I Shot The Sheriff",
+    "song_artist": "Eric Clapton",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 37,
+    "start_date": "1974-09-16",
+    "end_date": "1974-09-22",
+    "song_title": "Can't Get Enough Of Your Love, Babe",
+    "song_artist": "Barry White",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 38,
+    "start_date": "1974-09-23",
+    "end_date": "1974-09-29",
+    "song_title": "Rock Me Gently",
+    "song_artist": "Andy Kim",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 39,
+    "start_date": "1974-09-30",
+    "end_date": "1974-10-06",
+    "song_title": "I Honestly Love You",
+    "song_artist": "Olivia Newton-john",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 40,
+    "start_date": "1974-10-07",
+    "end_date": "1974-10-13",
+    "song_title": "I Honestly Love You",
+    "song_artist": "Olivia Newton-john",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 41,
+    "start_date": "1974-10-14",
+    "end_date": "1974-10-20",
+    "song_title": "Nothing From Nothing",
+    "song_artist": "Billy Preston",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 42,
+    "start_date": "1974-10-21",
+    "end_date": "1974-10-27",
+    "song_title": "Then Came You",
+    "song_artist": "Dionne Warwicke",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 43,
+    "start_date": "1974-10-28",
+    "end_date": "1974-11-03",
+    "song_title": "You Haven't Done Nothin",
+    "song_artist": "Stevie Wonder",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 44,
+    "start_date": "1974-11-04",
+    "end_date": "1974-11-10",
+    "song_title": "You Ain't Seen Nothing Yet/Free Wheelin'",
+    "song_artist": "Bachman-turner Overdrive",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 45,
+    "start_date": "1974-11-11",
+    "end_date": "1974-11-17",
+    "song_title": "Whatever Gets You Thru The Night",
+    "song_artist": "John Lennon",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 46,
+    "start_date": "1974-11-18",
+    "end_date": "1974-11-24",
+    "song_title": "I Can Help",
+    "song_artist": "Billy Swan",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 47,
+    "start_date": "1974-11-25",
+    "end_date": "1974-12-01",
+    "song_title": "I Can Help",
+    "song_artist": "Billy Swan",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 48,
+    "start_date": "1974-12-02",
+    "end_date": "1974-12-08",
+    "song_title": "Kung Fu Fighting",
+    "song_artist": "Carl Douglas",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 49,
+    "start_date": "1974-12-09",
+    "end_date": "1974-12-15",
+    "song_title": "Kung Fu Fighting",
+    "song_artist": "Carl Douglas",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 50,
+    "start_date": "1974-12-16",
+    "end_date": "1974-12-22",
+    "song_title": "Cat's In The Cradle",
+    "song_artist": "Harry Chapin",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 51,
+    "start_date": "1974-12-23",
+    "end_date": "1974-12-29",
+    "song_title": "Angie Baby",
+    "song_artist": "Helen Reddy",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  },
+  {
+    "week": 52,
+    "start_date": "1974-12-30",
+    "end_date": "1975-01-05",
+    "song_title": "Angie Baby",
+    "song_artist": "Helen Reddy",
+    "movie_anchor_title": "",
+    "movie_anchor_genre": "",
+    "movie_pool_titles": [
+      "",
+      ""
+    ],
+    "tv_anchor": "",
+    "tv_daytime": "",
+    "tv_pbs": "",
+    "headline": "",
+    "mood_tags": []
+  }
+]

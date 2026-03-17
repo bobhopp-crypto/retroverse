@@ -1,0 +1,493 @@
+{
+  "year": "1982",
+  "top_songs": [
+    {
+      "artist": "John Cougar",
+      "title": "Hurts So Good",
+      "weeks": 28,
+      "peak": 2,
+      "score": 485
+    },
+    {
+      "artist": "Survivor",
+      "title": "Eye Of The Tiger",
+      "weeks": 25,
+      "peak": 1,
+      "score": 479
+    },
+    {
+      "artist": "The Steve Miller Band",
+      "title": "Abracadabra",
+      "weeks": 25,
+      "peak": 1,
+      "score": 462
+    },
+    {
+      "artist": "The J. Geils Band",
+      "title": "Centerfold",
+      "weeks": 17,
+      "peak": 1,
+      "score": 413
+    },
+    {
+      "artist": "John Cougar",
+      "title": "Jack & Diane",
+      "weeks": 22,
+      "peak": 1,
+      "score": 382
+    },
+    {
+      "artist": "Paul Mccartney And Stevie Wonder",
+      "title": "Ebony And Ivory",
+      "weeks": 19,
+      "peak": 1,
+      "score": 379
+    },
+    {
+      "artist": "Chicago",
+      "title": "Hard To Say I'm Sorry",
+      "weeks": 24,
+      "peak": 1,
+      "score": 371
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "title": "Hold Me",
+      "weeks": 17,
+      "peak": 4,
+      "score": 361
+    },
+    {
+      "artist": "Air Supply",
+      "title": "Sweet Dreams",
+      "weeks": 17,
+      "peak": 5,
+      "score": 355
+    },
+    {
+      "artist": "The Human League",
+      "title": "Don't You Want Me",
+      "weeks": 28,
+      "peak": 1,
+      "score": 350
+    },
+    {
+      "artist": "Toto",
+      "title": "Rosanna",
+      "weeks": 23,
+      "peak": 2,
+      "score": 339
+    },
+    {
+      "artist": "Joan Jett",
+      "title": "I Love Rock 'N Roll",
+      "weeks": 20,
+      "peak": 1,
+      "score": 328
+    },
+    {
+      "artist": "Go-go's",
+      "title": "We Got The Beat",
+      "weeks": 19,
+      "peak": 2,
+      "score": 323
+    },
+    {
+      "artist": "Olivia Newton-john",
+      "title": "Heart Attack",
+      "weeks": 17,
+      "peak": 3,
+      "score": 323
+    },
+    {
+      "artist": "Quarterflash",
+      "title": "Harden My Heart",
+      "weeks": 13,
+      "peak": 3,
+      "score": 321
+    },
+    {
+      "artist": "Rick Springfield",
+      "title": "Don't Talk To Strangers",
+      "weeks": 21,
+      "peak": 2,
+      "score": 319
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "title": "I Can't Go For That (No Can Do)",
+      "weeks": 14,
+      "peak": 1,
+      "score": 317
+    },
+    {
+      "artist": "The Cars",
+      "title": "Shake It Up",
+      "weeks": 16,
+      "peak": 4,
+      "score": 315
+    },
+    {
+      "artist": "Laura Branigan",
+      "title": "Gloria",
+      "weeks": 25,
+      "peak": 2,
+      "score": 301
+    },
+    {
+      "artist": "Lionel Richie",
+      "title": "Truly",
+      "weeks": 12,
+      "peak": 1,
+      "score": 297
+    },
+    {
+      "artist": "Journey",
+      "title": "Open Arms",
+      "weeks": 18,
+      "peak": 2,
+      "score": 277
+    },
+    {
+      "artist": "Dan Fogelberg",
+      "title": "Leader Of The Band",
+      "weeks": 15,
+      "peak": 9,
+      "score": 266
+    },
+    {
+      "artist": "Men At Work",
+      "title": "Who Can It Be Now?",
+      "weeks": 25,
+      "peak": 1,
+      "score": 259
+    },
+    {
+      "artist": "Olivia Newton-john",
+      "title": "Physical",
+      "weeks": 13,
+      "peak": 1,
+      "score": 256
+    },
+    {
+      "artist": "Bertie Higgins",
+      "title": "Key Largo",
+      "weeks": 22,
+      "peak": 8,
+      "score": 252
+    },
+    {
+      "artist": "America",
+      "title": "You Can Do Magic",
+      "weeks": 20,
+      "peak": 8,
+      "score": 245
+    },
+    {
+      "artist": "Joe Cocker And Jennifer Warnes",
+      "title": "Up Where We Belong",
+      "weeks": 19,
+      "peak": 1,
+      "score": 245
+    },
+    {
+      "artist": "The J. Geils Band",
+      "title": "Freeze-frame",
+      "weeks": 16,
+      "peak": 4,
+      "score": 240
+    },
+    {
+      "artist": "Little River Band",
+      "title": "Take It Easy On Me",
+      "weeks": 15,
+      "peak": 10,
+      "score": 239
+    },
+    {
+      "artist": "George Benson",
+      "title": "Turn Your Love Around",
+      "weeks": 12,
+      "peak": 5,
+      "score": 234
+    },
+    {
+      "artist": "Air Supply",
+      "title": "Even The Nights Are Better",
+      "weeks": 18,
+      "peak": 5,
+      "score": 233
+    },
+    {
+      "artist": "Crosby, Stills",
+      "title": "Wasted On The Way",
+      "weeks": 15,
+      "peak": 9,
+      "score": 223
+    },
+    {
+      "artist": "Reo Speedwagon",
+      "title": "Keep The Fire Burnin'",
+      "weeks": 16,
+      "peak": 7,
+      "score": 222
+    },
+    {
+      "artist": "The Alan Parsons Project",
+      "title": "Eye In The Sky",
+      "weeks": 25,
+      "peak": 3,
+      "score": 218
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Muscles",
+      "weeks": 13,
+      "peak": 10,
+      "score": 216
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "title": "Maneater",
+      "weeks": 11,
+      "peak": 1,
+      "score": 216
+    },
+    {
+      "artist": "Michael Mcdonald",
+      "title": "I Keep Forgettin' (Every Time You're Near)",
+      "weeks": 19,
+      "peak": 4,
+      "score": 206
+    },
+    {
+      "artist": "Juice Newton",
+      "title": "The Sweetest Thing (I've Ever Known)",
+      "weeks": 13,
+      "peak": 7,
+      "score": 205
+    },
+    {
+      "artist": "Michael Jackson And Paul Mccartney",
+      "title": "The Girl Is Mine",
+      "weeks": 8,
+      "peak": 3,
+      "score": 204
+    },
+    {
+      "artist": "Supertramp",
+      "title": "It's Raining Again",
+      "weeks": 9,
+      "peak": 11,
+      "score": 202
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "John Cougar",
+      "hits": 2
+    },
+    {
+      "artist": "The J. Geils Band",
+      "hits": 2
+    },
+    {
+      "artist": "Air Supply",
+      "hits": 2
+    },
+    {
+      "artist": "Olivia Newton-john",
+      "hits": 2
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Soft Cell",
+      "title": "Tainted Love",
+      "weeks": 43,
+      "peak": 8,
+      "score": -707
+    },
+    {
+      "artist": "John Cougar",
+      "title": "Hurts So Good",
+      "weeks": 28,
+      "peak": 2,
+      "score": 485
+    },
+    {
+      "artist": "The Human League",
+      "title": "Don't You Want Me",
+      "weeks": 28,
+      "peak": 1,
+      "score": 350
+    },
+    {
+      "artist": "Tommy Tutone",
+      "title": "867-5309/jenny",
+      "weeks": 27,
+      "peak": 4,
+      "score": 80
+    },
+    {
+      "artist": "Survivor",
+      "title": "Eye Of The Tiger",
+      "weeks": 25,
+      "peak": 1,
+      "score": 479
+    },
+    {
+      "artist": "The Steve Miller Band",
+      "title": "Abracadabra",
+      "weeks": 25,
+      "peak": 1,
+      "score": 462
+    },
+    {
+      "artist": "Laura Branigan",
+      "title": "Gloria",
+      "weeks": 25,
+      "peak": 2,
+      "score": 301
+    },
+    {
+      "artist": "Men At Work",
+      "title": "Who Can It Be Now?",
+      "weeks": 25,
+      "peak": 1,
+      "score": 259
+    },
+    {
+      "artist": "The Alan Parsons Project",
+      "title": "Eye In The Sky",
+      "weeks": 25,
+      "peak": 3,
+      "score": 218
+    },
+    {
+      "artist": "Melissa Manchester",
+      "title": "You Should Hear How She Talks About You",
+      "weeks": 25,
+      "peak": 5,
+      "score": 160
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Survivor",
+      "title": "Eye Of The Tiger",
+      "weeks": 25,
+      "peak": 1,
+      "score": 479
+    },
+    {
+      "artist": "The Steve Miller Band",
+      "title": "Abracadabra",
+      "weeks": 25,
+      "peak": 1,
+      "score": 462
+    },
+    {
+      "artist": "The J. Geils Band",
+      "title": "Centerfold",
+      "weeks": 17,
+      "peak": 1,
+      "score": 413
+    },
+    {
+      "artist": "John Cougar",
+      "title": "Jack & Diane",
+      "weeks": 22,
+      "peak": 1,
+      "score": 382
+    },
+    {
+      "artist": "Paul Mccartney And Stevie Wonder",
+      "title": "Ebony And Ivory",
+      "weeks": 19,
+      "peak": 1,
+      "score": 379
+    },
+    {
+      "artist": "Chicago",
+      "title": "Hard To Say I'm Sorry",
+      "weeks": 24,
+      "peak": 1,
+      "score": 371
+    },
+    {
+      "artist": "The Human League",
+      "title": "Don't You Want Me",
+      "weeks": 28,
+      "peak": 1,
+      "score": 350
+    },
+    {
+      "artist": "Joan Jett",
+      "title": "I Love Rock 'N Roll",
+      "weeks": 20,
+      "peak": 1,
+      "score": 328
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "title": "I Can't Go For That (No Can Do)",
+      "weeks": 14,
+      "peak": 1,
+      "score": 317
+    },
+    {
+      "artist": "Lionel Richie",
+      "title": "Truly",
+      "weeks": 12,
+      "peak": 1,
+      "score": 297
+    },
+    {
+      "artist": "Men At Work",
+      "title": "Who Can It Be Now?",
+      "weeks": 25,
+      "peak": 1,
+      "score": 259
+    },
+    {
+      "artist": "Olivia Newton-john",
+      "title": "Physical",
+      "weeks": 13,
+      "peak": 1,
+      "score": 256
+    },
+    {
+      "artist": "Joe Cocker And Jennifer Warnes",
+      "title": "Up Where We Belong",
+      "weeks": 19,
+      "peak": 1,
+      "score": 245
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "title": "Maneater",
+      "weeks": 11,
+      "peak": 1,
+      "score": 216
+    },
+    {
+      "artist": "Toni Basil",
+      "title": "Mickey",
+      "weeks": 17,
+      "peak": 1,
+      "score": 174
+    },
+    {
+      "artist": "Vangelis",
+      "title": "Chariots Of Fire - Titles",
+      "weeks": 25,
+      "peak": 1,
+      "score": 120
+    }
+  ]
+}

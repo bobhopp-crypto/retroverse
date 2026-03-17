@@ -1,0 +1,918 @@
+{
+  "meta": {
+    "run_id": "run_1770237987209",
+    "generated_at": "2026-02-04T20:46:28.347Z",
+    "pipeline_name": "retroverse-local-example",
+    "stage": "export_billboard_json",
+    "source": "/Users/bobhopp/Sites/retroverse/raw-data/billboard-hot-100.db",
+    "chart_key": "billboard_hot100",
+    "chart_name": "Billboard Hot 100"
+  },
+  "summary": {
+    "songs_exported": 100,
+    "issues_exported": 1,
+    "entries_read": 100
+  },
+  "songs": [
+    {
+      "chart_song_id": "9ee817bbb71e9a9ca486c4cf170fa5dc798c4868",
+      "artist": "Alex Warren",
+      "title": "Eternity",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 79,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "6c4fb1b021a0c2ac64d05ef468cdbd7739eb76d2",
+      "artist": "Alex Warren",
+      "title": "Ordinary",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 12,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "f5a13e3bbcf3c5ccfc68760737e4bed2d7f5f0ca",
+      "artist": "Andy Williams",
+      "title": "Happy Holiday / The Holiday Season",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 46,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "2e168bcbd8f25689bb2b87114e82ef637fdd63ee",
+      "artist": "Andy Williams",
+      "title": "It's The Most Wonderful Time Of The Year",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 10,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "f75e981b47aac1f2e5d8977b15fc544907401391",
+      "artist": "Ariana Grande",
+      "title": "Santa Tell Me",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 5,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "717e2b1b6b14c69095169a63dfe24f18d2de5f15",
+      "artist": "BigXthaPlug Featuring Ella Langley",
+      "title": "Hell At Night",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 64,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "c6ab2dc47efd293c55e0b87274d82475400f3751",
+      "artist": "Bing Crosby With Ken Darby Singers & John Scott Trotter & His Orchestra",
+      "title": "White Christmas (1947)",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 19,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "4688b01052ef86d0f3410a24d87527c5716f3421",
+      "artist": "Bobby Helms",
+      "title": "Jingle Bell Rock",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 4,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "0b95a4b134d5038961ca2721f9848a05fa16ea3a",
+      "artist": "Brenda Lee",
+      "title": "Rockin' Around The Christmas Tree",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 2,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "cd2403fdae6f3b5b6d9f34c6504dc9486eee0f75",
+      "artist": "Burl Ives",
+      "title": "A Holly Jolly Christmas",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 15,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "4baf1da9364eedc436f7f50e255ce783f143a43a",
+      "artist": "Cardi B",
+      "title": "ErrTime",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 83,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "be03966b62c07374598c4df73b8607e76221dbb7",
+      "artist": "Chase Matthew",
+      "title": "Darlin'",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 89,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "20b805c86d3c891d83a85be547a830b7374b4af6",
+      "artist": "Chris Brown Featuring Bryson Tiller",
+      "title": "It Depends",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 51,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "afc6fb21748de21b36f073a821e1351c6a847449",
+      "artist": "Chuck Berry",
+      "title": "Run Rudolph Run",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 21,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "81dc3c94f31c71f71f81212866accc7d56d62ddd",
+      "artist": "Cody Johnson",
+      "title": "The Fall",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 68,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "01ad618e11e4e9937e70cedd689e64504950ba6c",
+      "artist": "Cody Johnson",
+      "title": "Travelin' Soldier",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 78,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "5a29a4e951884115838ef34516f0b20545c3d766",
+      "artist": "Darlene Love",
+      "title": "Christmas (Baby Please Come Home)",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 18,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "fd615c87d24746b2ecaca2f9791dcd07b548223b",
+      "artist": "Darlene Love",
+      "title": "Winter Wonderland",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 49,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "1752337d640e2a43237b8e04b337f58ed25ccd50",
+      "artist": "David Guetta, Teddy Swims & Tones And I",
+      "title": "Gone Gone Gone",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 91,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "2bd3736caffdcd63897fe6ebecb4f61a52afdc87",
+      "artist": "Dean Martin",
+      "title": "Baby It's Cold Outside",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 48,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "dd35d33aee5e352097168187dcb881e454ea0cd4",
+      "artist": "Dean Martin",
+      "title": "Let It Snow! Let It Snow! Let It Snow!",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 11,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "245a6f8e9ffcf88bcad73d413baa40bb07fd3b66",
+      "artist": "Donny Hathaway",
+      "title": "This Christmas",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 45,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "4e77359d09e49e4e7b1dc2054ca9cf1ecbe3911f",
+      "artist": "Eagles",
+      "title": "Please Come Home For Christmas",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 34,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "8b0c22966b511ca40fce624ab227d5df6dfba264",
+      "artist": "Eartha Kitt With Henri Rene And His Orchestra",
+      "title": "Santa Baby",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 27,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "f60f8c4299415d80645d46d5ec0be43a345fb718",
+      "artist": "Ed Sheeran",
+      "title": "Camera",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 87,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "957e29a80f0598c59014adfdca016db9ddc4918a",
+      "artist": "Ed Sheeran & Elton John",
+      "title": "Merry Christmas",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 44,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "c30a5145101b36836310969a8d4de157d089d804",
+      "artist": "Ella Langley",
+      "title": "Choosin' Texas",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 25,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "92f455ffdede8dcd4ff42184d94a812ba659c0ae",
+      "artist": "Elvis Presley",
+      "title": "Blue Christmas",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 29,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "84cb0d01cebf673818772770b0de17b6cca43061",
+      "artist": "Frank Sinatra With The Orchestra & Chorus Of Gordon Jenkins",
+      "title": "Jingle Bells",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 20,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "c803615473aece4dc543dcc381d2985980773b90",
+      "artist": "Gavin Adcock",
+      "title": "Last One To Know",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 81,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "24c118a443c3eafb7c92eedeafd984c8481b8fbc",
+      "artist": "Gene Autry",
+      "title": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 28,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "04a4e9f312a3e6de8d6df3256528867af590fc14",
+      "artist": "Gene Autry & The Pinafores",
+      "title": "Rudolph The Red-Nosed Reindeer",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 35,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "73348fa9f7c17e86122f111b50485dfc7d07e564",
+      "artist": "Gunna Featuring Burna Boy",
+      "title": "wgft",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 56,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "60ab4381a4b0176e136867e45c9fb1376c02f2d3",
+      "artist": "Gwen Stefani",
+      "title": "Shake The Snow Globe",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 74,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "1f8a697cc0a308bc1f1306f1dcb1f9b99806b815",
+      "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
+      "title": "Golden",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 6,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "806324c87c7536366236be726d0bd4a69113dd93",
+      "artist": "Hardy",
+      "title": "Favorite Country Song",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 80,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "109fdd0f0c80b53c148af395ec791b7f30ba5379",
+      "artist": "Hudson Westbrook",
+      "title": "House Again",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 65,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "e49402c8f96c0314fc5de33b0f4ed411e803020d",
+      "artist": "Jackson 5",
+      "title": "Santa Claus Is Comin' To Town",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 47,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "1599001c26cc85b88f98ee7c53c90b164dfb0979",
+      "artist": "Jason Aldean",
+      "title": "How Far Does A Goodbye Go",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 84,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "bfb40c916c8c8da28c585cc761128012398086d2",
+      "artist": "Jonas Brothers",
+      "title": "Like It's Christmas",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 32,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "52c04e24cead815bd35d89d4e2da9da4f5cc651f",
+      "artist": "Jose Feliciano",
+      "title": "Feliz Navidad",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 16,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "3a3f41c6250ec251c065409e2ed5ec923f0e8e5c",
+      "artist": "Justin Bieber",
+      "title": "Daisies",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 36,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "e5917e236dcdff23252c8d416b17a57616a36d99",
+      "artist": "Justin Bieber",
+      "title": "Mistletoe",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 43,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "776a9805e726d746bbd913b1486e10a67ae609e2",
+      "artist": "Justin Bieber",
+      "title": "Yukon",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 63,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "7da021934991fe644509636180ccbf67bb25ffd6",
+      "artist": "Katseye",
+      "title": "Gabriela",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 60,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "871ce16240aed8128b76685e0b9a7fa4a939be77",
+      "artist": "Kehlani",
+      "title": "Folded",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 30,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "d8eed87cd6d2d3e0bc52910bc978a1273bfb1390",
+      "artist": "Kelly Clarkson",
+      "title": "Underneath The Tree",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 9,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "26c38ebebcc29c46f17e63ee5c42ad0277feffd0",
+      "artist": "Kelly Clarkson & Ariana Grande",
+      "title": "Santa, Can't You Hear Me",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 40,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "c5d5a711538daeba2ed4140f04821e1e3111be94",
+      "artist": "Leon Thomas",
+      "title": "Mutt",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 24,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "36fc1baafa24aa87b8eaf2f3caa8a1da3776b0c5",
+      "artist": "Lil Baby, Playboi Carti & Skooly",
+      "title": "Let's Do It",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 71,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "c13271a62fbbb42e8675fc2c994d6bc3bf87e74f",
+      "artist": "Loe Shimmy & Don Toliver",
+      "title": "3am",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 98,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "adfed468c44ea4d9622b807a1cea95df54103846",
+      "artist": "Luke Combs",
+      "title": "Days Like These",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 86,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "77ade0ae5a5c562caeb137ccb8f0ee0dc2a8b597",
+      "artist": "Mariah Carey",
+      "title": "All I Want For Christmas Is You",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 1,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "6e712dd3c95dc0251ed3458ca8b423d0e4b98c9d",
+      "artist": "Mariah the Scientist & Kali Uchis",
+      "title": "Is It A Crime",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 58,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "420ba6639d7d5628b621bf05ff04bdafaf1cd6e8",
+      "artist": "Max Mcnown",
+      "title": "Better Me For You (Brown Eyes)",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 67,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "89f85052460874884d745e9bc223e8a1d05e2861",
+      "artist": "Megan Moroney",
+      "title": "6 Months Later",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 66,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "6bf68874d3352c9cf657c8919868b428cc0779d7",
+      "artist": "Megan Moroney",
+      "title": "Beautiful Things",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 95,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "dcf018da79e61b410b3937e8f06df52dc6e7d0fd",
+      "artist": "Metro Boomin, Quavo, Breskii & YKNIECE",
+      "title": "Take Me Thru Dere",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 73,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "2d69b4993a2054527f66b4c58ba1a75ac702b571",
+      "artist": "Michael Buble",
+      "title": "Holly Jolly Christmas",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 38,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "09f6d6f1447bfb7eed4afa730ebb211f9277a903",
+      "artist": "Michael Buble",
+      "title": "It's Beginning To Look A Lot Like Christmas",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 13,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "d950dcd4f6c3cba7fa1be995a1f1468461050c9a",
+      "artist": "Morgan Wallen",
+      "title": "20 Cigarettes",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 57,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "4bf04e8444f3bc34d8f66b08e5302d3777ed1d11",
+      "artist": "Morgan Wallen Featuring Post Malone",
+      "title": "I Ain't Coming Back",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 94,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "321cba5b09a4931a4479a35ee8465db632ba80b1",
+      "artist": "Myles Smith",
+      "title": "Nice To Meet You",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 61,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "311179fa7ed6ddb53cb816ff4feae8c0b32d6981",
+      "artist": "Nat \"king\" Cole",
+      "title": "The Christmas Song (Merry Christmas To You)",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 8,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "2d0b145ed693f9eba662c441f540a0a33a9993c4",
+      "artist": "Nat King Cole",
+      "title": "Deck The Halls",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 23,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "e3ec96cafaac70c7fe24ae35506562cfe755c3b2",
+      "artist": "Olivia Dean",
+      "title": "A Couple Minutes",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 69,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "95153a89f7b2524407ede0d166780a34ef7e48ca",
+      "artist": "Olivia Dean",
+      "title": "Let Alone The One You Love",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 97,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "bf95e4d23be76fcc302d359371fd0c997bb8e7c7",
+      "artist": "Olivia Dean",
+      "title": "Man I Need",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 17,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "03572981ce1d88f37eaa7a1cf5e7d249a358b1a4",
+      "artist": "Olivia Dean",
+      "title": "Nice To Each Other",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 92,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "b7350cba2304135ac73474a0003b6e4388dcd0f2",
+      "artist": "Olivia Dean",
+      "title": "So Easy (To Fall In Love)",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 54,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "738dd58a59b6a04bfd665fc7f047b1b8168b9430",
+      "artist": "Parmalee",
+      "title": "Cowgirl",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 85,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "7e6822f8181847b0ec85f56e207eea68574764e3",
+      "artist": "Paul Mccartney",
+      "title": "Wonderful Christmastime",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 33,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "1eaf80b0b8aadf7b4baa1663a94b9d9108278929",
+      "artist": "Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra",
+      "title": "It's Beginning To Look A Lot Like Christmas",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 22,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "d1798d1d45e471b0c982f95debd4f7099e5e8df8",
+      "artist": "Perry Como With Mitchell Ayers And His Orchestra",
+      "title": "(There's No Place Like) Home For The Holidays (1959)",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 42,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "9ec93493038af8c7693f4c04f50594edb6c7a3fe",
+      "artist": "Raye",
+      "title": "Where Is My Husband!",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 55,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "6e4c9ee7c05441c9759dbc291367f3a940a243c5",
+      "artist": "Riley Green Featuring Ella Langley",
+      "title": "Don't Mind If I Do",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 52,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "743f420679c0ca86a965c059ee71c50eda19ba66",
+      "artist": "Russell Dickerson",
+      "title": "Happen To Me",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 62,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "e8bd8f59084d3156c5c41fa54f216e1201388387",
+      "artist": "Sabrina Carpenter",
+      "title": "Tears",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 59,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "f51e31564bc4a090484febf515d3d678251926dc",
+      "artist": "Sabrina Carpenter",
+      "title": "When Did You Get Hot?",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 100,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "598eb23578a117d4fe5faf3cc75bd485b2ca053d",
+      "artist": "Shaboozey & Jelly Roll",
+      "title": "Amen",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 75,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "b0d64b183b31a0cb26248dff110fd17f9657f09c",
+      "artist": "She & Him",
+      "title": "I Thought I Saw Your Face Today",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 99,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "ec7cb27f442a59d6ca2b482d782afa5c350c1bee",
+      "artist": "Sombr",
+      "title": "12 To 12",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 76,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "1dc3c42dba6d4dae400b42a245e0025469f41689",
+      "artist": "Sombr",
+      "title": "Back To Friends",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 26,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "eacd3c52eb84d7c4c69cce4ea7ebec9186137574",
+      "artist": "Tame Impala",
+      "title": "Dracula",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 72,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "a8d02904532a04b937ca043321d7d8cc046b62ba",
+      "artist": "Tate Mcrae",
+      "title": "Nobody's Girl",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 90,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "0b6fe35084213738b54e3f60196c214100cb0b9c",
+      "artist": "Tate Mcrae",
+      "title": "Tit For Tat",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 53,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "32e6dfa4f197ef2870e3211a556d5d3d4580b653",
+      "artist": "Taylor Swift",
+      "title": "Elizabeth Taylor",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 77,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "916382b88654447b505d255f8a32bb6b3aace336",
+      "artist": "Taylor Swift",
+      "title": "Father Figure",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 88,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "3a5b6018d45e50466ad9d808900977c6c09e0768",
+      "artist": "Taylor Swift",
+      "title": "Opalite",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 31,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "2f95f93746ef167df2555554fe0d99e856102f34",
+      "artist": "Taylor Swift",
+      "title": "The Fate Of Ophelia",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 7,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "2a3bf20e2448b9846e599a0f7cd7653d7cf82ed2",
+      "artist": "Taylor Swift",
+      "title": "Wi$h Li$t",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 93,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "7c5c595fdbbd59e427c33db2907cbe2d5a0fa555",
+      "artist": "The Beach Boys",
+      "title": "Little Saint Nick",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 41,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "5dae06a814f24ce982eb64e52842028b9fb3e872",
+      "artist": "The Marias",
+      "title": "Sienna",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 96,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "33f5c0b7c575b76b612b7085aa65ba5d1e69d631",
+      "artist": "The Ronettes",
+      "title": "Sleigh Ride",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 14,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "2a13889be8d4402b45bf485bfa46efb5c4ac8a62",
+      "artist": "Thurl Ravenscroft",
+      "title": "You're A Mean One, Mr. Grinch",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 39,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "b61ee1e4d50cf72841ed450d89ea155387661acd",
+      "artist": "Tyler, The Creator",
+      "title": "Sugar On My Tongue",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 82,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "99c324fa50329df6489224e08103dbf2c7fd334d",
+      "artist": "Vince Guaraldi Trio",
+      "title": "Christmastime Is Here",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 37,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "9bf9b62d1fbcd1bf714d1ff4e3e6246ac583016c",
+      "artist": "Vince Guaraldi Trio",
+      "title": "Linus And Lucy (Peanuts Theme)",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 50,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "444415ce147db591c30e0f794c3bcebe939cb89d",
+      "artist": "Wham!",
+      "title": "Last Christmas",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 3,
+      "weeks_on_chart": 1
+    },
+    {
+      "chart_song_id": "198694339c4d5d1d39f036b755e9007770baf5b1",
+      "artist": "Youngboy Never Broke Again",
+      "title": "Shot Callin",
+      "first_chart_year": 2025,
+      "last_chart_year": 2025,
+      "peak_position": 70,
+      "weeks_on_chart": 1
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "year": "2000",
+  "top_songs": [
+    {
+      "artist": "Faith Hill",
+      "title": "Breathe",
+      "weeks": 45,
+      "peak": 2,
+      "score": 1022
+    },
+    {
+      "artist": "Matchbox Twenty",
+      "title": "Bent",
+      "weeks": 36,
+      "peak": 1,
+      "score": 873
+    },
+    {
+      "artist": "Joe",
+      "title": "I Wanna Know",
+      "weeks": 44,
+      "peak": 4,
+      "score": 871
+    },
+    {
+      "artist": "Vertical Horizon",
+      "title": "Everything You Want",
+      "weeks": 41,
+      "peak": 1,
+      "score": 802
+    },
+    {
+      "artist": "Santana",
+      "title": "Maria Maria",
+      "weeks": 26,
+      "peak": 1,
+      "score": 793
+    },
+    {
+      "artist": "Aaliyah",
+      "title": "Try Again",
+      "weeks": 32,
+      "peak": 1,
+      "score": 779
+    },
+    {
+      "artist": "Santana",
+      "title": "Smooth",
+      "weeks": 36,
+      "peak": 1,
+      "score": 760
+    },
+    {
+      "artist": "Toni Braxton",
+      "title": "He Wasn't Man Enough",
+      "weeks": 37,
+      "peak": 2,
+      "score": 740
+    },
+    {
+      "artist": "Lonestar",
+      "title": "Amazed",
+      "weeks": 34,
+      "peak": 1,
+      "score": 720
+    },
+    {
+      "artist": "P!nk",
+      "title": "There You Go",
+      "weeks": 32,
+      "peak": 7,
+      "score": 716
+    },
+    {
+      "artist": "Destiny's Child",
+      "title": "Say My Name",
+      "weeks": 31,
+      "peak": 1,
+      "score": 713
+    },
+    {
+      "artist": "Madonna",
+      "title": "Music",
+      "weeks": 21,
+      "peak": 1,
+      "score": 638
+    },
+    {
+      "artist": "Savage Garden",
+      "title": "I Knew I Loved You",
+      "weeks": 23,
+      "peak": 1,
+      "score": 616
+    },
+    {
+      "artist": "*nsync",
+      "title": "Bye Bye Bye",
+      "weeks": 23,
+      "peak": 4,
+      "score": 615
+    },
+    {
+      "artist": "Sisqo",
+      "title": "Thong Song",
+      "weeks": 28,
+      "peak": 3,
+      "score": 611
+    },
+    {
+      "artist": "Montell Jordan",
+      "title": "Get It On Tonite",
+      "weeks": 22,
+      "peak": 4,
+      "score": 595
+    },
+    {
+      "artist": "Destiny's Child",
+      "title": "Jumpin', Jumpin'",
+      "weeks": 32,
+      "peak": 3,
+      "score": 578
+    },
+    {
+      "artist": "Creed",
+      "title": "Higher",
+      "weeks": 41,
+      "peak": 7,
+      "score": 563
+    },
+    {
+      "artist": "Marc Anthony",
+      "title": "You Sang To Me",
+      "weeks": 32,
+      "peak": 2,
+      "score": 561
+    },
+    {
+      "artist": "Ruff Endz",
+      "title": "No More",
+      "weeks": 26,
+      "peak": 5,
+      "score": 548
+    },
+    {
+      "artist": "3 Doors Down",
+      "title": "Kryptonite",
+      "weeks": 39,
+      "peak": 3,
+      "score": 546
+    },
+    {
+      "artist": "Celine Dion",
+      "title": "That's The Way It Is",
+      "weeks": 21,
+      "peak": 6,
+      "score": 542
+    },
+    {
+      "artist": "Macy Gray",
+      "title": "I Try",
+      "weeks": 27,
+      "peak": 5,
+      "score": 522
+    },
+    {
+      "artist": "Janet",
+      "title": "Doesn't Really Matter",
+      "weeks": 24,
+      "peak": 1,
+      "score": 518
+    },
+    {
+      "artist": "Enrique Iglesias",
+      "title": "Be With You",
+      "weeks": 20,
+      "peak": 1,
+      "score": 503
+    },
+    {
+      "artist": "Christina Aguilera",
+      "title": "What A Girl Wants",
+      "weeks": 19,
+      "peak": 1,
+      "score": 499
+    },
+    {
+      "artist": "*nsync",
+      "title": "It's Gonna Be Me",
+      "weeks": 25,
+      "peak": 1,
+      "score": 483
+    },
+    {
+      "artist": "Blaque",
+      "title": "Bring It All To Me",
+      "weeks": 19,
+      "peak": 5,
+      "score": 475
+    },
+    {
+      "artist": "Brian Mcknight",
+      "title": "Back At One",
+      "weeks": 19,
+      "peak": 2,
+      "score": 455
+    },
+    {
+      "artist": "Sonique",
+      "title": "It Feels So Good",
+      "weeks": 24,
+      "peak": 8,
+      "score": 453
+    },
+    {
+      "artist": "Christina Aguilera",
+      "title": "Come On Over Baby (All I Want Is You)",
+      "weeks": 21,
+      "peak": 1,
+      "score": 442
+    },
+    {
+      "artist": "Missy \"misdemeanor\" Elliott",
+      "title": "Hot Boyz",
+      "weeks": 16,
+      "peak": 5,
+      "score": 441
+    },
+    {
+      "artist": "P!nk",
+      "title": "Most Girls",
+      "weeks": 21,
+      "peak": 4,
+      "score": 439
+    },
+    {
+      "artist": "Sisqo",
+      "title": "Incomplete",
+      "weeks": 26,
+      "peak": 1,
+      "score": 434
+    },
+    {
+      "artist": "Backstreet Boys",
+      "title": "Show Me The Meaning Of Being Lonely",
+      "weeks": 24,
+      "peak": 6,
+      "score": 414
+    },
+    {
+      "artist": "Marc Anthony",
+      "title": "I Need To Know",
+      "weeks": 24,
+      "peak": 6,
+      "score": 413
+    },
+    {
+      "artist": "Nine Days",
+      "title": "Absolutely (Story Of A Girl)",
+      "weeks": 27,
+      "peak": 6,
+      "score": 392
+    },
+    {
+      "artist": "Mya",
+      "title": "Case Of The Ex (Whatcha Gonna Do)",
+      "weeks": 20,
+      "peak": 2,
+      "score": 378
+    },
+    {
+      "artist": "Christina Aguilera",
+      "title": "I Turn To You",
+      "weeks": 22,
+      "peak": 3,
+      "score": 371
+    },
+    {
+      "artist": "*nsync",
+      "title": "This I Promise You",
+      "weeks": 14,
+      "peak": 5,
+      "score": 364
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Santana",
+      "hits": 2
+    },
+    {
+      "artist": "P!nk",
+      "hits": 2
+    },
+    {
+      "artist": "Destiny's Child",
+      "hits": 2
+    },
+    {
+      "artist": "*nsync",
+      "hits": 3
+    },
+    {
+      "artist": "Sisqo",
+      "hits": 2
+    },
+    {
+      "artist": "Marc Anthony",
+      "hits": 2
+    },
+    {
+      "artist": "Christina Aguilera",
+      "hits": 3
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Faith Hill",
+      "title": "Breathe",
+      "weeks": 45,
+      "peak": 2,
+      "score": 1022
+    },
+    {
+      "artist": "Joe",
+      "title": "I Wanna Know",
+      "weeks": 44,
+      "peak": 4,
+      "score": 871
+    },
+    {
+      "artist": "Vertical Horizon",
+      "title": "Everything You Want",
+      "weeks": 41,
+      "peak": 1,
+      "score": 802
+    },
+    {
+      "artist": "Creed",
+      "title": "Higher",
+      "weeks": 41,
+      "peak": 7,
+      "score": 563
+    },
+    {
+      "artist": "3 Doors Down",
+      "title": "Kryptonite",
+      "weeks": 39,
+      "peak": 3,
+      "score": 546
+    },
+    {
+      "artist": "Toni Braxton",
+      "title": "He Wasn't Man Enough",
+      "weeks": 37,
+      "peak": 2,
+      "score": 740
+    },
+    {
+      "artist": "Matchbox Twenty",
+      "title": "Bent",
+      "weeks": 36,
+      "peak": 1,
+      "score": 873
+    },
+    {
+      "artist": "Santana",
+      "title": "Smooth",
+      "weeks": 36,
+      "peak": 1,
+      "score": 760
+    },
+    {
+      "artist": "Faith Hill",
+      "title": "The Way You Love Me",
+      "weeks": 35,
+      "peak": 7,
+      "score": 148
+    },
+    {
+      "artist": "Lonestar",
+      "title": "Amazed",
+      "weeks": 34,
+      "peak": 1,
+      "score": 720
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Matchbox Twenty",
+      "title": "Bent",
+      "weeks": 36,
+      "peak": 1,
+      "score": 873
+    },
+    {
+      "artist": "Vertical Horizon",
+      "title": "Everything You Want",
+      "weeks": 41,
+      "peak": 1,
+      "score": 802
+    },
+    {
+      "artist": "Santana",
+      "title": "Maria Maria",
+      "weeks": 26,
+      "peak": 1,
+      "score": 793
+    },
+    {
+      "artist": "Aaliyah",
+      "title": "Try Again",
+      "weeks": 32,
+      "peak": 1,
+      "score": 779
+    },
+    {
+      "artist": "Santana",
+      "title": "Smooth",
+      "weeks": 36,
+      "peak": 1,
+      "score": 760
+    },
+    {
+      "artist": "Lonestar",
+      "title": "Amazed",
+      "weeks": 34,
+      "peak": 1,
+      "score": 720
+    },
+    {
+      "artist": "Destiny's Child",
+      "title": "Say My Name",
+      "weeks": 31,
+      "peak": 1,
+      "score": 713
+    },
+    {
+      "artist": "Madonna",
+      "title": "Music",
+      "weeks": 21,
+      "peak": 1,
+      "score": 638
+    },
+    {
+      "artist": "Savage Garden",
+      "title": "I Knew I Loved You",
+      "weeks": 23,
+      "peak": 1,
+      "score": 616
+    },
+    {
+      "artist": "Janet",
+      "title": "Doesn't Really Matter",
+      "weeks": 24,
+      "peak": 1,
+      "score": 518
+    },
+    {
+      "artist": "Enrique Iglesias",
+      "title": "Be With You",
+      "weeks": 20,
+      "peak": 1,
+      "score": 503
+    },
+    {
+      "artist": "Christina Aguilera",
+      "title": "What A Girl Wants",
+      "weeks": 19,
+      "peak": 1,
+      "score": 499
+    },
+    {
+      "artist": "*nsync",
+      "title": "It's Gonna Be Me",
+      "weeks": 25,
+      "peak": 1,
+      "score": 483
+    },
+    {
+      "artist": "Christina Aguilera",
+      "title": "Come On Over Baby (All I Want Is You)",
+      "weeks": 21,
+      "peak": 1,
+      "score": 442
+    },
+    {
+      "artist": "Sisqo",
+      "title": "Incomplete",
+      "weeks": 26,
+      "peak": 1,
+      "score": 434
+    },
+    {
+      "artist": "Destiny's Child",
+      "title": "Independent Women Part I",
+      "weeks": 15,
+      "peak": 1,
+      "score": 335
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Thank God I Found You",
+      "weeks": 17,
+      "peak": 1,
+      "score": 164
+    },
+    {
+      "artist": "Creed",
+      "title": "With Arms Wide Open",
+      "weeks": 34,
+      "peak": 1,
+      "score": 37
+    }
+  ]
+}

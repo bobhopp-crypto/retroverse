@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Mitch Capstan Type Sample</title>
+  <desc id="desc">Utility display lettering sample for RetroVerse Type and Lettering.</desc>
+  <rect width="1200" height="900" fill="#d8e2eb"/>
+  <rect x="56" y="56" width="1088" height="788" rx="26" fill="#f7fafc" stroke="#1f2937" stroke-width="4"/>
+  <rect x="96" y="120" width="1008" height="94" fill="#0f172a"/>
+  <text x="128" y="185" fill="#f8fafc" font-size="58" font-family="Impact, Haettenschweiler, sans-serif" letter-spacing="8">MITCH CAPSTAN</text>
+  <rect x="96" y="274" width="468" height="428" fill="#1d4ed8"/>
+  <rect x="596" y="274" width="508" height="128" fill="#111827"/>
+  <rect x="596" y="430" width="508" height="128" fill="#334155"/>
+  <rect x="596" y="586" width="508" height="116" fill="#c2410c"/>
+  <text x="138" y="562" fill="#f8fafc" font-size="268" font-family="Impact, Haettenschweiler, sans-serif" letter-spacing="2">MC</text>
+  <text x="628" y="360" fill="#f8fafc" font-size="76" font-family="Arial Black, sans-serif" letter-spacing="6">CHART</text>
+  <text x="628" y="514" fill="#f8fafc" font-size="74" font-family="Arial Black, sans-serif" letter-spacing="6">SYSTEM</text>
+  <text x="628" y="666" fill="#fff7ed" font-size="70" font-family="Arial Black, sans-serif" letter-spacing="6">UTILITY</text>
+  <path d="M96 742h1008" stroke="#475569" stroke-width="3" stroke-dasharray="16 10" opacity="0.35"/>
+  <text x="100" y="796" fill="#475569" font-size="34" font-family="Helvetica, Arial, sans-serif" letter-spacing="5">TYPE &amp; LETTERING DEPARTMENT SAMPLE</text>
+</svg>

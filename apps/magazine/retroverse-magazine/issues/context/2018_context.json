@@ -1,0 +1,477 @@
+{
+  "year": "2018",
+  "top_songs": [
+    {
+      "artist": "Ed Sheeran",
+      "title": "Perfect",
+      "weeks": 40,
+      "peak": 1,
+      "score": 1160
+    },
+    {
+      "artist": "Bebe Rexha",
+      "title": "Meant To Be",
+      "weeks": 43,
+      "peak": 2,
+      "score": 1144
+    },
+    {
+      "artist": "Drake",
+      "title": "God's Plan",
+      "weeks": 36,
+      "peak": 1,
+      "score": 1107
+    },
+    {
+      "artist": "Cardi B, Bad Bunny",
+      "title": "I Like It",
+      "weeks": 37,
+      "peak": 1,
+      "score": 1052
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "Girls Like You",
+      "weeks": 30,
+      "peak": 1,
+      "score": 1021
+    },
+    {
+      "artist": "Juice Wrld",
+      "title": "Lucid Dreams",
+      "weeks": 32,
+      "peak": 2,
+      "score": 983
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Better Now",
+      "weeks": 34,
+      "peak": 3,
+      "score": 980
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Psycho",
+      "weeks": 39,
+      "peak": 1,
+      "score": 953
+    },
+    {
+      "artist": "Zedd, Maren Morris",
+      "title": "The Middle",
+      "weeks": 40,
+      "peak": 5,
+      "score": 901
+    },
+    {
+      "artist": "Drake",
+      "title": "Nice For What",
+      "weeks": 25,
+      "peak": 1,
+      "score": 775
+    },
+    {
+      "artist": "Travis Scott",
+      "title": "Sicko Mode",
+      "weeks": 20,
+      "peak": 1,
+      "score": 722
+    },
+    {
+      "artist": "Camila Cabello",
+      "title": "Havana",
+      "weeks": 27,
+      "peak": 1,
+      "score": 714
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Rockstar",
+      "weeks": 27,
+      "peak": 2,
+      "score": 692
+    },
+    {
+      "artist": "Drake",
+      "title": "In My Feelings",
+      "weeks": 22,
+      "peak": 1,
+      "score": 681
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "No Tears Left To Cry",
+      "weeks": 27,
+      "peak": 3,
+      "score": 635
+    },
+    {
+      "artist": "Blocboy Jb",
+      "title": "Look Alive",
+      "weeks": 25,
+      "peak": 5,
+      "score": 622
+    },
+    {
+      "artist": "Bazzi",
+      "title": "Mine",
+      "weeks": 34,
+      "peak": 11,
+      "score": 594
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "Finesse",
+      "weeks": 23,
+      "peak": 3,
+      "score": 592
+    },
+    {
+      "artist": "Ella Mai",
+      "title": "Boo'd Up",
+      "weeks": 35,
+      "peak": 5,
+      "score": 572
+    },
+    {
+      "artist": "Lil Baby",
+      "title": "Yes Indeed",
+      "weeks": 29,
+      "peak": 6,
+      "score": 570
+    },
+    {
+      "artist": "Dua Lipa",
+      "title": "New Rules",
+      "weeks": 27,
+      "peak": 6,
+      "score": 522
+    },
+    {
+      "artist": "Camila Cabello",
+      "title": "Never Be The Same",
+      "weeks": 35,
+      "peak": 6,
+      "score": 501
+    },
+    {
+      "artist": "Tyga",
+      "title": "Taste",
+      "weeks": 29,
+      "peak": 8,
+      "score": 481
+    },
+    {
+      "artist": "6ix9ine",
+      "title": "FEFE",
+      "weeks": 20,
+      "peak": 3,
+      "score": 477
+    },
+    {
+      "artist": "5 Seconds Of Summer",
+      "title": "Youngblood",
+      "weeks": 29,
+      "peak": 7,
+      "score": 473
+    },
+    {
+      "artist": "Xxxtentacion",
+      "title": "Sad!",
+      "weeks": 38,
+      "peak": 1,
+      "score": 460
+    },
+    {
+      "artist": "Marshmello",
+      "title": "Happier",
+      "weeks": 18,
+      "peak": 3,
+      "score": 429
+    },
+    {
+      "artist": "Khalid",
+      "title": "Love Lies",
+      "weeks": 44,
+      "peak": 9,
+      "score": 423
+    },
+    {
+      "artist": "Imagine Dragons",
+      "title": "Thunder",
+      "weeks": 18,
+      "peak": 4,
+      "score": 412
+    },
+    {
+      "artist": "Drake",
+      "title": "Nonstop",
+      "weeks": 22,
+      "peak": 2,
+      "score": 412
+    },
+    {
+      "artist": "Lil Baby",
+      "title": "Drip Too Hard",
+      "weeks": 14,
+      "peak": 4,
+      "score": 405
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Pray For Me",
+      "weeks": 20,
+      "peak": 7,
+      "score": 395
+    },
+    {
+      "artist": "Nf",
+      "title": "Let You Down",
+      "weeks": 18,
+      "peak": 12,
+      "score": 394
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "God Is A Woman",
+      "weeks": 22,
+      "peak": 8,
+      "score": 379
+    },
+    {
+      "artist": "Halsey",
+      "title": "Without Me",
+      "weeks": 11,
+      "peak": 2,
+      "score": 364
+    },
+    {
+      "artist": "Imagine Dragons",
+      "title": "Natural",
+      "weeks": 22,
+      "peak": 13,
+      "score": 351
+    },
+    {
+      "artist": "Marshmello",
+      "title": "Friends",
+      "weeks": 29,
+      "peak": 11,
+      "score": 349
+    },
+    {
+      "artist": "Kodak Black",
+      "title": "ZEZE",
+      "weeks": 10,
+      "peak": 2,
+      "score": 337
+    },
+    {
+      "artist": "G-eazy",
+      "title": "Him & I",
+      "weeks": 17,
+      "peak": 14,
+      "score": 333
+    },
+    {
+      "artist": "Halsey",
+      "title": "Bad At Love",
+      "weeks": 17,
+      "peak": 5,
+      "score": 330
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Drake",
+      "hits": 4
+    },
+    {
+      "artist": "Post Malone",
+      "hits": 3
+    },
+    {
+      "artist": "Camila Cabello",
+      "hits": 2
+    },
+    {
+      "artist": "Ariana Grande",
+      "hits": 2
+    },
+    {
+      "artist": "Lil Baby",
+      "hits": 2
+    },
+    {
+      "artist": "Marshmello",
+      "hits": 2
+    },
+    {
+      "artist": "Imagine Dragons",
+      "hits": 2
+    },
+    {
+      "artist": "Halsey",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Khalid",
+      "title": "Love Lies",
+      "weeks": 44,
+      "peak": 9,
+      "score": 423
+    },
+    {
+      "artist": "Bebe Rexha",
+      "title": "Meant To Be",
+      "weeks": 43,
+      "peak": 2,
+      "score": 1144
+    },
+    {
+      "artist": "Lauv",
+      "title": "I Like Me Better",
+      "weeks": 41,
+      "peak": 27,
+      "score": -511
+    },
+    {
+      "artist": "Ed Sheeran",
+      "title": "Perfect",
+      "weeks": 40,
+      "peak": 1,
+      "score": 1160
+    },
+    {
+      "artist": "Zedd, Maren Morris",
+      "title": "The Middle",
+      "weeks": 40,
+      "peak": 5,
+      "score": 901
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Psycho",
+      "weeks": 39,
+      "peak": 1,
+      "score": 953
+    },
+    {
+      "artist": "Xxxtentacion",
+      "title": "Sad!",
+      "weeks": 38,
+      "peak": 1,
+      "score": 460
+    },
+    {
+      "artist": "Dan + Shay",
+      "title": "Tequila",
+      "weeks": 38,
+      "peak": 21,
+      "score": -145
+    },
+    {
+      "artist": "Cardi B, Bad Bunny",
+      "title": "I Like It",
+      "weeks": 37,
+      "peak": 1,
+      "score": 1052
+    },
+    {
+      "artist": "Drake",
+      "title": "God's Plan",
+      "weeks": 36,
+      "peak": 1,
+      "score": 1107
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Ed Sheeran",
+      "title": "Perfect",
+      "weeks": 40,
+      "peak": 1,
+      "score": 1160
+    },
+    {
+      "artist": "Drake",
+      "title": "God's Plan",
+      "weeks": 36,
+      "peak": 1,
+      "score": 1107
+    },
+    {
+      "artist": "Cardi B, Bad Bunny",
+      "title": "I Like It",
+      "weeks": 37,
+      "peak": 1,
+      "score": 1052
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "Girls Like You",
+      "weeks": 30,
+      "peak": 1,
+      "score": 1021
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Psycho",
+      "weeks": 39,
+      "peak": 1,
+      "score": 953
+    },
+    {
+      "artist": "Drake",
+      "title": "Nice For What",
+      "weeks": 25,
+      "peak": 1,
+      "score": 775
+    },
+    {
+      "artist": "Travis Scott",
+      "title": "Sicko Mode",
+      "weeks": 20,
+      "peak": 1,
+      "score": 722
+    },
+    {
+      "artist": "Camila Cabello",
+      "title": "Havana",
+      "weeks": 27,
+      "peak": 1,
+      "score": 714
+    },
+    {
+      "artist": "Drake",
+      "title": "In My Feelings",
+      "weeks": 22,
+      "peak": 1,
+      "score": 681
+    },
+    {
+      "artist": "Xxxtentacion",
+      "title": "Sad!",
+      "weeks": 38,
+      "peak": 1,
+      "score": 460
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "Thank U, Next",
+      "weeks": 7,
+      "peak": 1,
+      "score": 279
+    },
+    {
+      "artist": "Childish Gambino",
+      "title": "This Is America",
+      "weeks": 17,
+      "peak": 1,
+      "score": 40
+    }
+  ]
+}

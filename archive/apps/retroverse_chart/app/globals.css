@@ -1,0 +1,313 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  /* RetroVerse Pastel Palette */
+  --retro-teal: oklch(0.72 0.1 185);
+  --retro-mint: oklch(0.88 0.08 160);
+  --retro-coral: oklch(0.78 0.12 25);
+  --retro-mustard: oklch(0.82 0.12 85);
+  --retro-aqua: oklch(0.85 0.1 195);
+  
+  --background: oklch(0.98 0.01 200);
+  --foreground: oklch(0.25 0.02 200);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.25 0.02 200);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.25 0.02 200);
+  --primary: var(--retro-teal);
+  --primary-foreground: oklch(0.98 0 0);
+  --secondary: var(--retro-mint);
+  --secondary-foreground: oklch(0.25 0.02 200);
+  --muted: oklch(0.95 0.02 180);
+  --muted-foreground: oklch(0.45 0.02 200);
+  --accent: var(--retro-coral);
+  --accent-foreground: oklch(0.98 0 0);
+  --destructive: oklch(0.577 0.245 27.325);
+  --destructive-foreground: oklch(0.577 0.245 27.325);
+  --border: oklch(0.90 0.02 180);
+  --input: oklch(0.95 0.02 180);
+  --ring: var(--retro-teal);
+  --chart-1: var(--retro-teal);
+  --chart-2: var(--retro-coral);
+  --chart-3: var(--retro-mustard);
+  --chart-4: var(--retro-mint);
+  --chart-5: var(--retro-aqua);
+  --radius: 1rem;
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.145 0 0);
+  --sidebar-primary: var(--retro-teal);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: var(--retro-mint);
+  --sidebar-accent-foreground: oklch(0.205 0 0);
+  --sidebar-border: oklch(0.90 0.02 180);
+  --sidebar-ring: var(--retro-teal);
+  
+  /* Badge colors */
+  --badge-gold: oklch(0.82 0.15 85);
+  --badge-silver: oklch(0.78 0.02 260);
+  --badge-bronze: oklch(0.72 0.1 55);
+}
+
+.dark {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.145 0 0);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.145 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.985 0 0);
+  --primary-foreground: oklch(0.205 0 0);
+  --secondary: oklch(0.269 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.269 0 0);
+  --muted-foreground: oklch(0.708 0 0);
+  --accent: oklch(0.269 0 0);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.396 0.141 25.723);
+  --destructive-foreground: oklch(0.637 0.237 25.331);
+  --border: oklch(0.269 0 0);
+  --input: oklch(0.269 0 0);
+  --ring: oklch(0.439 0 0);
+  --chart-1: oklch(0.488 0.243 264.376);
+  --chart-2: oklch(0.696 0.17 162.48);
+  --chart-3: oklch(0.769 0.188 70.08);
+  --chart-4: oklch(0.627 0.265 303.9);
+  --chart-5: oklch(0.645 0.246 16.439);
+  --sidebar: oklch(0.205 0 0);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.269 0 0);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(0.269 0 0);
+  --sidebar-ring: oklch(0.439 0 0);
+}
+
+@theme inline {
+  --font-sans: 'Geist', 'Geist Fallback';
+  --font-mono: 'Geist Mono', 'Geist Mono Fallback';
+  --color-retro-teal: var(--retro-teal);
+  --color-retro-mint: var(--retro-mint);
+  --color-retro-coral: var(--retro-coral);
+  --color-retro-mustard: var(--retro-mustard);
+  --color-retro-aqua: var(--retro-aqua);
+  --color-badge-gold: var(--badge-gold);
+  --color-badge-silver: var(--badge-silver);
+  --color-badge-bronze: var(--badge-bronze);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Hide scrollbar for horizontal scroll sections */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* ===== Mobile text & layout safety (375px+) ===== */
+.song-card {
+  position: relative;
+  min-width: 0;
+}
+
+.song-title {
+  font-weight: 600;
+  line-height: 1.2;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+/* Two-line clamp for cards; full title in detail view */
+.song-card .song-title,
+.horizontal-song-card .song-title,
+.section-card .song-title {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.artist-name {
+  font-size: 0.9rem;
+  color: var(--muted-foreground);
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+/* Card containers */
+.song-card,
+.horizontal-song-card,
+.section-card {
+  min-width: 0;
+}
+
+/* Flex rows containing text */
+.song-card .flex,
+.horizontal-song-card .flex {
+  min-width: 0;
+}
+
+/* Horizontal scroll sections */
+.horizontal-scroll-section {
+  overflow-x: auto;
+}
+
+.horizontal-scroll-section .horizontal-song-card {
+  flex: 0 0 auto;
+}
+
+/* Search result rows */
+.search-results,
+.song-list-container {
+  max-width: 100%;
+  overflow: hidden;
+}
+
+/* Rank number fixed width */
+.rank-number {
+  width: 24px;
+  flex-shrink: 0;
+}
+
+/* ===== Polished mobile music app refinements ===== */
+
+/* Rank badge - stable, does not affect layout */
+.rank-badge {
+  position: absolute;
+  top: 10px;
+  left: 12px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #d4a72c;
+  pointer-events: none;
+}
+
+/* Section spacing */
+.section {
+  margin-top: 28px;
+}
+
+.section:first-of-type {
+  margin-top: 0;
+}
+
+.section-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  margin-bottom: 12px;
+}
+
+.section-header::after {
+  content: "";
+  display: block;
+  width: 32px;
+  height: 2px;
+  background: #d9e3e6;
+  margin-top: 6px;
+  flex-basis: 100%;
+}
+
+/* Horizontal scroll - peek next card */
+.horizontal-scroll-section {
+  display: flex;
+  gap: 12px;
+  overflow-x: auto;
+  padding-right: 20px;
+}
+
+.section-card {
+  flex: 0 0 75%;
+}
+
+/* ===== Filter pills - single scrollable row ===== */
+.filter-row-wrapper {
+  position: relative;
+}
+
+.filter-row-wrapper::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100%;
+  width: 24px;
+  background: linear-gradient(to right, transparent, var(--background));
+  pointer-events: none;
+}
+
+.filter-row {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  padding-bottom: 6px;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+
+.filter-row::-webkit-scrollbar {
+  display: none;
+}
+
+.filter-pill {
+  flex: 0 0 auto;
+  white-space: nowrap;
+}
+
+/* Decade Explorer cards */
+.decade-card {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+}

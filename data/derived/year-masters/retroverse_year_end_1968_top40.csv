@@ -1,0 +1,41 @@
+rv_rank,title,artist,total_score,weekly_score_top26,peak_bonus,peak_rank,weeks_on_chart,weeks_in_top_10,weeks_in_top_40,first_chart_date,last_chart_date
+1,Hey Jude,The Beatles,10197.6939,10077.6939,120,1,16,14,16,1968-09-14,1968-12-28
+2,Love Is Blue (L'amour Est Bleu),Paul Mauriat And His Orchestra,9169.4500,9049.4500,120,1,18,10,15,1968-01-06,1968-05-04
+3,Sunshine Of Your Love,Cream,9025.3133,8985.3133,40,5,26,5,12,1968-01-13,1968-09-21
+4,"The Good, The Bad And The Ugly","Hugo Montenegro, His Orchestra And Chorus",8913.7398,8838.7398,75,2,22,7,14,1968-02-17,1968-07-13
+5,(Sittin' On) The Dock Of The Bay,Otis Redding,8734.2071,8614.2071,120,1,16,11,14,1968-01-27,1968-05-11
+6,Honey,Bobby Goldsboro,8298.5986,8178.5986,120,1,15,10,13,1968-03-23,1968-06-29
+7,People Got To Be Free,The Rascals,7931.4265,7811.4265,120,1,14,9,13,1968-07-20,1968-10-19
+8,Young Girl,The Union Gap,7744.8609,7669.8609,75,2,15,8,13,1968-03-02,1968-06-08
+9,Little Green Apples,O.c. Smith,7721.4907,7646.4907,75,2,17,8,12,1968-08-17,1968-12-07
+10,This Guy's In Love With You,Herb Alpert,7671.4508,7551.4508,120,1,14,8,12,1968-05-18,1968-08-17
+11,Tighten Up,Archie Bell,7624.6471,7504.6471,120,1,15,9,13,1968-03-30,1968-07-06
+12,Mony Mony,Tommy James And The Shondells,7487.5149,7412.5149,75,3,17,5,13,1968-04-06,1968-07-27
+13,Cry Like A Baby,The Box Tops,7417.6030,7342.6030,75,2,15,6,12,1968-03-02,1968-06-08
+14,Stoned Soul Picnic,The 5th Dimension,7345.6341,7270.6341,75,3,16,7,12,1968-06-01,1968-09-14
+15,Those Were The Days,Mary Hopkin,7315.8189,7240.8189,75,2,14,7,12,1968-09-28,1968-12-28
+16,Harper Valley P.T.A.,Jeannie C. Riley,7270.3599,7150.3599,120,1,13,9,12,1968-08-24,1968-11-16
+17,Mrs. Robinson,Simon,7160.2935,7040.2935,120,1,13,7,12,1968-04-27,1968-07-20
+18,Spooky,Classics Iv,6989.8729,6914.8729,75,3,13,7,12,1968-01-06,1968-03-30
+19,Midnight Confessions,The Grass Roots,6967.1320,6927.1320,40,5,15,5,12,1968-08-31,1968-12-07
+20,The Horse,Cliff Nobles,6959.6693,6884.6693,75,2,14,6,12,1968-05-25,1968-08-24
+21,I Wish It Would Rain,The Temptations,6878.3923,6838.3923,40,4,14,7,11,1968-01-13,1968-04-13
+22,Born To Be Wild,Steppenwolf,6776.0451,6701.0451,75,2,13,6,12,1968-07-13,1968-10-05
+23,La - La - Means I Love You,The Delfonics,6749.2121,6709.2121,40,4,15,6,12,1968-02-03,1968-05-11
+24,Lady Willpower,Gary Puckett And The Union Gap,6695.9402,6620.9402,75,2,13,6,11,1968-06-08,1968-08-31
+25,"Hello, I Love You",The Doors,6688.0191,6568.0191,120,1,12,9,11,1968-07-06,1968-09-21
+26,"Turn Around, Look At Me",The Vogues,6677.7939,6662.7939,15,7,15,4,11,1968-06-15,1968-09-21
+27,Dance To The Music,Sly,6646.4621,6631.4621,15,8,15,2,12,1968-02-10,1968-05-18
+28,Love Child,Diana Ross,6645.0722,6525.0722,120,1,11,9,10,1968-10-19,1968-12-28
+29,Fire,The Crazy World Of Arthur Brown,6638.9258,6563.9258,75,2,13,7,11,1968-09-07,1968-11-30
+30,The Ballad Of Bonnie And Clyde,Georgie Fame,6628.4631,6613.4631,15,7,14,6,12,1968-02-17,1968-05-18
+31,A Beautiful Morning,The Rascals,6600.1616,6525.1616,75,3,13,7,11,1968-04-13,1968-07-06
+32,(Theme From) Valley Of The Dolls,Dionne Warwick,6599.7308,6524.7308,75,2,13,7,11,1968-01-20,1968-04-13
+33,Simon Says,1910 Fruitgum Co,6588.1063,6548.1063,40,4,14,6,11,1968-01-27,1968-04-27
+34,Angel Of The Morning,Merrilee Rush,6571.5587,6556.5587,15,7,16,4,12,1968-05-04,1968-08-17
+35,Cowboys To Girls,The Intruders,6511.5658,6496.5658,15,6,14,5,11,1968-03-23,1968-06-22
+36,Classical Gas,Mason Williams,6449.8223,6374.8223,75,2,14,6,11,1968-06-22,1968-09-21
+37,(Sweet Sweet Baby) Since You've Been Gone,Aretha Franklin,6439.1742,6399.1742,40,5,12,7,12,1968-03-02,1968-05-18
+38,The Look Of Love,Sergio Mendes,6427.7595,6387.7595,40,4,14,5,11,1968-05-11,1968-08-10
+39,Hold Me Tight,Johnny Nash,6425.2629,6385.2629,40,5,15,5,12,1968-09-14,1968-12-21
+40,Yummy Yummy Yummy,Ohio Express,6398.1259,6358.1259,40,4,14,5,11,1968-05-04,1968-08-03

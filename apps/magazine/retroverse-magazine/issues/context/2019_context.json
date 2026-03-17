@@ -1,0 +1,505 @@
+{
+  "year": "2019",
+  "top_songs": [
+    {
+      "artist": "Post Malone",
+      "title": "Sunflower (Spider-Man: Into The Spider-Verse)",
+      "weeks": 44,
+      "peak": 1,
+      "score": 1450
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Bad Guy",
+      "weeks": 38,
+      "peak": 1,
+      "score": 1284
+    },
+    {
+      "artist": "Lil Nas X",
+      "title": "Old Town Road",
+      "weeks": 42,
+      "peak": 1,
+      "score": 1198
+    },
+    {
+      "artist": "Halsey",
+      "title": "Without Me",
+      "weeks": 41,
+      "peak": 1,
+      "score": 1131
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Wow.",
+      "weeks": 44,
+      "peak": 2,
+      "score": 1127
+    },
+    {
+      "artist": "Jonas Brothers",
+      "title": "Sucker",
+      "weeks": 38,
+      "peak": 1,
+      "score": 1114
+    },
+    {
+      "artist": "Lizzo",
+      "title": "Truth Hurts",
+      "weeks": 33,
+      "peak": 1,
+      "score": 973
+    },
+    {
+      "artist": "Khalid",
+      "title": "Talk",
+      "weeks": 43,
+      "peak": 3,
+      "score": 950
+    },
+    {
+      "artist": "Shawn Mendes",
+      "title": "Senorita",
+      "weeks": 26,
+      "peak": 1,
+      "score": 943
+    },
+    {
+      "artist": "Marshmello",
+      "title": "Happier",
+      "weeks": 34,
+      "peak": 2,
+      "score": 920
+    },
+    {
+      "artist": "Chris Brown",
+      "title": "No Guidance",
+      "weeks": 28,
+      "peak": 5,
+      "score": 907
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "7 Rings",
+      "weeks": 33,
+      "peak": 1,
+      "score": 883
+    },
+    {
+      "artist": "Ed Sheeran",
+      "title": "I Don't Care",
+      "weeks": 30,
+      "peak": 2,
+      "score": 869
+    },
+    {
+      "artist": "Sam Smith",
+      "title": "Dancing With A Stranger",
+      "weeks": 45,
+      "peak": 7,
+      "score": 847
+    },
+    {
+      "artist": "Panic! At The Disco",
+      "title": "High Hopes",
+      "weeks": 32,
+      "peak": 4,
+      "score": 751
+    },
+    {
+      "artist": "Benny Blanco, Halsey",
+      "title": "Eastside",
+      "weeks": 29,
+      "peak": 9,
+      "score": 662
+    },
+    {
+      "artist": "J. Cole",
+      "title": "Middle Child",
+      "weeks": 27,
+      "peak": 4,
+      "score": 614
+    },
+    {
+      "artist": "Lewis Capaldi",
+      "title": "Someone You Loved",
+      "weeks": 32,
+      "peak": 1,
+      "score": 593
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Circles",
+      "weeks": 16,
+      "peak": 1,
+      "score": 591
+    },
+    {
+      "artist": "Travis Scott",
+      "title": "Sicko Mode",
+      "weeks": 32,
+      "peak": 3,
+      "score": 567
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Goodbyes",
+      "weeks": 21,
+      "peak": 3,
+      "score": 567
+    },
+    {
+      "artist": "Dababy",
+      "title": "Suge",
+      "weeks": 35,
+      "peak": 7,
+      "score": 565
+    },
+    {
+      "artist": "Lil Nas X",
+      "title": "Panini",
+      "weeks": 26,
+      "peak": 5,
+      "score": 563
+    },
+    {
+      "artist": "Meek Mill",
+      "title": "Going Bad",
+      "weeks": 34,
+      "peak": 10,
+      "score": 558
+    },
+    {
+      "artist": "Shawn Mendes",
+      "title": "If I Can't Have You",
+      "weeks": 23,
+      "peak": 2,
+      "score": 548
+    },
+    {
+      "artist": "Lil Tecca",
+      "title": "Ran$om",
+      "weeks": 29,
+      "peak": 4,
+      "score": 538
+    },
+    {
+      "artist": "Ava Max",
+      "title": "Sweet But Psycho",
+      "weeks": 34,
+      "peak": 10,
+      "score": 531
+    },
+    {
+      "artist": "Drake",
+      "title": "Money In The Grave",
+      "weeks": 23,
+      "peak": 7,
+      "score": 512
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "Girls Like You",
+      "weeks": 22,
+      "peak": 7,
+      "score": 502
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "Thank U, Next",
+      "weeks": 21,
+      "peak": 1,
+      "score": 477
+    },
+    {
+      "artist": "Ed Sheeran",
+      "title": "Beautiful People",
+      "weeks": 24,
+      "peak": 13,
+      "score": 463
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Shallow",
+      "weeks": 33,
+      "peak": 1,
+      "score": 462
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "Break Up With Your Girlfriend, I'm Bored",
+      "weeks": 20,
+      "peak": 2,
+      "score": 423
+    },
+    {
+      "artist": "Khalid",
+      "title": "Better",
+      "weeks": 34,
+      "peak": 8,
+      "score": 417
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "You Need To Calm Down",
+      "weeks": 21,
+      "peak": 2,
+      "score": 414
+    },
+    {
+      "artist": "Lil Baby",
+      "title": "Drip Too Hard",
+      "weeks": 21,
+      "peak": 8,
+      "score": 390
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "Memories",
+      "weeks": 13,
+      "peak": 4,
+      "score": 387
+    },
+    {
+      "artist": "Dan + Shay",
+      "title": "10,000 Hours",
+      "weeks": 11,
+      "peak": 4,
+      "score": 340
+    },
+    {
+      "artist": "Lizzo",
+      "title": "Good As Hell",
+      "weeks": 17,
+      "peak": 3,
+      "score": 329
+    },
+    {
+      "artist": "21 Savage",
+      "title": "A Lot",
+      "weeks": 23,
+      "peak": 12,
+      "score": 324
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Post Malone",
+      "hits": 4
+    },
+    {
+      "artist": "Lil Nas X",
+      "hits": 2
+    },
+    {
+      "artist": "Lizzo",
+      "hits": 2
+    },
+    {
+      "artist": "Khalid",
+      "hits": 2
+    },
+    {
+      "artist": "Shawn Mendes",
+      "hits": 2
+    },
+    {
+      "artist": "Ariana Grande",
+      "hits": 3
+    },
+    {
+      "artist": "Ed Sheeran",
+      "hits": 2
+    },
+    {
+      "artist": "Maroon 5",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Sam Smith",
+      "title": "Dancing With A Stranger",
+      "weeks": 45,
+      "peak": 7,
+      "score": 847
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Sunflower (Spider-Man: Into The Spider-Verse)",
+      "weeks": 44,
+      "peak": 1,
+      "score": 1450
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Wow.",
+      "weeks": 44,
+      "peak": 2,
+      "score": 1127
+    },
+    {
+      "artist": "Khalid",
+      "title": "Talk",
+      "weeks": 43,
+      "peak": 3,
+      "score": 950
+    },
+    {
+      "artist": "Lil Nas X",
+      "title": "Old Town Road",
+      "weeks": 42,
+      "peak": 1,
+      "score": 1198
+    },
+    {
+      "artist": "Halsey",
+      "title": "Without Me",
+      "weeks": 41,
+      "peak": 1,
+      "score": 1131
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Bad Guy",
+      "weeks": 38,
+      "peak": 1,
+      "score": 1284
+    },
+    {
+      "artist": "Jonas Brothers",
+      "title": "Sucker",
+      "weeks": 38,
+      "peak": 1,
+      "score": 1114
+    },
+    {
+      "artist": "Dababy",
+      "title": "Suge",
+      "weeks": 35,
+      "peak": 7,
+      "score": 565
+    },
+    {
+      "artist": "Marshmello",
+      "title": "Happier",
+      "weeks": 34,
+      "peak": 2,
+      "score": 920
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Post Malone",
+      "title": "Sunflower (Spider-Man: Into The Spider-Verse)",
+      "weeks": 44,
+      "peak": 1,
+      "score": 1450
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Bad Guy",
+      "weeks": 38,
+      "peak": 1,
+      "score": 1284
+    },
+    {
+      "artist": "Lil Nas X",
+      "title": "Old Town Road",
+      "weeks": 42,
+      "peak": 1,
+      "score": 1198
+    },
+    {
+      "artist": "Halsey",
+      "title": "Without Me",
+      "weeks": 41,
+      "peak": 1,
+      "score": 1131
+    },
+    {
+      "artist": "Jonas Brothers",
+      "title": "Sucker",
+      "weeks": 38,
+      "peak": 1,
+      "score": 1114
+    },
+    {
+      "artist": "Lizzo",
+      "title": "Truth Hurts",
+      "weeks": 33,
+      "peak": 1,
+      "score": 973
+    },
+    {
+      "artist": "Shawn Mendes",
+      "title": "Senorita",
+      "weeks": 26,
+      "peak": 1,
+      "score": 943
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "7 Rings",
+      "weeks": 33,
+      "peak": 1,
+      "score": 883
+    },
+    {
+      "artist": "Lewis Capaldi",
+      "title": "Someone You Loved",
+      "weeks": 32,
+      "peak": 1,
+      "score": 593
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Circles",
+      "weeks": 16,
+      "peak": 1,
+      "score": 591
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "Thank U, Next",
+      "weeks": 21,
+      "peak": 1,
+      "score": 477
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Shallow",
+      "weeks": 33,
+      "peak": 1,
+      "score": 462
+    },
+    {
+      "artist": "Travis Scott",
+      "title": "HIGHEST IN THE ROOM",
+      "weeks": 11,
+      "peak": 1,
+      "score": 296
+    },
+    {
+      "artist": "Selena Gomez",
+      "title": "Lose You To Love Me",
+      "weeks": 9,
+      "peak": 1,
+      "score": 295
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "All I Want For Christmas Is You",
+      "weeks": 7,
+      "peak": 1,
+      "score": 191
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Heartless",
+      "weeks": 4,
+      "peak": 1,
+      "score": 88
+    }
+  ]
+}

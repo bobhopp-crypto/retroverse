@@ -1,0 +1,842 @@
+{
+  "version": 1,
+  "artists": [
+    {
+      "id": "celia-marsh",
+      "display_name": "Celia Marsh",
+      "public_credit": "Celia Marsh",
+      "internal_influence": "Bob Peak with traces of Antonio Lopez and high-gloss movie-poster gouache.",
+      "department": "Cover Illustration",
+      "era_fit": [
+        "late-1960s",
+        "1970s",
+        "early-1980s"
+      ],
+      "origin_region": "New York, USA",
+      "bio": "A former window-display painter who treats every assignment like a newsstand fight for attention. Celia specializes in magnetic central figures, chrome reflections, and year-defining glamour.",
+      "personality": "Deadline-calm, image-first, stylish, and dismissive of timid composition.",
+      "style_traits": [
+        "airbrushed glow",
+        "chrome reflections",
+        "glamour portraiture",
+        "bold focal figure",
+        "newsstand drama"
+      ],
+      "best_use": [
+        "cover art",
+        "poster-style features",
+        "opening spreads",
+        "star-driven editorial packages"
+      ],
+      "avoid_use": [
+        "dense infographics",
+        "quiet documentary scenes",
+        "tiny spot art"
+      ],
+      "signature_notes": "Always leaves clean masthead room and builds a composition around one unforgettable silhouette.",
+      "self_portrait_prompt": "RetroVerse art department staff portrait of Celia Marsh, painted in her own glamorous cover-illustration style, waist-up at a drafting table in a 1978 magazine office, lacquered hair, satin blouse, marker comps and acetate overlays nearby, airbrushed glow, chrome desk lamp reflections, editorial staff portrait not a random photo headshot, clean background space, no readable typography, no watermark.",
+      "reference_scene_prompts": [
+        "A glamorous 1978 magazine-cover concept set outside a neon movie palace and record store, one commanding figure in the foreground, chrome taxis and humid city light, airbrushed editorial illustration, masthead breathing room, no readable text.",
+        "An opening-spread illustration of a disco-era nightlife corridor, mirrored walls, velvet rope, camera flashes, and a fashion-forward central subject, glossy painterly cover-art treatment, no readable typography.",
+        "A poster-like summer rooftop party scene with skyline haze, sequined fashion, and saturated sunset light, one strong focal figure, elegant retro editorial illustration, no text.",
+        "A cinematic magazine feature image of a backstage dressing room before a photo shoot, bulbs, garment bags, cosmetics, and cool-warm contrast, polished gouache and airbrush, no readable lettering.",
+        "A year-defining cultural tableau with magazine racks, chrome diner reflections, and an iconic central pose, cover-ready composition, controlled glamour, no readable text."
+      ],
+      "self_portrait_path": "/art-department/portraits/celia-marsh.png",
+      "reference_images": [],
+      "published_examples": [],
+      "project_type_fit": [
+        "Cover Art",
+        "Poster",
+        "Magazine Feature"
+      ],
+      "tone_fit": [
+        "glamorous",
+        "serious",
+        "psychedelic"
+      ],
+      "type_samples": []
+    },
+    {
+      "id": "lennox-vale",
+      "display_name": "Lennox Vale",
+      "public_credit": "Lennox Vale",
+      "internal_influence": "Bernie Fuchs with some Robert McGinnis atmosphere and magazine-feature restraint.",
+      "department": "Editorial Illustration",
+      "era_fit": [
+        "1960s",
+        "1970s",
+        "early-1980s"
+      ],
+      "origin_region": "Chicago, USA",
+      "bio": "Lennox is the feature closer: painterly enough to feel rich, restrained enough to leave room for long-form copy. He handles stories that need narrative gravity without turning into pulp.",
+      "personality": "Methodical, dryly funny, and stubborn about composition logic.",
+      "style_traits": [
+        "cinematic brushwork",
+        "subtle facial storytelling",
+        "atmospheric interiors",
+        "editorial realism",
+        "controlled color fields"
+      ],
+      "best_use": [
+        "magazine features",
+        "serious profiles",
+        "film and culture essays",
+        "narrative openers"
+      ],
+      "avoid_use": [
+        "comic panels",
+        "novelty parody",
+        "hyper-graphic charts"
+      ],
+      "signature_notes": "Prefers lived-in rooms, layered practical light, and subjects caught in thought rather than performance.",
+      "self_portrait_prompt": "RetroVerse editorial staff portrait of Lennox Vale in his own cinematic editorial-painting style, seated near stacked magazines and gouache boards in a softly lit 1978 office, half-length portrait, intelligent tired eyes, practical shirt sleeves, painterly brushwork and atmospheric interior, staff portrait for a magazine masthead page, no readable typography.",
+      "reference_scene_prompts": [
+        "A serious magazine-feature illustration of a writer alone in a smoke-soft newsroom after deadline, lamps glowing over paste-up boards, painterly cinematic realism, no readable text.",
+        "A film-essay opener set in a rain-dark city block outside a repertory cinema, umbrella reflections and layered window light, elegant editorial brushwork, no typography.",
+        "An intimate profile image of a late-night radio control booth, dials, coffee cups, and one thoughtful operator, restrained color, narrative editorial painting, no readable lettering.",
+        "A culture feature on train-platform fatigue and city movement, commuters lit by sodium vapor and billboard glow, painterly realism, no text.",
+        "A magazine spread illustration of a record producer listening back in a dim studio, reels, wood paneling, and quiet tension, atmospheric editorial painting, no readable words."
+      ],
+      "self_portrait_path": "/art-department/portraits/lennox-vale.png",
+      "reference_images": [],
+      "published_examples": [],
+      "project_type_fit": [
+        "Magazine Feature",
+        "Cover Art",
+        "Poster"
+      ],
+      "tone_fit": [
+        "serious",
+        "documentary",
+        "glamorous"
+      ],
+      "type_samples": []
+    },
+    {
+      "id": "marina-quo",
+      "display_name": "Marina Quo",
+      "public_credit": "Marina Quo",
+      "internal_influence": "Guy Peellaert mixed with soft-focus fashion editorial portraiture.",
+      "department": "Music Portraiture",
+      "era_fit": [
+        "1970s",
+        "early-1980s"
+      ],
+      "origin_region": "Los Angeles, USA",
+      "bio": "Marina handles singer portraits, celebrity pages, and emotional close-ups with a dreamy heat haze. Her work feels intimate but never casual.",
+      "personality": "Observant, flirtatious, and exacting about mood.",
+      "style_traits": [
+        "soft glamour",
+        "music-icon portraiture",
+        "velvet shadows",
+        "saturated skin tones",
+        "romantic editorial framing"
+      ],
+      "best_use": [
+        "music profiles",
+        "celebrity features",
+        "portrait-led cover art",
+        "spotlight pages"
+      ],
+      "avoid_use": [
+        "technical explainers",
+        "cold data pages",
+        "slapstick parody"
+      ],
+      "signature_notes": "Pushes eyes and hands to the front of the composition and lets color drift at the edges like remembered light.",
+      "self_portrait_prompt": "RetroVerse art department staff portrait of Marina Quo, rendered in her own dreamy music-portrait editorial style, three-quarter seated pose in a 1978 studio office, portfolio sleeves, records, and a mirror bulb strip nearby, lush color, velvet shadows, stylish but clearly an editorial staff portrait, no readable typography.",
+      "reference_scene_prompts": [
+        "A lush portrait-led magazine feature of a singer in rehearsal between takes, microphone stand, velvet curtain, and reflective stage light, dreamy editorial painting, no readable text.",
+        "A close-up celebrity profile outside a limousine after a premiere, flashbulb haze and tinted windshield reflections, romantic magazine illustration, no lettering.",
+        "A music-feature scene in a recording booth with headphones, lyric sheets turned away, and red low light, intimate glamour illustration, no readable words.",
+        "A backstage corridor portrait with garment bags and anxious stillness before a concert, soft-focus editorial treatment, no typography.",
+        "A poolside afternoon editorial portrait for a style spread, bright white concrete, sunglasses, and warm reflected light, fashion-forward but painterly, no text."
+      ],
+      "self_portrait_path": "/art-department/portraits/marina-quo.png",
+      "reference_images": [],
+      "published_examples": [],
+      "project_type_fit": [
+        "Magazine Feature",
+        "Cover Art",
+        "Poster"
+      ],
+      "tone_fit": [
+        "glamorous",
+        "serious",
+        "playful"
+      ],
+      "type_samples": []
+    },
+    {
+      "id": "otto-voss",
+      "display_name": "Otto Voss",
+      "public_credit": "Otto Voss",
+      "internal_influence": "Push Pin infographics and Otto Neurath logic filtered through 1970s magazine systems design.",
+      "department": "Charts & Systems",
+      "era_fit": [
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "origin_region": "Zurich, Switzerland",
+      "bio": "Otto is the fix when a page has to think clearly. He builds data-support imagery, modular visual systems, and controlled diagrammatic backgrounds that stay out of the type\u2019s way.",
+      "personality": "Precise, skeptical, and quietly competitive with grid failures.",
+      "style_traits": [
+        "modular forms",
+        "diagrammatic backgrounds",
+        "flat-color systems",
+        "measured spacing",
+        "editorial clarity"
+      ],
+      "best_use": [
+        "infographics",
+        "chart pages",
+        "timelines",
+        "card systems",
+        "data-led features"
+      ],
+      "avoid_use": [
+        "lush glamour portraits",
+        "messy collage",
+        "comic acting"
+      ],
+      "signature_notes": "Keeps structure visible but never literal; shapes imply information without replacing the real chart typography.",
+      "self_portrait_prompt": "RetroVerse editorial staff portrait of Otto Voss in his own graphically disciplined illustration style, seated at a clean drafting station with rulers, translucent overlays, circles and grid sketches around him, 1978 magazine office, composed half-length portrait, elegant flat-color shapes, editorial staff portrait, no readable typography.",
+      "reference_scene_prompts": [
+        "A restrained infographic background for a magazine page about chart momentum, modular circles, staircase rhythms, and record grooves abstracted into a clean editorial composition, no readable text.",
+        "A timeline-page illustration using architectural color blocks, transit-map logic, and era-coded motion cues, supportive graphic background only, no labels or typography.",
+        "A card-illustration concept with clean geometric framing, broadcast-console shapes, and balanced negative space, editorial systems art, no readable lettering.",
+        "A magazine-feature support image built from stacked bar-like forms, cassette silhouettes, and diagrammatic motion paths, calm and precise, no text.",
+        "A documentary information page on city nightlife flows, abstract crowd movement translated into elegant colored modules and pathways, no typography."
+      ],
+      "self_portrait_path": "/art-department/portraits/otto-voss.png",
+      "reference_images": [],
+      "published_examples": [],
+      "project_type_fit": [
+        "Infographic",
+        "Card Illustration",
+        "Magazine Feature"
+      ],
+      "tone_fit": [
+        "serious",
+        "documentary"
+      ],
+      "type_samples": []
+    },
+    {
+      "id": "darla-quill",
+      "display_name": "Darla Quill",
+      "public_credit": "Darla Quill",
+      "internal_influence": "Saul Steinberg mixed with newspaper marginalia and quick editorial wit.",
+      "department": "Spot Illustration",
+      "era_fit": [
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "origin_region": "Philadelphia, USA",
+      "bio": "Darla turns sidebars, letters pages, and service departments into something alive with almost no space. She is the staff artist for sharp visual shorthand.",
+      "personality": "Fast, amused, and incapable of leaving a blank margin alone.",
+      "style_traits": [
+        "ink wit",
+        "minimal line economy",
+        "smart vignettes",
+        "paper texture",
+        "expressive shorthand"
+      ],
+      "best_use": [
+        "department pages",
+        "letters pages",
+        "small features",
+        "service journalism",
+        "compact card art"
+      ],
+      "avoid_use": [
+        "epic covers",
+        "heavy realism",
+        "large crowd scenes"
+      ],
+      "signature_notes": "Works from the margin inward and trusts one precise gesture more than a fully rendered scene.",
+      "self_portrait_prompt": "RetroVerse art department staff portrait of Darla Quill, illustrated in her own witty ink-and-wash editorial spot style, leaning over a cluttered desk with fountain pen, scraps, pinned notes, and coffee ring textures, compact half-length staff portrait, clever minimal linework, no readable typography.",
+      "reference_scene_prompts": [
+        "A department-page vignette of office gossip passing across cubicles by paper airplane, ink-and-wash editorial spot illustration, compact and witty, no readable text.",
+        "A letters-page support image of a stack of envelopes turning into city windows at dusk, minimal line economy and paper texture, no typography.",
+        "A small service-journalism illustration about dating advice at a disco booth, one bright gesture and a few key props, no lettering.",
+        "A compact card illustration of a radio alarm clock, spilled eyeliner, and ticket stub arranged as a personality sketch, witty editorial spot art, no text.",
+        "A culture sidebar on waiting in arcade lines rendered as a playful knot of shoes, cords, and body language, spare ink drawing, no readable words."
+      ],
+      "self_portrait_path": "/art-department/portraits/darla-quill.png",
+      "reference_images": [],
+      "published_examples": [],
+      "project_type_fit": [
+        "Magazine Feature",
+        "Card Illustration",
+        "Infographic"
+      ],
+      "tone_fit": [
+        "playful",
+        "documentary",
+        "serious"
+      ],
+      "type_samples": []
+    },
+    {
+      "id": "nico-bolt",
+      "display_name": "Nico Bolt",
+      "public_credit": "Nico Bolt",
+      "internal_influence": "Will Eisner page rhythm with Jose Munoz grit and underground-comics timing.",
+      "department": "Comics & Sequential",
+      "era_fit": [
+        "1970s",
+        "1980s"
+      ],
+      "origin_region": "Detroit, USA",
+      "bio": "Nico is the sequential specialist for page rhythm, motion, and expressive acting. He knows how to keep comic pages alive without baking lettering into the art.",
+      "personality": "Restless, funny, and obsessed with pacing.",
+      "style_traits": [
+        "sequential acting",
+        "bold silhouettes",
+        "kinetic staging",
+        "ink-heavy shadow",
+        "panel-minded storytelling"
+      ],
+      "best_use": [
+        "comic panels",
+        "action spreads",
+        "satirical sequences",
+        "character-driven poster concepts"
+      ],
+      "avoid_use": [
+        "quiet data pages",
+        "delicate glamour portraiture",
+        "rigid technical diagrams"
+      ],
+      "signature_notes": "Prefers strong body language, diagonal motion, and dramatic lighting that survives panel cropping.",
+      "self_portrait_prompt": "RetroVerse editorial staff portrait of Nico Bolt in his own gritty sequential-comics style, seated on a stool beside pinned storyboard panels and Bristol board, waist-up portrait, ink-rich shadows, energetic linework, clearly an editorial staff portrait in a studio office, no readable dialogue or typography.",
+      "reference_scene_prompts": [
+        "A comic-panel action scene of a midnight print shop rush, page boards flying, rollers turning, and one hero editor lunging for the final proof, kinetic editorial comics art, no lettering.",
+        "A sequential-style arcade showdown with reflected cabinet light, dramatic poses, and strong silhouette staging, panel-ready but without word balloons, no readable text.",
+        "A satirical city-bus scene where music fans carry oversized records through rain and neon, expressive acting and ink-heavy shadow, no typography.",
+        "A four-corner poster concept about gossip spreading through a newsroom, character comedy and diagonal motion, no words in the image.",
+        "A character-driven magazine feature scene of two musicians arguing in a studio hallway, dynamic staging and expressive hands, no lettering."
+      ],
+      "self_portrait_path": "/art-department/portraits/nico-bolt.png",
+      "reference_images": [],
+      "published_examples": [],
+      "project_type_fit": [
+        "Comic Panel",
+        "Poster",
+        "Card Illustration"
+      ],
+      "tone_fit": [
+        "playful",
+        "surreal",
+        "psychedelic"
+      ],
+      "type_samples": []
+    },
+    {
+      "id": "iris-luxe",
+      "display_name": "Iris Luxe",
+      "public_credit": "Iris Luxe",
+      "internal_influence": "Antonio Lopez fashion looseness with downtown beauty-editorial confidence.",
+      "department": "Fashion & Beauty Illustration",
+      "era_fit": [
+        "1970s",
+        "early-1980s"
+      ],
+      "origin_region": "Paris, France",
+      "bio": "Iris covers beauty packages, style features, and anything that needs motion in fabric, hair, and attitude. She is strongest when the page needs glamour without stiffness.",
+      "personality": "Sharp, social, and impatient with dull palettes.",
+      "style_traits": [
+        "fashion gesture",
+        "runway motion",
+        "beauty-editorial polish",
+        "warm skin color",
+        "loose luxury lines"
+      ],
+      "best_use": [
+        "cover art",
+        "glamour features",
+        "style pages",
+        "beauty packages",
+        "poster commissions"
+      ],
+      "avoid_use": [
+        "cold technical subjects",
+        "hard-edged charts",
+        "grim reportage"
+      ],
+      "signature_notes": "Treats fabric and hair like motion graphics and always keeps the pose slightly ahead of the room.",
+      "self_portrait_prompt": "RetroVerse art department staff portrait of Iris Luxe, rendered in her own high-fashion editorial illustration style, standing beside dress forms and pinned color tear sheets in a 1978 art office, elegant pose, expressive brush lines, warm skin tones, magazine staff portrait not a runway photo, no readable typography.",
+      "reference_scene_prompts": [
+        "A glamorous magazine feature of a department-store fashion floor at golden hour, mirrored columns, rich fabrics, and one decisive model-like figure, loose editorial illustration, no readable text.",
+        "A beauty package opener set in a backstage powder room, compacts, bulbs, and silk garments in motion, fashion illustration with painterly confidence, no lettering.",
+        "A poster-style city sidewalk scene with windblown trench coats and reflected storefront light, chic and fluid, no typography.",
+        "A magazine cover concept built around a dramatic seated pose, lacquered table surface, cigarette smoke curl, and magazine-ready glamour, no readable words.",
+        "A style spread featuring dressing-room chaos before a nightclub opening, vivid accessories and gestural fashion drawing, no text."
+      ],
+      "self_portrait_path": "/art-department/portraits/iris-luxe.png",
+      "reference_images": [],
+      "published_examples": [],
+      "project_type_fit": [
+        "Cover Art",
+        "Poster",
+        "Magazine Feature"
+      ],
+      "tone_fit": [
+        "glamorous",
+        "playful"
+      ],
+      "type_samples": []
+    },
+    {
+      "id": "sol-kestrel",
+      "display_name": "Sol Kestrel",
+      "public_credit": "Sol Kestrel",
+      "internal_influence": "Heinz Edelmann and Mati Klarwein filtered through poster-shop psychedelia.",
+      "department": "Psychedelic Poster Illustration",
+      "era_fit": [
+        "late-1960s",
+        "1970s"
+      ],
+      "origin_region": "San Francisco, USA",
+      "bio": "Sol is the answer when the assignment needs hallucinatory symbolism, poster energy, and color that feels amplified. He works best when the brief wants mood over literal realism.",
+      "personality": "Mystic, generous, and impossible to rush into obvious choices.",
+      "style_traits": [
+        "psychedelic color",
+        "symbolic figures",
+        "ornamental surrealism",
+        "poster energy",
+        "curved forms"
+      ],
+      "best_use": [
+        "posters",
+        "surreal features",
+        "cover art",
+        "dream-sequence culture pieces",
+        "card illustration"
+      ],
+      "avoid_use": [
+        "strict reportage",
+        "dry utility pages",
+        "hard data explanation"
+      ],
+      "signature_notes": "Builds compositions from repeating shapes, symbolic props, and vibrating color contrasts.",
+      "self_portrait_prompt": "RetroVerse editorial staff portrait of Sol Kestrel in his own psychedelic poster-illustration style, seated cross-legged on a studio stool in a 1970s art office, paint jars, incense haze, pinned color studies, symbolic decorative framing, editorial staff portrait rather than a random fantasy character, no readable text.",
+      "reference_scene_prompts": [
+        "A psychedelic poster-like culture feature about a city after midnight, moons, signage glow, mirrored streets, and symbolic figures, richly colored editorial illustration, no readable typography.",
+        "A surreal cover-art concept where records become planets over a dance floor skyline, ornamental shapes and radiant color, no text.",
+        "A dream-sequence magazine feature set inside a mirrored elevator with impossible reflections and floating accessories, psychedelic editorial art, no lettering.",
+        "A card-illustration concept of headphones, subway rails, and haloed faces folding into one symbolic composition, no readable words.",
+        "A poster image for a late-night broadcast special, layered clouds, towers, and chromatic halos, no text."
+      ],
+      "self_portrait_path": "/art-department/portraits/sol-kestrel.png",
+      "reference_images": [],
+      "published_examples": [],
+      "project_type_fit": [
+        "Poster",
+        "Cover Art",
+        "Card Illustration"
+      ],
+      "tone_fit": [
+        "psychedelic",
+        "surreal",
+        "playful"
+      ],
+      "type_samples": []
+    },
+    {
+      "id": "june-orbit",
+      "display_name": "June Orbit",
+      "public_credit": "June Orbit",
+      "internal_influence": "Milton Glaser collage logic with Barbara Nessim mixed-media texture.",
+      "department": "Collage & Mixed Media",
+      "era_fit": [
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "origin_region": "Boston, USA",
+      "bio": "June builds culture pages from fragments: magazine tears, painted paper, photographic scraps, and shape-led storytelling. She is strongest when one page needs to hold many ideas at once.",
+      "personality": "Inventive, quiet, and delighted by visual contradictions.",
+      "style_traits": [
+        "mixed media",
+        "paper collage",
+        "photo-illustration fragments",
+        "graphic layering",
+        "cultural montage"
+      ],
+      "best_use": [
+        "culture packages",
+        "collage spreads",
+        "magazine features",
+        "posters with many signals",
+        "cover experiments"
+      ],
+      "avoid_use": [
+        "strict sequential comics",
+        "minimal infographics",
+        "single-object utility pages"
+      ],
+      "signature_notes": "She likes tension between hand-cut edges and carefully painted atmospherics.",
+      "self_portrait_prompt": "RetroVerse art department staff portrait of June Orbit in her own mixed-media collage style, surrounded by torn magazine paper, scissors, wax pencil marks, and pinned source scraps in a 1978 editorial art room, half-length portrait, layered textures and painterly fragments, no readable typography.",
+      "reference_scene_prompts": [
+        "A cultural-collage magazine spread combining arcade lights, movie stubs, lipstick prints, cassette inserts, and city windows into one editorial montage, rich mixed media, no readable text.",
+        "A poster-style feature about a summer weekend made from torn paper skies, photographic fragments, painted nightlife reflections, and hand-cut silhouettes, no typography.",
+        "A cover experiment built from magazine kiosks, subway maps, theater marquees abstracted beyond legibility, and layered portrait fragments, no readable words.",
+        "A media-saturation culture page with televisions, record sleeves, shopping bags, and crowd texture collaged into one composition, no text.",
+        "A year-in-review mood board with hand-cut stars, calendars, snapshots, and colored acetate overlays, editorial collage, no lettering."
+      ],
+      "self_portrait_path": "/art-department/portraits/june-orbit.png",
+      "reference_images": [],
+      "published_examples": [],
+      "project_type_fit": [
+        "Magazine Feature",
+        "Poster",
+        "Cover Art"
+      ],
+      "tone_fit": [
+        "playful",
+        "psychedelic",
+        "documentary"
+      ],
+      "type_samples": []
+    },
+    {
+      "id": "rex-banner",
+      "display_name": "Rex Banner",
+      "public_credit": "Rex Banner",
+      "internal_influence": "Seymour Chwast and Robert Grossman with ad-world exaggeration.",
+      "department": "Parody & Advertising Art",
+      "era_fit": [
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "origin_region": "London, UK",
+      "bio": "Rex handles fake ads, comic promotions, and pages that need one sharp satirical twist. He understands how to parody commercial confidence without losing graphic discipline.",
+      "personality": "Showman energy, ruthless punchline timing, and a salesman\u2019s instinct for shape.",
+      "style_traits": [
+        "satirical caricature",
+        "ad-poster punch",
+        "bold graphic silhouettes",
+        "commercial parody",
+        "bright product staging"
+      ],
+      "best_use": [
+        "poster art",
+        "fake ads",
+        "cover stunts",
+        "playful features",
+        "card illustration"
+      ],
+      "avoid_use": [
+        "quiet documentary stories",
+        "dense research pages",
+        "subtle emotional portraits"
+      ],
+      "signature_notes": "Makes products feel slightly too theatrical and people slightly too pleased with themselves.",
+      "self_portrait_prompt": "RetroVerse editorial staff portrait of Rex Banner in his own satirical advertising-illustration style, standing in a studio office beside mock product boards and spray mount scraps, bright graphic staging, playful expression, clearly an editorial staff portrait, no readable slogans or typography.",
+      "reference_scene_prompts": [
+        "A fake 1978 gadget advertisement with a chrome miracle appliance, exaggerated product confidence, and theatrical product lighting, satirical editorial illustration, no readable text.",
+        "A playful poster concept for a magazine service page about nightlife excess, smiling caricatured figures and too-perfect packaging, bright ad-art parody, no typography.",
+        "A cover stunt built around a glamorous but absurd product launch on a rotating pedestal, commercial punch and comic timing, no readable words.",
+        "A satirical city-shopping feature with department-store bags, escalators, and exaggerated poses, bold graphic ad illustration, no text.",
+        "A card-illustration concept where a radio, soda cup, and ticket stub are staged like luxury goods, playful commercial parody, no lettering."
+      ],
+      "self_portrait_path": "/art-department/portraits/rex-banner.png",
+      "reference_images": [],
+      "published_examples": [],
+      "project_type_fit": [
+        "Poster",
+        "Cover Art",
+        "Card Illustration"
+      ],
+      "tone_fit": [
+        "playful",
+        "glamorous",
+        "surreal"
+      ],
+      "type_samples": []
+    },
+    {
+      "id": "paloma-rivet",
+      "display_name": "Paloma Rivet",
+      "public_credit": "Paloma Rivet",
+      "internal_influence": "Ben Shahn with urban reportage painting and magazine humanism.",
+      "department": "Documentary Scene Illustration",
+      "era_fit": [
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "origin_region": "Mexico City, Mexico",
+      "bio": "Paloma is the field reporter in paint: subways, sidewalks, queues, corner stores, and the social life of the city. Her work grounds RetroVerse when the brief needs culture observed rather than staged.",
+      "personality": "Patient, politically awake, and precise about lived detail.",
+      "style_traits": [
+        "urban reportage",
+        "social observation",
+        "textured brushwork",
+        "crowd behavior",
+        "documentary warmth"
+      ],
+      "best_use": [
+        "documentary features",
+        "city culture pages",
+        "reportage posters",
+        "service pieces with social texture"
+      ],
+      "avoid_use": [
+        "high-glamour fantasy",
+        "hard geometric charts",
+        "broad slapstick"
+      ],
+      "signature_notes": "She notices hands, signage glow, waiting lines, and the small postures that tell a bigger social story.",
+      "self_portrait_prompt": "RetroVerse editorial staff portrait of Paloma Rivet in her own humane documentary-illustration style, seated near a window in a 1978 newsroom-art office with transit sketches, notebooks, and a city map turned away from the camera, textured brushwork, thoughtful staff portrait, no readable typography.",
+      "reference_scene_prompts": [
+        "A documentary magazine feature on late-evening subway riders, soft fluorescent light, shopping bags, and layered body language, humane editorial painting, no readable text.",
+        "A city-culture illustration of people waiting outside an arcade and corner record shop in summer heat, observed social detail and textured brushwork, no typography.",
+        "A reportage feature on street vendors at dusk with transistor radios, paper cups, and bus-stop glow, no readable words.",
+        "A documentary poster-like scene of cinema lines wrapping around a block after work, mixed ages and clothing details, warm urban observation, no text.",
+        "A magazine feature about domestic routine around a living-room television, family posture and room detail doing the storytelling, no typography."
+      ],
+      "self_portrait_path": "/art-department/portraits/paloma-rivet.png",
+      "reference_images": [],
+      "published_examples": [],
+      "project_type_fit": [
+        "Magazine Feature",
+        "Infographic",
+        "Cover Art"
+      ],
+      "tone_fit": [
+        "documentary",
+        "serious"
+      ],
+      "type_samples": []
+    },
+    {
+      "id": "tony-halide",
+      "display_name": "Tony Halide",
+      "public_credit": "Tony Halide",
+      "internal_influence": "Richard Amsel and Drew Struzan before the finish gets too slick.",
+      "department": "Film & Screen Illustration",
+      "era_fit": [
+        "1970s",
+        "1980s"
+      ],
+      "origin_region": "Burbank, USA",
+      "bio": "Tony bridges magazine illustration and studio promo art. He handles cinema, television, and event images that need a strong sense of genre without becoming an actual movie poster.",
+      "personality": "Reliable, technical, and secretly sentimental about marquee light.",
+      "style_traits": [
+        "cinema lighting",
+        "promotional composition",
+        "screen-magic atmosphere",
+        "painted montage",
+        "genre cues"
+      ],
+      "best_use": [
+        "film features",
+        "television spreads",
+        "posters",
+        "cover art",
+        "screen-culture packages"
+      ],
+      "avoid_use": [
+        "dry chart support",
+        "tiny spot art",
+        "flat comic parody"
+      ],
+      "signature_notes": "Likes practical light sources, layered spotlight haze, and faces built from warm-cool contrast.",
+      "self_portrait_prompt": "RetroVerse art department staff portrait of Tony Halide in his own painted film-promo editorial style, half-length portrait in a 1978 studio art office with pinned one-sheet comps, slide transparencies, and projector glow, staff portrait not a movie character, atmospheric cinema light, no readable typography.",
+      "reference_scene_prompts": [
+        "A movie-feature opener outside a crowded cinema marquee in wet pavement reflection, painterly screen-promo atmosphere, editorial rather than literal poster art, no readable text.",
+        "A television package illustration set in a warm living room lit by cathode glow, family silhouettes and set design details, cinematic editorial painting, no lettering.",
+        "A backstage awards-night corridor with gowns, tuxedos, and tungsten spill, polished entertainment-feature illustration, no readable words.",
+        "A poster-like feature for a thriller review page with city rooftops, projector flare, and genre-coded tension, no typography.",
+        "A screen-culture montage of concession counters, ticket stubs, and projected dust in the beam of light, painterly and nostalgic, no text."
+      ],
+      "self_portrait_path": "/art-department/portraits/tony-halide.png",
+      "reference_images": [],
+      "published_examples": [],
+      "project_type_fit": [
+        "Poster",
+        "Cover Art",
+        "Magazine Feature"
+      ],
+      "tone_fit": [
+        "serious",
+        "glamorous",
+        "surreal"
+      ],
+      "type_samples": []
+    },
+    {
+      "id": "vera-kern",
+      "display_name": "Vera Kern",
+      "public_credit": "Vera Kern",
+      "internal_influence": "Herb Lubalin with late-1970s women\u2019s-magazine elegance.",
+      "department": "Type & Lettering",
+      "era_fit": [
+        "late-1960s",
+        "1970s",
+        "early-1980s"
+      ],
+      "origin_region": "New York, USA",
+      "bio": "Vera develops mastheads, feature openers, and graceful display systems with editorial authority. Her lettering feels expensive without becoming cold.",
+      "personality": "Measured, exact, and allergic to cheap-looking kerning.",
+      "style_traits": [
+        "elegant display type",
+        "ligatures",
+        "fashion-editorial spacing",
+        "high-contrast scripts",
+        "masthead discipline"
+      ],
+      "best_use": [
+        "cover typography",
+        "feature openers",
+        "nameplates",
+        "elegant promotional lettering"
+      ],
+      "avoid_use": [
+        "comic sound effects",
+        "brutal score-box systems",
+        "novelty gag lettering"
+      ],
+      "signature_notes": "She pulls drama from spacing first and ornament second.",
+      "self_portrait_prompt": "A refined editorial lettering department sample portrait card for Vera Kern, implied through tools, swashes, tracing paper, and sophisticated typographic atmosphere, not a literal photographic headshot, no readable production text.",
+      "reference_scene_prompts": [
+        "A future masthead study with graceful vertical contrast, cosmetic glamour, and magazine authority, no readable words.",
+        "A feature-opener lettering sample built from elegant scripts, ligature energy, and editorial negative space, no actual text.",
+        "A title-card concept for a glamorous interview feature, ornamental but restrained, no readable lettering."
+      ],
+      "self_portrait_path": "/art-department/type-samples/vera-kern-sample.svg",
+      "reference_images": [],
+      "published_examples": [],
+      "project_type_fit": [
+        "Cover Art",
+        "Magazine Feature",
+        "Poster"
+      ],
+      "tone_fit": [
+        "glamorous",
+        "serious"
+      ],
+      "type_samples": [
+        "/art-department/type-samples/vera-kern-sample.svg"
+      ]
+    },
+    {
+      "id": "mitch-capstan",
+      "display_name": "Mitch Capstan",
+      "public_credit": "Mitch Capstan",
+      "internal_influence": "Ed Benguiat and Lou Dorfsman through scoreboards, grids, and broadcast packaging.",
+      "department": "Type & Lettering",
+      "era_fit": [
+        "1970s",
+        "1980s"
+      ],
+      "origin_region": "Cleveland, USA",
+      "bio": "Mitch handles hard-working utility lettering: charts, scoreboards, stat callouts, and package systems. He is the department\u2019s specialist in legibility under pressure.",
+      "personality": "Blunt, generous, and happiest when the baseline grid behaves.",
+      "style_traits": [
+        "block display lettering",
+        "broadcast utility",
+        "score-box rhythm",
+        "stat packaging",
+        "industrial clarity"
+      ],
+      "best_use": [
+        "infographics",
+        "chart packages",
+        "card systems",
+        "utility title bars",
+        "broadcast-inspired promos"
+      ],
+      "avoid_use": [
+        "delicate beauty features",
+        "romantic scripts",
+        "ornamental psychedelia"
+      ],
+      "signature_notes": "He wants lettering to hit like a cue light: instant, clean, impossible to miss.",
+      "self_portrait_prompt": "A utility-lettering department sample portrait card for Mitch Capstan using stat-board elements, marker comps, rubylith, and industrial display-type atmosphere instead of a literal portrait, no readable production text.",
+      "reference_scene_prompts": [
+        "A future chart-package lettering sample with score-box pacing and clean block display forms, no readable words.",
+        "A title-bar concept for an infographic spread, industrial but period-correct, no actual text.",
+        "A card-system lettering sample using modular labels, separators, and strong hierarchy without readable content."
+      ],
+      "self_portrait_path": "/art-department/type-samples/mitch-capstan-sample.svg",
+      "reference_images": [],
+      "published_examples": [],
+      "project_type_fit": [
+        "Infographic",
+        "Card Illustration",
+        "Poster"
+      ],
+      "tone_fit": [
+        "serious",
+        "playful"
+      ],
+      "type_samples": [
+        "/art-department/type-samples/mitch-capstan-sample.svg"
+      ]
+    },
+    {
+      "id": "sonia-rubylith",
+      "display_name": "Sonia Rubylith",
+      "public_credit": "Sonia Rubylith",
+      "internal_influence": "Wes Wilson and Victor Moscoso reined in for editorial use.",
+      "department": "Type & Lettering",
+      "era_fit": [
+        "late-1960s",
+        "1970s"
+      ],
+      "origin_region": "San Francisco, USA",
+      "bio": "Sonia handles expressive display lettering for psychedelic, nightlife, and youth-culture packages. She brings period attitude without letting the page collapse into chaos.",
+      "personality": "Playful, theatrical, and surprisingly disciplined once the sketch is locked.",
+      "style_traits": [
+        "psychedelic lettering",
+        "curved counters",
+        "poster swash energy",
+        "festival color",
+        "ornamental titles"
+      ],
+      "best_use": [
+        "posters",
+        "cover openers",
+        "playful features",
+        "nightlife packages",
+        "youth-culture type treatments"
+      ],
+      "avoid_use": [
+        "strict stats pages",
+        "hard corporate systems",
+        "somber obituary tones"
+      ],
+      "signature_notes": "She keeps the weirdness on a leash just long enough for the page to stay readable.",
+      "self_portrait_prompt": "A psychedelic lettering department sample portrait card for Sonia Rubylith built from curved counters, tracing paper, pens, color overlays, and poster-shop atmosphere, not a literal headshot, no readable production text.",
+      "reference_scene_prompts": [
+        "A future nightlife title treatment with psychedelic curves and controlled poster energy, no readable words.",
+        "A cover-opener lettering sample for a youth-culture feature, vibrant color and ornamental shapes, no actual text.",
+        "A playful display-type concept balancing late-1960s swirl forms with editorial discipline, no readable lettering."
+      ],
+      "self_portrait_path": "/art-department/type-samples/sonia-rubylith-sample.svg",
+      "reference_images": [],
+      "published_examples": [],
+      "project_type_fit": [
+        "Poster",
+        "Cover Art",
+        "Magazine Feature"
+      ],
+      "tone_fit": [
+        "psychedelic",
+        "playful",
+        "glamorous"
+      ],
+      "type_samples": [
+        "/art-department/type-samples/sonia-rubylith-sample.svg"
+      ]
+    }
+  ]
+}

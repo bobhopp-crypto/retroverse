@@ -1,0 +1,25 @@
+Retro magazine illustration for page 26 of a 1978 pop culture magazine.
+
+Prompt source: visual_concept
+Page slug: album_spotlight
+Page title: Album Gravity: Saturday Night Fever — Soundtrack
+Visual concept: record_store_orbit
+
+Article topic:
+A record-store interior orbiting around a dominant soundtrack display with browsers, bins, and star-making retail gravity.
+
+Visual direction from page brief:
+Scene description: A record-store interior orbiting around a dominant soundtrack display with browsers, bins, and star-making retail gravity.
+Camera style: circular aisle perspective
+Lighting style: warm retail fluorescents with reflective vinyl sheen
+
+Create a lively illustrated scene reflecting the topic.
+1970s editorial illustration style.
+MAD Magazine caricature influence.
+comic line art + watercolor textures.
+late 1970s neon palette.
+handwritten signature "Judge" as a small artist mark only.
+
+Important:
+leave soft areas suitable for text placement.
+Do not include readable typography.

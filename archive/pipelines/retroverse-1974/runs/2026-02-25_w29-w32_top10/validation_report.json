@@ -1,0 +1,21 @@
+{
+  "run_id": "2026-02-25_w29-w32_top10",
+  "expected_cards": 10,
+  "prompt_records": 10,
+  "prompt_files_existing": 10,
+  "meta_files_existing": 10,
+  "image_files_existing": 10,
+  "missing_prompt_count": 0,
+  "missing_meta_count": 0,
+  "missing_image_count": 0,
+  "invalid_dimension_count": 0,
+  "invalid_dimensions": [],
+  "render_status_counts": {
+    "prompt_built": 10,
+    "success": 10
+  },
+  "pre_render_validation_passed": true,
+  "full_render_validation_passed": true,
+  "status": "pass",
+  "note": ""
+}

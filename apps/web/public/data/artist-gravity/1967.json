@@ -1,0 +1,458 @@
+[
+  {
+    "artist": "The Monkees",
+    "score": 806.4
+  },
+  {
+    "artist": "The Beatles",
+    "score": 678.7
+  },
+  {
+    "artist": "Aretha Franklin",
+    "score": 674.5
+  },
+  {
+    "artist": "The Rolling Stones",
+    "score": 495.9
+  },
+  {
+    "artist": "The Temptations",
+    "score": 477.5
+  },
+  {
+    "artist": "Herb Alpert & The Tijuana Brass",
+    "score": 474.9
+  },
+  {
+    "artist": "Soundtrack",
+    "score": 471.9
+  },
+  {
+    "artist": "Four Tops",
+    "score": 467.2
+  },
+  {
+    "artist": "The Supremes",
+    "score": 392.6
+  },
+  {
+    "artist": "Bill Cosby",
+    "score": 375.5
+  },
+  {
+    "artist": "The Doors",
+    "score": 300.7
+  },
+  {
+    "artist": "The Association",
+    "score": 294.2
+  },
+  {
+    "artist": "The Mamas & The Papas",
+    "score": 293.2
+  },
+  {
+    "artist": "The Buckinghams",
+    "score": 291.8
+  },
+  {
+    "artist": "Jefferson Airplane",
+    "score": 290.6
+  },
+  {
+    "artist": "The Mamas",
+    "score": 290.6
+  },
+  {
+    "artist": "The Lovin' Spoonful",
+    "score": 282.2
+  },
+  {
+    "artist": "Nancy Sinatra",
+    "score": 280.3
+  },
+  {
+    "artist": "Frank Sinatra",
+    "score": 280
+  },
+  {
+    "artist": "Dionne Warwick",
+    "score": 275
+  },
+  {
+    "artist": "Herman's Hermits",
+    "score": 270.4
+  },
+  {
+    "artist": "Bobbie Gentry",
+    "score": 201
+  },
+  {
+    "artist": "The Turtles",
+    "score": 198.6
+  },
+  {
+    "artist": "The Young Rascals",
+    "score": 197.4
+  },
+  {
+    "artist": "Petula Clark",
+    "score": 194.2
+  },
+  {
+    "artist": "The New Vaudeville Band",
+    "score": 194.2
+  },
+  {
+    "artist": "Ed Ames",
+    "score": 193.7
+  },
+  {
+    "artist": "Engelbert Humperdinck",
+    "score": 193.3
+  },
+  {
+    "artist": "Paul Revere",
+    "score": 192.6
+  },
+  {
+    "artist": "The Seekers",
+    "score": 191.9
+  },
+  {
+    "artist": "Diana Ross",
+    "score": 190.9
+  },
+  {
+    "artist": "Strawberry Alarm Clock",
+    "score": 189.3
+  },
+  {
+    "artist": "The 5th Dimension",
+    "score": 189.1
+  },
+  {
+    "artist": "Paul Revere & The Raiders",
+    "score": 188.6
+  },
+  {
+    "artist": "Andy Williams",
+    "score": 188.1
+  },
+  {
+    "artist": "The Rascals",
+    "score": 188.1
+  },
+  {
+    "artist": "Johnny Rivers",
+    "score": 186.2
+  },
+  {
+    "artist": "Vikki Carr",
+    "score": 184.6
+  },
+  {
+    "artist": "Barbra Streisand",
+    "score": 184
+  },
+  {
+    "artist": "Lou Rawls",
+    "score": 167.3
+  },
+  {
+    "artist": "Lulu",
+    "score": 100.7
+  },
+  {
+    "artist": "The Box Tops",
+    "score": 100.6
+  },
+  {
+    "artist": "Diana Ross & The Supremes",
+    "score": 100.4
+  },
+  {
+    "artist": "Frankie Valli",
+    "score": 99.6
+  },
+  {
+    "artist": "The Music Explosion",
+    "score": 99.6
+  },
+  {
+    "artist": "Arthur Conley",
+    "score": 99.5
+  },
+  {
+    "artist": "Sam",
+    "score": 99.5
+  },
+  {
+    "artist": "Stevie Wonder",
+    "score": 99.5
+  },
+  {
+    "artist": "The Cowsills",
+    "score": 99.4
+  },
+  {
+    "artist": "Gladys Knight And The Pips",
+    "score": 99.1
+  },
+  {
+    "artist": "Aaron Neville",
+    "score": 98.9
+  },
+  {
+    "artist": "The Royal Guardsmen",
+    "score": 98.9
+  },
+  {
+    "artist": "Bobby Vee And The Strangers",
+    "score": 98.6
+  },
+  {
+    "artist": "The Happenings",
+    "score": 98.3
+  },
+  {
+    "artist": "Roger Williams",
+    "score": 98.2
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "score": 98.2
+  },
+  {
+    "artist": "Tommy James And The Shondells",
+    "score": 97.7
+  },
+  {
+    "artist": "Soul Survivors",
+    "score": 97.5
+  },
+  {
+    "artist": "Scott Mckenzie",
+    "score": 97.2
+  },
+  {
+    "artist": "Smokey Robinson",
+    "score": 96.9
+  },
+  {
+    "artist": "Marvin Gaye",
+    "score": 96.3
+  },
+  {
+    "artist": "Herb Alpert's Tijuana Brass",
+    "score": 96.2
+  },
+  {
+    "artist": "Procol Harum",
+    "score": 96.2
+  },
+  {
+    "artist": "The Five Americans",
+    "score": 96.2
+  },
+  {
+    "artist": "Blues Magoos",
+    "score": 96
+  },
+  {
+    "artist": "The Byrds",
+    "score": 95.8
+  },
+  {
+    "artist": "Jay And The Techniques",
+    "score": 95.7
+  },
+  {
+    "artist": "The Union Gap",
+    "score": 95.7
+  },
+  {
+    "artist": "Vanilla Fudge",
+    "score": 95.6
+  },
+  {
+    "artist": "Every Mothers' Son",
+    "score": 95.5
+  },
+  {
+    "artist": "Bobby Vinton",
+    "score": 95.3
+  },
+  {
+    "artist": "The Casinos",
+    "score": 95.3
+  },
+  {
+    "artist": "Jackie Wilson",
+    "score": 95.2
+  },
+  {
+    "artist": "Mitch Ryder And The Detroit Wheels",
+    "score": 95.1
+  },
+  {
+    "artist": "Sonny",
+    "score": 95.1
+  },
+  {
+    "artist": "Bee Gees",
+    "score": 94.9
+  },
+  {
+    "artist": "Jimi Hendrix",
+    "score": 94.9
+  },
+  {
+    "artist": "John Fred And The Playboys",
+    "score": 94.6
+  },
+  {
+    "artist": "Buffalo Springfield",
+    "score": 94.5
+  },
+  {
+    "artist": "The Fantastic Johnny C",
+    "score": 94.3
+  },
+  {
+    "artist": "James Brown And The Famous Flames",
+    "score": 94.2
+  },
+  {
+    "artist": "The Spencer Davis Group",
+    "score": 94.2
+  },
+  {
+    "artist": "Keith",
+    "score": 94
+  },
+  {
+    "artist": "The Dave Clark Five",
+    "score": 94
+  },
+  {
+    "artist": "Bob Dylan",
+    "score": 93.5
+  },
+  {
+    "artist": "Gary Lewis And The Playboys",
+    "score": 93.5
+  },
+  {
+    "artist": "Peaches",
+    "score": 93.2
+  },
+  {
+    "artist": "The Grass Roots",
+    "score": 93.2
+  },
+  {
+    "artist": "Wilson Pickett",
+    "score": 93.2
+  },
+  {
+    "artist": "Claudine Longet",
+    "score": 92.8
+  },
+  {
+    "artist": "Brenton Wood",
+    "score": 92.5
+  },
+  {
+    "artist": "The American Breed",
+    "score": 92.5
+  },
+  {
+    "artist": "The Hollies",
+    "score": 92.1
+  },
+  {
+    "artist": "Cher",
+    "score": 92
+  },
+  {
+    "artist": "Eric Burdon",
+    "score": 92
+  },
+  {
+    "artist": "Lawrence Welk",
+    "score": 91.6
+  },
+  {
+    "artist": "Ray Conniff",
+    "score": 90.5
+  },
+  {
+    "artist": "Various Artists",
+    "score": 90.2
+  },
+  {
+    "artist": "Cannonball Adderley Quintet",
+    "score": 89.7
+  },
+  {
+    "artist": "Don Ho",
+    "score": 89.7
+  },
+  {
+    "artist": "The Sandpipers",
+    "score": 89.7
+  },
+  {
+    "artist": "Wes Montgomery",
+    "score": 88.3
+  },
+  {
+    "artist": "Davie Allan And The Arrows",
+    "score": 88.2
+  },
+  {
+    "artist": "Midnight String Quartet",
+    "score": 88.2
+  },
+  {
+    "artist": "Donovan",
+    "score": 88.1
+  },
+  {
+    "artist": "Frankie Laine",
+    "score": 86.9
+  },
+  {
+    "artist": "Peter, Paul & Mary",
+    "score": 86.8
+  },
+  {
+    "artist": "Senator Everett McKinley Dirksen",
+    "score": 85.6
+  },
+  {
+    "artist": "Sergio Mendes",
+    "score": 85.2
+  },
+  {
+    "artist": "Elvis Presley",
+    "score": 84.9
+  },
+  {
+    "artist": "Cream",
+    "score": 84.4
+  },
+  {
+    "artist": "The Lettermen",
+    "score": 84.4
+  },
+  {
+    "artist": "Frank Sinatra & Antonio Carlos Jobim",
+    "score": 83.8
+  },
+  {
+    "artist": "Dean Martin",
+    "score": 81.8
+  }
+]

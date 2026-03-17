@@ -1,0 +1,511 @@
+{
+  "year": "2007",
+  "top_songs": [
+    {
+      "artist": "Fergie",
+      "title": "Big Girls Don't Cry",
+      "weeks": 35,
+      "peak": 1,
+      "score": 965
+    },
+    {
+      "artist": "Timbaland",
+      "title": "The Way I Are",
+      "weeks": 29,
+      "peak": 3,
+      "score": 805
+    },
+    {
+      "artist": "Gwen Stefani",
+      "title": "The Sweet Escape",
+      "weeks": 39,
+      "peak": 2,
+      "score": 750
+    },
+    {
+      "artist": "Soulja Boy Tell'em",
+      "title": "Crank That (Soulja Boy)",
+      "weeks": 23,
+      "peak": 1,
+      "score": 749
+    },
+    {
+      "artist": "T-pain",
+      "title": "Buy U A Drank (Shawty Snappin')",
+      "weeks": 35,
+      "peak": 1,
+      "score": 741
+    },
+    {
+      "artist": "Avril Lavigne",
+      "title": "Girlfriend",
+      "weeks": 24,
+      "peak": 1,
+      "score": 739
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Stronger",
+      "weeks": 21,
+      "peak": 1,
+      "score": 688
+    },
+    {
+      "artist": "Carrie Underwood",
+      "title": "Before He Cheats",
+      "weeks": 48,
+      "peak": 8,
+      "score": 686
+    },
+    {
+      "artist": "Plain White T's",
+      "title": "Hey There Delilah",
+      "weeks": 35,
+      "peak": 1,
+      "score": 643
+    },
+    {
+      "artist": "Nelly Furtado",
+      "title": "Say It Right",
+      "weeks": 24,
+      "peak": 1,
+      "score": 609
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Umbrella",
+      "weeks": 33,
+      "peak": 1,
+      "score": 551
+    },
+    {
+      "artist": "Daughtry",
+      "title": "It's Not Over",
+      "weeks": 25,
+      "peak": 4,
+      "score": 543
+    },
+    {
+      "artist": "Akon",
+      "title": "Don't Matter",
+      "weeks": 23,
+      "peak": 1,
+      "score": 533
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Irreplaceable",
+      "weeks": 21,
+      "peak": 1,
+      "score": 511
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "What Goes Around...Comes Around",
+      "weeks": 23,
+      "peak": 1,
+      "score": 510
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "Makes Me Wonder",
+      "weeks": 26,
+      "peak": 1,
+      "score": 503
+    },
+    {
+      "artist": "Fergie",
+      "title": "Glamorous",
+      "weeks": 29,
+      "peak": 1,
+      "score": 499
+    },
+    {
+      "artist": "T-pain",
+      "title": "Bartender",
+      "weeks": 22,
+      "peak": 5,
+      "score": 488
+    },
+    {
+      "artist": "Alicia Keys",
+      "title": "No One",
+      "weeks": 15,
+      "peak": 1,
+      "score": 471
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Good Life",
+      "weeks": 14,
+      "peak": 7,
+      "score": 438
+    },
+    {
+      "artist": "Gym Class Heroes",
+      "title": "Cupid's Chokehold/Breakfast In America",
+      "weeks": 24,
+      "peak": 4,
+      "score": 432
+    },
+    {
+      "artist": "Daughtry",
+      "title": "Home",
+      "weeks": 37,
+      "peak": 5,
+      "score": 410
+    },
+    {
+      "artist": "Akon",
+      "title": "I Wanna Love You",
+      "weeks": 17,
+      "peak": 2,
+      "score": 395
+    },
+    {
+      "artist": "50 Cent",
+      "title": "Ayo Technology",
+      "weeks": 19,
+      "peak": 5,
+      "score": 390
+    },
+    {
+      "artist": "J. Holiday",
+      "title": "Bed",
+      "weeks": 22,
+      "peak": 5,
+      "score": 387
+    },
+    {
+      "artist": "Ludacris",
+      "title": "Runaway Love",
+      "weeks": 15,
+      "peak": 2,
+      "score": 373
+    },
+    {
+      "artist": "Shop Boyz",
+      "title": "Party Like A Rockstar",
+      "weeks": 22,
+      "peak": 2,
+      "score": 373
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "Summer Love",
+      "weeks": 20,
+      "peak": 6,
+      "score": 372
+    },
+    {
+      "artist": "Mims",
+      "title": "This Is Why I'm Hot",
+      "weeks": 23,
+      "peak": 1,
+      "score": 370
+    },
+    {
+      "artist": "Linkin Park",
+      "title": "What I've Done",
+      "weeks": 23,
+      "peak": 7,
+      "score": 368
+    },
+    {
+      "artist": "Baby Bash",
+      "title": "Cyclone",
+      "weeks": 21,
+      "peak": 7,
+      "score": 366
+    },
+    {
+      "artist": "Jim Jones",
+      "title": "We Fly High",
+      "weeks": 16,
+      "peak": 5,
+      "score": 348
+    },
+    {
+      "artist": "Sean Kingston",
+      "title": "Beautiful Girls",
+      "weeks": 22,
+      "peak": 1,
+      "score": 345
+    },
+    {
+      "artist": "The Fray",
+      "title": "How To Save A Life",
+      "weeks": 22,
+      "peak": 5,
+      "score": 341
+    },
+    {
+      "artist": "Unk",
+      "title": "Walk It Out",
+      "weeks": 21,
+      "peak": 10,
+      "score": 337
+    },
+    {
+      "artist": "Lloyd",
+      "title": "You",
+      "weeks": 18,
+      "peak": 9,
+      "score": 335
+    },
+    {
+      "artist": "Fabolous",
+      "title": "Make Me Better",
+      "weeks": 21,
+      "peak": 8,
+      "score": 324
+    },
+    {
+      "artist": "Fergie",
+      "title": "Fergalicious",
+      "weeks": 14,
+      "peak": 2,
+      "score": 323
+    },
+    {
+      "artist": "Matchbox Twenty",
+      "title": "How Far We've Come",
+      "weeks": 16,
+      "peak": 11,
+      "score": 323
+    },
+    {
+      "artist": "Fat Joe",
+      "title": "Make It Rain",
+      "weeks": 17,
+      "peak": 13,
+      "score": 322
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Fergie",
+      "hits": 3
+    },
+    {
+      "artist": "T-pain",
+      "hits": 2
+    },
+    {
+      "artist": "Kanye West",
+      "hits": 2
+    },
+    {
+      "artist": "Daughtry",
+      "hits": 2
+    },
+    {
+      "artist": "Akon",
+      "hits": 2
+    },
+    {
+      "artist": "Justin Timberlake",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Carrie Underwood",
+      "title": "Before He Cheats",
+      "weeks": 48,
+      "peak": 8,
+      "score": 686
+    },
+    {
+      "artist": "Gwen Stefani",
+      "title": "The Sweet Escape",
+      "weeks": 39,
+      "peak": 2,
+      "score": 750
+    },
+    {
+      "artist": "Daughtry",
+      "title": "Home",
+      "weeks": 37,
+      "peak": 5,
+      "score": 410
+    },
+    {
+      "artist": "Fergie",
+      "title": "Big Girls Don't Cry",
+      "weeks": 35,
+      "peak": 1,
+      "score": 965
+    },
+    {
+      "artist": "T-pain",
+      "title": "Buy U A Drank (Shawty Snappin')",
+      "weeks": 35,
+      "peak": 1,
+      "score": 741
+    },
+    {
+      "artist": "Plain White T's",
+      "title": "Hey There Delilah",
+      "weeks": 35,
+      "peak": 1,
+      "score": 643
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Umbrella",
+      "weeks": 33,
+      "peak": 1,
+      "score": 551
+    },
+    {
+      "artist": "Nickelback",
+      "title": "Rockstar",
+      "weeks": 33,
+      "peak": 6,
+      "score": 316
+    },
+    {
+      "artist": "P!nk",
+      "title": "U + Ur Hand",
+      "weeks": 33,
+      "peak": 9,
+      "score": -46
+    },
+    {
+      "artist": "Elliott Yamin",
+      "title": "Wait For You",
+      "weeks": 30,
+      "peak": 13,
+      "score": 271
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Fergie",
+      "title": "Big Girls Don't Cry",
+      "weeks": 35,
+      "peak": 1,
+      "score": 965
+    },
+    {
+      "artist": "Soulja Boy Tell'em",
+      "title": "Crank That (Soulja Boy)",
+      "weeks": 23,
+      "peak": 1,
+      "score": 749
+    },
+    {
+      "artist": "T-pain",
+      "title": "Buy U A Drank (Shawty Snappin')",
+      "weeks": 35,
+      "peak": 1,
+      "score": 741
+    },
+    {
+      "artist": "Avril Lavigne",
+      "title": "Girlfriend",
+      "weeks": 24,
+      "peak": 1,
+      "score": 739
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Stronger",
+      "weeks": 21,
+      "peak": 1,
+      "score": 688
+    },
+    {
+      "artist": "Plain White T's",
+      "title": "Hey There Delilah",
+      "weeks": 35,
+      "peak": 1,
+      "score": 643
+    },
+    {
+      "artist": "Nelly Furtado",
+      "title": "Say It Right",
+      "weeks": 24,
+      "peak": 1,
+      "score": 609
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Umbrella",
+      "weeks": 33,
+      "peak": 1,
+      "score": 551
+    },
+    {
+      "artist": "Akon",
+      "title": "Don't Matter",
+      "weeks": 23,
+      "peak": 1,
+      "score": 533
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Irreplaceable",
+      "weeks": 21,
+      "peak": 1,
+      "score": 511
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "What Goes Around...Comes Around",
+      "weeks": 23,
+      "peak": 1,
+      "score": 510
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "Makes Me Wonder",
+      "weeks": 26,
+      "peak": 1,
+      "score": 503
+    },
+    {
+      "artist": "Fergie",
+      "title": "Glamorous",
+      "weeks": 29,
+      "peak": 1,
+      "score": 499
+    },
+    {
+      "artist": "Alicia Keys",
+      "title": "No One",
+      "weeks": 15,
+      "peak": 1,
+      "score": 471
+    },
+    {
+      "artist": "Mims",
+      "title": "This Is Why I'm Hot",
+      "weeks": 23,
+      "peak": 1,
+      "score": 370
+    },
+    {
+      "artist": "Sean Kingston",
+      "title": "Beautiful Girls",
+      "weeks": 22,
+      "peak": 1,
+      "score": 345
+    },
+    {
+      "artist": "Chris Brown",
+      "title": "Kiss Kiss",
+      "weeks": 14,
+      "peak": 1,
+      "score": 268
+    },
+    {
+      "artist": "Timbaland",
+      "title": "Give It To Me",
+      "weeks": 26,
+      "peak": 1,
+      "score": 211
+    }
+  ]
+}

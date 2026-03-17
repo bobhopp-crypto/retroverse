@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>1978 Movies of the Year Mock Page</title>
+  <style>
+    :root {
+      --paper: #f3e6cb;
+      --paper-soft: rgba(250, 242, 226, 0.82);
+      --ink: #241b14;
+      --ink-soft: #5b4a39;
+      --accent: #ac4432;
+      --accent-2: #2d6f77;
+      --rule: rgba(77, 56, 34, 0.28);
+      --shadow: rgba(44, 29, 13, 0.24);
+      --safe: rgba(255, 249, 236, 0.66);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+      background:
+        radial-gradient(circle at 20% 15%, rgba(255, 255, 255, 0.24), transparent 34%),
+        linear-gradient(180deg, #c9b18b 0%, #af926d 100%);
+      font-family: "Iowan Old Style", "Palatino Linotype", serif;
+      color: var(--ink);
+    }
+
+    .page {
+      position: relative;
+      width: 900px;
+      height: 1200px;
+      overflow: hidden;
+      background: var(--paper);
+      border: 1px solid rgba(95, 68, 43, 0.42);
+      box-shadow: 0 32px 48px var(--shadow);
+    }
+
+    .page::before {
+      content: "";
+      position: absolute;
+      inset: 14px;
+      border: 1px solid rgba(88, 63, 38, 0.24);
+      pointer-events: none;
+    }
+
+    .artwork-layer {
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(circle at 72% 18%, rgba(212, 163, 77, 0.52), transparent 18%),
+        radial-gradient(circle at 78% 24%, rgba(182, 70, 53, 0.42), transparent 22%),
+        linear-gradient(160deg, rgba(239, 226, 198, 0.92) 10%, rgba(224, 208, 177, 0.74) 42%, rgba(178, 142, 109, 0.78) 100%);
+    }
+
+    .artwork-layer::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(90deg, rgba(255, 246, 230, 0.7) 0%, rgba(255, 246, 230, 0.48) 28%, rgba(255, 246, 230, 0.12) 48%, rgba(50, 39, 32, 0.05) 100%),
+        repeating-linear-gradient(0deg, rgba(57, 42, 31, 0.03) 0 2px, transparent 2px 4px);
+      pointer-events: none;
+    }
+
+    .focal-slot {
+      position: absolute;
+      left: 60%;
+      top: 9%;
+      width: 31%;
+      height: 34%;
+      border: 2px dashed rgba(78, 54, 31, 0.46);
+      background:
+        linear-gradient(180deg, rgba(174, 69, 50, 0.34), rgba(63, 76, 82, 0.2)),
+        rgba(248, 232, 203, 0.2);
+      padding: 18px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      gap: 10px;
+    }
+
+    .focal-slot strong {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      color: var(--ink-soft);
+    }
+
+    .focal-slot p {
+      margin: 0;
+      font-size: 14px;
+      line-height: 1.45;
+      color: var(--ink);
+    }
+
+    .safe-zone {
+      position: absolute;
+      border: 1.5px dashed rgba(86, 60, 34, 0.34);
+      background: rgba(255, 252, 244, 0.17);
+      pointer-events: none;
+    }
+
+    .safe-zone span {
+      position: absolute;
+      top: 8px;
+      left: 10px;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: rgba(68, 49, 31, 0.72);
+      background: rgba(255, 248, 232, 0.78);
+      padding: 2px 5px;
+    }
+
+    .overlay {
+      position: absolute;
+      background: var(--paper-soft);
+      border: 1px solid var(--rule);
+      box-shadow: 0 14px 24px rgba(65, 47, 27, 0.09);
+      backdrop-filter: blur(1px);
+    }
+
+    .title-zone {
+      left:7%;top:6%;width:54%;height:14%;
+      padding: 20px 22px 18px;
+    }
+
+    .eyebrow {
+      margin: 0 0 8px;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+      color: var(--accent);
+    }
+
+    .page-title {
+      margin: 0;
+      font-family: "Baskerville", "Palatino Linotype", serif;
+      font-size: 44px;
+      line-height: 1.04;
+      letter-spacing: 0.01em;
+    }
+
+    .subtitle {
+      margin: 10px 0 0;
+      font-size: 18px;
+      color: var(--ink-soft);
+    }
+
+    .byline {
+      margin: 10px 0 0;
+      font-size: 17px;
+      font-style: italic;
+      color: var(--accent);
+    }
+
+    .deck {
+      margin: 12px 0 0;
+      font-size: 15px;
+      line-height: 1.42;
+      color: var(--ink-soft);
+    }
+
+    .body-zone {
+      left:7%;top:24%;width:58%;height:62%;
+      padding: 24px;
+      column-count: 2;
+      column-gap: 30px;
+      font-size: 13.8px;
+      line-height: 1.48;
+      overflow: hidden;
+    }
+
+    .body-zone p {
+      margin: 0 0 12px;
+      break-inside: avoid;
+    }
+
+    .sidebar-zone {
+      left:68%;top:49%;width:23%;height:28%;
+      padding: 18px 18px 16px;
+      overflow: hidden;
+    }
+
+    .sidebar-zone h2 {
+      margin: 0 0 10px;
+      font-size: 17px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+
+    .fact-group + .fact-group {
+      margin-top: 14px;
+      padding-top: 14px;
+      border-top: 1px solid var(--rule);
+    }
+
+    .fact-group h3 {
+      margin: 0 0 8px;
+      font-size: 13px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--ink-soft);
+    }
+
+    .fact-group ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      display: grid;
+      gap: 8px;
+    }
+
+    .fact-group li {
+      display: grid;
+      gap: 2px;
+      font-size: 12.4px;
+      line-height: 1.42;
+    }
+
+    .fact-group strong {
+      font-size: 12px;
+      color: var(--ink);
+    }
+
+    .footer-zone {
+      left:7%;top:93%;width:86%;height:3%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 6px 12px;
+      font-size: 12px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--ink-soft);
+    }
+  </style>
+</head>
+<body>
+  <article class="page">
+    <div class="artwork-layer" aria-hidden="true">
+      <div class="focal-slot">
+        <strong>Artwork Placeholder</strong>
+        <p>Drop approved page-aware illustration here later. Keep the title, body, sidebar, and footer safe zones open.</p>
+      </div>
+      <div class="safe-zone" style="left:7%;top:6%;width:54%;height:14%;"><span>title safe zone</span></div>
+      <div class="safe-zone" style="left:7%;top:24%;width:58%;height:62%;"><span>body safe zone</span></div>
+      <div class="safe-zone" style="left:68%;top:49%;width:23%;height:28%;"><span>sidebar safe zone</span></div>
+      <div class="safe-zone" style="left:7%;top:93%;width:86%;height:3%;"><span>footer safe zone</span></div>
+    </div>
+
+    <header class="overlay title-zone" data-zone="title_zone">
+      <p class="eyebrow">Page 16 • Screen Feature</p>
+      <h1 class="page-title">1978 Movies of the Year</h1>
+      <p class="subtitle">Screen-Year Pulse: Grease</p>
+      <p class="byline">By Lola Vance</p>
+      <p class="deck">A critic&#x27;s screen-year read on how Grease, Superman, and Animal House concentrated 1978 moviegoing energy while soundtrack crossover kept the page tied to the rest of the issue.</p>
+    </header>
+
+    <section class="overlay body-zone" data-zone="body_zone">
+      <p>Lola Vance approaches &quot;Screen-Year Pulse: Grease&quot; like a critic&#x27;s notebook: audience attention, narrative pull, and repeat viewing/listening. In 1978, screen-year pulse: grease becomes a measurable editorial claim. The screen_culture_warehouse movie layer contributes 10 tracked films for 1978, including Grease, Superman, National Lampoon&#x27;s Animal House.</p><p>Planning rationale: Film list plus event timeline supports a concise screen-culture readout tied to the same year context. Screen signals are treated as evidence of what audiences kept returning to, not just what premiered. The yearline opens on January 1, 1978: January 1 – Air India Flight 855 , a Boeing 747 passenger jet, crashes off the coast of Bombay , killing 213. The chart_summary source contributes 8 structured fields for this story build. Billboard 200 coverage spans 52 weeks and 769 distinct albums, with &quot;Saturday Night Fever&quot; holding the longest No. 1 run at 24 weeks. Hot 100 movement tracking spans 52 weekly charts and 535 distinct songs, with the longest-running No. 1 listed as &quot;Night Fever&quot; for 8 weeks.</p><p>The critical frame links chart presence and screen presence without collapsing them into one metric. The cultural clock starts at January 1, 1978, when January 1 – Air India Flight 855 , a Boeing 747 passenger jet, crashes off the coast of Bombay , killing 213. Across the shared data spine, the 1978 frame combines 52 Hot 100 weeks, 52 Billboard 200 weeks, sonic danceability at 0.545, and screen-culture inventories of 10 films and 10 TV entries. Assignment framing line: Screen-Year Pulse: Grease. Culturally, movies widens the frame beyond one chart moment.</p><p>The final read is about reception: what endured once first-week excitement wore off. Generation rule check: Articles must use real historical data. This final prose draft is sized for the 300-450 production target and remains grounded in internal RetroVerse datasets.</p>
+    </section>
+
+    <aside class="overlay sidebar-zone" data-zone="sidebar_zone">
+      <h2>Verified Facts</h2>
+      
+            <section class="fact-group">
+              <h3>1978 Movie Leaders</h3>
+              <ul><li><strong>#1 Grease</strong><span>Musical blockbuster with broad repeat attendance.</span></li><li><strong>#2 Superman</strong><span>Holiday-season event release with major theatrical draw.</span></li><li><strong>#3 Animal House</strong><span>Campus comedy breakout with durable audience momentum.</span></li></ul>
+            </section>
+            
+            <section class="fact-group">
+              <h3>Soundtrack Crossover</h3>
+              <ul><li><strong>&quot;You&#x27;re The One That I Want&quot;</strong><span>24 weeks, peak #1, score 318</span></li><li><strong>&quot;Grease&quot;</strong><span>22 weeks, peak #1, score 279</span></li></ul>
+            </section>
+            
+    </aside>
+
+    <footer class="overlay footer-zone" data-zone="footer_zone">
+      <span>RetroVerse • 1978</span>
+      <span>Page 16</span>
+    </footer>
+  </article>
+</body>
+</html>

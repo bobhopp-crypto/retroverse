@@ -1,0 +1,473 @@
+{
+  "year": "2004",
+  "top_songs": [
+    {
+      "artist": "Usher",
+      "title": "Yeah!",
+      "weeks": 45,
+      "peak": 1,
+      "score": 1117
+    },
+    {
+      "artist": "Alicia Keys",
+      "title": "If I Ain't Got You",
+      "weeks": 40,
+      "peak": 4,
+      "score": 1024
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "This Love",
+      "weeks": 43,
+      "peak": 5,
+      "score": 862
+    },
+    {
+      "artist": "Hoobastank",
+      "title": "The Reason",
+      "weeks": 38,
+      "peak": 2,
+      "score": 834
+    },
+    {
+      "artist": "Usher",
+      "title": "Burn",
+      "weeks": 30,
+      "peak": 1,
+      "score": 808
+    },
+    {
+      "artist": "Terror Squad",
+      "title": "Lean Back",
+      "weeks": 27,
+      "peak": 1,
+      "score": 776
+    },
+    {
+      "artist": "Outkast",
+      "title": "The Way You Move",
+      "weeks": 25,
+      "peak": 1,
+      "score": 705
+    },
+    {
+      "artist": "Ciara",
+      "title": "Goodies",
+      "weeks": 27,
+      "peak": 1,
+      "score": 674
+    },
+    {
+      "artist": "Usher",
+      "title": "Confessions Part II",
+      "weeks": 25,
+      "peak": 1,
+      "score": 655
+    },
+    {
+      "artist": "Mario Winans",
+      "title": "I Don't Wanna Know",
+      "weeks": 30,
+      "peak": 2,
+      "score": 638
+    },
+    {
+      "artist": "Juvenile",
+      "title": "Slow Motion",
+      "weeks": 28,
+      "peak": 1,
+      "score": 637
+    },
+    {
+      "artist": "J-kwon",
+      "title": "Tipsy",
+      "weeks": 30,
+      "peak": 2,
+      "score": 608
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "She Will Be Loved",
+      "weeks": 23,
+      "peak": 5,
+      "score": 605
+    },
+    {
+      "artist": "Usher And Alicia Keys",
+      "title": "My Boo",
+      "weeks": 16,
+      "peak": 1,
+      "score": 577
+    },
+    {
+      "artist": "Twista",
+      "title": "Slow Jamz",
+      "weeks": 18,
+      "peak": 1,
+      "score": 544
+    },
+    {
+      "artist": "Jay-z",
+      "title": "Dirt Off Your Shoulder",
+      "weeks": 26,
+      "peak": 5,
+      "score": 530
+    },
+    {
+      "artist": "Outkast",
+      "title": "Hey Ya!",
+      "weeks": 21,
+      "peak": 1,
+      "score": 525
+    },
+    {
+      "artist": "Nina Sky",
+      "title": "Move Ya Body",
+      "weeks": 26,
+      "peak": 4,
+      "score": 523
+    },
+    {
+      "artist": "Alicia Keys",
+      "title": "Diary",
+      "weeks": 28,
+      "peak": 8,
+      "score": 515
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Naughty Girl",
+      "weeks": 22,
+      "peak": 3,
+      "score": 500
+    },
+    {
+      "artist": "Nickelback",
+      "title": "Someday",
+      "weeks": 31,
+      "peak": 7,
+      "score": 490
+    },
+    {
+      "artist": "Destiny's Child",
+      "title": "Lose My Breath",
+      "weeks": 14,
+      "peak": 3,
+      "score": 476
+    },
+    {
+      "artist": "Lil' Flip",
+      "title": "Sunshine",
+      "weeks": 23,
+      "peak": 2,
+      "score": 461
+    },
+    {
+      "artist": "Evanescence",
+      "title": "My Immortal",
+      "weeks": 32,
+      "peak": 7,
+      "score": 457
+    },
+    {
+      "artist": "Twista",
+      "title": "Overnight Celebrity",
+      "weeks": 20,
+      "peak": 6,
+      "score": 457
+    },
+    {
+      "artist": "Cassidy",
+      "title": "Hotel",
+      "weeks": 22,
+      "peak": 4,
+      "score": 453
+    },
+    {
+      "artist": "Chingy",
+      "title": "One Call Away",
+      "weeks": 20,
+      "peak": 2,
+      "score": 451
+    },
+    {
+      "artist": "3 Doors Down",
+      "title": "Here Without You",
+      "weeks": 33,
+      "peak": 7,
+      "score": 450
+    },
+    {
+      "artist": "Nelly",
+      "title": "My Place",
+      "weeks": 20,
+      "peak": 4,
+      "score": 443
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Me, Myself And I",
+      "weeks": 17,
+      "peak": 4,
+      "score": 440
+    },
+    {
+      "artist": "Sheryl Crow",
+      "title": "The First Cut Is The Deepest",
+      "weeks": 26,
+      "peak": 14,
+      "score": 433
+    },
+    {
+      "artist": "Linkin Park",
+      "title": "Numb",
+      "weeks": 24,
+      "peak": 11,
+      "score": 411
+    },
+    {
+      "artist": "Ashlee Simpson",
+      "title": "Pieces Of Me",
+      "weeks": 21,
+      "peak": 5,
+      "score": 404
+    },
+    {
+      "artist": "Kevin Lyttle",
+      "title": "Turn Me On",
+      "weeks": 25,
+      "peak": 4,
+      "score": 392
+    },
+    {
+      "artist": "Snoop Dogg",
+      "title": "Drop It Like It's Hot",
+      "weeks": 13,
+      "peak": 1,
+      "score": 390
+    },
+    {
+      "artist": "Los Lonely Boys",
+      "title": "Heaven",
+      "weeks": 30,
+      "peak": 16,
+      "score": 369
+    },
+    {
+      "artist": "Alicia Keys",
+      "title": "You Don't Know My Name",
+      "weeks": 13,
+      "peak": 3,
+      "score": 368
+    },
+    {
+      "artist": "Avril Lavigne",
+      "title": "My Happy Ending",
+      "weeks": 22,
+      "peak": 9,
+      "score": 357
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "title": "Breakaway",
+      "weeks": 18,
+      "peak": 6,
+      "score": 351
+    },
+    {
+      "artist": "Nelly",
+      "title": "Over And Over",
+      "weeks": 11,
+      "peak": 3,
+      "score": 333
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Usher",
+      "hits": 3
+    },
+    {
+      "artist": "Alicia Keys",
+      "hits": 3
+    },
+    {
+      "artist": "Maroon 5",
+      "hits": 2
+    },
+    {
+      "artist": "Outkast",
+      "hits": 2
+    },
+    {
+      "artist": "Twista",
+      "hits": 2
+    },
+    {
+      "artist": "Beyonce",
+      "hits": 2
+    },
+    {
+      "artist": "Nelly",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Usher",
+      "title": "Yeah!",
+      "weeks": 45,
+      "peak": 1,
+      "score": 1117
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "This Love",
+      "weeks": 43,
+      "peak": 5,
+      "score": 862
+    },
+    {
+      "artist": "Alicia Keys",
+      "title": "If I Ain't Got You",
+      "weeks": 40,
+      "peak": 4,
+      "score": 1024
+    },
+    {
+      "artist": "Petey Pablo",
+      "title": "Freek-A-Leek",
+      "weeks": 39,
+      "peak": 7,
+      "score": 248
+    },
+    {
+      "artist": "Hoobastank",
+      "title": "The Reason",
+      "weeks": 38,
+      "peak": 2,
+      "score": 834
+    },
+    {
+      "artist": "3 Doors Down",
+      "title": "Here Without You",
+      "weeks": 33,
+      "peak": 7,
+      "score": 450
+    },
+    {
+      "artist": "Evanescence",
+      "title": "My Immortal",
+      "weeks": 32,
+      "peak": 7,
+      "score": 457
+    },
+    {
+      "artist": "Nickelback",
+      "title": "Someday",
+      "weeks": 31,
+      "peak": 7,
+      "score": 490
+    },
+    {
+      "artist": "Usher",
+      "title": "Burn",
+      "weeks": 30,
+      "peak": 1,
+      "score": 808
+    },
+    {
+      "artist": "Mario Winans",
+      "title": "I Don't Wanna Know",
+      "weeks": 30,
+      "peak": 2,
+      "score": 638
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Usher",
+      "title": "Yeah!",
+      "weeks": 45,
+      "peak": 1,
+      "score": 1117
+    },
+    {
+      "artist": "Usher",
+      "title": "Burn",
+      "weeks": 30,
+      "peak": 1,
+      "score": 808
+    },
+    {
+      "artist": "Terror Squad",
+      "title": "Lean Back",
+      "weeks": 27,
+      "peak": 1,
+      "score": 776
+    },
+    {
+      "artist": "Outkast",
+      "title": "The Way You Move",
+      "weeks": 25,
+      "peak": 1,
+      "score": 705
+    },
+    {
+      "artist": "Ciara",
+      "title": "Goodies",
+      "weeks": 27,
+      "peak": 1,
+      "score": 674
+    },
+    {
+      "artist": "Usher",
+      "title": "Confessions Part II",
+      "weeks": 25,
+      "peak": 1,
+      "score": 655
+    },
+    {
+      "artist": "Juvenile",
+      "title": "Slow Motion",
+      "weeks": 28,
+      "peak": 1,
+      "score": 637
+    },
+    {
+      "artist": "Usher And Alicia Keys",
+      "title": "My Boo",
+      "weeks": 16,
+      "peak": 1,
+      "score": 577
+    },
+    {
+      "artist": "Twista",
+      "title": "Slow Jamz",
+      "weeks": 18,
+      "peak": 1,
+      "score": 544
+    },
+    {
+      "artist": "Outkast",
+      "title": "Hey Ya!",
+      "weeks": 21,
+      "peak": 1,
+      "score": 525
+    },
+    {
+      "artist": "Snoop Dogg",
+      "title": "Drop It Like It's Hot",
+      "weeks": 13,
+      "peak": 1,
+      "score": 390
+    },
+    {
+      "artist": "Fantasia",
+      "title": "I Believe",
+      "weeks": 10,
+      "peak": 1,
+      "score": -79
+    }
+  ]
+}

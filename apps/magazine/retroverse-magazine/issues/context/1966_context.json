@@ -1,0 +1,578 @@
+{
+  "year": "1966",
+  "top_songs": [
+    {
+      "artist": "?",
+      "title": "96 Tears",
+      "weeks": 15,
+      "peak": 1,
+      "score": 364
+    },
+    {
+      "artist": "The Monkees",
+      "title": "Last Train To Clarksville",
+      "weeks": 15,
+      "peak": 1,
+      "score": 352
+    },
+    {
+      "artist": "Ssgt Barry Sadler",
+      "title": "The Ballad Of The Green Berets",
+      "weeks": 13,
+      "peak": 1,
+      "score": 328
+    },
+    {
+      "artist": "Nancy Sinatra",
+      "title": "These Boots Are Made For Walkin'",
+      "weeks": 14,
+      "peak": 1,
+      "score": 317
+    },
+    {
+      "artist": "The Righteous Brothers",
+      "title": "(You're My) Soul And Inspiration",
+      "weeks": 13,
+      "peak": 1,
+      "score": 314
+    },
+    {
+      "artist": "The Supremes",
+      "title": "You Can't Hurry Love",
+      "weeks": 13,
+      "peak": 1,
+      "score": 311
+    },
+    {
+      "artist": "The Beatles",
+      "title": "We Can Work It Out",
+      "weeks": 10,
+      "peak": 1,
+      "score": 309
+    },
+    {
+      "artist": "The Association",
+      "title": "Cherish",
+      "weeks": 14,
+      "peak": 1,
+      "score": 308
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Paint It, Black",
+      "weeks": 11,
+      "peak": 1,
+      "score": 303
+    },
+    {
+      "artist": "The Lovin' Spoonful",
+      "title": "Summer In The City",
+      "weeks": 11,
+      "peak": 1,
+      "score": 303
+    },
+    {
+      "artist": "The New Vaudeville Band",
+      "title": "Winchester Cathedral",
+      "weeks": 10,
+      "peak": 1,
+      "score": 299
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "19th Nervous Breakdown",
+      "weeks": 10,
+      "peak": 2,
+      "score": 290
+    },
+    {
+      "artist": "Four Tops",
+      "title": "Reach Out I'll Be There",
+      "weeks": 15,
+      "peak": 1,
+      "score": 290
+    },
+    {
+      "artist": "Paul Revere",
+      "title": "Kicks",
+      "weeks": 14,
+      "peak": 4,
+      "score": 289
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Paperback Writer",
+      "weeks": 10,
+      "peak": 1,
+      "score": 285
+    },
+    {
+      "artist": "The T-bones",
+      "title": "No Matter What Shape (Your Stomach's In)",
+      "weeks": 10,
+      "peak": 3,
+      "score": 283
+    },
+    {
+      "artist": "The Mamas",
+      "title": "Monday, Monday",
+      "weeks": 12,
+      "peak": 1,
+      "score": 282
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "Good Vibrations",
+      "weeks": 11,
+      "peak": 1,
+      "score": 280
+    },
+    {
+      "artist": "The Troggs",
+      "title": "Wild Thing",
+      "weeks": 11,
+      "peak": 1,
+      "score": 272
+    },
+    {
+      "artist": "Johnny Rivers",
+      "title": "Poor Side Of Town",
+      "weeks": 15,
+      "peak": 1,
+      "score": 270
+    },
+    {
+      "artist": "Mitch Ryder And The Detroit Wheels",
+      "title": "Devil With A Blue Dress On & Good Golly Miss Molly",
+      "weeks": 13,
+      "peak": 4,
+      "score": 269
+    },
+    {
+      "artist": "Simon",
+      "title": "I Am A Rock",
+      "weeks": 11,
+      "peak": 3,
+      "score": 268
+    },
+    {
+      "artist": "The Supremes",
+      "title": "You Keep Me Hangin' On",
+      "weeks": 10,
+      "peak": 1,
+      "score": 268
+    },
+    {
+      "artist": "The Vogues",
+      "title": "Five O'Clock World",
+      "weeks": 9,
+      "peak": 4,
+      "score": 267
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Nowhere Man",
+      "weeks": 9,
+      "peak": 3,
+      "score": 266
+    },
+    {
+      "artist": "The Young Rascals",
+      "title": "Good Lovin'",
+      "weeks": 14,
+      "peak": 1,
+      "score": 263
+    },
+    {
+      "artist": "Tommy James And The Shondells",
+      "title": "Hanky Panky",
+      "weeks": 12,
+      "peak": 1,
+      "score": 260
+    },
+    {
+      "artist": "The Lovin' Spoonful",
+      "title": "Daydream",
+      "weeks": 12,
+      "peak": 2,
+      "score": 253
+    },
+    {
+      "artist": "Johnny Rivers",
+      "title": "Secret Agent Man",
+      "weeks": 11,
+      "peak": 3,
+      "score": 253
+    },
+    {
+      "artist": "Gary Lewis And The Playboys",
+      "title": "She's Just My Style",
+      "weeks": 9,
+      "peak": 3,
+      "score": 252
+    },
+    {
+      "artist": "The Lovin' Spoonful",
+      "title": "Did You Ever Have To Make Up Your Mind?",
+      "weeks": 11,
+      "peak": 2,
+      "score": 249
+    },
+    {
+      "artist": "The Mindbenders",
+      "title": "A Groovy Kind Of Love",
+      "weeks": 13,
+      "peak": 2,
+      "score": 246
+    },
+    {
+      "artist": "The Mamas",
+      "title": "California Dreamin'",
+      "weeks": 17,
+      "peak": 4,
+      "score": 245
+    },
+    {
+      "artist": "Dusty Springfield",
+      "title": "You Don't Have To Say You Love Me",
+      "weeks": 13,
+      "peak": 4,
+      "score": 245
+    },
+    {
+      "artist": "Petula Clark",
+      "title": "My Love",
+      "weeks": 12,
+      "peak": 1,
+      "score": 240
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Yellow Submarine",
+      "weeks": 9,
+      "peak": 2,
+      "score": 239
+    },
+    {
+      "artist": "Donovan",
+      "title": "Sunshine Superman",
+      "weeks": 13,
+      "peak": 1,
+      "score": 238
+    },
+    {
+      "artist": "Frank Sinatra",
+      "title": "Strangers In The Night",
+      "weeks": 15,
+      "peak": 1,
+      "score": 235
+    },
+    {
+      "artist": "Cher",
+      "title": "Bang Bang (My Baby Shot Me Down)",
+      "weeks": 11,
+      "peak": 2,
+      "score": 234
+    },
+    {
+      "artist": "Simon",
+      "title": "The Sound Of Silence",
+      "weeks": 8,
+      "peak": 1,
+      "score": 232
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "The Supremes",
+      "hits": 2
+    },
+    {
+      "artist": "The Beatles",
+      "hits": 4
+    },
+    {
+      "artist": "The Rolling Stones",
+      "hits": 2
+    },
+    {
+      "artist": "The Lovin' Spoonful",
+      "hits": 3
+    },
+    {
+      "artist": "The Mamas",
+      "hits": 2
+    },
+    {
+      "artist": "Johnny Rivers",
+      "hits": 2
+    },
+    {
+      "artist": "Simon",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Roger Williams",
+      "title": "Born Free",
+      "weeks": 19,
+      "peak": 7,
+      "score": 118
+    },
+    {
+      "artist": "The Mamas",
+      "title": "California Dreamin'",
+      "weeks": 17,
+      "peak": 4,
+      "score": 245
+    },
+    {
+      "artist": "Jimmy Ruffin",
+      "title": "What Becomes Of The Brokenhearted",
+      "weeks": 17,
+      "peak": 7,
+      "score": 230
+    },
+    {
+      "artist": "Eddie Floyd",
+      "title": "Knock On Wood",
+      "weeks": 17,
+      "peak": 28,
+      "score": -292
+    },
+    {
+      "artist": "Carla Thomas",
+      "title": "B-A-B-Y",
+      "weeks": 16,
+      "peak": 14,
+      "score": 26
+    },
+    {
+      "artist": "The Standells",
+      "title": "Dirty Water",
+      "weeks": 16,
+      "peak": 11,
+      "score": -27
+    },
+    {
+      "artist": "?",
+      "title": "96 Tears",
+      "weeks": 15,
+      "peak": 1,
+      "score": 364
+    },
+    {
+      "artist": "The Monkees",
+      "title": "Last Train To Clarksville",
+      "weeks": 15,
+      "peak": 1,
+      "score": 352
+    },
+    {
+      "artist": "Four Tops",
+      "title": "Reach Out I'll Be There",
+      "weeks": 15,
+      "peak": 1,
+      "score": 290
+    },
+    {
+      "artist": "Johnny Rivers",
+      "title": "Poor Side Of Town",
+      "weeks": 15,
+      "peak": 1,
+      "score": 270
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "?",
+      "title": "96 Tears",
+      "weeks": 15,
+      "peak": 1,
+      "score": 364
+    },
+    {
+      "artist": "The Monkees",
+      "title": "Last Train To Clarksville",
+      "weeks": 15,
+      "peak": 1,
+      "score": 352
+    },
+    {
+      "artist": "Ssgt Barry Sadler",
+      "title": "The Ballad Of The Green Berets",
+      "weeks": 13,
+      "peak": 1,
+      "score": 328
+    },
+    {
+      "artist": "Nancy Sinatra",
+      "title": "These Boots Are Made For Walkin'",
+      "weeks": 14,
+      "peak": 1,
+      "score": 317
+    },
+    {
+      "artist": "The Righteous Brothers",
+      "title": "(You're My) Soul And Inspiration",
+      "weeks": 13,
+      "peak": 1,
+      "score": 314
+    },
+    {
+      "artist": "The Supremes",
+      "title": "You Can't Hurry Love",
+      "weeks": 13,
+      "peak": 1,
+      "score": 311
+    },
+    {
+      "artist": "The Beatles",
+      "title": "We Can Work It Out",
+      "weeks": 10,
+      "peak": 1,
+      "score": 309
+    },
+    {
+      "artist": "The Association",
+      "title": "Cherish",
+      "weeks": 14,
+      "peak": 1,
+      "score": 308
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Paint It, Black",
+      "weeks": 11,
+      "peak": 1,
+      "score": 303
+    },
+    {
+      "artist": "The Lovin' Spoonful",
+      "title": "Summer In The City",
+      "weeks": 11,
+      "peak": 1,
+      "score": 303
+    },
+    {
+      "artist": "The New Vaudeville Band",
+      "title": "Winchester Cathedral",
+      "weeks": 10,
+      "peak": 1,
+      "score": 299
+    },
+    {
+      "artist": "Four Tops",
+      "title": "Reach Out I'll Be There",
+      "weeks": 15,
+      "peak": 1,
+      "score": 290
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Paperback Writer",
+      "weeks": 10,
+      "peak": 1,
+      "score": 285
+    },
+    {
+      "artist": "The Mamas",
+      "title": "Monday, Monday",
+      "weeks": 12,
+      "peak": 1,
+      "score": 282
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "Good Vibrations",
+      "weeks": 11,
+      "peak": 1,
+      "score": 280
+    },
+    {
+      "artist": "The Troggs",
+      "title": "Wild Thing",
+      "weeks": 11,
+      "peak": 1,
+      "score": 272
+    },
+    {
+      "artist": "Johnny Rivers",
+      "title": "Poor Side Of Town",
+      "weeks": 15,
+      "peak": 1,
+      "score": 270
+    },
+    {
+      "artist": "The Supremes",
+      "title": "You Keep Me Hangin' On",
+      "weeks": 10,
+      "peak": 1,
+      "score": 268
+    },
+    {
+      "artist": "The Young Rascals",
+      "title": "Good Lovin'",
+      "weeks": 14,
+      "peak": 1,
+      "score": 263
+    },
+    {
+      "artist": "Tommy James And The Shondells",
+      "title": "Hanky Panky",
+      "weeks": 12,
+      "peak": 1,
+      "score": 260
+    },
+    {
+      "artist": "Petula Clark",
+      "title": "My Love",
+      "weeks": 12,
+      "peak": 1,
+      "score": 240
+    },
+    {
+      "artist": "Donovan",
+      "title": "Sunshine Superman",
+      "weeks": 13,
+      "peak": 1,
+      "score": 238
+    },
+    {
+      "artist": "Frank Sinatra",
+      "title": "Strangers In The Night",
+      "weeks": 15,
+      "peak": 1,
+      "score": 235
+    },
+    {
+      "artist": "Simon",
+      "title": "The Sound Of Silence",
+      "weeks": 8,
+      "peak": 1,
+      "score": 232
+    },
+    {
+      "artist": "Lou Christie",
+      "title": "Lightnin' Strikes",
+      "weeks": 14,
+      "peak": 1,
+      "score": 211
+    },
+    {
+      "artist": "Percy Sledge",
+      "title": "When A Man Loves A Woman",
+      "weeks": 13,
+      "peak": 1,
+      "score": 199
+    },
+    {
+      "artist": "The Monkees",
+      "title": "I'm A Believer",
+      "weeks": 4,
+      "peak": 1,
+      "score": 108
+    }
+  ]
+}

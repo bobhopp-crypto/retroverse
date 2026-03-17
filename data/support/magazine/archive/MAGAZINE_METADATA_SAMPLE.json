@@ -1,0 +1,1974 @@
+{
+  "generated_at_utc": "2026-03-11T03:20:19Z",
+  "sample_size_per_magazine": 12,
+  "magazines": [
+    {
+      "magazine_title": "MAD Magazine",
+      "samples": [
+        {
+          "magazine_title": "MAD Magazine",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=uiug.30112078778005",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "comic_features",
+            "letters"
+          ],
+          "target_audience": "Teen and adult satire readers",
+          "notes": "Hathi item enumcron=no. 64 (Jul. 1961) rights=ic"
+        },
+        {
+          "magazine_title": "MAD Magazine",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=uiug.30112078778013",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "comic_features",
+            "letters"
+          ],
+          "target_audience": "Teen and adult satire readers",
+          "notes": "Hathi item enumcron=no. 70 (Apr. 1962) rights=ic"
+        },
+        {
+          "magazine_title": "MAD Magazine",
+          "issue_date": "1953-12-31",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/mad_magazine_1953",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "comic_features",
+            "letters"
+          ],
+          "target_audience": "Teen and adult satire readers",
+          "notes": "IA title: MAD Magazine 1953"
+        },
+        {
+          "magazine_title": "MAD Magazine",
+          "issue_date": "1954-12-31",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/mad_magazine_1954",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "comic_features",
+            "letters"
+          ],
+          "target_audience": "Teen and adult satire readers",
+          "notes": "IA title: MAD Magazine 1954"
+        },
+        {
+          "magazine_title": "MAD Magazine",
+          "issue_date": "1955-12-31",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/mad_magazine_1955",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "comic_features",
+            "letters"
+          ],
+          "target_audience": "Teen and adult satire readers",
+          "notes": "IA title: MAD Magazine 1955"
+        },
+        {
+          "magazine_title": "MAD Magazine",
+          "issue_date": "1956-07-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/MadMagazine028",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "comic_features",
+            "letters"
+          ],
+          "target_audience": "Teen and adult satire readers",
+          "notes": "IA title: Mad Magazine #28 7 1956 USA"
+        },
+        {
+          "magazine_title": "MAD Magazine",
+          "issue_date": "1956-12-13",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/mad-magazine-1956",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "comic_features",
+            "letters"
+          ],
+          "target_audience": "Teen and adult satire readers",
+          "notes": "IA title: MAD Magazine 1956"
+        },
+        {
+          "magazine_title": "MAD Magazine",
+          "issue_date": "1957-12-16",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/mad-magazine-1957",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "comic_features",
+            "letters"
+          ],
+          "target_audience": "Teen and adult satire readers",
+          "notes": "IA title: MAD Magazine 1957"
+        },
+        {
+          "magazine_title": "MAD Magazine",
+          "issue_date": "1958-12-20",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/mad-magazine-1958",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "comic_features",
+            "letters"
+          ],
+          "target_audience": "Teen and adult satire readers",
+          "notes": "IA title: MAD Magazine 1958"
+        },
+        {
+          "magazine_title": "MAD Magazine",
+          "issue_date": "1959-12-07",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/mad-magazine-1959",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "comic_features",
+            "letters"
+          ],
+          "target_audience": "Teen and adult satire readers",
+          "notes": "IA title: MAD Magazine 1959"
+        },
+        {
+          "magazine_title": "MAD Magazine",
+          "issue_date": "1961-05-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/mad-magazine-more-trash-from-mad-004-1961",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "comic_features",
+            "letters"
+          ],
+          "target_audience": "Teen and adult satire readers",
+          "notes": "IA title: MAD Magazine More Trash From MAD 004 1961"
+        },
+        {
+          "magazine_title": "MAD Magazine",
+          "issue_date": "1962-12-17",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/mad-magazine-1962",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "comic_features",
+            "letters"
+          ],
+          "target_audience": "Teen and adult satire readers",
+          "notes": "IA title: MAD Magazine 1962"
+        }
+      ]
+    },
+    {
+      "magazine_title": "National Lampoon",
+      "samples": [
+        {
+          "magazine_title": "National Lampoon",
+          "issue_date": "1988",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=S2YTAQAAMAAJ&dq=%22National+Lampoon%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 698,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "humor_columns",
+            "illustration"
+          ],
+          "target_audience": "Young adult and adult humor readers",
+          "notes": "Google Books viewability=view_no_pages"
+        },
+        {
+          "magazine_title": "National Lampoon",
+          "issue_date": "2006",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=ktMNp9uQE_UC&dq=%22National+Lampoon%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 210,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "humor_columns",
+            "illustration"
+          ],
+          "target_audience": "Young adult and adult humor readers",
+          "notes": "Google Books viewability=view_no_pages"
+        },
+        {
+          "magazine_title": "National Lampoon",
+          "issue_date": "2007",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=Eka6jwEACAAJ&dq=%22National+Lampoon%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "humor_columns",
+            "illustration"
+          ],
+          "target_audience": "Young adult and adult humor readers",
+          "notes": "Google Books viewability=view_no_pages"
+        },
+        {
+          "magazine_title": "National Lampoon",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=uc1.31822009626615",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "humor_columns",
+            "illustration"
+          ],
+          "target_audience": "Young adult and adult humor readers",
+          "notes": "Hathi item enumcron=v.3 rights=und"
+        },
+        {
+          "magazine_title": "National Lampoon",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=uc1.31822009626623",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "humor_columns",
+            "illustration"
+          ],
+          "target_audience": "Young adult and adult humor readers",
+          "notes": "Hathi item enumcron=v.16 rights=und"
+        },
+        {
+          "magazine_title": "National Lampoon",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=uc1.31822009626631",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "humor_columns",
+            "illustration"
+          ],
+          "target_audience": "Young adult and adult humor readers",
+          "notes": "Hathi item enumcron=v.19 rights=und"
+        },
+        {
+          "magazine_title": "National Lampoon",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=uc1.31822009626649",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "humor_columns",
+            "illustration"
+          ],
+          "target_audience": "Young adult and adult humor readers",
+          "notes": "Hathi item enumcron=v.26 rights=und"
+        },
+        {
+          "magazine_title": "National Lampoon",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=uc1.31822009626714",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "humor_columns",
+            "illustration"
+          ],
+          "target_audience": "Young adult and adult humor readers",
+          "notes": "Hathi item enumcron=v.29-30 rights=und"
+        },
+        {
+          "magazine_title": "National Lampoon",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=uc1.31822009626722",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "humor_columns",
+            "illustration"
+          ],
+          "target_audience": "Young adult and adult humor readers",
+          "notes": "Hathi item enumcron=v.31 rights=und"
+        },
+        {
+          "magazine_title": "National Lampoon",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=uc1.31822009626730",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "humor_columns",
+            "illustration"
+          ],
+          "target_audience": "Young adult and adult humor readers",
+          "notes": "Hathi item enumcron=v.34 rights=und"
+        },
+        {
+          "magazine_title": "National Lampoon",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=uc1.31822009626748",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "humor_columns",
+            "illustration"
+          ],
+          "target_audience": "Young adult and adult humor readers",
+          "notes": "Hathi item enumcron=v.35-36 rights=und"
+        },
+        {
+          "magazine_title": "National Lampoon",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=uc1.b3364952",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "satire",
+            "parody",
+            "humor_columns",
+            "illustration"
+          ],
+          "target_audience": "Young adult and adult humor readers",
+          "notes": "Hathi item enumcron=no. 5-6 1955 rights=ic"
+        }
+      ]
+    },
+    {
+      "magazine_title": "Billboard",
+      "samples": [
+        {
+          "magazine_title": "Billboard",
+          "issue_date": "1926",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=mPWXg_NzsqkC&dq=%22Billboard%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 922,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "charts",
+            "industry_news",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Music industry professionals and fans",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "Billboard",
+          "issue_date": "1974-12-26",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=hAkEAAAAMBAJ&dq=%22Billboard%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 154,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "charts",
+            "industry_news",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Music industry professionals and fans",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "Billboard",
+          "issue_date": "1975-04",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=TfoiAQAAMAAJ&dq=%22Billboard%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 1074,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "charts",
+            "industry_news",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Music industry professionals and fans",
+          "notes": "Google Books viewability=view_no_pages"
+        },
+        {
+          "magazine_title": "Billboard",
+          "issue_date": "1978-08-05",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=ViQEAAAAMBAJ&dq=%22Billboard%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 88,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "charts",
+            "industry_news",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Music industry professionals and fans",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "Billboard",
+          "issue_date": "1984-10-06",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=MyQEAAAAMBAJ&dq=%22Billboard%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 88,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "charts",
+            "industry_news",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Music industry professionals and fans",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "Billboard",
+          "issue_date": "1984-11-03",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=wCQEAAAAMBAJ&dq=%22Billboard%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 96,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "charts",
+            "industry_news",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Music industry professionals and fans",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "Billboard",
+          "issue_date": "1985-09-28",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=vCQEAAAAMBAJ&dq=%22Billboard%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 96,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "charts",
+            "industry_news",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Music industry professionals and fans",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "Billboard",
+          "issue_date": "1992-06-27",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=wBAEAAAAMBAJ&dq=%22Billboard%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 116,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "charts",
+            "industry_news",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Music industry professionals and fans",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "Billboard",
+          "issue_date": "2000-09-09",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=aREEAAAAMBAJ&dq=%22Billboard%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 112,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "charts",
+            "industry_news",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Music industry professionals and fans",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "Billboard",
+          "issue_date": "2001-07-28",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=-RMEAAAAMBAJ&dq=%22Billboard%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 116,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "charts",
+            "industry_news",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Music industry professionals and fans",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "Billboard",
+          "issue_date": "2001-09-15",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=EhEEAAAAMBAJ&dq=%22Billboard%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 100,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "charts",
+            "industry_news",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Music industry professionals and fans",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "Billboard",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=coo.31924015100799",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "charts",
+            "industry_news",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Music industry professionals and fans",
+          "notes": "Hathi item enumcron=v.41 1929:Jan.-Mar. rights=pd"
+        }
+      ]
+    },
+    {
+      "magazine_title": "People",
+      "samples": [
+        {
+          "magazine_title": "People",
+          "issue_date": "1921",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=GFotAAAAMAAJ&dq=%22People%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 242,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "celebrity_profiles",
+            "lifestyle",
+            "entertainment_news",
+            "ads"
+          ],
+          "target_audience": "General celebrity and lifestyle audience",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "People",
+          "issue_date": "1953-08-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/tv-people-v-01n-01-1953-08.non-pareil-bones",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "celebrity_profiles",
+            "lifestyle",
+            "entertainment_news",
+            "ads"
+          ],
+          "target_audience": "General celebrity and lifestyle audience",
+          "notes": "IA title: TV People v01n01 (1953-08.non-pareil) (BONES)"
+        },
+        {
+          "magazine_title": "People",
+          "issue_date": "1953-10-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/tv-people-v-01n-02-1953-10.non-pareil-bones",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "celebrity_profiles",
+            "lifestyle",
+            "entertainment_news",
+            "ads"
+          ],
+          "target_audience": "General celebrity and lifestyle audience",
+          "notes": "IA title: TV People v01n02 [1953-10] (BONES)"
+        },
+        {
+          "magazine_title": "People",
+          "issue_date": "1956-12-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/people-today-december-1956",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "celebrity_profiles",
+            "lifestyle",
+            "entertainment_news",
+            "ads"
+          ],
+          "target_audience": "General celebrity and lifestyle audience",
+          "notes": "IA title: People Today (Magazine) - December 1956"
+        },
+        {
+          "magazine_title": "People",
+          "issue_date": "1958-06-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/img03262021_0001",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": 68,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "celebrity_profiles",
+            "lifestyle",
+            "entertainment_news",
+            "ads"
+          ],
+          "target_audience": "General celebrity and lifestyle audience",
+          "notes": "IA title: People Today (Magazine) - June 1958"
+        },
+        {
+          "magazine_title": "People",
+          "issue_date": "1975-01-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/people-and-the-pursuit-of-truth",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "celebrity_profiles",
+            "lifestyle",
+            "entertainment_news",
+            "ads"
+          ],
+          "target_audience": "General celebrity and lifestyle audience",
+          "notes": "IA title: People and the PURSUIT of Truth - Political Newsletter, 1975/76"
+        },
+        {
+          "magazine_title": "People",
+          "issue_date": "1978-05-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/people-magazine-1978-05-01-the-wild-and-crazy-steve-martin-red",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "celebrity_profiles",
+            "lifestyle",
+            "entertainment_news",
+            "ads"
+          ],
+          "target_audience": "General celebrity and lifestyle audience",
+          "notes": "IA title: People Magazine - (1978/05/01) - The Wild And Crazy Steve Martin"
+        },
+        {
+          "magazine_title": "People",
+          "issue_date": "1980-06-23",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/people-magazine-1980-06-23-john-travolta-red",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "celebrity_profiles",
+            "lifestyle",
+            "entertainment_news",
+            "ads"
+          ],
+          "target_audience": "General celebrity and lifestyle audience",
+          "notes": "IA title: People Magazine - (1980/06/23) - John Travolta"
+        },
+        {
+          "magazine_title": "People",
+          "issue_date": "1980-12-22",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/1980-12-22-people-magazine-john-lennon-a-tribute",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "celebrity_profiles",
+            "lifestyle",
+            "entertainment_news",
+            "ads"
+          ],
+          "target_audience": "General celebrity and lifestyle audience",
+          "notes": "IA title: People Magazine - (1980-12-22) - John Lennon A Tribute"
+        },
+        {
+          "magazine_title": "People",
+          "issue_date": "1981-01-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/people-magazine-lb-article-1981",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "celebrity_profiles",
+            "lifestyle",
+            "entertainment_news",
+            "ads"
+          ],
+          "target_audience": "General celebrity and lifestyle audience",
+          "notes": "IA title: People Magazine LB Article 1981"
+        },
+        {
+          "magazine_title": "People",
+          "issue_date": "1981-01-12",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/1981-01-12-people-magazine-yoko",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "celebrity_profiles",
+            "lifestyle",
+            "entertainment_news",
+            "ads"
+          ],
+          "target_audience": "General celebrity and lifestyle audience",
+          "notes": "IA title: People Magazine - Yoko - (1981/01/12)"
+        },
+        {
+          "magazine_title": "People",
+          "issue_date": "1982-09-06",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/PeopleSep82",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "celebrity_profiles",
+            "lifestyle",
+            "entertainment_news",
+            "ads"
+          ],
+          "target_audience": "General celebrity and lifestyle audience",
+          "notes": "IA title: People Weekly Sep 6, 1982 (The Dark Crystal)"
+        }
+      ]
+    },
+    {
+      "magazine_title": "Entertainment Weekly",
+      "samples": [
+        {
+          "magazine_title": "Entertainment Weekly",
+          "issue_date": "1999-05",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=D_9fI-k29vMC&dq=%22Entertainment+Weekly%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 150,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "reviews",
+            "features",
+            "industry_news",
+            "ads"
+          ],
+          "target_audience": "Film, TV, and pop culture audience",
+          "notes": "Google Books viewability=view_no_pages"
+        },
+        {
+          "magazine_title": "Entertainment Weekly",
+          "issue_date": "2010",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=-ew0NQEACAAJ&dq=%22Entertainment+Weekly%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 80,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "reviews",
+            "features",
+            "industry_news",
+            "ads"
+          ],
+          "target_audience": "Film, TV, and pop culture audience",
+          "notes": "Google Books viewability=view_no_pages"
+        },
+        {
+          "magazine_title": "Entertainment Weekly",
+          "issue_date": "2010",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=2ZlkNQEACAAJ&dq=%22Entertainment+Weekly%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 80,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "reviews",
+            "features",
+            "industry_news",
+            "ads"
+          ],
+          "target_audience": "Film, TV, and pop culture audience",
+          "notes": "Google Books viewability=view_no_pages"
+        },
+        {
+          "magazine_title": "Entertainment Weekly",
+          "issue_date": "2010",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=30V7NQEACAAJ&dq=%22Entertainment+Weekly%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 80,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "reviews",
+            "features",
+            "industry_news",
+            "ads"
+          ],
+          "target_audience": "Film, TV, and pop culture audience",
+          "notes": "Google Books viewability=view_no_pages"
+        },
+        {
+          "magazine_title": "Entertainment Weekly",
+          "issue_date": "2010",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=73YqNQEACAAJ&dq=%22Entertainment+Weekly%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 72,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "reviews",
+            "features",
+            "industry_news",
+            "ads"
+          ],
+          "target_audience": "Film, TV, and pop culture audience",
+          "notes": "Google Books viewability=view_no_pages"
+        },
+        {
+          "magazine_title": "Entertainment Weekly",
+          "issue_date": "2010",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=8HYqNQEACAAJ&dq=%22Entertainment+Weekly%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 124,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "reviews",
+            "features",
+            "industry_news",
+            "ads"
+          ],
+          "target_audience": "Film, TV, and pop culture audience",
+          "notes": "Google Books viewability=view_no_pages"
+        },
+        {
+          "magazine_title": "Entertainment Weekly",
+          "issue_date": "2010",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=8XYqNQEACAAJ&dq=%22Entertainment+Weekly%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 78,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "reviews",
+            "features",
+            "industry_news",
+            "ads"
+          ],
+          "target_audience": "Film, TV, and pop culture audience",
+          "notes": "Google Books viewability=view_no_pages"
+        },
+        {
+          "magazine_title": "Entertainment Weekly",
+          "issue_date": "2010",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=8oAoNQEACAAJ&dq=%22Entertainment+Weekly%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 80,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "reviews",
+            "features",
+            "industry_news",
+            "ads"
+          ],
+          "target_audience": "Film, TV, and pop culture audience",
+          "notes": "Google Books viewability=view_no_pages"
+        },
+        {
+          "magazine_title": "Entertainment Weekly",
+          "issue_date": "2010",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=BK2BNQEACAAJ&dq=%22Entertainment+Weekly%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 79,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "reviews",
+            "features",
+            "industry_news",
+            "ads"
+          ],
+          "target_audience": "Film, TV, and pop culture audience",
+          "notes": "Google Books viewability=view_no_pages"
+        },
+        {
+          "magazine_title": "Entertainment Weekly",
+          "issue_date": "2010",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=DASPNQEACAAJ&dq=%22Entertainment+Weekly%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 104,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "reviews",
+            "features",
+            "industry_news",
+            "ads"
+          ],
+          "target_audience": "Film, TV, and pop culture audience",
+          "notes": "Google Books viewability=view_no_pages"
+        },
+        {
+          "magazine_title": "Entertainment Weekly",
+          "issue_date": "2010",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=DHcvNQEACAAJ&dq=%22Entertainment+Weekly%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 76,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "reviews",
+            "features",
+            "industry_news",
+            "ads"
+          ],
+          "target_audience": "Film, TV, and pop culture audience",
+          "notes": "Google Books viewability=view_no_pages"
+        },
+        {
+          "magazine_title": "Entertainment Weekly",
+          "issue_date": "2010",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=DxJ6NQEACAAJ&dq=%22Entertainment+Weekly%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 80,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "reviews",
+            "features",
+            "industry_news",
+            "ads"
+          ],
+          "target_audience": "Film, TV, and pop culture audience",
+          "notes": "Google Books viewability=view_no_pages"
+        }
+      ]
+    },
+    {
+      "magazine_title": "Tiger Beat",
+      "samples": [
+        {
+          "magazine_title": "Tiger Beat",
+          "issue_date": "2008-01-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/tiger-beat-2008-magazine",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "idol_profiles",
+            "posters",
+            "fan_mail",
+            "ads"
+          ],
+          "target_audience": "Teen pop culture and fan audience",
+          "notes": "IA title: Tiger Beat 2008 Magazine"
+        },
+        {
+          "magazine_title": "Tiger Beat",
+          "issue_date": "2018-04-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/TigerBeat1968SpendADayOnDarkShadows",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "idol_profiles",
+            "posters",
+            "fan_mail",
+            "ads"
+          ],
+          "target_audience": "Teen pop culture and fan audience",
+          "notes": "IA title: Tiger Beat 1968 Spend A Day On Dark Shadows"
+        },
+        {
+          "magazine_title": "Tiger Beat",
+          "issue_date": "2018-04-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/TigerBeatJan1970Vol5No5_201804",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "idol_profiles",
+            "posters",
+            "fan_mail",
+            "ads"
+          ],
+          "target_audience": "Teen pop culture and fan audience",
+          "notes": "IA title: Tiger Beat Jan 1970 Vol 5 No 5"
+        },
+        {
+          "magazine_title": "Tiger Beat",
+          "issue_date": "2018-04-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/TigerBeatJune1968",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "idol_profiles",
+            "posters",
+            "fan_mail",
+            "ads"
+          ],
+          "target_audience": "Teen pop culture and fan audience",
+          "notes": "IA title: Tiger Beat June 1968"
+        },
+        {
+          "magazine_title": "Tiger Beat",
+          "issue_date": "2018-04-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/TigerBeatMay1971Vol7No8",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "idol_profiles",
+            "posters",
+            "fan_mail",
+            "ads"
+          ],
+          "target_audience": "Teen pop culture and fan audience",
+          "notes": "IA title: Tiger Beat May 1971 Vol 7 No 8"
+        }
+      ]
+    },
+    {
+      "magazine_title": "Teen Beat",
+      "samples": []
+    },
+    {
+      "magazine_title": "Seventeen",
+      "samples": [
+        {
+          "magazine_title": "Seventeen",
+          "issue_date": "2011",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=17I6NQEACAAJ&dq=%22Seventeen%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "advice",
+            "ads"
+          ],
+          "target_audience": "Teen and young women audience",
+          "notes": "Google Books viewability=view_no_pages"
+        },
+        {
+          "magazine_title": "Seventeen",
+          "issue_date": "1950-11-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/SeventeenMagazineSylviaPlath1950",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": 2,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "advice",
+            "ads"
+          ],
+          "target_audience": "Teen and young women audience",
+          "notes": "IA title: Seventeen Magazine, Sylvia Plath 1950"
+        },
+        {
+          "magazine_title": "Seventeen",
+          "issue_date": "1975-04-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/seventeen-magazine-april-1975",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "advice",
+            "ads"
+          ],
+          "target_audience": "Teen and young women audience",
+          "notes": "IA title: Seventeen Magazine April 1975"
+        },
+        {
+          "magazine_title": "Seventeen",
+          "issue_date": "1975-06-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/seventeen-magazine-june-1975",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "advice",
+            "ads"
+          ],
+          "target_audience": "Teen and young women audience",
+          "notes": "IA title: Seventeen Magazine June 1975"
+        },
+        {
+          "magazine_title": "Seventeen",
+          "issue_date": "1975-07-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/seventeen-magazine-july-1975",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "advice",
+            "ads"
+          ],
+          "target_audience": "Teen and young women audience",
+          "notes": "IA title: Seventeen Magazine July 1975"
+        },
+        {
+          "magazine_title": "Seventeen",
+          "issue_date": "1975-10-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/seventeen-magazine-oct-1975",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "advice",
+            "ads"
+          ],
+          "target_audience": "Teen and young women audience",
+          "notes": "IA title: Seventeen Magazine Oct 1975"
+        },
+        {
+          "magazine_title": "Seventeen",
+          "issue_date": "1976-01-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/seventeen-magazine-jan-1976",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "advice",
+            "ads"
+          ],
+          "target_audience": "Teen and young women audience",
+          "notes": "IA title: Seventeen Magazine Jan 1976"
+        },
+        {
+          "magazine_title": "Seventeen",
+          "issue_date": "1976-04-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/seventeen-magazine-april-1976",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "advice",
+            "ads"
+          ],
+          "target_audience": "Teen and young women audience",
+          "notes": "IA title: Seventeen Magazine April 1976"
+        },
+        {
+          "magazine_title": "Seventeen",
+          "issue_date": "1976-11-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/seventeen-magazine-nov-1976",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "advice",
+            "ads"
+          ],
+          "target_audience": "Teen and young women audience",
+          "notes": "IA title: Seventeen Magazine Nov 1976"
+        },
+        {
+          "magazine_title": "Seventeen",
+          "issue_date": "1977-05-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/seventeen-magazine-may-1977",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "advice",
+            "ads"
+          ],
+          "target_audience": "Teen and young women audience",
+          "notes": "IA title: Seventeen Magazine May 1977"
+        },
+        {
+          "magazine_title": "Seventeen",
+          "issue_date": "1977-07-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/seventeen-magazine-july-1977",
+          "downloadable_pdf": true,
+          "ocr_available": true,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "advice",
+            "ads"
+          ],
+          "target_audience": "Teen and young women audience",
+          "notes": "IA title: Seventeen Magazine July 1977"
+        },
+        {
+          "magazine_title": "Seventeen",
+          "issue_date": "1997-08-01",
+          "repository": "Internet Archive",
+          "issue_url": "https://archive.org/details/seventeen-aug97-jtt",
+          "downloadable_pdf": false,
+          "ocr_available": false,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "advice",
+            "ads"
+          ],
+          "target_audience": "Teen and young women audience",
+          "notes": "IA title: Jonathan Taylor Thomas Seventeen Magazine August 1997"
+        }
+      ]
+    },
+    {
+      "magazine_title": "Cosmopolitan",
+      "samples": [
+        {
+          "magazine_title": "Cosmopolitan",
+          "issue_date": "1889",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=ZiyqezFEkoIC&dq=%22Cosmopolitan%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 662,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "relationships",
+            "ads"
+          ],
+          "target_audience": "Young adult and adult women audience",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "Cosmopolitan",
+          "issue_date": "1904",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=RzdDzWNvgqAC&dq=%22Cosmopolitan%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 840,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "relationships",
+            "ads"
+          ],
+          "target_audience": "Young adult and adult women audience",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "Cosmopolitan",
+          "issue_date": "1908",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=XGgyAQAAMAAJ&dq=%22Cosmopolitan%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 872,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "relationships",
+            "ads"
+          ],
+          "target_audience": "Young adult and adult women audience",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "Cosmopolitan",
+          "issue_date": "1997",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=dJRcuPiZPMAC&dq=%22Cosmopolitan%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 256,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "relationships",
+            "ads"
+          ],
+          "target_audience": "Young adult and adult women audience",
+          "notes": "Google Books viewability=view_no_pages"
+        },
+        {
+          "magazine_title": "Cosmopolitan",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=nyp.33433081677332",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "relationships",
+            "ads"
+          ],
+          "target_audience": "Young adult and adult women audience",
+          "notes": "Hathi item enumcron=v. 11 (May - Oct. 1891) rights=pd"
+        },
+        {
+          "magazine_title": "Cosmopolitan",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=nyp.33433081677340",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "relationships",
+            "ads"
+          ],
+          "target_audience": "Young adult and adult women audience",
+          "notes": "Hathi item enumcron=v. 21 (May - Oct. 1896) rights=pd"
+        },
+        {
+          "magazine_title": "Cosmopolitan",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=pst.000020200404",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "relationships",
+            "ads"
+          ],
+          "target_audience": "Young adult and adult women audience",
+          "notes": "Hathi item enumcron=v.55 rights=pdus"
+        },
+        {
+          "magazine_title": "Cosmopolitan",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=pst.000020200534",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "relationships",
+            "ads"
+          ],
+          "target_audience": "Young adult and adult women audience",
+          "notes": "Hathi item enumcron=v.142 rights=und"
+        },
+        {
+          "magazine_title": "Cosmopolitan",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=pst.000020200541",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "relationships",
+            "ads"
+          ],
+          "target_audience": "Young adult and adult women audience",
+          "notes": "Hathi item enumcron=v.143 rights=und"
+        },
+        {
+          "magazine_title": "Cosmopolitan",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=pst.000020200558",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "relationships",
+            "ads"
+          ],
+          "target_audience": "Young adult and adult women audience",
+          "notes": "Hathi item enumcron=v.144-145 rights=und"
+        },
+        {
+          "magazine_title": "Cosmopolitan",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=pst.000020200565",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "relationships",
+            "ads"
+          ],
+          "target_audience": "Young adult and adult women audience",
+          "notes": "Hathi item enumcron=v.146 rights=und"
+        },
+        {
+          "magazine_title": "Cosmopolitan",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=pst.000020200572",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "fashion",
+            "beauty",
+            "relationships",
+            "ads"
+          ],
+          "target_audience": "Young adult and adult women audience",
+          "notes": "Hathi item enumcron=v.147 rights=und"
+        }
+      ]
+    },
+    {
+      "magazine_title": "New York Magazine",
+      "samples": [
+        {
+          "magazine_title": "New York Magazine",
+          "issue_date": "1968-10-21",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=CeECAAAAMBAJ&dq=%22New+York+Magazine%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 64,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "city_life",
+            "culture",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Urban culture and news audience",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "New York Magazine",
+          "issue_date": "1969-09-01",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=eMcDAAAAMBAJ&dq=%22New+York+Magazine%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 64,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "city_life",
+            "culture",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Urban culture and news audience",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "New York Magazine",
+          "issue_date": "1969-10-20",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=b9YCAAAAMBAJ&dq=%22New+York+Magazine%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 72,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "city_life",
+            "culture",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Urban culture and news audience",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "New York Magazine",
+          "issue_date": "1971-12-20",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=6eICAAAAMBAJ&dq=%22New+York+Magazine%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 124,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "city_life",
+            "culture",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Urban culture and news audience",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "New York Magazine",
+          "issue_date": "1973-05-07",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=IucCAAAAMBAJ&dq=%22New+York+Magazine%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 104,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "city_life",
+            "culture",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Urban culture and news audience",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "New York Magazine",
+          "issue_date": "1974-04-08",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=G-kCAAAAMBAJ&dq=%22New+York+Magazine%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 100,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "city_life",
+            "culture",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Urban culture and news audience",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "New York Magazine",
+          "issue_date": "1980-04-14",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=H-QCAAAAMBAJ&dq=%22New+York+Magazine%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 96,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "city_life",
+            "culture",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Urban culture and news audience",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "New York Magazine",
+          "issue_date": "1985-05-13",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=ysUBAAAAMBAJ&dq=%22New+York+Magazine%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 176,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "city_life",
+            "culture",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Urban culture and news audience",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "New York Magazine",
+          "issue_date": "1992-01-20",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=a-QCAAAAMBAJ&dq=%22New+York+Magazine%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 116,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "city_life",
+            "culture",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Urban culture and news audience",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "New York Magazine",
+          "issue_date": "1994-10-10",
+          "repository": "Google Books",
+          "issue_url": "http://books.google.com/books?id=KeMCAAAAMBAJ&dq=%22New+York+Magazine%22+magazine",
+          "downloadable_pdf": false,
+          "ocr_available": null,
+          "pages": 126,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "city_life",
+            "culture",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Urban culture and news audience",
+          "notes": "Google Books viewability=view_all_pages"
+        },
+        {
+          "magazine_title": "New York Magazine",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=ien.35556010659886",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "city_life",
+            "culture",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Urban culture and news audience",
+          "notes": "Hathi item enumcron=v.18:pt.1 1985:Jan.-Feb. rights=ic"
+        },
+        {
+          "magazine_title": "New York Magazine",
+          "issue_date": "",
+          "repository": "HathiTrust",
+          "issue_url": "https://babel.hathitrust.org/cgi/pt?id=ien.35556010663193",
+          "downloadable_pdf": null,
+          "ocr_available": null,
+          "pages": null,
+          "ads_present": true,
+          "masthead_present": true,
+          "departments_detected": [
+            "city_life",
+            "culture",
+            "reviews",
+            "ads"
+          ],
+          "target_audience": "Urban culture and news audience",
+          "notes": "Hathi item enumcron=v.18:pt.2 1985:Mar.-Apr. rights=ic"
+        }
+      ]
+    }
+  ]
+}

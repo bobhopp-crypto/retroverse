@@ -1,0 +1,489 @@
+{
+  "year": "1968",
+  "top_songs": [
+    {
+      "artist": "The Beatles",
+      "title": "Hey Jude",
+      "weeks": 16,
+      "peak": 1,
+      "score": 598
+    },
+    {
+      "artist": "Otis Redding",
+      "title": "(Sittin' On) The Dock Of The Bay",
+      "weeks": 16,
+      "peak": 1,
+      "score": 423
+    },
+    {
+      "artist": "Bobby Goldsboro",
+      "title": "Honey",
+      "weeks": 15,
+      "peak": 1,
+      "score": 411
+    },
+    {
+      "artist": "The Rascals",
+      "title": "People Got To Be Free",
+      "weeks": 14,
+      "peak": 1,
+      "score": 404
+    },
+    {
+      "artist": "Paul Mauriat And His Orchestra",
+      "title": "Love Is Blue (L'amour Est Bleu)",
+      "weeks": 18,
+      "peak": 1,
+      "score": 375
+    },
+    {
+      "artist": "Herb Alpert",
+      "title": "This Guy's In Love With You",
+      "weeks": 14,
+      "peak": 1,
+      "score": 372
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Love Child",
+      "weeks": 11,
+      "peak": 1,
+      "score": 363
+    },
+    {
+      "artist": "Jeannie C. Riley",
+      "title": "Harper Valley P.T.A.",
+      "weeks": 13,
+      "peak": 1,
+      "score": 356
+    },
+    {
+      "artist": "Simon",
+      "title": "Mrs. Robinson",
+      "weeks": 13,
+      "peak": 1,
+      "score": 354
+    },
+    {
+      "artist": "Classics Iv",
+      "title": "Spooky",
+      "weeks": 13,
+      "peak": 3,
+      "score": 345
+    },
+    {
+      "artist": "The Union Gap",
+      "title": "Young Girl",
+      "weeks": 15,
+      "peak": 2,
+      "score": 343
+    },
+    {
+      "artist": "Mary Hopkin",
+      "title": "Those Were The Days",
+      "weeks": 14,
+      "peak": 2,
+      "score": 336
+    },
+    {
+      "artist": "The Lemon Pipers",
+      "title": "Green Tambourine",
+      "weeks": 10,
+      "peak": 1,
+      "score": 330
+    },
+    {
+      "artist": "John Fred And The Playboys",
+      "title": "Judy In Disguise (With Glasses)",
+      "weeks": 10,
+      "peak": 1,
+      "score": 327
+    },
+    {
+      "artist": "The Doors",
+      "title": "Hello, I Love You",
+      "weeks": 12,
+      "peak": 1,
+      "score": 327
+    },
+    {
+      "artist": "Archie Bell",
+      "title": "Tighten Up",
+      "weeks": 15,
+      "peak": 1,
+      "score": 326
+    },
+    {
+      "artist": "Aretha Franklin",
+      "title": "(Sweet Sweet Baby) Since You've Been Gone",
+      "weeks": 12,
+      "peak": 5,
+      "score": 320
+    },
+    {
+      "artist": "The Box Tops",
+      "title": "Cry Like A Baby",
+      "weeks": 15,
+      "peak": 2,
+      "score": 316
+    },
+    {
+      "artist": "Steppenwolf",
+      "title": "Born To Be Wild",
+      "weeks": 13,
+      "peak": 2,
+      "score": 312
+    },
+    {
+      "artist": "Gary Puckett And The Union Gap",
+      "title": "Lady Willpower",
+      "weeks": 13,
+      "peak": 2,
+      "score": 306
+    },
+    {
+      "artist": "The Rascals",
+      "title": "A Beautiful Morning",
+      "weeks": 13,
+      "peak": 3,
+      "score": 296
+    },
+    {
+      "artist": "Cliff Nobles",
+      "title": "The Horse",
+      "weeks": 14,
+      "peak": 2,
+      "score": 295
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Jumpin' Jack Flash",
+      "weeks": 12,
+      "peak": 3,
+      "score": 295
+    },
+    {
+      "artist": "The Temptations",
+      "title": "I Wish It Would Rain",
+      "weeks": 14,
+      "peak": 4,
+      "score": 294
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Lady Madonna",
+      "weeks": 11,
+      "peak": 4,
+      "score": 294
+    },
+    {
+      "artist": "Jose Feliciano",
+      "title": "Light My Fire",
+      "weeks": 12,
+      "peak": 3,
+      "score": 293
+    },
+    {
+      "artist": "The Union Gap",
+      "title": "Woman, Woman",
+      "weeks": 10,
+      "peak": 4,
+      "score": 289
+    },
+    {
+      "artist": "The Crazy World Of Arthur Brown",
+      "title": "Fire",
+      "weeks": 13,
+      "peak": 2,
+      "score": 285
+    },
+    {
+      "artist": "Dionne Warwick",
+      "title": "(Theme From) Valley Of The Dolls",
+      "weeks": 13,
+      "peak": 2,
+      "score": 282
+    },
+    {
+      "artist": "The American Breed",
+      "title": "Bend Me, Shape Me",
+      "weeks": 9,
+      "peak": 5,
+      "score": 274
+    },
+    {
+      "artist": "Georgie Fame",
+      "title": "The Ballad Of Bonnie And Clyde",
+      "weeks": 14,
+      "peak": 7,
+      "score": 273
+    },
+    {
+      "artist": "The Human Beinz",
+      "title": "Nobody But Me",
+      "weeks": 11,
+      "peak": 8,
+      "score": 270
+    },
+    {
+      "artist": "Johnnie Taylor",
+      "title": "Who's Making Love",
+      "weeks": 10,
+      "peak": 5,
+      "score": 268
+    },
+    {
+      "artist": "The Grass Roots",
+      "title": "Midnight Confessions",
+      "weeks": 15,
+      "peak": 5,
+      "score": 265
+    },
+    {
+      "artist": "Hugh Masekela",
+      "title": "Grazing In The Grass",
+      "weeks": 12,
+      "peak": 1,
+      "score": 263
+    },
+    {
+      "artist": "Aretha Franklin",
+      "title": "Chain Of Fools",
+      "weeks": 8,
+      "peak": 2,
+      "score": 259
+    },
+    {
+      "artist": "The 5th Dimension",
+      "title": "Stoned Soul Picnic",
+      "weeks": 16,
+      "peak": 3,
+      "score": 255
+    },
+    {
+      "artist": "The Intruders",
+      "title": "Cowboys To Girls",
+      "weeks": 14,
+      "peak": 6,
+      "score": 251
+    },
+    {
+      "artist": "Dion",
+      "title": "Abraham, Martin And John",
+      "weeks": 10,
+      "peak": 4,
+      "score": 251
+    },
+    {
+      "artist": "1910 Fruitgum Co",
+      "title": "Simon Says",
+      "weeks": 14,
+      "peak": 4,
+      "score": 249
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "The Beatles",
+      "hits": 2
+    },
+    {
+      "artist": "The Rascals",
+      "hits": 2
+    },
+    {
+      "artist": "The Union Gap",
+      "hits": 2
+    },
+    {
+      "artist": "Aretha Franklin",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Cream",
+      "title": "Sunshine Of Your Love",
+      "weeks": 26,
+      "peak": 5,
+      "score": 72
+    },
+    {
+      "artist": "Hugo Montenegro, His Orchestra And Chorus",
+      "title": "The Good, The Bad And The Ugly",
+      "weeks": 22,
+      "peak": 2,
+      "score": 199
+    },
+    {
+      "artist": "Paul Mauriat And His Orchestra",
+      "title": "Love Is Blue (L'amour Est Bleu)",
+      "weeks": 18,
+      "peak": 1,
+      "score": 375
+    },
+    {
+      "artist": "People",
+      "title": "I Love You",
+      "weeks": 18,
+      "peak": 14,
+      "score": -78
+    },
+    {
+      "artist": "O.c. Smith",
+      "title": "Little Green Apples",
+      "weeks": 17,
+      "peak": 2,
+      "score": 245
+    },
+    {
+      "artist": "Tommy James And The Shondells",
+      "title": "Mony Mony",
+      "weeks": 17,
+      "peak": 3,
+      "score": 234
+    },
+    {
+      "artist": "The Status Quo",
+      "title": "Pictures Of Matchstick Men",
+      "weeks": 17,
+      "peak": 12,
+      "score": -45
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Hey Jude",
+      "weeks": 16,
+      "peak": 1,
+      "score": 598
+    },
+    {
+      "artist": "Otis Redding",
+      "title": "(Sittin' On) The Dock Of The Bay",
+      "weeks": 16,
+      "peak": 1,
+      "score": 423
+    },
+    {
+      "artist": "The 5th Dimension",
+      "title": "Stoned Soul Picnic",
+      "weeks": 16,
+      "peak": 3,
+      "score": 255
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "The Beatles",
+      "title": "Hey Jude",
+      "weeks": 16,
+      "peak": 1,
+      "score": 598
+    },
+    {
+      "artist": "Otis Redding",
+      "title": "(Sittin' On) The Dock Of The Bay",
+      "weeks": 16,
+      "peak": 1,
+      "score": 423
+    },
+    {
+      "artist": "Bobby Goldsboro",
+      "title": "Honey",
+      "weeks": 15,
+      "peak": 1,
+      "score": 411
+    },
+    {
+      "artist": "The Rascals",
+      "title": "People Got To Be Free",
+      "weeks": 14,
+      "peak": 1,
+      "score": 404
+    },
+    {
+      "artist": "Paul Mauriat And His Orchestra",
+      "title": "Love Is Blue (L'amour Est Bleu)",
+      "weeks": 18,
+      "peak": 1,
+      "score": 375
+    },
+    {
+      "artist": "Herb Alpert",
+      "title": "This Guy's In Love With You",
+      "weeks": 14,
+      "peak": 1,
+      "score": 372
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Love Child",
+      "weeks": 11,
+      "peak": 1,
+      "score": 363
+    },
+    {
+      "artist": "Jeannie C. Riley",
+      "title": "Harper Valley P.T.A.",
+      "weeks": 13,
+      "peak": 1,
+      "score": 356
+    },
+    {
+      "artist": "Simon",
+      "title": "Mrs. Robinson",
+      "weeks": 13,
+      "peak": 1,
+      "score": 354
+    },
+    {
+      "artist": "The Lemon Pipers",
+      "title": "Green Tambourine",
+      "weeks": 10,
+      "peak": 1,
+      "score": 330
+    },
+    {
+      "artist": "John Fred And The Playboys",
+      "title": "Judy In Disguise (With Glasses)",
+      "weeks": 10,
+      "peak": 1,
+      "score": 327
+    },
+    {
+      "artist": "The Doors",
+      "title": "Hello, I Love You",
+      "weeks": 12,
+      "peak": 1,
+      "score": 327
+    },
+    {
+      "artist": "Archie Bell",
+      "title": "Tighten Up",
+      "weeks": 15,
+      "peak": 1,
+      "score": 326
+    },
+    {
+      "artist": "Hugh Masekela",
+      "title": "Grazing In The Grass",
+      "weeks": 12,
+      "peak": 1,
+      "score": 263
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Hello Goodbye",
+      "weeks": 6,
+      "peak": 1,
+      "score": 192
+    },
+    {
+      "artist": "Marvin Gaye",
+      "title": "I Heard It Through The Grapevine",
+      "weeks": 6,
+      "peak": 1,
+      "score": 189
+    }
+  ]
+}

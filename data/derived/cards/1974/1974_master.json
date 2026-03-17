@@ -1,0 +1,291 @@
+{
+  "year": 1974,
+  "weeks": {
+    "30": {
+      "date_range": "1974-07-29 to 1974-08-04",
+      "chart_date": "1974-08-03",
+      "top_40": [
+        {
+          "rank": 1,
+          "title": "Annie's Song",
+          "artist": "John Denver",
+          "weeks_on_chart": 10,
+          "peak_position": 1
+        },
+        {
+          "rank": 2,
+          "title": "Don't Let The Sun Go Down On Me",
+          "artist": "Elton John",
+          "weeks_on_chart": 7,
+          "peak_position": 2
+        },
+        {
+          "rank": 3,
+          "title": "Feel Like Makin' Love",
+          "artist": "Roberta Flack",
+          "weeks_on_chart": 7,
+          "peak_position": 3
+        },
+        {
+          "rank": 4,
+          "title": "Rikki Don't Lose That Number",
+          "artist": "Steely Dan",
+          "weeks_on_chart": 13,
+          "peak_position": 4
+        },
+        {
+          "rank": 5,
+          "title": "The Night Chicago Died",
+          "artist": "Paper Lace",
+          "weeks_on_chart": 8,
+          "peak_position": 5
+        },
+        {
+          "rank": 6,
+          "title": "The Air That I Breathe",
+          "artist": "The Hollies",
+          "weeks_on_chart": 16,
+          "peak_position": 6
+        },
+        {
+          "rank": 7,
+          "title": "Rock And Roll Heaven",
+          "artist": "The Righteous Brothers",
+          "weeks_on_chart": 11,
+          "peak_position": 3
+        },
+        {
+          "rank": 8,
+          "title": "Please Come To Boston",
+          "artist": "Dave Loggins",
+          "weeks_on_chart": 10,
+          "peak_position": 8
+        },
+        {
+          "rank": 9,
+          "title": "Call On Me",
+          "artist": "Chicago",
+          "weeks_on_chart": 7,
+          "peak_position": 9
+        },
+        {
+          "rank": 10,
+          "title": "Sideshow",
+          "artist": "Blue Magic",
+          "weeks_on_chart": 12,
+          "peak_position": 10
+        },
+        {
+          "rank": 11,
+          "title": "Waterloo",
+          "artist": "Abba",
+          "weeks_on_chart": 10,
+          "peak_position": 11
+        },
+        {
+          "rank": 12,
+          "title": "Rock Your Baby",
+          "artist": "George Mccrae",
+          "weeks_on_chart": 10,
+          "peak_position": 1
+        },
+        {
+          "rank": 13,
+          "title": "Rock The Boat",
+          "artist": "The Hues Corporation",
+          "weeks_on_chart": 11,
+          "peak_position": 1
+        },
+        {
+          "rank": 14,
+          "title": "Wildwood Weed",
+          "artist": "Jim Stafford",
+          "weeks_on_chart": 5,
+          "peak_position": 14
+        },
+        {
+          "rank": 15,
+          "title": "Keep On Smilin'",
+          "artist": "Wet Willie",
+          "weeks_on_chart": 11,
+          "peak_position": 15
+        },
+        {
+          "rank": 16,
+          "title": "Takin' Care Of Business",
+          "artist": "Bachman-turner Overdrive",
+          "weeks_on_chart": 12,
+          "peak_position": 16
+        },
+        {
+          "rank": 17,
+          "title": "If You Talk In Your Sleep",
+          "artist": "Elvis Presley",
+          "weeks_on_chart": 9,
+          "peak_position": 17
+        },
+        {
+          "rank": 18,
+          "title": "Radar Love",
+          "artist": "Golden Earring",
+          "weeks_on_chart": 13,
+          "peak_position": 13
+        },
+        {
+          "rank": 19,
+          "title": "Tell Me Something Good",
+          "artist": "Rufus",
+          "weeks_on_chart": 8,
+          "peak_position": 19
+        },
+        {
+          "rank": 20,
+          "title": "On And On",
+          "artist": "Gladys Knight And The Pips",
+          "weeks_on_chart": 11,
+          "peak_position": 5
+        },
+        {
+          "rank": 21,
+          "title": "Sure As I'm Sittin' Here",
+          "artist": "Three Dog Night",
+          "weeks_on_chart": 6,
+          "peak_position": 21
+        },
+        {
+          "rank": 22,
+          "title": "Shinin' On",
+          "artist": "Grand Funk",
+          "weeks_on_chart": 4,
+          "peak_position": 22
+        },
+        {
+          "rank": 23,
+          "title": "(You're) Having My Baby",
+          "artist": "Paul Anka",
+          "weeks_on_chart": 5,
+          "peak_position": 23
+        },
+        {
+          "rank": 24,
+          "title": "Rock Me Gently",
+          "artist": "Andy Kim",
+          "weeks_on_chart": 7,
+          "peak_position": 24
+        },
+        {
+          "rank": 25,
+          "title": "You And Me Against The World",
+          "artist": "Helen Reddy",
+          "weeks_on_chart": 8,
+          "peak_position": 25
+        },
+        {
+          "rank": 26,
+          "title": "I'm Leaving It (All) Up To You",
+          "artist": "Donny",
+          "weeks_on_chart": 5,
+          "peak_position": 26
+        },
+        {
+          "rank": 27,
+          "title": "One Hell Of A Woman",
+          "artist": "Mac Davis",
+          "weeks_on_chart": 19,
+          "peak_position": 11
+        },
+        {
+          "rank": 28,
+          "title": "Machine Gun",
+          "artist": "Commodores",
+          "weeks_on_chart": 8,
+          "peak_position": 22
+        },
+        {
+          "rank": 29,
+          "title": "Hang On In There Baby",
+          "artist": "Johnny Bristol",
+          "weeks_on_chart": 6,
+          "peak_position": 29
+        },
+        {
+          "rank": 30,
+          "title": "Rub It In",
+          "artist": "Billy \"crash\" Craddock",
+          "weeks_on_chart": 6,
+          "peak_position": 30
+        },
+        {
+          "rank": 31,
+          "title": "Finally Got Myself Together (I'm A Changed Man)",
+          "artist": "The Impressions",
+          "weeks_on_chart": 14,
+          "peak_position": 17
+        },
+        {
+          "rank": 32,
+          "title": "Wild Thing",
+          "artist": "Fancy",
+          "weeks_on_chart": 8,
+          "peak_position": 32
+        },
+        {
+          "rank": 33,
+          "title": "This Heart",
+          "artist": "Gene Redding",
+          "weeks_on_chart": 14,
+          "peak_position": 24
+        },
+        {
+          "rank": 34,
+          "title": "I Shot The Sheriff",
+          "artist": "Eric Clapton",
+          "weeks_on_chart": 4,
+          "peak_position": 34
+        },
+        {
+          "rank": 35,
+          "title": "Workin' At The Car Wash Blues",
+          "artist": "Jim Croce",
+          "weeks_on_chart": 9,
+          "peak_position": 32
+        },
+        {
+          "rank": 36,
+          "title": "Fish Ain't Bitin'",
+          "artist": "Lamont Dozier",
+          "weeks_on_chart": 8,
+          "peak_position": 26
+        },
+        {
+          "rank": 37,
+          "title": "My Thang",
+          "artist": "James Brown",
+          "weeks_on_chart": 7,
+          "peak_position": 37
+        },
+        {
+          "rank": 38,
+          "title": "Then Came You",
+          "artist": "Dionne Warwicke",
+          "weeks_on_chart": 2,
+          "peak_position": 38
+        },
+        {
+          "rank": 39,
+          "title": "Nothing From Nothing",
+          "artist": "Billy Preston",
+          "weeks_on_chart": 4,
+          "peak_position": 39
+        },
+        {
+          "rank": 40,
+          "title": "Kung Fu",
+          "artist": "Curtis Mayfield",
+          "weeks_on_chart": 7,
+          "peak_position": 40
+        }
+      ]
+    }
+  }
+}

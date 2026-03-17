@@ -1,0 +1,365 @@
+{
+  "year": 1976,
+  "top_40": [
+    {
+      "rv_rank": 1,
+      "title": "A Fifth Of Beethoven",
+      "artist": "Walter Murphy",
+      "peak_rank": 1,
+      "weeks_on_chart": 28,
+      "weeks_in_top_10": 10,
+      "weeks_in_top_40": 22
+    },
+    {
+      "rv_rank": 2,
+      "title": "Love Is Alive",
+      "artist": "Gary Wright",
+      "peak_rank": 2,
+      "weeks_on_chart": 27,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 18
+    },
+    {
+      "rv_rank": 3,
+      "title": "Play That Funky Music",
+      "artist": "Wild Cherry",
+      "peak_rank": 1,
+      "weeks_on_chart": 25,
+      "weeks_in_top_10": 10,
+      "weeks_in_top_40": 18
+    },
+    {
+      "rv_rank": 4,
+      "title": "Kiss And Say Goodbye",
+      "artist": "The Manhattans",
+      "peak_rank": 1,
+      "weeks_on_chart": 26,
+      "weeks_in_top_10": 9,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 5,
+      "title": "Sara Smile",
+      "artist": "Daryl Hall undefined John Oates",
+      "peak_rank": 4,
+      "weeks_on_chart": 28,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 6,
+      "title": "I'd Really Love To See You Tonight",
+      "artist": "England Dan",
+      "peak_rank": 2,
+      "weeks_on_chart": 24,
+      "weeks_in_top_10": 10,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 7,
+      "title": "(Shake, Shake, Shake) Shake Your Booty",
+      "artist": "Kc And The Sunshine Band",
+      "peak_rank": 1,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 11,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 8,
+      "title": "December, 1963 (Oh, What a Night)",
+      "artist": "The 4 Seasons",
+      "peak_rank": 1,
+      "weeks_on_chart": 26,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 9,
+      "title": "Disco Duck (Part I)",
+      "artist": "Rick Dees",
+      "peak_rank": 1,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 10,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 10,
+      "title": "Misty Blue",
+      "artist": "Dorothy Moore",
+      "peak_rank": 3,
+      "weeks_on_chart": 22,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 11,
+      "title": "If You Leave Me Now",
+      "artist": "Chicago",
+      "peak_rank": 1,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 9,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 12,
+      "title": "Silly Love Songs",
+      "artist": "Wings",
+      "peak_rank": 1,
+      "weeks_on_chart": 19,
+      "weeks_in_top_10": 11,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 13,
+      "title": "Lowdown",
+      "artist": "Boz Scaggs",
+      "peak_rank": 3,
+      "weeks_on_chart": 22,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 14,
+      "title": "More, More, More Pt. 1",
+      "artist": "Andrea True Connection",
+      "peak_rank": 4,
+      "weeks_on_chart": 25,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 15,
+      "title": "Get Closer",
+      "artist": "Seals",
+      "peak_rank": 6,
+      "weeks_on_chart": 26,
+      "weeks_in_top_10": 4,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 16,
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "peak_rank": 9,
+      "weeks_on_chart": 24,
+      "weeks_in_top_10": 3,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 17,
+      "title": "Get Up And Boogie (That's Right)",
+      "artist": "Silver Convention",
+      "peak_rank": 2,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 9,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 18,
+      "title": "Boogie Fever",
+      "artist": "The Sylvers",
+      "peak_rank": 1,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 19,
+      "title": "Right Back Where We Started From",
+      "artist": "Maxine Nightingale",
+      "peak_rank": 2,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 20,
+      "title": "Love Machine (Part 1)",
+      "artist": "The Miracles",
+      "peak_rank": 1,
+      "weeks_on_chart": 18,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 21,
+      "title": "Don't Go Breaking My Heart",
+      "artist": "Elton John",
+      "peak_rank": 1,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 22,
+      "title": "You'll Never Find Another Love Like Mine",
+      "artist": "Lou Rawls",
+      "peak_rank": 2,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 13
+    },
+    {
+      "rv_rank": 23,
+      "title": "Dream Weaver",
+      "artist": "Gary Wright",
+      "peak_rank": 2,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 24,
+      "title": "Afternoon Delight",
+      "artist": "Starland Vocal Band",
+      "peak_rank": 1,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 25,
+      "title": "Moonlight Feels Right",
+      "artist": "Starbuck",
+      "peak_rank": 3,
+      "weeks_on_chart": 22,
+      "weeks_in_top_10": 4,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 26,
+      "title": "You Should Be Dancing",
+      "artist": "Bee Gees",
+      "peak_rank": 1,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 12
+    },
+    {
+      "rv_rank": 27,
+      "title": "Lonely Night (angel Face)",
+      "artist": "Captain",
+      "peak_rank": 3,
+      "weeks_on_chart": 19,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 13
+    },
+    {
+      "rv_rank": 28,
+      "title": "Take It To The Limit",
+      "artist": "Eagles",
+      "peak_rank": 4,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 29,
+      "title": "Sweet Love",
+      "artist": "Commodores",
+      "peak_rank": 5,
+      "weeks_on_chart": 22,
+      "weeks_in_top_10": 4,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 30,
+      "title": "Disco Lady",
+      "artist": "Johnnie Taylor",
+      "peak_rank": 1,
+      "weeks_on_chart": 19,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 13
+    },
+    {
+      "rv_rank": 31,
+      "title": "Only Sixteen",
+      "artist": "Dr. Hook",
+      "peak_rank": 6,
+      "weeks_on_chart": 22,
+      "weeks_in_top_10": 3,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 32,
+      "title": "Love Hangover",
+      "artist": "Diana Ross",
+      "peak_rank": 1,
+      "weeks_on_chart": 18,
+      "weeks_in_top_10": 9,
+      "weeks_in_top_40": 13
+    },
+    {
+      "rv_rank": 33,
+      "title": "She's Gone",
+      "artist": "Daryl Hall undefined John Oates",
+      "peak_rank": 7,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 34,
+      "title": "The Wreck Of The Edmund Fitzgerald",
+      "artist": "Gordon Lightfoot",
+      "peak_rank": 2,
+      "weeks_on_chart": 18,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 13
+    },
+    {
+      "rv_rank": 35,
+      "title": "All By Myself",
+      "artist": "Eric Carmen",
+      "peak_rank": 2,
+      "weeks_on_chart": 17,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 36,
+      "title": "A Little Bit More",
+      "artist": "Dr. Hook",
+      "peak_rank": 11,
+      "weeks_on_chart": 24,
+      "weeks_in_top_10": 0,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 37,
+      "title": "Rock'n Me",
+      "artist": "Steve Miller",
+      "peak_rank": 1,
+      "weeks_on_chart": 18,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 38,
+      "title": "Golden Years",
+      "artist": "David Bowie",
+      "peak_rank": 10,
+      "weeks_on_chart": 18,
+      "weeks_in_top_10": 2,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 39,
+      "title": "Let Your Love Flow",
+      "artist": "The Bellamy Brothers",
+      "peak_rank": 1,
+      "weeks_on_chart": 19,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 12
+    },
+    {
+      "rv_rank": 40,
+      "title": "Shannon",
+      "artist": "Henry Gross",
+      "peak_rank": 6,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 13
+    }
+  ]
+}

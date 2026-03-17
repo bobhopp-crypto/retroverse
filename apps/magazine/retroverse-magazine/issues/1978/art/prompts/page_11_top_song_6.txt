@@ -1,0 +1,64 @@
+RetroVerse page art brief
+
+Target page: 1978 / top_song_6
+Page slug: top_song_6
+Page number: 11
+Page title to be overlaid later: 06. Can't Smile Without You — Barry Manilow
+Story anchor to be overlaid later: Top Song #6
+Illustration role: INFOGRAPHIC_ARTIST
+Studio responsibility: Build restrained background structures for chart, stat, snapshot, and timeline pages without replacing the real data overlay.
+
+Role-specific prompt framing:
+- Treat the artwork as diagram-like background support for editorial data overlays.
+- Use simplified composition, modular framing shapes, spatial grouping, and icon-level cues rather than cinematic action.
+- Suggest labeled elements, tracks, timelines, or chart scaffolding without rendering any readable labels, axes, tables, or numbers.
+- Keep the background restrained and structured so editorial data remains the dominant layer.
+
+Page purpose:
+Present 06. Can't Smile Without You — Barry Manilow as a complete RetroVerse 1978 top song page page, with page-aware artwork under real typography and no text baked into the illustration layer for `top_song_6`.
+
+Story summary:
+06. Can't Smile Without You — Barry Manilow Top Song #6 By the time this chorus lands, the whole record feels like a conversation. "Can't Smile Without You" did not peak at #1, but its performance still stands out: score 382, peak #3, and 19 chart weeks. This is where 1978 gets interesting. Not every defining song is a chart-topper. Some become fixtures because people keep returning to the sentiment. The song’s tone is open and human-sized, and that emotional accessibility is exactly what gave it long life in the year. Data Snapshot Artist: Barry Manilow Weeks on chart: 19 Peak position: #3 RetroVerse yearly score: 382
+
+Scene description:
+A chart-room or radio-control environment for 1978, with directional graphic rhythm and clean statistic zones.
+
+Style instructions:
+- Support numeric storytelling with graphic rhythm, framing, and icon-level cues rather than finished charts.
+- Keep backgrounds quieter and more modular than feature-scene artwork.
+- Never render legible data labels, axes, tables, or ranking text into the art layer.
+
+Composition:
+- information-forward full-page background with modular overlay zones
+- Orientation: portrait
+- Mood: editorial and period-aware
+- Color palette: warm paper stock, halftone black, amber, teal, and late-70s saturated accent colors
+
+Visual hierarchy:
+- Primary focal area supports 06. Can't Smile Without You — Barry Manilow.
+- Secondary props reinforce `top_song_6` without competing with text zones.
+- Negative space stays calm inside title, body, sidebar, and footer zones.
+- Background shapes should guide the eye without competing with charts, stat boxes, or data overlays.
+
+Protected text-safe zones:
+- title_zone: x=7%, y=6%, width=54%, height=14%, unit=percent
+- body_zone: x=7%, y=24%, width=55%, height=60%, unit=percent
+- sidebar_zone: x=65%, y=24%, width=24%, height=56%, unit=percent
+- footer_zone: x=7%, y=93%, width=86%, height=3%, unit=percent
+
+Illustration rules:
+- no readable text inside artwork
+- DO NOT RENDER FINAL TEXT INTO THE ARTWORK.
+- Do not render readable article body text.
+- Do not render chart or table text.
+- Do not render fake production typography.
+- Do not render magazine headlines, page titles, pull quotes, sidebars, or page furniture.
+- Only environmental/signage text is allowed, and only if it is natural, minimal, and subordinate.
+- Preserve open space for title, body, sidebar, and footer placement.
+- Treat the artwork as a background asset used by the layout engine.
+
+RetroVerse Easter egg rule:
+- Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography.
+
+Global artwork constraint:
+- editorial illustration only, background artwork, no text, no typography, no lettering, no numbers, no logos, no signage, no readable symbols. Leave clean open space near the top of the composition for magazine masthead placement.

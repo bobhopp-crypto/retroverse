@@ -1,0 +1,33 @@
+Create a vertical 720x1280 collectible chart card designed as a printed promotional artifact from 1974.
+
+Style: authentic 1970s print design. Limited ink palette (3-4 colors max). Flat ink fills only. No gradients. No glow. No photorealism. No cinematic lighting.
+
+Include subtle paper grain and slight ink registration imperfections. The image must feel physically printed on textured paper.
+
+Illustration: hand-inked, symbolic, minimal detail. Flat shading. No realistic faces. No modern digital rendering style.
+
+Typography: bold period-authentic serif. Strong hierarchy. Slightly imperfect print alignment allowed. Must be legible.
+
+Layout:
+
+Large ceremonial rank display.
+Song title dominant.
+Artist name secondary.
+Weeks on chart and peak position in simple boxed panels.
+Subtle decorative frame appropriate to 1974 print design.
+
+Content:
+Rank: 2
+Title: Don't Let The Sun Go Down On Me
+Artist: Elton John
+Weeks on Chart: 7
+Peak Position: 2
+Ambient lines (neutral historical context only):
+
+
+The result must look like a real printed chart card that could have existed in 1974.
+
+Resolved layout logic (computed in code): Large ceremonial rank display. Song title dominant. Artist name secondary. Weeks on chart and peak position in simple boxed panels. Subtle decorative frame appropriate to 1974 print design.
+Render resolution override for this run: 720x1280.
+Style version pin: authentic_print_1974_v1.
+Negative block (enforced): no gradients, no glow, no photorealism, no cinematic lighting, no realistic faces, no modern digital rendering style.

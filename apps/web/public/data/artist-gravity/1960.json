@@ -1,0 +1,294 @@
+[
+  {
+    "artist": "Connie Francis",
+    "score": 481.6
+  },
+  {
+    "artist": "Brenda Lee",
+    "score": 395.4
+  },
+  {
+    "artist": "The Everly Brothers",
+    "score": 382.7
+  },
+  {
+    "artist": "Elvis Presley",
+    "score": 301.4
+  },
+  {
+    "artist": "Bobby Rydell",
+    "score": 293.3
+  },
+  {
+    "artist": "Paul Anka",
+    "score": 287.6
+  },
+  {
+    "artist": "Jimmy Jones",
+    "score": 198.2
+  },
+  {
+    "artist": "Johnny Horton",
+    "score": 196.4
+  },
+  {
+    "artist": "Jack Scott",
+    "score": 195.3
+  },
+  {
+    "artist": "Johnny Preston",
+    "score": 195.1
+  },
+  {
+    "artist": "Roy Orbison",
+    "score": 192.5
+  },
+  {
+    "artist": "Hank Ballard And The Midnighters",
+    "score": 191.2
+  },
+  {
+    "artist": "Jackie Wilson",
+    "score": 191
+  },
+  {
+    "artist": "Dinah Washington",
+    "score": 190.8
+  },
+  {
+    "artist": "Ferrante",
+    "score": 188.8
+  },
+  {
+    "artist": "Anita Bryant",
+    "score": 188.1
+  },
+  {
+    "artist": "Steve Lawrence",
+    "score": 186.5
+  },
+  {
+    "artist": "Percy Faith And His Orchestra",
+    "score": 101.1
+  },
+  {
+    "artist": "Chubby Checker",
+    "score": 100.8
+  },
+  {
+    "artist": "The Drifters",
+    "score": 100.8
+  },
+  {
+    "artist": "Mark Dinning",
+    "score": 100.6
+  },
+  {
+    "artist": "Brian Hyland",
+    "score": 100.5
+  },
+  {
+    "artist": "Hollywood Argyles",
+    "score": 100.5
+  },
+  {
+    "artist": "Marty Robbins",
+    "score": 100.4
+  },
+  {
+    "artist": "Maurice Williams",
+    "score": 100.4
+  },
+  {
+    "artist": "Larry Verne",
+    "score": 100.3
+  },
+  {
+    "artist": "Ray Charles",
+    "score": 100.3
+  },
+  {
+    "artist": "Jim Reeves",
+    "score": 100.2
+  },
+  {
+    "artist": "The Brothers Four",
+    "score": 100
+  },
+  {
+    "artist": "The Ventures",
+    "score": 99.8
+  },
+  {
+    "artist": "Sam Cooke",
+    "score": 99.6
+  },
+  {
+    "artist": "Connie Stevens",
+    "score": 99.4
+  },
+  {
+    "artist": "Floyd Cramer",
+    "score": 99.3
+  },
+  {
+    "artist": "Johnny Tillotson",
+    "score": 99.3
+  },
+  {
+    "artist": "Frankie Avalon",
+    "score": 99
+  },
+  {
+    "artist": "Bert Kaempfert And His Orchestra",
+    "score": 98.8
+  },
+  {
+    "artist": "Dion",
+    "score": 98.5
+  },
+  {
+    "artist": "Joe Jones",
+    "score": 98.3
+  },
+  {
+    "artist": "Kathy Young",
+    "score": 98.1
+  },
+  {
+    "artist": "Miss Toni Fisher",
+    "score": 98
+  },
+  {
+    "artist": "Freddie Cannon",
+    "score": 97.9
+  },
+  {
+    "artist": "Duane Eddy And The Rebels",
+    "score": 97.5
+  },
+  {
+    "artist": "Jeanne Black",
+    "score": 97.1
+  },
+  {
+    "artist": "The Fendermen",
+    "score": 96.8
+  },
+  {
+    "artist": "Jimmy Charles And The Revelletts",
+    "score": 96.5
+  },
+  {
+    "artist": "The Browns",
+    "score": 96.5
+  },
+  {
+    "artist": "Jimmy Clanton",
+    "score": 96.2
+  },
+  {
+    "artist": "Lolita",
+    "score": 96.1
+  },
+  {
+    "artist": "Bobby Vee",
+    "score": 95.9
+  },
+  {
+    "artist": "Safaris",
+    "score": 95.8
+  },
+  {
+    "artist": "Bobby Darin",
+    "score": 95.4
+  },
+  {
+    "artist": "Conway Twitty",
+    "score": 95.4
+  },
+  {
+    "artist": "Fats Domino",
+    "score": 95.4
+  },
+  {
+    "artist": "U.s. Bonds",
+    "score": 95.2
+  },
+  {
+    "artist": "Billy Bland",
+    "score": 95
+  },
+  {
+    "artist": "Donnie Brooks",
+    "score": 95
+  },
+  {
+    "artist": "Ron Holden",
+    "score": 94.9
+  },
+  {
+    "artist": "Brook Benton",
+    "score": 94.7
+  },
+  {
+    "artist": "Guy Mitchell",
+    "score": 94.7
+  },
+  {
+    "artist": "Bob Luman",
+    "score": 94.4
+  },
+  {
+    "artist": "Ray Peterson",
+    "score": 94.4
+  },
+  {
+    "artist": "Hank Locklin",
+    "score": 94.2
+  },
+  {
+    "artist": "Andy Williams",
+    "score": 94
+  },
+  {
+    "artist": "Jerry Butler",
+    "score": 94
+  },
+  {
+    "artist": "The Platters",
+    "score": 93.6
+  },
+  {
+    "artist": "Johnny Burnette",
+    "score": 93
+  },
+  {
+    "artist": "The Ivy Three",
+    "score": 93
+  },
+  {
+    "artist": "Neil Sedaka",
+    "score": 92.5
+  },
+  {
+    "artist": "Bill Black's Combo",
+    "score": 92.4
+  },
+  {
+    "artist": "The Little Dippers",
+    "score": 92.4
+  },
+  {
+    "artist": "Marv Johnson",
+    "score": 92.3
+  },
+  {
+    "artist": "Rosie And The Originals",
+    "score": 91.4
+  },
+  {
+    "artist": "Annette",
+    "score": 91.2
+  }
+]

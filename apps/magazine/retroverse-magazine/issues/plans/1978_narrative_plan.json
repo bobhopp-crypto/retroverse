@@ -1,0 +1,619 @@
+{
+  "year": 1978,
+  "year_identity": {
+    "primary_music_story": "Crossover soundtrack culture pushed songs and albums into the same mainstream spotlight",
+    "secondary_music_story": "Artist-level staying power remained strong, with Bee Gees and other repeat names anchoring the year",
+    "sonic_character": "Bright, dance-forward, and momentum-heavy with a glossy mainstream edge",
+    "editorial_angle": "1978 reads as a year of cultural motion: weekly chart volatility, durable album stories, and headline tracks such as Stayin' Alive \u2014 Bee Gees acting as connective tissue."
+  },
+  "table_of_contents": {
+    "cover_feature": [
+      {
+        "title": "Crossover soundtrack culture pushed songs and albums into the same mainstream spotlight",
+        "format": "feature",
+        "source_basis": [
+          "top_songs",
+          "artist_power_index",
+          "sonic_profile"
+        ]
+      },
+      {
+        "title": "The Year in One Data Narrative",
+        "format": "visual explainer",
+        "source_basis": [
+          "chart_dynamics",
+          "album_dynamics",
+          "context_sources"
+        ]
+      }
+    ],
+    "music_features": [
+      {
+        "title": "How the Top 10 Sounded Week to Week",
+        "format": "chart breakdown",
+        "source_basis": [
+          "top_songs",
+          "sonic_profile"
+        ]
+      },
+      {
+        "title": "Artists Who Controlled the Year",
+        "format": "profile",
+        "source_basis": [
+          "artist_power_index",
+          "top_artists"
+        ]
+      },
+      {
+        "title": "Breakout Momentum: Stayin' Alive \u2014 Bee Gees",
+        "format": "short narrative",
+        "source_basis": [
+          "chart_dynamics.fastest_risers"
+        ]
+      }
+    ],
+    "chart_watch": [
+      {
+        "title": "Fastest Risers and Fastest Fallers",
+        "format": "chart breakdown",
+        "source_basis": [
+          "chart_dynamics.fastest_risers",
+          "chart_dynamics.fastest_fallers"
+        ]
+      },
+      {
+        "title": "The Long Run: Top 10 and Full-Chart Endurance",
+        "format": "timeline",
+        "source_basis": [
+          "chart_dynamics.longest_top10_runs",
+          "chart_dynamics.longest_chart_runs"
+        ]
+      },
+      {
+        "title": "The #2 Ceiling and Near-Miss Zone",
+        "format": "list",
+        "source_basis": [
+          "chart_dynamics.longest_number_two_streaks",
+          "chart_dynamics.near_miss_hits"
+        ]
+      }
+    ],
+    "albums_and_artists": [
+      {
+        "title": "Album Dominance Map",
+        "format": "chart breakdown",
+        "source_basis": [
+          "albums.top_albums",
+          "album_dynamics.longest_number_one_runs"
+        ]
+      },
+      {
+        "title": "Longest Album Reign: Saturday Night Fever \u2014 Soundtrack",
+        "format": "short narrative",
+        "source_basis": [
+          "album_dynamics.longest_number_one_runs"
+        ]
+      },
+      {
+        "title": "Slow Climbs to #1",
+        "format": "timeline",
+        "source_basis": [
+          "album_dynamics.slowest_climb_to_number_one"
+        ]
+      }
+    ],
+    "screen_tv_film": [
+      {
+        "title": "Film Pulse: {'rank': 1, 'title': 'Grease', 'note': 'Musical blockbuster with broad repeat attendance.'} and the Year\u2019s Screen Mood",
+        "format": "list",
+        "source_basis": [
+          "movies",
+          "cultural_events"
+        ]
+      },
+      {
+        "title": "Television Baseline: {'title': 'Mork and Mindy', 'network': 'ABC', 'note': 'Fast-rising comedy with broad cultural pickup.'}",
+        "format": "short narrative",
+        "source_basis": [
+          "television"
+        ]
+      }
+    ],
+    "cultural_snapshot": [
+      {
+        "title": "Ten Headlines That Framed the Year",
+        "format": "timeline",
+        "source_basis": [
+          "cultural_events"
+        ]
+      },
+      {
+        "title": "Mainstream Attention Economy: Music, Film, TV",
+        "format": "visual explainer",
+        "source_basis": [
+          "top_songs",
+          "movies",
+          "television"
+        ]
+      }
+    ],
+    "sidebars_fast_facts": [
+      {
+        "title": "Eight Chart Highlight Callouts",
+        "format": "sidebar",
+        "source_basis": [
+          "chart_dynamics",
+          "album_dynamics"
+        ]
+      },
+      {
+        "title": "Sonic Fingerprint Card",
+        "format": "data card set",
+        "source_basis": [
+          "sonic_profile",
+          "sonic_extremes"
+        ]
+      },
+      {
+        "title": "If You Only Know Three Tracks",
+        "format": "list",
+        "source_basis": [
+          "top_songs",
+          "artist_power_index"
+        ]
+      }
+    ],
+    "visual_concepts": [
+      {
+        "title": "Disco Floor Momentum Spread",
+        "format": "visual explainer",
+        "source_basis": [
+          "year_identity",
+          "sonic_profile"
+        ]
+      },
+      {
+        "title": "Chart Volatility Grids",
+        "format": "data card set",
+        "source_basis": [
+          "chart_dynamics"
+        ]
+      },
+      {
+        "title": "Album Reign Timeline",
+        "format": "data card set",
+        "source_basis": [
+          "album_dynamics"
+        ]
+      }
+    ]
+  },
+  "story_assignments": [
+    {
+      "id": "story_001",
+      "title": "Crossover soundtrack culture pushed songs and albums into the same mainstream spotlight",
+      "category": "cover_feature",
+      "format": "feature",
+      "rationale": "The primary narrative is directly supported by chart leadership, artist concentration, and sonic profile signals.",
+      "source_basis": [
+        "top_songs",
+        "artist_power_index",
+        "sonic_profile",
+        "chart_dynamics.longest_top10_runs"
+      ],
+      "priority": "high",
+      "estimated_length": "long",
+      "reusable_for": [
+        "magazine",
+        "slideshow",
+        "live event script"
+      ]
+    },
+    {
+      "id": "story_002",
+      "title": "Bee Gees: The Year\u2019s Power Curve",
+      "category": "music_features",
+      "format": "profile",
+      "rationale": "Artist Power Index and repeat chart placement identify this as a high-leverage profile for the issue spine.",
+      "source_basis": [
+        "artist_power_index",
+        "top_artists",
+        "chart_dynamics.longest_chart_runs"
+      ],
+      "priority": "high",
+      "estimated_length": "medium",
+      "reusable_for": [
+        "magazine",
+        "social",
+        "timeline cards"
+      ]
+    },
+    {
+      "id": "story_003",
+      "title": "From Debut to Top 10: Stayin' Alive \u2014 Bee Gees",
+      "category": "music_features",
+      "format": "short narrative",
+      "rationale": "A representative lead track provides a concrete path through weekly momentum and mainstream reception.",
+      "source_basis": [
+        "top_songs",
+        "chart_dynamics.slow_burn_hits",
+        "chart_dynamics.longest_top10_runs"
+      ],
+      "priority": "high",
+      "estimated_length": "medium",
+      "reusable_for": [
+        "magazine",
+        "trivia",
+        "social"
+      ]
+    },
+    {
+      "id": "story_004",
+      "title": "Fastest Climb of the Year: Stayin' Alive \u2014 Bee Gees",
+      "category": "chart_watch",
+      "format": "chart breakdown",
+      "rationale": "Largest single-week rise offers a clean data-first chart movement story.",
+      "source_basis": [
+        "chart_dynamics.fastest_risers",
+        "chart_dynamics.largest_single_week_jump"
+      ],
+      "priority": "high",
+      "estimated_length": "short",
+      "reusable_for": [
+        "magazine",
+        "timeline cards",
+        "slideshow"
+      ]
+    },
+    {
+      "id": "story_005",
+      "title": "Sharpest Drop on the Board: Hot Shot \u2014 Karen Young",
+      "category": "chart_watch",
+      "format": "chart breakdown",
+      "rationale": "Largest week-over-week decline adds contrast and helps explain volatility in the same cycle.",
+      "source_basis": [
+        "chart_dynamics.fastest_fallers",
+        "chart_dynamics.largest_single_week_drop"
+      ],
+      "priority": "medium",
+      "estimated_length": "short",
+      "reusable_for": [
+        "magazine",
+        "trivia",
+        "social"
+      ]
+    },
+    {
+      "id": "story_006",
+      "title": "Album Gravity: Saturday Night Fever \u2014 Soundtrack",
+      "category": "albums_and_artists",
+      "format": "feature",
+      "rationale": "Album-level duration and number-one persistence justify a dedicated long-form album dominance piece.",
+      "source_basis": [
+        "albums.top_albums",
+        "album_dynamics.longest_number_one_runs",
+        "albums.dominant_artists"
+      ],
+      "priority": "high",
+      "estimated_length": "long",
+      "reusable_for": [
+        "magazine",
+        "slideshow",
+        "live event script"
+      ]
+    },
+    {
+      "id": "story_007",
+      "title": "Slow Climb, Big Payoff: Rumours \u2014 Fleetwood Mac",
+      "category": "albums_and_artists",
+      "format": "timeline",
+      "rationale": "Weeks-to-#1 pattern reveals long-arc adoption behavior that differs from singles velocity.",
+      "source_basis": [
+        "album_dynamics.slowest_climb_to_number_one",
+        "albums.top_albums"
+      ],
+      "priority": "medium",
+      "estimated_length": "medium",
+      "reusable_for": [
+        "magazine",
+        "timeline cards",
+        "social"
+      ]
+    },
+    {
+      "id": "story_008",
+      "title": "Screen-Year Pulse: {'rank': 1, 'title': 'Grease', 'note': 'Musical blockbuster with broad repeat attendance.'}",
+      "category": "screen_tv_film",
+      "format": "list",
+      "rationale": "Film list plus event timeline supports a concise screen-culture readout tied to the same year context.",
+      "source_basis": [
+        "movies",
+        "cultural_events"
+      ],
+      "priority": "medium",
+      "estimated_length": "short",
+      "reusable_for": [
+        "magazine",
+        "social",
+        "slideshow"
+      ]
+    },
+    {
+      "id": "story_009",
+      "title": "Television in the Room: {'title': 'Mork and Mindy', 'network': 'ABC', 'note': 'Fast-rising comedy with broad cultural pickup.'}",
+      "category": "screen_tv_film",
+      "format": "short narrative",
+      "rationale": "TV rankings anchor a practical companion piece to the film spread.",
+      "source_basis": [
+        "television",
+        "cultural_events"
+      ],
+      "priority": "medium",
+      "estimated_length": "short",
+      "reusable_for": [
+        "magazine",
+        "social"
+      ]
+    },
+    {
+      "id": "story_010",
+      "title": "The Week-by-Week Yearline",
+      "category": "cultural_snapshot",
+      "format": "timeline",
+      "rationale": "A compact chronology maps headlines, chart turns, and screen signals into one shared frame.",
+      "source_basis": [
+        "cultural_events",
+        "chart_dynamics",
+        "album_dynamics"
+      ],
+      "priority": "high",
+      "estimated_length": "medium",
+      "reusable_for": [
+        "magazine",
+        "timeline cards",
+        "live event script"
+      ]
+    },
+    {
+      "id": "story_011",
+      "title": "Almost Hits: Can't Smile Without You \u2014 Barry Manilow",
+      "category": "sidebars_fast_facts",
+      "format": "sidebar",
+      "rationale": "Near-miss records are highly reusable and work well as quick-reference editorial modules.",
+      "source_basis": [
+        "chart_dynamics.near_miss_hits"
+      ],
+      "priority": "medium",
+      "estimated_length": "short",
+      "reusable_for": [
+        "magazine",
+        "trivia",
+        "bingo",
+        "social"
+      ]
+    },
+    {
+      "id": "story_012",
+      "title": "Sonic Fingerprint Card Set",
+      "category": "sidebars_fast_facts",
+      "format": "data card set",
+      "rationale": "Audio-feature aggregates and extremes produce durable sidebars for print and digital reuse.",
+      "source_basis": [
+        "sonic_profile",
+        "sonic_extremes",
+        "context_sources"
+      ],
+      "priority": "high",
+      "estimated_length": "short",
+      "reusable_for": [
+        "magazine",
+        "social",
+        "timeline cards",
+        "slideshow"
+      ]
+    }
+  ],
+  "chart_highlights": [
+    {
+      "label": "Fastest Climber",
+      "subject": "Stayin' Alive \u2014 Bee Gees",
+      "short_summary": "Made the sharpest upward weekly move on the Hot 100 in the target year.",
+      "source_basis": "chart_dynamics.fastest_risers"
+    },
+    {
+      "label": "Biggest Faller",
+      "subject": "Hot Shot \u2014 Karen Young",
+      "short_summary": "Posted the steepest single-week drop among charted songs.",
+      "source_basis": "chart_dynamics.fastest_fallers"
+    },
+    {
+      "label": "Longest Top 10 Run",
+      "subject": "Hot Child In The City \u2014 Nick Gilder",
+      "short_summary": "Stayed in the Top 10 longer than any other song in the year snapshot.",
+      "source_basis": "chart_dynamics.longest_top10_runs"
+    },
+    {
+      "label": "Longest Chart Run",
+      "subject": "Hot Child In The City \u2014 Nick Gilder",
+      "short_summary": "Logged the longest overall Hot 100 run for the year.",
+      "source_basis": "chart_dynamics.longest_chart_runs"
+    },
+    {
+      "label": "Longest #2 Song",
+      "subject": "Baker Street \u2014 Gerry Rafferty",
+      "short_summary": "Spent the most time at rank #2 without owning the #1 slot for that stretch.",
+      "source_basis": "chart_dynamics.longest_number_two_streaks"
+    },
+    {
+      "label": "Strongest Near-Miss Hit",
+      "subject": "Can't Smile Without You \u2014 Barry Manilow",
+      "short_summary": "Peaked in the 41-45 zone while never officially entering the Top 40.",
+      "source_basis": "chart_dynamics.near_miss_hits"
+    },
+    {
+      "label": "Longest #1 Album Run",
+      "subject": "Saturday Night Fever \u2014 Soundtrack",
+      "short_summary": "Held the top album position longer than any competing release that year.",
+      "source_basis": "album_dynamics.longest_number_one_runs"
+    },
+    {
+      "label": "Slowest Climb to #1 Album",
+      "subject": "Rumours \u2014 Fleetwood Mac",
+      "short_summary": "Took the longest runway to reach the #1 album position.",
+      "source_basis": "album_dynamics.slowest_climb_to_number_one"
+    }
+  ],
+  "year_snapshot_boxes": [
+    {
+      "title": "If You Only Knew 3 Songs",
+      "type": "quick picks",
+      "summary": "Stayin' Alive \u2014 Bee Gees; Night Fever \u2014 Bee Gees; (Love Is) Thicker Than Water \u2014 Andy Gibb",
+      "supporting_sources": [
+        "top_songs",
+        "artist_power_index"
+      ]
+    },
+    {
+      "title": "Albums That Defined the Room",
+      "type": "album stack",
+      "summary": "The Stranger \u2014 Billy Joel; Saturday Night Fever \u2014 Soundtrack; Running On Empty \u2014 Jackson Browne",
+      "supporting_sources": [
+        "albums.top_albums",
+        "album_dynamics.longest_number_one_runs"
+      ]
+    },
+    {
+      "title": "The Sound of the Year",
+      "type": "sonic profile",
+      "summary": "Avg danceability 0.64, energy 0.67, valence 0.57; 49% of tracks clear the danceable threshold.",
+      "supporting_sources": [
+        "sonic_profile",
+        "sonic_extremes"
+      ]
+    },
+    {
+      "title": "Hits That Almost Broke Through",
+      "type": "near miss",
+      "summary": "Can't Smile Without You \u2014 Barry Manilow; Lay Down Sally \u2014 Eric Clapton; Emotion \u2014 Samantha Sang",
+      "supporting_sources": [
+        "chart_dynamics.near_miss_hits"
+      ]
+    },
+    {
+      "title": "Movies Everyone Was Talking About",
+      "type": "screen pulse",
+      "summary": "{'rank': 1, 'title': 'Grease', 'note': 'Musical blockbuster with broad repeat attendance.'}; {'rank': 2, 'title': 'Superman', 'note': 'Holiday-season event release with major theatrical draw.'}; {'rank': 3, 'title': 'Animal House', 'note': 'Campus comedy breakout with durable audience momentum.'}",
+      "supporting_sources": [
+        "movies",
+        "cultural_events"
+      ]
+    },
+    {
+      "title": "TV in the Background of America",
+      "type": "broadcast baseline",
+      "summary": "{'title': 'Mork and Mindy', 'network': 'ABC', 'note': 'Fast-rising comedy with broad cultural pickup.'}; {'title': 'WKRP in Cincinnati', 'network': 'CBS', 'note': 'Radio workplace comedy tuned to music-era sensibility.'}; {'title': 'Taxi', 'network': 'ABC', 'note': 'Character-focused comedy with emotional range.'}",
+      "supporting_sources": [
+        "television"
+      ]
+    },
+    {
+      "title": "Power Artist Snapshot",
+      "type": "data card",
+      "summary": "Bee Gees leads the blended singles/album score model.",
+      "supporting_sources": [
+        "artist_power_index"
+      ]
+    },
+    {
+      "title": "Editorial Angle in One Line",
+      "type": "angle",
+      "summary": "1978 reads as a year of cultural motion: weekly chart volatility, durable album stories, and headline tracks such as Stayin' Alive \u2014 Bee Gees acting as connective tissue.",
+      "supporting_sources": [
+        "year_identity",
+        "context_sources",
+        "chart_dynamics",
+        "album_dynamics"
+      ]
+    }
+  ],
+  "visual_concepts": [
+    {
+      "concept_name": "Momentum City Night",
+      "intended_story": "Crossover soundtrack culture pushed songs and albums into the same mainstream spotlight",
+      "visual_theme": "Neon nightlife + dense crowd motion + reflective textures",
+      "key_objects": [
+        "dance floor lights",
+        "record sleeves",
+        "street marquees",
+        "radio dial"
+      ],
+      "mood": "kinetic / social / bright",
+      "dependency": "article must be written first"
+    },
+    {
+      "concept_name": "Chart Velocity Grid",
+      "intended_story": "Fastest Climb of the Year",
+      "visual_theme": "Weekly rank movement as slanted arrow fields and heat bands",
+      "key_objects": [
+        "rank arrows",
+        "week labels",
+        "peak markers",
+        "jump callouts"
+      ],
+      "mood": "analytic / high-contrast / fast",
+      "dependency": "article must be written first"
+    },
+    {
+      "concept_name": "Album Reign Corridor",
+      "intended_story": "Album Gravity feature",
+      "visual_theme": "Long hallway of stacked album spines and #1 checkpoints",
+      "key_objects": [
+        "album spines",
+        "calendar strip",
+        "number-one badges",
+        "artist silhouettes"
+      ],
+      "mood": "steady / monumental / archival",
+      "dependency": "article must be written first"
+    },
+    {
+      "concept_name": "Near-Miss Bulletin Board",
+      "intended_story": "Almost Hits sidebar",
+      "visual_theme": "Pinned index cards for songs that nearly entered Top 40",
+      "key_objects": [
+        "bulletin pins",
+        "rank tags",
+        "mini charts",
+        "annotated notes"
+      ],
+      "mood": "curious / playful / investigative",
+      "dependency": "article must be written first"
+    },
+    {
+      "concept_name": "Sonic Fingerprint Dashboard",
+      "intended_story": "Sonic Fingerprint Card Set",
+      "visual_theme": "Analog-meets-data panel with dials for danceability, energy, valence",
+      "key_objects": [
+        "VU meters",
+        "tempo arc",
+        "mood gauge",
+        "track callouts"
+      ],
+      "mood": "technical / tactile / editorial",
+      "dependency": "article must be written first"
+    },
+    {
+      "concept_name": "Screen and Living Room Split",
+      "intended_story": "Screen-Year Pulse + Television Baseline",
+      "visual_theme": "Cinema marquee and living room TV as mirrored halves",
+      "key_objects": [
+        "movie marquee",
+        "remote control",
+        "sofa silhouette",
+        "ticket stubs"
+      ],
+      "mood": "domestic / cinematic / period-aware",
+      "dependency": "article must be written first"
+    }
+  ]
+}

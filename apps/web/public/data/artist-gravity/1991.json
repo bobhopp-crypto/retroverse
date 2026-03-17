@@ -1,0 +1,510 @@
+[
+  {
+    "artist": "Mariah Carey",
+    "score": 598.8
+  },
+  {
+    "artist": "Soundtrack",
+    "score": 476.5
+  },
+  {
+    "artist": "Paula Abdul",
+    "score": 398.7
+  },
+  {
+    "artist": "Color Me Badd",
+    "score": 398.2
+  },
+  {
+    "artist": "Michael Bolton",
+    "score": 395.1
+  },
+  {
+    "artist": "Amy Grant",
+    "score": 389.5
+  },
+  {
+    "artist": "C+c Music Factory",
+    "score": 301.5
+  },
+  {
+    "artist": "Boyz Ii Men",
+    "score": 299
+  },
+  {
+    "artist": "Wilson Phillips",
+    "score": 297.9
+  },
+  {
+    "artist": "Bryan Adams",
+    "score": 296
+  },
+  {
+    "artist": "Madonna",
+    "score": 294.9
+  },
+  {
+    "artist": "M.C. Hammer",
+    "score": 293.7
+  },
+  {
+    "artist": "Extreme",
+    "score": 293.4
+  },
+  {
+    "artist": "Roxette",
+    "score": 292.4
+  },
+  {
+    "artist": "Luther Vandross",
+    "score": 287.1
+  },
+  {
+    "artist": "Cathy Dennis",
+    "score": 286.2
+  },
+  {
+    "artist": "Tesla",
+    "score": 274.9
+  },
+  {
+    "artist": "Garth Brooks",
+    "score": 201.6
+  },
+  {
+    "artist": "Whitney Houston",
+    "score": 201.6
+  },
+  {
+    "artist": "Vanilla Ice",
+    "score": 201.4
+  },
+  {
+    "artist": "R.E.M.",
+    "score": 201.1
+  },
+  {
+    "artist": "Gloria Estefan",
+    "score": 200.5
+  },
+  {
+    "artist": "Guns N' Roses",
+    "score": 199.6
+  },
+  {
+    "artist": "Michael Jackson",
+    "score": 198.9
+  },
+  {
+    "artist": "Jesus Jones",
+    "score": 198.4
+  },
+  {
+    "artist": "Sting",
+    "score": 198.4
+  },
+  {
+    "artist": "Bette Midler",
+    "score": 197.5
+  },
+  {
+    "artist": "Bonnie Raitt",
+    "score": 197.5
+  },
+  {
+    "artist": "Hi-five",
+    "score": 195.4
+  },
+  {
+    "artist": "Enigma",
+    "score": 195.2
+  },
+  {
+    "artist": "Chris Isaak",
+    "score": 194.1
+  },
+  {
+    "artist": "Tara Kemp",
+    "score": 194
+  },
+  {
+    "artist": "Janet Jackson",
+    "score": 192.6
+  },
+  {
+    "artist": "Emf",
+    "score": 192.4
+  },
+  {
+    "artist": "Another Bad Creation",
+    "score": 190.6
+  },
+  {
+    "artist": "Rod Stewart",
+    "score": 190.6
+  },
+  {
+    "artist": "Damn Yankees",
+    "score": 189.2
+  },
+  {
+    "artist": "Divinyls",
+    "score": 185.4
+  },
+  {
+    "artist": "Ralph Tresvant",
+    "score": 183.4
+  },
+  {
+    "artist": "Nelson",
+    "score": 182.3
+  },
+  {
+    "artist": "Naughty By Nature",
+    "score": 181.2
+  },
+  {
+    "artist": "Firehouse",
+    "score": 180.5
+  },
+  {
+    "artist": "Inxs",
+    "score": 180.4
+  },
+  {
+    "artist": "Oleta Adams",
+    "score": 180.2
+  },
+  {
+    "artist": "Ll Cool J",
+    "score": 180
+  },
+  {
+    "artist": "Keith Sweat",
+    "score": 175.8
+  },
+  {
+    "artist": "Bell Biv DeVoe",
+    "score": 171.4
+  },
+  {
+    "artist": "N.W.A",
+    "score": 101.9
+  },
+  {
+    "artist": "Natalie Cole",
+    "score": 101.7
+  },
+  {
+    "artist": "Skid Row",
+    "score": 101.7
+  },
+  {
+    "artist": "Van Halen",
+    "score": 101.6
+  },
+  {
+    "artist": "Timmy T",
+    "score": 101.3
+  },
+  {
+    "artist": "The Black Crowes",
+    "score": 101.2
+  },
+  {
+    "artist": "Karyn White",
+    "score": 101
+  },
+  {
+    "artist": "Marky Mark",
+    "score": 101
+  },
+  {
+    "artist": "Londonbeat",
+    "score": 100.9
+  },
+  {
+    "artist": "Metallica",
+    "score": 100.8
+  },
+  {
+    "artist": "The Simpsons",
+    "score": 100.7
+  },
+  {
+    "artist": "Surface",
+    "score": 100.6
+  },
+  {
+    "artist": "Prince And The N.p.g",
+    "score": 100.4
+  },
+  {
+    "artist": "Natural Selection",
+    "score": 100.1
+  },
+  {
+    "artist": "P.m. Dawn",
+    "score": 100.1
+  },
+  {
+    "artist": "Lenny Kravitz",
+    "score": 99.9
+  },
+  {
+    "artist": "Rhythm Syndicate",
+    "score": 99.7
+  },
+  {
+    "artist": "U2",
+    "score": 99.4
+  },
+  {
+    "artist": "Motley Crue",
+    "score": 99.1
+  },
+  {
+    "artist": "Tracie Spencer",
+    "score": 99.1
+  },
+  {
+    "artist": "C+c Music Factory/f. Williams",
+    "score": 99
+  },
+  {
+    "artist": "Stevie B",
+    "score": 99
+  },
+  {
+    "artist": "Styx",
+    "score": 98.9
+  },
+  {
+    "artist": "Ice Cube",
+    "score": 98.7
+  },
+  {
+    "artist": "Rush",
+    "score": 98.5
+  },
+  {
+    "artist": "Scorpions",
+    "score": 98.5
+  },
+  {
+    "artist": "AC/DC",
+    "score": 98.2
+  },
+  {
+    "artist": "Prince And The New Power Generation",
+    "score": 98.1
+  },
+  {
+    "artist": "Celine Dion",
+    "score": 98
+  },
+  {
+    "artist": "D.j. Jazzy Jeff",
+    "score": 97.8
+  },
+  {
+    "artist": "Paul Simon",
+    "score": 97.3
+  },
+  {
+    "artist": "Nirvana",
+    "score": 97.2
+  },
+  {
+    "artist": "Public Enemy",
+    "score": 97.1
+  },
+  {
+    "artist": "The Klf",
+    "score": 96.9
+  },
+  {
+    "artist": "Genesis",
+    "score": 96.5
+  },
+  {
+    "artist": "Queensryche",
+    "score": 96.2
+  },
+  {
+    "artist": "Corina",
+    "score": 96.1
+  },
+  {
+    "artist": "Michael W. Smith",
+    "score": 96.1
+  },
+  {
+    "artist": "Dna",
+    "score": 95.8
+  },
+  {
+    "artist": "Roberta Flack",
+    "score": 95.5
+  },
+  {
+    "artist": "Ub40",
+    "score": 95.5
+  },
+  {
+    "artist": "Rick Astley",
+    "score": 95
+  },
+  {
+    "artist": "Seal",
+    "score": 94.9
+  },
+  {
+    "artist": "Gerardo",
+    "score": 94.8
+  },
+  {
+    "artist": "Bob Seger & The Silver Bullet Band",
+    "score": 94.6
+  },
+  {
+    "artist": "The Escape Club",
+    "score": 94.5
+  },
+  {
+    "artist": "Ozzy Osbourne",
+    "score": 94.3
+  },
+  {
+    "artist": "Phil Collins",
+    "score": 94.2
+  },
+  {
+    "artist": "Will To Power",
+    "score": 94.1
+  },
+  {
+    "artist": "Aaron Neville",
+    "score": 94
+  },
+  {
+    "artist": "Black Box",
+    "score": 93.8
+  },
+  {
+    "artist": "Crystal Waters",
+    "score": 93.6
+  },
+  {
+    "artist": "Cece Peniston",
+    "score": 93.4
+  },
+  {
+    "artist": "Curtis Stigers",
+    "score": 92.7
+  },
+  {
+    "artist": "George Michael",
+    "score": 91.8
+  },
+  {
+    "artist": "Poison",
+    "score": 91
+  },
+  {
+    "artist": "Stevie Ray Vaughan And Double Trouble",
+    "score": 90.6
+  },
+  {
+    "artist": "D.J. Jazzy Jeff & The Fresh Prince",
+    "score": 90.3
+  },
+  {
+    "artist": "Dire Straits",
+    "score": 89.4
+  },
+  {
+    "artist": "Tom Petty And The Heartbreakers",
+    "score": 89.4
+  },
+  {
+    "artist": "ZZ Top",
+    "score": 88.8
+  },
+  {
+    "artist": "Guy",
+    "score": 88.1
+  },
+  {
+    "artist": "Ice-T",
+    "score": 88.1
+  },
+  {
+    "artist": "Reba McEntire",
+    "score": 88.1
+  },
+  {
+    "artist": "Clint Black",
+    "score": 87.2
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "score": 87.2
+  },
+  {
+    "artist": "Yes",
+    "score": 86.9
+  },
+  {
+    "artist": "Paul McCartney",
+    "score": 86.8
+  },
+  {
+    "artist": "Traveling Wilburys",
+    "score": 86.5
+  },
+  {
+    "artist": "Alan Jackson",
+    "score": 86.1
+  },
+  {
+    "artist": "The Rolling Stones",
+    "score": 85.7
+  },
+  {
+    "artist": "Great White",
+    "score": 84.5
+  },
+  {
+    "artist": "John Mellencamp",
+    "score": 84
+  },
+  {
+    "artist": "David Lee Roth",
+    "score": 83.9
+  },
+  {
+    "artist": "New Kids On The Block",
+    "score": 83.8
+  },
+  {
+    "artist": "3rd Bass",
+    "score": 83.2
+  },
+  {
+    "artist": "Various Artists",
+    "score": 81.8
+  },
+  {
+    "artist": "Heavy D & The Boyz",
+    "score": 81.4
+  },
+  {
+    "artist": "Harry Connick, Jr.",
+    "score": 80.2
+  },
+  {
+    "artist": "Led Zeppelin",
+    "score": 80.2
+  }
+]

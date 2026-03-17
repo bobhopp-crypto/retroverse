@@ -1,0 +1,626 @@
+{
+  "year": "1975",
+  "top_songs": [
+    {
+      "artist": "The Elton John Band",
+      "title": "Philadelphia Freedom",
+      "weeks": 21,
+      "peak": 1,
+      "score": 394
+    },
+    {
+      "artist": "Glen Campbell",
+      "title": "Rhinestone Cowboy",
+      "weeks": 23,
+      "peak": 1,
+      "score": 394
+    },
+    {
+      "artist": "John Denver",
+      "title": "I'm Sorry",
+      "weeks": 18,
+      "peak": 1,
+      "score": 382
+    },
+    {
+      "artist": "Eagles",
+      "title": "One Of These Nights",
+      "weeks": 17,
+      "peak": 1,
+      "score": 357
+    },
+    {
+      "artist": "The Doobie Brothers",
+      "title": "Black Water",
+      "weeks": 15,
+      "peak": 1,
+      "score": 336
+    },
+    {
+      "artist": "Eagles",
+      "title": "Best Of My Love",
+      "weeks": 14,
+      "peak": 1,
+      "score": 326
+    },
+    {
+      "artist": "Elton John",
+      "title": "Island Girl",
+      "weeks": 12,
+      "peak": 1,
+      "score": 319
+    },
+    {
+      "artist": "Awb",
+      "title": "Pick Up The Pieces",
+      "weeks": 13,
+      "peak": 1,
+      "score": 313
+    },
+    {
+      "artist": "Frankie Valli",
+      "title": "My Eyes Adored You",
+      "weeks": 17,
+      "peak": 1,
+      "score": 306
+    },
+    {
+      "artist": "Linda Ronstadt",
+      "title": "When Will I Be Loved",
+      "weeks": 15,
+      "peak": 2,
+      "score": 297
+    },
+    {
+      "artist": "Kc And The Sunshine Band",
+      "title": "That's The Way (I Like It)",
+      "weeks": 10,
+      "peak": 1,
+      "score": 294
+    },
+    {
+      "artist": "Wings",
+      "title": "Listen To What The Man Said",
+      "weeks": 14,
+      "peak": 1,
+      "score": 286
+    },
+    {
+      "artist": "Grand Funk",
+      "title": "Some Kind Of Wonderful",
+      "weeks": 10,
+      "peak": 3,
+      "score": 283
+    },
+    {
+      "artist": "Olivia Newton-john",
+      "title": "Please Mr. Please",
+      "weeks": 15,
+      "peak": 3,
+      "score": 283
+    },
+    {
+      "artist": "Captain",
+      "title": "The Way I Want To Touch You",
+      "weeks": 14,
+      "peak": 4,
+      "score": 283
+    },
+    {
+      "artist": "Major Harris",
+      "title": "Love Won't Let Me Wait",
+      "weeks": 18,
+      "peak": 5,
+      "score": 268
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "Boogie On Reggae Woman",
+      "weeks": 10,
+      "peak": 3,
+      "score": 263
+    },
+    {
+      "artist": "Minnie Riperton",
+      "title": "Lovin' You",
+      "weeks": 18,
+      "peak": 1,
+      "score": 261
+    },
+    {
+      "artist": "Tony Orlando",
+      "title": "He Don't Love You (Like I Love You)",
+      "weeks": 14,
+      "peak": 1,
+      "score": 261
+    },
+    {
+      "artist": "Earth, Wind",
+      "title": "Shining Star",
+      "weeks": 20,
+      "peak": 1,
+      "score": 260
+    },
+    {
+      "artist": "The Captain",
+      "title": "Love Will Keep Us Together",
+      "weeks": 23,
+      "peak": 1,
+      "score": 251
+    },
+    {
+      "artist": "Jefferson Starship",
+      "title": "Miracles",
+      "weeks": 17,
+      "peak": 3,
+      "score": 250
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "Jive Talkin'",
+      "weeks": 17,
+      "peak": 1,
+      "score": 249
+    },
+    {
+      "artist": "The Isley Brothers",
+      "title": "Fight The Power Part 1",
+      "weeks": 18,
+      "peak": 4,
+      "score": 248
+    },
+    {
+      "artist": "Neil Sedaka",
+      "title": "Bad Blood",
+      "weeks": 14,
+      "peak": 1,
+      "score": 247
+    },
+    {
+      "artist": "Silver Convention",
+      "title": "Fly, Robin, Fly",
+      "weeks": 12,
+      "peak": 1,
+      "score": 245
+    },
+    {
+      "artist": "Linda Ronstadt",
+      "title": "Heat Wave/love Is A Rose",
+      "weeks": 13,
+      "peak": 5,
+      "score": 240
+    },
+    {
+      "artist": "Neil Sedaka",
+      "title": "Laughter In The Rain",
+      "weeks": 9,
+      "peak": 1,
+      "score": 236
+    },
+    {
+      "artist": "Freddy Fender",
+      "title": "Before The Next Teardrop Falls",
+      "weeks": 21,
+      "peak": 1,
+      "score": 234
+    },
+    {
+      "artist": "John Denver",
+      "title": "Thank God I'm A Country Boy",
+      "weeks": 19,
+      "peak": 1,
+      "score": 233
+    },
+    {
+      "artist": "The Staple Singers",
+      "title": "Let's Do It Again",
+      "weeks": 10,
+      "peak": 1,
+      "score": 232
+    },
+    {
+      "artist": "America",
+      "title": "Sister Golden Hair",
+      "weeks": 16,
+      "peak": 1,
+      "score": 228
+    },
+    {
+      "artist": "The Spinners",
+      "title": "They Just Can't Stop It the (Games People Play)",
+      "weeks": 18,
+      "peak": 5,
+      "score": 224
+    },
+    {
+      "artist": "B.j. Thomas",
+      "title": "(Hey Won't You Play) Another Somebody Done Somebody Wrong Song",
+      "weeks": 18,
+      "peak": 1,
+      "score": 222
+    },
+    {
+      "artist": "Linda Ronstadt",
+      "title": "You're No Good",
+      "weeks": 12,
+      "peak": 1,
+      "score": 217
+    },
+    {
+      "artist": "America",
+      "title": "Lonely People",
+      "weeks": 13,
+      "peak": 5,
+      "score": 217
+    },
+    {
+      "artist": "Jessi Colter",
+      "title": "I'm Not Lisa",
+      "weeks": 17,
+      "peak": 4,
+      "score": 217
+    },
+    {
+      "artist": "Ohio Players",
+      "title": "Fire",
+      "weeks": 14,
+      "peak": 1,
+      "score": 215
+    },
+    {
+      "artist": "B.t. Express",
+      "title": "Express",
+      "weeks": 15,
+      "peak": 4,
+      "score": 214
+    },
+    {
+      "artist": "Eagles",
+      "title": "Lyin' Eyes",
+      "weeks": 14,
+      "peak": 2,
+      "score": 214
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "John Denver",
+      "hits": 2
+    },
+    {
+      "artist": "Eagles",
+      "hits": 3
+    },
+    {
+      "artist": "Linda Ronstadt",
+      "hits": 3
+    },
+    {
+      "artist": "Neil Sedaka",
+      "hits": 2
+    },
+    {
+      "artist": "America",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Morris Albert",
+      "title": "Feelings",
+      "weeks": 28,
+      "peak": 6,
+      "score": 120
+    },
+    {
+      "artist": "Johnny Wakelin",
+      "title": "Black Superman - \"Muhammad Ali\"",
+      "weeks": 27,
+      "peak": 21,
+      "score": -643
+    },
+    {
+      "artist": "Sweet",
+      "title": "Ballroom Blitz",
+      "weeks": 25,
+      "peak": 5,
+      "score": 84
+    },
+    {
+      "artist": "Glen Campbell",
+      "title": "Rhinestone Cowboy",
+      "weeks": 23,
+      "peak": 1,
+      "score": 394
+    },
+    {
+      "artist": "The Captain",
+      "title": "Love Will Keep Us Together",
+      "weeks": 23,
+      "peak": 1,
+      "score": 251
+    },
+    {
+      "artist": "The Elton John Band",
+      "title": "Philadelphia Freedom",
+      "weeks": 21,
+      "peak": 1,
+      "score": 394
+    },
+    {
+      "artist": "Freddy Fender",
+      "title": "Before The Next Teardrop Falls",
+      "weeks": 21,
+      "peak": 1,
+      "score": 234
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Fame",
+      "weeks": 21,
+      "peak": 1,
+      "score": 158
+    },
+    {
+      "artist": "Ozark Mountain Daredevils",
+      "title": "Jackie Blue",
+      "weeks": 21,
+      "peak": 3,
+      "score": 42
+    },
+    {
+      "artist": "Earth, Wind",
+      "title": "Shining Star",
+      "weeks": 20,
+      "peak": 1,
+      "score": 260
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "The Elton John Band",
+      "title": "Philadelphia Freedom",
+      "weeks": 21,
+      "peak": 1,
+      "score": 394
+    },
+    {
+      "artist": "Glen Campbell",
+      "title": "Rhinestone Cowboy",
+      "weeks": 23,
+      "peak": 1,
+      "score": 394
+    },
+    {
+      "artist": "John Denver",
+      "title": "I'm Sorry",
+      "weeks": 18,
+      "peak": 1,
+      "score": 382
+    },
+    {
+      "artist": "Eagles",
+      "title": "One Of These Nights",
+      "weeks": 17,
+      "peak": 1,
+      "score": 357
+    },
+    {
+      "artist": "The Doobie Brothers",
+      "title": "Black Water",
+      "weeks": 15,
+      "peak": 1,
+      "score": 336
+    },
+    {
+      "artist": "Eagles",
+      "title": "Best Of My Love",
+      "weeks": 14,
+      "peak": 1,
+      "score": 326
+    },
+    {
+      "artist": "Elton John",
+      "title": "Island Girl",
+      "weeks": 12,
+      "peak": 1,
+      "score": 319
+    },
+    {
+      "artist": "Awb",
+      "title": "Pick Up The Pieces",
+      "weeks": 13,
+      "peak": 1,
+      "score": 313
+    },
+    {
+      "artist": "Frankie Valli",
+      "title": "My Eyes Adored You",
+      "weeks": 17,
+      "peak": 1,
+      "score": 306
+    },
+    {
+      "artist": "Kc And The Sunshine Band",
+      "title": "That's The Way (I Like It)",
+      "weeks": 10,
+      "peak": 1,
+      "score": 294
+    },
+    {
+      "artist": "Wings",
+      "title": "Listen To What The Man Said",
+      "weeks": 14,
+      "peak": 1,
+      "score": 286
+    },
+    {
+      "artist": "Minnie Riperton",
+      "title": "Lovin' You",
+      "weeks": 18,
+      "peak": 1,
+      "score": 261
+    },
+    {
+      "artist": "Tony Orlando",
+      "title": "He Don't Love You (Like I Love You)",
+      "weeks": 14,
+      "peak": 1,
+      "score": 261
+    },
+    {
+      "artist": "Earth, Wind",
+      "title": "Shining Star",
+      "weeks": 20,
+      "peak": 1,
+      "score": 260
+    },
+    {
+      "artist": "The Captain",
+      "title": "Love Will Keep Us Together",
+      "weeks": 23,
+      "peak": 1,
+      "score": 251
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "Jive Talkin'",
+      "weeks": 17,
+      "peak": 1,
+      "score": 249
+    },
+    {
+      "artist": "Neil Sedaka",
+      "title": "Bad Blood",
+      "weeks": 14,
+      "peak": 1,
+      "score": 247
+    },
+    {
+      "artist": "Silver Convention",
+      "title": "Fly, Robin, Fly",
+      "weeks": 12,
+      "peak": 1,
+      "score": 245
+    },
+    {
+      "artist": "Neil Sedaka",
+      "title": "Laughter In The Rain",
+      "weeks": 9,
+      "peak": 1,
+      "score": 236
+    },
+    {
+      "artist": "Freddy Fender",
+      "title": "Before The Next Teardrop Falls",
+      "weeks": 21,
+      "peak": 1,
+      "score": 234
+    },
+    {
+      "artist": "John Denver",
+      "title": "Thank God I'm A Country Boy",
+      "weeks": 19,
+      "peak": 1,
+      "score": 233
+    },
+    {
+      "artist": "The Staple Singers",
+      "title": "Let's Do It Again",
+      "weeks": 10,
+      "peak": 1,
+      "score": 232
+    },
+    {
+      "artist": "America",
+      "title": "Sister Golden Hair",
+      "weeks": 16,
+      "peak": 1,
+      "score": 228
+    },
+    {
+      "artist": "B.j. Thomas",
+      "title": "(Hey Won't You Play) Another Somebody Done Somebody Wrong Song",
+      "weeks": 18,
+      "peak": 1,
+      "score": 222
+    },
+    {
+      "artist": "Linda Ronstadt",
+      "title": "You're No Good",
+      "weeks": 12,
+      "peak": 1,
+      "score": 217
+    },
+    {
+      "artist": "Ohio Players",
+      "title": "Fire",
+      "weeks": 14,
+      "peak": 1,
+      "score": 215
+    },
+    {
+      "artist": "Olivia Newton-john",
+      "title": "Have You Never Been Mellow",
+      "weeks": 16,
+      "peak": 1,
+      "score": 201
+    },
+    {
+      "artist": "Barry Manilow",
+      "title": "Mandy",
+      "weeks": 9,
+      "peak": 1,
+      "score": 197
+    },
+    {
+      "artist": "Labelle",
+      "title": "Lady Marmalade",
+      "weeks": 18,
+      "peak": 1,
+      "score": 189
+    },
+    {
+      "artist": "Hamilton, Joe Frank",
+      "title": "Fallin' In Love",
+      "weeks": 17,
+      "peak": 1,
+      "score": 189
+    },
+    {
+      "artist": "Carpenters",
+      "title": "Please Mr. Postman",
+      "weeks": 11,
+      "peak": 1,
+      "score": 162
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Fame",
+      "weeks": 21,
+      "peak": 1,
+      "score": 158
+    },
+    {
+      "artist": "Van Mccoy",
+      "title": "The Hustle",
+      "weeks": 19,
+      "peak": 1,
+      "score": 139
+    },
+    {
+      "artist": "Elton John",
+      "title": "Lucy In The Sky With Diamonds",
+      "weeks": 9,
+      "peak": 1,
+      "score": 135
+    },
+    {
+      "artist": "Kc And The Sunshine Band",
+      "title": "Get Down Tonight",
+      "weeks": 15,
+      "peak": 1,
+      "score": 91
+    }
+  ]
+}

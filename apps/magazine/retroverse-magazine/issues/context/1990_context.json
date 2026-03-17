@@ -1,0 +1,571 @@
+{
+  "year": "1990",
+  "top_songs": [
+    {
+      "artist": "Mariah Carey",
+      "title": "Love Takes Time",
+      "weeks": 16,
+      "peak": 1,
+      "score": 384
+    },
+    {
+      "artist": "Bell Biv Devoe",
+      "title": "Poison",
+      "weeks": 22,
+      "peak": 3,
+      "score": 365
+    },
+    {
+      "artist": "Vanilla Ice",
+      "title": "Ice Ice Baby",
+      "weeks": 17,
+      "peak": 1,
+      "score": 355
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Vision Of Love",
+      "weeks": 22,
+      "peak": 1,
+      "score": 334
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "I'm Your Baby Tonight",
+      "weeks": 11,
+      "peak": 1,
+      "score": 321
+    },
+    {
+      "artist": "Sinead O'connor",
+      "title": "Nothing Compares 2 U",
+      "weeks": 21,
+      "peak": 1,
+      "score": 301
+    },
+    {
+      "artist": "Wilson Phillips",
+      "title": "Hold On",
+      "weeks": 25,
+      "peak": 1,
+      "score": 295
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "Escapade",
+      "weeks": 17,
+      "peak": 1,
+      "score": 290
+    },
+    {
+      "artist": "Tony! Toni! Tone!",
+      "title": "Feels Good",
+      "weeks": 18,
+      "peak": 9,
+      "score": 286
+    },
+    {
+      "artist": "Poison",
+      "title": "Something To Believe In",
+      "weeks": 13,
+      "peak": 4,
+      "score": 278
+    },
+    {
+      "artist": "Glenn Medeiros",
+      "title": "She Ain't Worth It",
+      "weeks": 18,
+      "peak": 1,
+      "score": 277
+    },
+    {
+      "artist": "Bell Biv Devoe",
+      "title": "Do Me!",
+      "weeks": 22,
+      "peak": 3,
+      "score": 271
+    },
+    {
+      "artist": "Bette Midler",
+      "title": "From A Distance",
+      "weeks": 13,
+      "peak": 2,
+      "score": 260
+    },
+    {
+      "artist": "New Kids On The Block",
+      "title": "Step By Step",
+      "weeks": 15,
+      "peak": 1,
+      "score": 259
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "Alright",
+      "weeks": 16,
+      "peak": 4,
+      "score": 255
+    },
+    {
+      "artist": "Alias",
+      "title": "More Than Words Can Say",
+      "weeks": 17,
+      "peak": 2,
+      "score": 255
+    },
+    {
+      "artist": "Heart",
+      "title": "All I Wanna Do Is Make Love To You",
+      "weeks": 20,
+      "peak": 2,
+      "score": 245
+    },
+    {
+      "artist": "Stevie B",
+      "title": "Because I Love You (The Postman Song)",
+      "weeks": 13,
+      "peak": 1,
+      "score": 243
+    },
+    {
+      "artist": "M.c. Hammer",
+      "title": "Pray",
+      "weeks": 14,
+      "peak": 2,
+      "score": 241
+    },
+    {
+      "artist": "Sweet Sensation",
+      "title": "If Wishes Came True",
+      "weeks": 20,
+      "peak": 1,
+      "score": 239
+    },
+    {
+      "artist": "Billy Idol",
+      "title": "Cradle Of Love (From \"Ford Fairlane\")",
+      "weeks": 24,
+      "peak": 2,
+      "score": 235
+    },
+    {
+      "artist": "Taylor Dayne",
+      "title": "Love Will Lead You Back",
+      "weeks": 20,
+      "peak": 1,
+      "score": 233
+    },
+    {
+      "artist": "Roxette",
+      "title": "Dangerous",
+      "weeks": 18,
+      "peak": 2,
+      "score": 232
+    },
+    {
+      "artist": "M.c. Hammer",
+      "title": "U Can't Touch This",
+      "weeks": 17,
+      "peak": 8,
+      "score": 228
+    },
+    {
+      "artist": "Roxette",
+      "title": "It Must Have Been Love (From \"Pretty Woman\")",
+      "weeks": 25,
+      "peak": 1,
+      "score": 224
+    },
+    {
+      "artist": "Wilson Phillips",
+      "title": "Impulsive",
+      "weeks": 12,
+      "peak": 4,
+      "score": 223
+    },
+    {
+      "artist": "Madonna",
+      "title": "Vogue",
+      "weeks": 24,
+      "peak": 1,
+      "score": 220
+    },
+    {
+      "artist": "En Vogue",
+      "title": "Hold On",
+      "weeks": 25,
+      "peak": 2,
+      "score": 220
+    },
+    {
+      "artist": "Jon Bon Jovi",
+      "title": "Blaze Of Glory (From \"Young Guns II\")",
+      "weeks": 21,
+      "peak": 1,
+      "score": 219
+    },
+    {
+      "artist": "James Ingram",
+      "title": "I Don't Have The Heart",
+      "weeks": 22,
+      "peak": 1,
+      "score": 219
+    },
+    {
+      "artist": "Maxi Priest",
+      "title": "Close To You",
+      "weeks": 27,
+      "peak": 1,
+      "score": 216
+    },
+    {
+      "artist": "Poison",
+      "title": "Unskinny Bop",
+      "weeks": 19,
+      "peak": 3,
+      "score": 213
+    },
+    {
+      "artist": "Johnny Gill",
+      "title": "Rub You The Right Way",
+      "weeks": 23,
+      "peak": 3,
+      "score": 207
+    },
+    {
+      "artist": "Paula Abdul",
+      "title": "Opposites Attract",
+      "weeks": 20,
+      "peak": 1,
+      "score": 205
+    },
+    {
+      "artist": "Tommy Page",
+      "title": "I'll Be Your Everything",
+      "weeks": 18,
+      "peak": 1,
+      "score": 205
+    },
+    {
+      "artist": "Michael Bolton",
+      "title": "How Am I Supposed To Live Without You",
+      "weeks": 13,
+      "peak": 1,
+      "score": 204
+    },
+    {
+      "artist": "Rod Stewart",
+      "title": "Downtown Train",
+      "weeks": 12,
+      "peak": 3,
+      "score": 204
+    },
+    {
+      "artist": "Jane Child",
+      "title": "Don't Wanna Fall In Love",
+      "weeks": 21,
+      "peak": 2,
+      "score": 204
+    },
+    {
+      "artist": "Snap!",
+      "title": "The Power",
+      "weeks": 22,
+      "peak": 2,
+      "score": 203
+    },
+    {
+      "artist": "George Michael",
+      "title": "Praying For Time",
+      "weeks": 14,
+      "peak": 1,
+      "score": 198
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Mariah Carey",
+      "hits": 2
+    },
+    {
+      "artist": "Bell Biv Devoe",
+      "hits": 2
+    },
+    {
+      "artist": "Wilson Phillips",
+      "hits": 2
+    },
+    {
+      "artist": "Janet Jackson",
+      "hits": 2
+    },
+    {
+      "artist": "Poison",
+      "hits": 2
+    },
+    {
+      "artist": "M.c. Hammer",
+      "hits": 2
+    },
+    {
+      "artist": "Roxette",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "The Righteous Brothers",
+      "title": "Unchained Melody",
+      "weeks": 32,
+      "peak": 13,
+      "score": 68
+    },
+    {
+      "artist": "Maxi Priest",
+      "title": "Close To You",
+      "weeks": 27,
+      "peak": 1,
+      "score": 216
+    },
+    {
+      "artist": "Linear",
+      "title": "Sending All My Love",
+      "weeks": 27,
+      "peak": 5,
+      "score": 109
+    },
+    {
+      "artist": "Nelson",
+      "title": "(Can't Live Without Your) Love And Affection",
+      "weeks": 26,
+      "peak": 1,
+      "score": 38
+    },
+    {
+      "artist": "Wilson Phillips",
+      "title": "Hold On",
+      "weeks": 25,
+      "peak": 1,
+      "score": 295
+    },
+    {
+      "artist": "Roxette",
+      "title": "It Must Have Been Love (From \"Pretty Woman\")",
+      "weeks": 25,
+      "peak": 1,
+      "score": 224
+    },
+    {
+      "artist": "En Vogue",
+      "title": "Hold On",
+      "weeks": 25,
+      "peak": 2,
+      "score": 220
+    },
+    {
+      "artist": "Luther Vandross",
+      "title": "Here And Now",
+      "weeks": 25,
+      "peak": 6,
+      "score": 108
+    },
+    {
+      "artist": "Kyper",
+      "title": "Tic-Tac-Toe",
+      "weeks": 25,
+      "peak": 14,
+      "score": -149
+    },
+    {
+      "artist": "Billy Idol",
+      "title": "Cradle Of Love (From \"Ford Fairlane\")",
+      "weeks": 24,
+      "peak": 2,
+      "score": 235
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Mariah Carey",
+      "title": "Love Takes Time",
+      "weeks": 16,
+      "peak": 1,
+      "score": 384
+    },
+    {
+      "artist": "Vanilla Ice",
+      "title": "Ice Ice Baby",
+      "weeks": 17,
+      "peak": 1,
+      "score": 355
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Vision Of Love",
+      "weeks": 22,
+      "peak": 1,
+      "score": 334
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "I'm Your Baby Tonight",
+      "weeks": 11,
+      "peak": 1,
+      "score": 321
+    },
+    {
+      "artist": "Sinead O'connor",
+      "title": "Nothing Compares 2 U",
+      "weeks": 21,
+      "peak": 1,
+      "score": 301
+    },
+    {
+      "artist": "Wilson Phillips",
+      "title": "Hold On",
+      "weeks": 25,
+      "peak": 1,
+      "score": 295
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "Escapade",
+      "weeks": 17,
+      "peak": 1,
+      "score": 290
+    },
+    {
+      "artist": "Glenn Medeiros",
+      "title": "She Ain't Worth It",
+      "weeks": 18,
+      "peak": 1,
+      "score": 277
+    },
+    {
+      "artist": "New Kids On The Block",
+      "title": "Step By Step",
+      "weeks": 15,
+      "peak": 1,
+      "score": 259
+    },
+    {
+      "artist": "Stevie B",
+      "title": "Because I Love You (The Postman Song)",
+      "weeks": 13,
+      "peak": 1,
+      "score": 243
+    },
+    {
+      "artist": "Sweet Sensation",
+      "title": "If Wishes Came True",
+      "weeks": 20,
+      "peak": 1,
+      "score": 239
+    },
+    {
+      "artist": "Taylor Dayne",
+      "title": "Love Will Lead You Back",
+      "weeks": 20,
+      "peak": 1,
+      "score": 233
+    },
+    {
+      "artist": "Roxette",
+      "title": "It Must Have Been Love (From \"Pretty Woman\")",
+      "weeks": 25,
+      "peak": 1,
+      "score": 224
+    },
+    {
+      "artist": "Madonna",
+      "title": "Vogue",
+      "weeks": 24,
+      "peak": 1,
+      "score": 220
+    },
+    {
+      "artist": "Jon Bon Jovi",
+      "title": "Blaze Of Glory (From \"Young Guns II\")",
+      "weeks": 21,
+      "peak": 1,
+      "score": 219
+    },
+    {
+      "artist": "James Ingram",
+      "title": "I Don't Have The Heart",
+      "weeks": 22,
+      "peak": 1,
+      "score": 219
+    },
+    {
+      "artist": "Maxi Priest",
+      "title": "Close To You",
+      "weeks": 27,
+      "peak": 1,
+      "score": 216
+    },
+    {
+      "artist": "Paula Abdul",
+      "title": "Opposites Attract",
+      "weeks": 20,
+      "peak": 1,
+      "score": 205
+    },
+    {
+      "artist": "Tommy Page",
+      "title": "I'll Be Your Everything",
+      "weeks": 18,
+      "peak": 1,
+      "score": 205
+    },
+    {
+      "artist": "Michael Bolton",
+      "title": "How Am I Supposed To Live Without You",
+      "weeks": 13,
+      "peak": 1,
+      "score": 204
+    },
+    {
+      "artist": "George Michael",
+      "title": "Praying For Time",
+      "weeks": 14,
+      "peak": 1,
+      "score": 198
+    },
+    {
+      "artist": "Wilson Phillips",
+      "title": "Release Me",
+      "weeks": 22,
+      "peak": 1,
+      "score": 186
+    },
+    {
+      "artist": "Alannah Myles",
+      "title": "Black Velvet",
+      "weeks": 24,
+      "peak": 1,
+      "score": 146
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "Black Cat",
+      "weeks": 16,
+      "peak": 1,
+      "score": 120
+    },
+    {
+      "artist": "Phil Collins",
+      "title": "Another Day In Paradise",
+      "weeks": 9,
+      "peak": 1,
+      "score": 97
+    },
+    {
+      "artist": "Nelson",
+      "title": "(Can't Live Without Your) Love And Affection",
+      "weeks": 26,
+      "peak": 1,
+      "score": 38
+    }
+  ]
+}

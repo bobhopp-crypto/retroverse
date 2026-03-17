@@ -1,0 +1,178 @@
+{
+  "year": 1978,
+  "page_type": "department letter",
+  "page_slug": "editor_letter",
+  "title": "Editor Letter",
+  "subtitle": "Letter From the Editor",
+  "writer": {
+    "name": "BJ Lovestreet, Editor-in-Chief",
+    "byline": "By BJ Lovestreet, Editor-in-Chief"
+  },
+  "source_files": [
+    "PROJECT_STATE.md",
+    "issues/context/1978_context.json",
+    "issues/1978/layout/1978_production_targets.json",
+    "issues/1978/layout/1978_issue_map.json",
+    "issues/1978/editor_letter.md"
+  ],
+  "page_purpose": "Present Editor Letter as a complete RetroVerse 1978 department letter page, with page-aware artwork under real typography and no text baked into the illustration layer for `editor_letter`.",
+  "story_summary": "Editor Letter Letter From the Editor There is a certain kind of opening sound that can define a year before you even finish the first line of the chorus. In this issue's dataset, \"Stayin' Alive\" by Bee Gees stands at the top with a score of 503, peak position #1, and 23 chart weeks. The numbers are clear, but the feeling matters just as much: 1978 moved with confidence. From there, the year spreads out in layers. \"Night Fever\" follows at a score of 490. \"(Love Is) Thicker Than Water\" is close behind at 466. The top of the board is not random noise; it is a pattern of songs that stayed present long enough to become shared memory. Even beyond the top ranks, this context file tracks 40 leading",
+  "verified_facts": [
+    {
+      "claim": "Page 3 is assigned to `editor_letter` in the canonical issue structure.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The page title is 'Editor Letter'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The page subtitle is 'Letter From the Editor'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The intended layout type is 'department letter'.",
+      "source_file": "PROJECT_STATE.md"
+    }
+  ],
+  "text_blocks": [
+    {
+      "id": "page_title",
+      "role": "title",
+      "content": "Editor Letter",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_subtitle",
+      "role": "subtitle",
+      "content": "Letter From the Editor",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_byline",
+      "role": "byline",
+      "content": "By BJ Lovestreet, Editor-in-Chief",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_deck",
+      "role": "deck",
+      "content": "Editor Letter Letter From the Editor There is a certain kind of opening sound that can define a year before you even finish the first line of the chorus. In this issue's dataset, \"Stayin' Alive\" by Bee Gees stands at the top with a score of 503, peak position #1, and 23 chart weeks. The numbers are clear, but the feeling matters just as much: 1978 moved with confidence. From there, the year spreads out in layers. \"Night Fever\" follows at a score of 490. \"(Love Is) Thicker Than Water\" is close behind at 466. The top of the board is not random noise; it is a pattern of songs that stayed present long enough to become shared memory. Even beyond the top ranks, this context file tracks 40 leading",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "body_01",
+      "role": "body",
+      "content": "There is a certain kind of opening sound that can define a year before you even finish the first line of the chorus. In this issue's dataset, \"Stayin' Alive\" by Bee Gees stands at the top with a score of 503, peak position #1, and 23 chart weeks. The numbers are clear, but the feeling matters just as much: 1978 moved with confidence. From there, the year spreads out in layers. \"Night Fever\" follows at a score of 490. \"(Love Is) Thicker Than Water\" is close behind at 466. The top of the board is not random noise; it is a pattern of songs that stayed present long enough to become shared memory. Even beyond the top ranks, this context file tracks 40 leading songs and 20 songs that reached a #1 peak during the year. Two details tell the bigger story. First, artist concentration: Bee Gees and Andy Gibb each place 3 songs in the top 40, with Foreigner placing 2. Second, endurance: \"Hot Child In The City\" logs 30 weeks, while \"Shadow Dancing\" and \"You Needed Me\" both hold 25. 1978 is not only about quick impact. It is about songs that kept returning to the room, the car, and the radio. That is the thread for this issue. We are not treating the year as a museum case. We are stepping into it while it is still alive: chart movement, voices on the dial, movie-night anticipation, and the everyday culture that tied it all together. Press play. The past is already in motion.",
+      "source_file": "issues/1978/editor_letter.md",
+      "intended_zone": "body_zone"
+    }
+  ],
+  "sidebar_blocks": [
+    {
+      "id": "editor_letter_metadata",
+      "title": "Page Facts",
+      "items": [
+        {
+          "label": "Page",
+          "value": "3"
+        },
+        {
+          "label": "Section",
+          "value": "editor_letter"
+        },
+        {
+          "label": "Role",
+          "value": "Editorial page"
+        }
+      ]
+    }
+  ],
+  "qa_notes": [
+    "Story and page text are defined before illustration prompt generation.",
+    "Art direction reads the entire page intent, not a floating insert concept.",
+    "All final production typography is reserved for the layout engine."
+  ],
+  "layout_requirements": {
+    "page_number": 3,
+    "orientation": "portrait",
+    "filename": "page_03_editor_letter.html",
+    "structure": "department letter",
+    "hero_asset": "assets/placeholder.png",
+    "collage_assets": [],
+    "layout_output": "issues/1978/layout/page_03_editor_letter.html"
+  },
+  "art_direction": {
+    "concept": "A warm editor's-desk scene for 1978, with paper textures, notes, and subtle publication-world detail.",
+    "page_readback": "Present Editor Letter as a complete RetroVerse 1978 department letter page, with page-aware artwork under real typography and no text baked into the illustration layer for `editor_letter`.",
+    "mood": "editorial and period-aware",
+    "palette": "warm paper stock, halftone black, amber, teal, and late-70s saturated accent colors",
+    "visual_hierarchy": [
+      "Primary focal area supports Editor Letter.",
+      "Secondary props reinforce `editor_letter` without competing with text zones.",
+      "Negative space stays calm inside title, body, sidebar, and footer zones."
+    ]
+  },
+  "text_safe_zones": [
+    {
+      "id": "title_zone",
+      "x": 7,
+      "y": 6,
+      "width": 54,
+      "height": 14,
+      "unit": "percent"
+    },
+    {
+      "id": "body_zone",
+      "x": 7,
+      "y": 24,
+      "width": 55,
+      "height": 60,
+      "unit": "percent"
+    },
+    {
+      "id": "sidebar_zone",
+      "x": 65,
+      "y": 24,
+      "width": 24,
+      "height": 56,
+      "unit": "percent"
+    },
+    {
+      "id": "footer_zone",
+      "x": 7,
+      "y": 93,
+      "width": 86,
+      "height": 3,
+      "unit": "percent"
+    }
+  ],
+  "must_include": [
+    "Editor Letter",
+    "Letter From the Editor",
+    "By BJ Lovestreet, Editor-in-Chief",
+    "Page 03",
+    "Layout overlays the real editorial text after illustration approval."
+  ],
+  "must_not_render_in_art": [
+    "article body text",
+    "charts/tables",
+    "exact production typography",
+    "magazine headlines",
+    "page titles",
+    "pull quotes",
+    "sidebars",
+    "chart tables",
+    "magazine layout elements"
+  ],
+  "style_notes": [
+    "RetroVerse pages use scene artwork as background assets beneath real typography.",
+    "Page artwork must preserve negative space inside all declared safe zones.",
+    "Environmental lettering may appear only if natural, minimal, and not production-critical."
+  ],
+  "easter_egg_rule": "Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography."
+}

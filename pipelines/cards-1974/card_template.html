@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, initial-scale=1" />
+    <title>RetroVerse 1974 Card</title>
+    <style>
+      __CARD_CSS__
+    </style>
+  </head>
+  <body>
+    <main id="card-canvas" class="rv-card layout-a" role="img" aria-label="RetroVerse weekly card">
+      <header class="card-header">
+        <p class="capsule-label">RetroVerse 1974 Capsule</p>
+        <div class="week-row">
+          <span class="week-pill">Week <span data-field="week"></span></span>
+          <span class="date-pill"><span data-field="start_date"></span> to <span data-field="end_date"></span></span>
+        </div>
+      </header>
+
+      <section class="hero">
+        <div class="song-badge">#1</div>
+        <p class="hero-kicker">Billboard Hot 100</p>
+        <h1 data-field="song_title"></h1>
+        <p class="song-artist" data-field="song_artist"></p>
+      </section>
+
+      <section class="card-grid">
+        <article class="panel movie-panel">
+          <h2>Movie Anchor</h2>
+          <h3 data-field="movie_anchor_title"></h3>
+          <p><strong>Genre:</strong> <span data-field="movie_anchor_genre"></span></p>
+          <ul id="movie-pool" class="movie-pool"></ul>
+        </article>
+
+        <article class="panel tv-panel">
+          <h2>TV Snapshot</h2>
+          <div class="tv-row">
+            <p><strong>Anchor:</strong> <span data-field="tv_anchor"></span></p>
+            <p><strong>Daytime:</strong> <span data-field="tv_daytime"></span></p>
+            <p><strong>PBS:</strong> <span data-field="tv_pbs"></span></p>
+          </div>
+        </article>
+
+        <article class="panel headline-panel">
+          <h2>Headline</h2>
+          <p class="headline-quote" data-field="headline"></p>
+        </article>
+
+        <article class="panel mood-panel">
+          <h2>Mood Tags</h2>
+          <div id="mood-tags" class="tags"></div>
+        </article>
+      </section>
+
+      <footer class="footer">
+        <p>Local Render • Week <span data-field="week"></span></p>
+        <span class="layout-pill">Layout <span id="layout-name"></span></span>
+      </footer>
+    </main>
+
+    <script>
+      ;(() => {
+        const data = __CARD_DATA_JSON__
+        const layoutFamily = '__LAYOUT_FAMILY__'
+        const root = document.getElementById('card-canvas')
+
+        const normalize = (value, fallback) => {
+          const text = String(value ?? '').trim()
+          return text.length > 0 ? text : fallback
+        }
+
+        const setField = (name, value, fallback = 'Not provided') => {
+          const nodes = document.querySelectorAll(`[data-field="${name}"]`)
+          const output = normalize(value, fallback)
+          nodes.forEach((node) => {
+            node.textContent = output
+          })
+        }
+
+        const weekNumber = Number.isFinite(Number(data.week)) ? Number(data.week) : 0
+        const weekLabel = weekNumber > 0 ? String(weekNumber).padStart(2, '0') : '--'
+
+        setField('week', weekLabel, '--')
+        setField('start_date', data.start_date)
+        setField('end_date', data.end_date)
+        setField('song_title', data.song_title)
+        setField('song_artist', data.song_artist)
+        setField('movie_anchor_title', data.movie_anchor_title)
+        setField('movie_anchor_genre', data.movie_anchor_genre)
+        setField('tv_anchor', data.tv_anchor)
+        setField('tv_daytime', data.tv_daytime)
+        setField('tv_pbs', data.tv_pbs)
+        setField('headline', data.headline)
+
+        const moviePoolNode = document.getElementById('movie-pool')
+        const pool = Array.isArray(data.movie_pool_titles) ? data.movie_pool_titles : []
+        if (pool.length === 0) {
+          const li = document.createElement('li')
+          li.textContent = 'No movie pool provided'
+          moviePoolNode.appendChild(li)
+        } else {
+          pool.slice(0, 2).forEach((title) => {
+            const li = document.createElement('li')
+            li.textContent = normalize(title, 'Untitled')
+            moviePoolNode.appendChild(li)
+          })
+        }
+
+        const moodNode = document.getElementById('mood-tags')
+        const moods = Array.isArray(data.mood_tags) ? data.mood_tags : []
+        if (moods.length === 0) {
+          const fallbackTag = document.createElement('span')
+          fallbackTag.className = 'tag'
+          fallbackTag.textContent = 'no mood tags'
+          moodNode.appendChild(fallbackTag)
+        } else {
+          moods.forEach((mood) => {
+            const tag = document.createElement('span')
+            tag.className = 'tag'
+            tag.textContent = normalize(mood, 'untagged')
+            moodNode.appendChild(tag)
+          })
+        }
+
+        root.classList.remove('layout-a', 'layout-b', 'layout-c')
+        root.classList.add(`layout-${layoutFamily.toLowerCase()}`)
+        document.getElementById('layout-name').textContent = layoutFamily.toUpperCase()
+      })()
+    </script>
+  </body>
+</html>

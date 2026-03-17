@@ -1,0 +1,334 @@
+[
+  {
+    "artist": "The Everly Brothers",
+    "score": 290
+  },
+  {
+    "artist": "Elvis Presley",
+    "score": 286.5
+  },
+  {
+    "artist": "Ricky Nelson",
+    "score": 285.4
+  },
+  {
+    "artist": "Bobby Darin",
+    "score": 190.1
+  },
+  {
+    "artist": "Tommy Edwards",
+    "score": 187
+  },
+  {
+    "artist": "Kalin Twins",
+    "score": 185.3
+  },
+  {
+    "artist": "Jimmie Rodgers",
+    "score": 181.1
+  },
+  {
+    "artist": "Duane Eddy His Twangy Guitar And The Rebels",
+    "score": 180.7
+  },
+  {
+    "artist": "Frankie Avalon",
+    "score": 178.2
+  },
+  {
+    "artist": "Cozy Cole",
+    "score": 173.2
+  },
+  {
+    "artist": "Connie Francis",
+    "score": 171.7
+  },
+  {
+    "artist": "Pat Boone",
+    "score": 167.1
+  },
+  {
+    "artist": "Johnny Mathis",
+    "score": 159.3
+  },
+  {
+    "artist": "Johnny Cash And The Tennessee Two",
+    "score": 156.8
+  },
+  {
+    "artist": "The Elegants",
+    "score": 100.7
+  },
+  {
+    "artist": "Conway Twitty",
+    "score": 100.6
+  },
+  {
+    "artist": "Domenico Modugno",
+    "score": 100.6
+  },
+  {
+    "artist": "The Teddy Bears",
+    "score": 100.5
+  },
+  {
+    "artist": "The Kingston Trio",
+    "score": 100.4
+  },
+  {
+    "artist": "Bobby Day",
+    "score": 100.1
+  },
+  {
+    "artist": "The Chipmunks",
+    "score": 99.5
+  },
+  {
+    "artist": "Perez Prado And His Orchestra",
+    "score": 99.4
+  },
+  {
+    "artist": "The Platters",
+    "score": 98.7
+  },
+  {
+    "artist": "Jack Scott",
+    "score": 98.4
+  },
+  {
+    "artist": "Little Anthony And The Imperials",
+    "score": 97.9
+  },
+  {
+    "artist": "Jimmy Clanton And His Rockets",
+    "score": 97.5
+  },
+  {
+    "artist": "The Playmates",
+    "score": 96.9
+  },
+  {
+    "artist": "Robin Luke",
+    "score": 96.7
+  },
+  {
+    "artist": "Big Bopper",
+    "score": 96.2
+  },
+  {
+    "artist": "The Tommy Dorsey Orchestra",
+    "score": 94.8
+  },
+  {
+    "artist": "Earl Grant",
+    "score": 94.6
+  },
+  {
+    "artist": "Poni-tails",
+    "score": 94.4
+  },
+  {
+    "artist": "The Coasters",
+    "score": 93.7
+  },
+  {
+    "artist": "Eddie Cochran",
+    "score": 93.6
+  },
+  {
+    "artist": "Peggy Lee",
+    "score": 93.2
+  },
+  {
+    "artist": "The Olympics",
+    "score": 93.2
+  },
+  {
+    "artist": "Clyde Mcphatter",
+    "score": 92.2
+  },
+  {
+    "artist": "The Johnny Otis Show",
+    "score": 92
+  },
+  {
+    "artist": "Roger Williams",
+    "score": 91.7
+  },
+  {
+    "artist": "Fats Domino",
+    "score": 90.7
+  },
+  {
+    "artist": "Jerry Wallace",
+    "score": 90.6
+  },
+  {
+    "artist": "Billy Grammer",
+    "score": 89.6
+  },
+  {
+    "artist": "Patti Page",
+    "score": 87.7
+  },
+  {
+    "artist": "Doris Day",
+    "score": 87.2
+  },
+  {
+    "artist": "The Shields",
+    "score": 86.6
+  },
+  {
+    "artist": "Dean Martin",
+    "score": 86.3
+  },
+  {
+    "artist": "Jerry Butler And The Impressions",
+    "score": 85.5
+  },
+  {
+    "artist": "The Applejacks",
+    "score": 85.5
+  },
+  {
+    "artist": "The Danleers",
+    "score": 84.8
+  },
+  {
+    "artist": "Jackie Wilson",
+    "score": 84.6
+  },
+  {
+    "artist": "The Ames Brothers",
+    "score": 84.4
+  },
+  {
+    "artist": "Andy Williams",
+    "score": 84.2
+  },
+  {
+    "artist": "The Royaltones",
+    "score": 84.1
+  },
+  {
+    "artist": "Jody Reynolds",
+    "score": 83.6
+  },
+  {
+    "artist": "Gordon Macrae",
+    "score": 83.3
+  },
+  {
+    "artist": "Chuck Berry",
+    "score": 83
+  },
+  {
+    "artist": "Louis Prima And Keely Smith",
+    "score": 82.9
+  },
+  {
+    "artist": "Joni James",
+    "score": 82.6
+  },
+  {
+    "artist": "Ritchie Valens",
+    "score": 82.6
+  },
+  {
+    "artist": "Tony Bennett",
+    "score": 81.3
+  },
+  {
+    "artist": "The Quin-tones",
+    "score": 81.2
+  },
+  {
+    "artist": "Bobby Freeman",
+    "score": 80.5
+  },
+  {
+    "artist": "Jane Morgan",
+    "score": 80.5
+  },
+  {
+    "artist": "The Four Esquires",
+    "score": 80.5
+  },
+  {
+    "artist": "The Four Preps",
+    "score": 80
+  },
+  {
+    "artist": "The Four Coins",
+    "score": 79.8
+  },
+  {
+    "artist": "Harvey",
+    "score": 79.6
+  },
+  {
+    "artist": "Buddy Knox",
+    "score": 79.4
+  },
+  {
+    "artist": "Reg Owen",
+    "score": 78.4
+  },
+  {
+    "artist": "Dion",
+    "score": 77.6
+  },
+  {
+    "artist": "Ruth Brown",
+    "score": 77
+  },
+  {
+    "artist": "The Rinky-dinks",
+    "score": 76.9
+  },
+  {
+    "artist": "Bobby Hendricks",
+    "score": 76.4
+  },
+  {
+    "artist": "Sheb Wooley",
+    "score": 76.4
+  },
+  {
+    "artist": "Donnie Owens",
+    "score": 76.3
+  },
+  {
+    "artist": "Jimmy Clanton",
+    "score": 76.1
+  },
+  {
+    "artist": "Chuck Willis",
+    "score": 75.7
+  },
+  {
+    "artist": "The Crests",
+    "score": 75.6
+  },
+  {
+    "artist": "Eileen Rodgers",
+    "score": 75.5
+  },
+  {
+    "artist": "The Jamies",
+    "score": 75.1
+  },
+  {
+    "artist": "Billy Vaughn And His Orchestra",
+    "score": 75
+  },
+  {
+    "artist": "Sam Cooke",
+    "score": 74.7
+  },
+  {
+    "artist": "The Nu Tornados",
+    "score": 74.7
+  }
+]

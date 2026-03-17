@@ -1,0 +1,454 @@
+[
+  {
+    "artist": "Soundtrack",
+    "score": 767.9
+  },
+  {
+    "artist": "Aretha Franklin",
+    "score": 763.6
+  },
+  {
+    "artist": "The Beatles",
+    "score": 601
+  },
+  {
+    "artist": "The Monkees",
+    "score": 398
+  },
+  {
+    "artist": "Cream",
+    "score": 395.4
+  },
+  {
+    "artist": "The Rascals",
+    "score": 394.2
+  },
+  {
+    "artist": "Steppenwolf",
+    "score": 393.2
+  },
+  {
+    "artist": "The Doors",
+    "score": 391.7
+  },
+  {
+    "artist": "Glen Campbell",
+    "score": 385.8
+  },
+  {
+    "artist": "Dionne Warwick",
+    "score": 383
+  },
+  {
+    "artist": "Sergio Mendes",
+    "score": 381.3
+  },
+  {
+    "artist": "Otis Redding",
+    "score": 296.2
+  },
+  {
+    "artist": "Marvin Gaye",
+    "score": 287.1
+  },
+  {
+    "artist": "The Lettermen",
+    "score": 279.1
+  },
+  {
+    "artist": "The Temptations",
+    "score": 278.8
+  },
+  {
+    "artist": "Bee Gees",
+    "score": 268.3
+  },
+  {
+    "artist": "Donovan",
+    "score": 263.7
+  },
+  {
+    "artist": "Paul Mauriat And His Orchestra",
+    "score": 204.5
+  },
+  {
+    "artist": "Herb Alpert & The Tijuana Brass",
+    "score": 203.1
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "score": 202.8
+  },
+  {
+    "artist": "The Jimi Hendrix Experience",
+    "score": 201.8
+  },
+  {
+    "artist": "Bobby Goldsboro",
+    "score": 199.2
+  },
+  {
+    "artist": "The Rolling Stones",
+    "score": 199
+  },
+  {
+    "artist": "Jose Feliciano",
+    "score": 198.6
+  },
+  {
+    "artist": "Richard Harris",
+    "score": 198.6
+  },
+  {
+    "artist": "The Union Gap",
+    "score": 196.5
+  },
+  {
+    "artist": "Hugo Montenegro, His Orchestra And Chorus",
+    "score": 195.1
+  },
+  {
+    "artist": "Classics Iv",
+    "score": 194.3
+  },
+  {
+    "artist": "1910 Fruitgum Co",
+    "score": 193.7
+  },
+  {
+    "artist": "Gary Puckett And The Union Gap",
+    "score": 193.4
+  },
+  {
+    "artist": "Judy Collins",
+    "score": 193
+  },
+  {
+    "artist": "Archie Bell",
+    "score": 192.5
+  },
+  {
+    "artist": "Stevie Wonder",
+    "score": 191.2
+  },
+  {
+    "artist": "The Turtles",
+    "score": 191.2
+  },
+  {
+    "artist": "Diana Ross & The Supremes",
+    "score": 189.7
+  },
+  {
+    "artist": "Jeannie C. Riley",
+    "score": 189.5
+  },
+  {
+    "artist": "Andy Williams",
+    "score": 188.9
+  },
+  {
+    "artist": "The Vogues",
+    "score": 188.5
+  },
+  {
+    "artist": "Mason Williams",
+    "score": 188.1
+  },
+  {
+    "artist": "The Chambers Brothers",
+    "score": 185.8
+  },
+  {
+    "artist": "Hugh Masekela",
+    "score": 185.4
+  },
+  {
+    "artist": "The Mamas & The Papas",
+    "score": 185.4
+  },
+  {
+    "artist": "Engelbert Humperdinck",
+    "score": 185.1
+  },
+  {
+    "artist": "O.c. Smith",
+    "score": 183.6
+  },
+  {
+    "artist": "Bill Cosby",
+    "score": 180.9
+  },
+  {
+    "artist": "Jefferson Airplane",
+    "score": 180.8
+  },
+  {
+    "artist": "The Supremes",
+    "score": 178.3
+  },
+  {
+    "artist": "Barbra Streisand",
+    "score": 175.9
+  },
+  {
+    "artist": "James Brown",
+    "score": 175.5
+  },
+  {
+    "artist": "Bob Dylan",
+    "score": 102.9
+  },
+  {
+    "artist": "Big Brother And The Holding Company",
+    "score": 100.8
+  },
+  {
+    "artist": "Herb Alpert",
+    "score": 100.4
+  },
+  {
+    "artist": "Simon",
+    "score": 100.3
+  },
+  {
+    "artist": "Jimi Hendrix",
+    "score": 100.2
+  },
+  {
+    "artist": "Diana Ross",
+    "score": 100.1
+  },
+  {
+    "artist": "John Fred And The Playboys",
+    "score": 100
+  },
+  {
+    "artist": "The Lemon Pipers",
+    "score": 100
+  },
+  {
+    "artist": "The Box Tops",
+    "score": 99.5
+  },
+  {
+    "artist": "Cliff Nobles",
+    "score": 99.4
+  },
+  {
+    "artist": "Mary Hopkin",
+    "score": 99.4
+  },
+  {
+    "artist": "The Crazy World Of Arthur Brown",
+    "score": 99.3
+  },
+  {
+    "artist": "Tommy James And The Shondells",
+    "score": 98.7
+  },
+  {
+    "artist": "The 5th Dimension",
+    "score": 98.6
+  },
+  {
+    "artist": "Johnny Rivers",
+    "score": 97.7
+  },
+  {
+    "artist": "The Delfonics",
+    "score": 97.5
+  },
+  {
+    "artist": "Iron Butterfly",
+    "score": 97.4
+  },
+  {
+    "artist": "Ohio Express",
+    "score": 97.4
+  },
+  {
+    "artist": "The Miracles",
+    "score": 97.4
+  },
+  {
+    "artist": "Deep Purple",
+    "score": 97
+  },
+  {
+    "artist": "Dion",
+    "score": 97
+  },
+  {
+    "artist": "Gladys Knight And The Pips",
+    "score": 96.6
+  },
+  {
+    "artist": "Johnny Nash",
+    "score": 96.5
+  },
+  {
+    "artist": "The Grass Roots",
+    "score": 96.5
+  },
+  {
+    "artist": "The O'kaysions",
+    "score": 96.4
+  },
+  {
+    "artist": "Tiny Tim",
+    "score": 96.2
+  },
+  {
+    "artist": "Johnnie Taylor",
+    "score": 96
+  },
+  {
+    "artist": "The First Edition",
+    "score": 96
+  },
+  {
+    "artist": "The American Breed",
+    "score": 95.9
+  },
+  {
+    "artist": "Clarence Carter",
+    "score": 95.6
+  },
+  {
+    "artist": "The Intruders",
+    "score": 95.4
+  },
+  {
+    "artist": "James Brown And The Famous Flames",
+    "score": 95.2
+  },
+  {
+    "artist": "The Vanilla Fudge",
+    "score": 95.2
+  },
+  {
+    "artist": "Arthur",
+    "score": 94.7
+  },
+  {
+    "artist": "Merrilee Rush",
+    "score": 94.6
+  },
+  {
+    "artist": "Smokey Robinson",
+    "score": 94.6
+  },
+  {
+    "artist": "The Troggs",
+    "score": 94.6
+  },
+  {
+    "artist": "Georgie Fame",
+    "score": 94.4
+  },
+  {
+    "artist": "The Irish Rovers",
+    "score": 94.2
+  },
+  {
+    "artist": "Sly",
+    "score": 93.5
+  },
+  {
+    "artist": "Tommy Boyce",
+    "score": 93.2
+  },
+  {
+    "artist": "Shorty Long",
+    "score": 93.1
+  },
+  {
+    "artist": "The Human Beinz",
+    "score": 93.1
+  },
+  {
+    "artist": "Sam",
+    "score": 92.3
+  },
+  {
+    "artist": "The Fireballs",
+    "score": 92.3
+  },
+  {
+    "artist": "Wes Montgomery",
+    "score": 92.2
+  },
+  {
+    "artist": "Bobby Vinton",
+    "score": 91.9
+  },
+  {
+    "artist": "Blue Cheer",
+    "score": 91.7
+  },
+  {
+    "artist": "Vikki Carr",
+    "score": 91.6
+  },
+  {
+    "artist": "Ed Ames",
+    "score": 91.5
+  },
+  {
+    "artist": "The Fantastic Johnny C",
+    "score": 91.5
+  },
+  {
+    "artist": "Friend And Lover",
+    "score": 91.4
+  },
+  {
+    "artist": "Manfred Mann",
+    "score": 91.1
+  },
+  {
+    "artist": "Nancy Sinatra",
+    "score": 90.8
+  },
+  {
+    "artist": "Joe Tex",
+    "score": 90.5
+  },
+  {
+    "artist": "Strawberry Alarm Clock",
+    "score": 90.5
+  },
+  {
+    "artist": "Bobbie Gentry & Glen Campbell",
+    "score": 90.2
+  },
+  {
+    "artist": "Johnny Cash",
+    "score": 89.9
+  },
+  {
+    "artist": "Mike Bloomfield",
+    "score": 89.8
+  },
+  {
+    "artist": "Canned Heat",
+    "score": 88.5
+  },
+  {
+    "artist": "Peter, Paul & Mary",
+    "score": 87.6
+  },
+  {
+    "artist": "Jeff Beck",
+    "score": 86.9
+  },
+  {
+    "artist": "Vanilla Fudge",
+    "score": 86.3
+  },
+  {
+    "artist": "Herb Alpert's Tijuana Brass",
+    "score": 85.7
+  }
+]

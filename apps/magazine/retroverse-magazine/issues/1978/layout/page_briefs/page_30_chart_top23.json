@@ -1,0 +1,178 @@
+{
+  "year": 1978,
+  "page_type": "chart page",
+  "page_slug": "chart_top23",
+  "title": "RetroVerse Top 23",
+  "subtitle": "Year-End Song Ranking",
+  "writer": {
+    "name": "RetroVerse Editorial Desk",
+    "byline": "By RetroVerse Editorial Desk"
+  },
+  "source_files": [
+    "PROJECT_STATE.md",
+    "issues/context/1978_context.json",
+    "issues/1978/layout/1978_production_targets.json",
+    "issues/1978/layout/1978_issue_map.json",
+    "issues/1978/chart_top23.md"
+  ],
+  "page_purpose": "Present RetroVerse Top 23 as a complete RetroVerse 1978 chart page page, with page-aware artwork under real typography and no text baked into the illustration layer for `chart_top23`.",
+  "story_summary": "RetroVerse Top 23 Year-End Song Ranking Year: 1978 This ranking is derived from the RetroVerse 1978 context dataset (Billboard Hot 100-based yearly performance scoring). Rank Song Title Artist Weeks Peak Score 1 Stayin' Alive Bee Gees 23 1 503 2 Night Fever Bee Gees 20 1 490 3 (Love Is) Thicker Than Water Andy Gibb 20 1 466 4 Three Times A Lady Commodores 20 1 420 5 Kiss You All Over Exile 23 1 417 6 Can't Smile Without You Barry Manilow 19 3 382 7 MacArthur Park Donna Summer 17 1 369 8 Lay Down Sally Eric Clapton 23 3 366 9 Shadow Dancing Andy Gibb 25 1 360 10 Boogie Oogie Oogie A Taste Of Honey 23 1 352 11 Emotion Samantha Sang 20 3 345 12 Hot Blooded Foreigner 17 3 327 13 Take A Chance On",
+  "verified_facts": [
+    {
+      "claim": "Page 30 is assigned to `chart_top23` in the canonical issue structure.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The page title is 'RetroVerse Top 23'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The page subtitle is 'Year-End Song Ranking'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The intended layout type is 'chart page'.",
+      "source_file": "PROJECT_STATE.md"
+    }
+  ],
+  "text_blocks": [
+    {
+      "id": "page_title",
+      "role": "title",
+      "content": "RetroVerse Top 23",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_subtitle",
+      "role": "subtitle",
+      "content": "Year-End Song Ranking",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_byline",
+      "role": "byline",
+      "content": "By RetroVerse Editorial Desk",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_deck",
+      "role": "deck",
+      "content": "RetroVerse Top 23 Year-End Song Ranking Year: 1978 This ranking is derived from the RetroVerse 1978 context dataset (Billboard Hot 100-based yearly performance scoring). Rank Song Title Artist Weeks Peak Score 1 Stayin' Alive Bee Gees 23 1 503 2 Night Fever Bee Gees 20 1 490 3 (Love Is) Thicker Than Water Andy Gibb 20 1 466 4 Three Times A Lady Commodores 20 1 420 5 Kiss You All Over Exile 23 1 417 6 Can't Smile Without You Barry Manilow 19 3 382 7 MacArthur Park Donna Summer 17 1 369 8 Lay Down Sally Eric Clapton 23 3 366 9 Shadow Dancing Andy Gibb 25 1 360 10 Boogie Oogie Oogie A Taste Of Honey 23 1 352 11 Emotion Samantha Sang 20 3 345 12 Hot Blooded Foreigner 17 3 327 13 Take A Chance On",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "body_01",
+      "role": "body",
+      "content": "Year: 1978 This ranking is derived from the RetroVerse 1978 context dataset (Billboard Hot 100-based yearly performance scoring). Rank Song Title Artist Weeks Peak Score 1 Stayin' Alive Bee Gees 23 1 503 2 Night Fever Bee Gees 20 1 490 3 (Love Is) Thicker Than Water Andy Gibb 20 1 466 4 Three Times A Lady Commodores 20 1 420 5 Kiss You All Over Exile 23 1 417 6 Can't Smile Without You Barry Manilow 19 3 382 7 MacArthur Park Donna Summer 17 1 369 8 Lay Down Sally Eric Clapton 23 3 366 9 Shadow Dancing Andy Gibb 25 1 360 10 Boogie Oogie Oogie A Taste Of Honey 23 1 352 11 Emotion Samantha Sang 20 3 345 12 Hot Blooded Foreigner 17 3 327 13 Take A Chance On Me Abba 18 3 325 14 Miss You The Rolling Stones 20 1 321 15 You're The One That I Want John Travolta 24 1 318 16 How Deep Is Your Love Bee Gees 18 1 298 17 You Don't Bring Me Flowers Barbra Streisand 10 1 295 18 Sometimes When We Touch Dan Hill 16 3 286 19 How Much I Feel Ambrosia 18 3 280 20 Grease Frankie Valli 22 1 279 21 Double Vision Foreigner 15 2 279 22 Hopelessly Devoted To You Olivia Newton-john 19 3 277 23 Baker Street Gerry Rafferty 20 2 275 RetroVerse editorial adjustments may be applied to final published ordering when needed for issue flow, while keeping dataset-derived performance as the base model.",
+      "source_file": "issues/1978/chart_top23.md",
+      "intended_zone": "body_zone"
+    }
+  ],
+  "sidebar_blocks": [
+    {
+      "id": "chart_top23_metadata",
+      "title": "Page Facts",
+      "items": [
+        {
+          "label": "Page",
+          "value": "30"
+        },
+        {
+          "label": "Section",
+          "value": "chart_top23"
+        },
+        {
+          "label": "Role",
+          "value": "Editorial page"
+        }
+      ]
+    }
+  ],
+  "qa_notes": [
+    "Story and page text are defined before illustration prompt generation.",
+    "Art direction reads the entire page intent, not a floating insert concept.",
+    "All final production typography is reserved for the layout engine."
+  ],
+  "layout_requirements": {
+    "page_number": 30,
+    "orientation": "portrait",
+    "filename": "page_30_chart_top23.html",
+    "structure": "chart page",
+    "hero_asset": "assets/placeholder.png",
+    "collage_assets": [],
+    "layout_output": "issues/1978/layout/page_30_chart_top23.html"
+  },
+  "art_direction": {
+    "concept": "A clean ranking-page background for 1978, using rhythm and texture that support database-driven chart typography.",
+    "page_readback": "Present RetroVerse Top 23 as a complete RetroVerse 1978 chart page page, with page-aware artwork under real typography and no text baked into the illustration layer for `chart_top23`.",
+    "mood": "controlled and legible",
+    "palette": "CRT teal, cream paper, black ink, and restrained signal red",
+    "visual_hierarchy": [
+      "Primary focal area supports RetroVerse Top 23.",
+      "Secondary props reinforce `chart_top23` without competing with text zones.",
+      "Negative space stays calm inside title, body, sidebar, and footer zones."
+    ]
+  },
+  "text_safe_zones": [
+    {
+      "id": "title_zone",
+      "x": 7,
+      "y": 6,
+      "width": 52,
+      "height": 12,
+      "unit": "percent"
+    },
+    {
+      "id": "body_zone",
+      "x": 7,
+      "y": 22,
+      "width": 52,
+      "height": 64,
+      "unit": "percent"
+    },
+    {
+      "id": "sidebar_zone",
+      "x": 63,
+      "y": 22,
+      "width": 26,
+      "height": 60,
+      "unit": "percent"
+    },
+    {
+      "id": "footer_zone",
+      "x": 7,
+      "y": 93,
+      "width": 86,
+      "height": 3,
+      "unit": "percent"
+    }
+  ],
+  "must_include": [
+    "RetroVerse Top 23",
+    "Year-End Song Ranking",
+    "By RetroVerse Editorial Desk",
+    "Page 30",
+    "Layout overlays the real editorial text after illustration approval."
+  ],
+  "must_not_render_in_art": [
+    "article body text",
+    "charts/tables",
+    "exact production typography",
+    "magazine headlines",
+    "page titles",
+    "pull quotes",
+    "sidebars",
+    "chart tables",
+    "magazine layout elements"
+  ],
+  "style_notes": [
+    "RetroVerse pages use scene artwork as background assets beneath real typography.",
+    "Page artwork must preserve negative space inside all declared safe zones.",
+    "Environmental lettering may appear only if natural, minimal, and not production-critical."
+  ],
+  "easter_egg_rule": "Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography."
+}

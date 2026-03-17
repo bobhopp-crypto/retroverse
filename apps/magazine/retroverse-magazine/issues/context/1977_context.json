@@ -1,0 +1,584 @@
+{
+  "year": "1977",
+  "top_songs": [
+    {
+      "artist": "Debby Boone",
+      "title": "You Light Up My Life",
+      "weeks": 18,
+      "peak": 1,
+      "score": 521
+    },
+    {
+      "artist": "Andy Gibb",
+      "title": "I Just Want To Be Your Everything",
+      "weeks": 31,
+      "peak": 1,
+      "score": 501
+    },
+    {
+      "artist": "Barbra Streisand",
+      "title": "Evergreen (Love Theme From \"A Star Is Born\")",
+      "weeks": 22,
+      "peak": 1,
+      "score": 420
+    },
+    {
+      "artist": "Mary Macgregor",
+      "title": "Torn Between Two Lovers",
+      "weeks": 16,
+      "peak": 1,
+      "score": 413
+    },
+    {
+      "artist": "The Emotions",
+      "title": "Best Of My Love",
+      "weeks": 23,
+      "peak": 1,
+      "score": 392
+    },
+    {
+      "artist": "Kenny Nolan",
+      "title": "I Like Dreamin'",
+      "weeks": 19,
+      "peak": 3,
+      "score": 384
+    },
+    {
+      "artist": "Abba",
+      "title": "Dancing Queen",
+      "weeks": 19,
+      "peak": 1,
+      "score": 379
+    },
+    {
+      "artist": "Thelma Houston",
+      "title": "Don't Leave Me This Way",
+      "weeks": 22,
+      "peak": 1,
+      "score": 370
+    },
+    {
+      "artist": "Eagles",
+      "title": "New Kid In Town",
+      "weeks": 13,
+      "peak": 1,
+      "score": 369
+    },
+    {
+      "artist": "Marvin Gaye",
+      "title": "Got To Give It Up (Pt. I)",
+      "weeks": 18,
+      "peak": 1,
+      "score": 362
+    },
+    {
+      "artist": "Manfred Mann's Earth Band",
+      "title": "Blinded By The Light",
+      "weeks": 14,
+      "peak": 1,
+      "score": 358
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "How Deep Is Your Love",
+      "weeks": 15,
+      "peak": 1,
+      "score": 351
+    },
+    {
+      "artist": "Steve Miller",
+      "title": "Fly Like An Eagle",
+      "weeks": 18,
+      "peak": 2,
+      "score": 342
+    },
+    {
+      "artist": "Eagles",
+      "title": "Hotel California",
+      "weeks": 19,
+      "peak": 1,
+      "score": 336
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "I Wish",
+      "weeks": 13,
+      "peak": 1,
+      "score": 319
+    },
+    {
+      "artist": "Heatwave",
+      "title": "Boogie Nights",
+      "weeks": 24,
+      "peak": 2,
+      "score": 309
+    },
+    {
+      "artist": "Crystal Gayle",
+      "title": "Don't It Make My Brown Eyes Blue",
+      "weeks": 21,
+      "peak": 2,
+      "score": 305
+    },
+    {
+      "artist": "Paul Nicholas",
+      "title": "Heaven On The 7th Floor",
+      "weeks": 20,
+      "peak": 6,
+      "score": 298
+    },
+    {
+      "artist": "Rose Royce",
+      "title": "Car Wash",
+      "weeks": 13,
+      "peak": 1,
+      "score": 279
+    },
+    {
+      "artist": "Chicago",
+      "title": "Baby, What A Big Surprise",
+      "weeks": 15,
+      "peak": 4,
+      "score": 277
+    },
+    {
+      "artist": "Barbra Streisand",
+      "title": "My Heart Belongs To Me",
+      "weeks": 17,
+      "peak": 4,
+      "score": 273
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "Sir Duke",
+      "weeks": 17,
+      "peak": 1,
+      "score": 271
+    },
+    {
+      "artist": "Leo Sayer",
+      "title": "You Make Me Feel Like Dancing",
+      "weeks": 11,
+      "peak": 1,
+      "score": 257
+    },
+    {
+      "artist": "Carly Simon",
+      "title": "Nobody Does It Better",
+      "weeks": 24,
+      "peak": 2,
+      "score": 253
+    },
+    {
+      "artist": "David Soul",
+      "title": "Don't Give Up On Us",
+      "weeks": 19,
+      "peak": 1,
+      "score": 251
+    },
+    {
+      "artist": "Rita Coolidge",
+      "title": "We're All Alone",
+      "weeks": 16,
+      "peak": 7,
+      "score": 251
+    },
+    {
+      "artist": "Bill Conti",
+      "title": "Gonna Fly Now",
+      "weeks": 20,
+      "peak": 1,
+      "score": 249
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "title": "Don't Stop",
+      "weeks": 18,
+      "peak": 3,
+      "score": 247
+    },
+    {
+      "artist": "Brick",
+      "title": "Dazz",
+      "weeks": 11,
+      "peak": 3,
+      "score": 245
+    },
+    {
+      "artist": "The Sylvers",
+      "title": "Hot Line",
+      "weeks": 12,
+      "peak": 5,
+      "score": 241
+    },
+    {
+      "artist": "The Jacksons",
+      "title": "Enjoy Yourself",
+      "weeks": 14,
+      "peak": 6,
+      "score": 235
+    },
+    {
+      "artist": "Atlanta Rhythm Section",
+      "title": "So In To You",
+      "weeks": 19,
+      "peak": 7,
+      "score": 234
+    },
+    {
+      "artist": "Linda Ronstadt",
+      "title": "Blue Bayou",
+      "weeks": 17,
+      "peak": 3,
+      "score": 233
+    },
+    {
+      "artist": "Kc And The Sunshine Band",
+      "title": "I'm Your Boogie Man",
+      "weeks": 23,
+      "peak": 1,
+      "score": 232
+    },
+    {
+      "artist": "Hot",
+      "title": "Angel In Your Arms",
+      "weeks": 27,
+      "peak": 6,
+      "score": 226
+    },
+    {
+      "artist": "Leo Sayer",
+      "title": "When I Need You",
+      "weeks": 20,
+      "peak": 1,
+      "score": 222
+    },
+    {
+      "artist": "Bread",
+      "title": "Lost Without Your Love",
+      "weeks": 11,
+      "peak": 9,
+      "score": 221
+    },
+    {
+      "artist": "Kc And The Sunshine Band",
+      "title": "Keep It Comin' Love",
+      "weeks": 20,
+      "peak": 2,
+      "score": 220
+    },
+    {
+      "artist": "Foreigner",
+      "title": "Cold As Ice",
+      "weeks": 21,
+      "peak": 6,
+      "score": 215
+    },
+    {
+      "artist": "Kenny Rogers",
+      "title": "Lucille",
+      "weeks": 19,
+      "peak": 5,
+      "score": 213
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Barbra Streisand",
+      "hits": 2
+    },
+    {
+      "artist": "Eagles",
+      "hits": 2
+    },
+    {
+      "artist": "Stevie Wonder",
+      "hits": 2
+    },
+    {
+      "artist": "Leo Sayer",
+      "hits": 2
+    },
+    {
+      "artist": "Kc And The Sunshine Band",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Andy Gibb",
+      "title": "I Just Want To Be Your Everything",
+      "weeks": 31,
+      "peak": 1,
+      "score": 501
+    },
+    {
+      "artist": "C.j",
+      "title": "Devil's Gun",
+      "weeks": 29,
+      "peak": 36,
+      "score": -635
+    },
+    {
+      "artist": "Stephen Bishop",
+      "title": "On And On",
+      "weeks": 28,
+      "peak": 11,
+      "score": -91
+    },
+    {
+      "artist": "Hot",
+      "title": "Angel In Your Arms",
+      "weeks": 27,
+      "peak": 6,
+      "score": 226
+    },
+    {
+      "artist": "Rita Coolidge",
+      "title": "(Your Love Has Lifted Me) Higher And Higher",
+      "weeks": 27,
+      "peak": 2,
+      "score": 122
+    },
+    {
+      "artist": "Pablo Cruise",
+      "title": "Whatcha Gonna Do?",
+      "weeks": 26,
+      "peak": 6,
+      "score": -53
+    },
+    {
+      "artist": "Alan O'day",
+      "title": "Undercover Angel",
+      "weeks": 25,
+      "peak": 1,
+      "score": 188
+    },
+    {
+      "artist": "Heatwave",
+      "title": "Boogie Nights",
+      "weeks": 24,
+      "peak": 2,
+      "score": 309
+    },
+    {
+      "artist": "Carly Simon",
+      "title": "Nobody Does It Better",
+      "weeks": 24,
+      "peak": 2,
+      "score": 253
+    },
+    {
+      "artist": "Shaun Cassidy",
+      "title": "That's Rock 'N' Roll",
+      "weeks": 24,
+      "peak": 3,
+      "score": 162
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Debby Boone",
+      "title": "You Light Up My Life",
+      "weeks": 18,
+      "peak": 1,
+      "score": 521
+    },
+    {
+      "artist": "Andy Gibb",
+      "title": "I Just Want To Be Your Everything",
+      "weeks": 31,
+      "peak": 1,
+      "score": 501
+    },
+    {
+      "artist": "Barbra Streisand",
+      "title": "Evergreen (Love Theme From \"A Star Is Born\")",
+      "weeks": 22,
+      "peak": 1,
+      "score": 420
+    },
+    {
+      "artist": "Mary Macgregor",
+      "title": "Torn Between Two Lovers",
+      "weeks": 16,
+      "peak": 1,
+      "score": 413
+    },
+    {
+      "artist": "The Emotions",
+      "title": "Best Of My Love",
+      "weeks": 23,
+      "peak": 1,
+      "score": 392
+    },
+    {
+      "artist": "Abba",
+      "title": "Dancing Queen",
+      "weeks": 19,
+      "peak": 1,
+      "score": 379
+    },
+    {
+      "artist": "Thelma Houston",
+      "title": "Don't Leave Me This Way",
+      "weeks": 22,
+      "peak": 1,
+      "score": 370
+    },
+    {
+      "artist": "Eagles",
+      "title": "New Kid In Town",
+      "weeks": 13,
+      "peak": 1,
+      "score": 369
+    },
+    {
+      "artist": "Marvin Gaye",
+      "title": "Got To Give It Up (Pt. I)",
+      "weeks": 18,
+      "peak": 1,
+      "score": 362
+    },
+    {
+      "artist": "Manfred Mann's Earth Band",
+      "title": "Blinded By The Light",
+      "weeks": 14,
+      "peak": 1,
+      "score": 358
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "How Deep Is Your Love",
+      "weeks": 15,
+      "peak": 1,
+      "score": 351
+    },
+    {
+      "artist": "Eagles",
+      "title": "Hotel California",
+      "weeks": 19,
+      "peak": 1,
+      "score": 336
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "I Wish",
+      "weeks": 13,
+      "peak": 1,
+      "score": 319
+    },
+    {
+      "artist": "Rose Royce",
+      "title": "Car Wash",
+      "weeks": 13,
+      "peak": 1,
+      "score": 279
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "Sir Duke",
+      "weeks": 17,
+      "peak": 1,
+      "score": 271
+    },
+    {
+      "artist": "Leo Sayer",
+      "title": "You Make Me Feel Like Dancing",
+      "weeks": 11,
+      "peak": 1,
+      "score": 257
+    },
+    {
+      "artist": "David Soul",
+      "title": "Don't Give Up On Us",
+      "weeks": 19,
+      "peak": 1,
+      "score": 251
+    },
+    {
+      "artist": "Bill Conti",
+      "title": "Gonna Fly Now",
+      "weeks": 20,
+      "peak": 1,
+      "score": 249
+    },
+    {
+      "artist": "Kc And The Sunshine Band",
+      "title": "I'm Your Boogie Man",
+      "weeks": 23,
+      "peak": 1,
+      "score": 232
+    },
+    {
+      "artist": "Leo Sayer",
+      "title": "When I Need You",
+      "weeks": 20,
+      "peak": 1,
+      "score": 222
+    },
+    {
+      "artist": "Meco",
+      "title": "Star Wars Theme/Cantina Band",
+      "weeks": 20,
+      "peak": 1,
+      "score": 204
+    },
+    {
+      "artist": "Marilyn Mccoo",
+      "title": "You Don't Have To Be A Star (To Be In My Show)",
+      "weeks": 10,
+      "peak": 1,
+      "score": 199
+    },
+    {
+      "artist": "Barry Manilow",
+      "title": "Looks Like We Made It",
+      "weeks": 19,
+      "peak": 1,
+      "score": 199
+    },
+    {
+      "artist": "Alan O'day",
+      "title": "Undercover Angel",
+      "weeks": 25,
+      "peak": 1,
+      "score": 188
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "title": "Dreams",
+      "weeks": 19,
+      "peak": 1,
+      "score": 180
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "title": "Rich Girl",
+      "weeks": 20,
+      "peak": 1,
+      "score": 171
+    },
+    {
+      "artist": "Glen Campbell",
+      "title": "Southern Nights",
+      "weeks": 21,
+      "peak": 1,
+      "score": 168
+    },
+    {
+      "artist": "Rod Stewart",
+      "title": "Tonight's The Night (Gonna Be Alright)",
+      "weeks": 10,
+      "peak": 1,
+      "score": 137
+    },
+    {
+      "artist": "Shaun Cassidy",
+      "title": "Da Doo Ron Ron",
+      "weeks": 22,
+      "peak": 1,
+      "score": -23
+    }
+  ]
+}

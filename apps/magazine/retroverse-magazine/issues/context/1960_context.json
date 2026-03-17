@@ -1,0 +1,518 @@
+{
+  "year": "1960",
+  "top_songs": [
+    {
+      "artist": "Jim Reeves",
+      "title": "He'll Have To Go",
+      "weeks": 22,
+      "peak": 2,
+      "score": 566
+    },
+    {
+      "artist": "Chubby Checker",
+      "title": "The Twist",
+      "weeks": 18,
+      "peak": 1,
+      "score": 474
+    },
+    {
+      "artist": "Percy Faith And His Orchestra",
+      "title": "The Theme From \"A Summer Place\"",
+      "weeks": 21,
+      "peak": 1,
+      "score": 456
+    },
+    {
+      "artist": "Connie Francis",
+      "title": "Everybody's Somebody's Fool",
+      "weeks": 18,
+      "peak": 1,
+      "score": 437
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "It's Now Or Never",
+      "weeks": 20,
+      "peak": 1,
+      "score": 423
+    },
+    {
+      "artist": "Connie Francis",
+      "title": "My Heart Has A Mind Of Its Own",
+      "weeks": 17,
+      "peak": 1,
+      "score": 405
+    },
+    {
+      "artist": "Brenda Lee",
+      "title": "I'm Sorry",
+      "weeks": 23,
+      "peak": 1,
+      "score": 402
+    },
+    {
+      "artist": "Jimmy Jones",
+      "title": "Handy Man",
+      "weeks": 17,
+      "peak": 2,
+      "score": 382
+    },
+    {
+      "artist": "Mark Dinning",
+      "title": "Teen Angel",
+      "weeks": 16,
+      "peak": 1,
+      "score": 356
+    },
+    {
+      "artist": "The Drifters",
+      "title": "Save The Last Dance For Me",
+      "weeks": 18,
+      "peak": 1,
+      "score": 352
+    },
+    {
+      "artist": "Brian Hyland",
+      "title": "Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini",
+      "weeks": 15,
+      "peak": 1,
+      "score": 341
+    },
+    {
+      "artist": "The Everly Brothers",
+      "title": "Cathy's Clown",
+      "weeks": 17,
+      "peak": 1,
+      "score": 340
+    },
+    {
+      "artist": "Bobby Rydell",
+      "title": "Wild One",
+      "weeks": 16,
+      "peak": 2,
+      "score": 335
+    },
+    {
+      "artist": "Sam Cooke",
+      "title": "Chain Gang",
+      "weeks": 16,
+      "peak": 2,
+      "score": 334
+    },
+    {
+      "artist": "The Brothers Four",
+      "title": "Greenfields",
+      "weeks": 20,
+      "peak": 2,
+      "score": 326
+    },
+    {
+      "artist": "Hollywood Argyles",
+      "title": "Alley-Oop",
+      "weeks": 15,
+      "peak": 1,
+      "score": 325
+    },
+    {
+      "artist": "Brenda Lee",
+      "title": "I Want To Be Wanted",
+      "weeks": 15,
+      "peak": 1,
+      "score": 319
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "Stuck On You",
+      "weeks": 16,
+      "peak": 1,
+      "score": 317
+    },
+    {
+      "artist": "Johnny Tillotson",
+      "title": "Poetry In Motion",
+      "weeks": 13,
+      "peak": 2,
+      "score": 307
+    },
+    {
+      "artist": "The Ventures",
+      "title": "Walk -- Don't Run",
+      "weeks": 18,
+      "peak": 2,
+      "score": 306
+    },
+    {
+      "artist": "Brenda Lee",
+      "title": "Sweet Nothin's",
+      "weeks": 22,
+      "peak": 4,
+      "score": 297
+    },
+    {
+      "artist": "Johnny Preston",
+      "title": "Running Bear",
+      "weeks": 16,
+      "peak": 1,
+      "score": 289
+    },
+    {
+      "artist": "Jack Scott",
+      "title": "What In The World's Come Over You",
+      "weeks": 16,
+      "peak": 5,
+      "score": 286
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "Are You Lonesome To-night?",
+      "weeks": 8,
+      "peak": 1,
+      "score": 285
+    },
+    {
+      "artist": "Kathy Young",
+      "title": "A Thousand Stars",
+      "weeks": 11,
+      "peak": 3,
+      "score": 280
+    },
+    {
+      "artist": "Paul Anka",
+      "title": "Puppy Love",
+      "weeks": 14,
+      "peak": 2,
+      "score": 277
+    },
+    {
+      "artist": "Brook Benton",
+      "title": "Kiddio",
+      "weeks": 17,
+      "peak": 7,
+      "score": 273
+    },
+    {
+      "artist": "Johnny Horton",
+      "title": "Sink The Bismark",
+      "weeks": 18,
+      "peak": 3,
+      "score": 265
+    },
+    {
+      "artist": "Larry Verne",
+      "title": "Mr. Custer",
+      "weeks": 13,
+      "peak": 1,
+      "score": 263
+    },
+    {
+      "artist": "The Everly Brothers",
+      "title": "So Sad (To Watch Good Love Go Bad)",
+      "weeks": 12,
+      "peak": 7,
+      "score": 262
+    },
+    {
+      "artist": "Maurice Williams",
+      "title": "Stay",
+      "weeks": 14,
+      "peak": 1,
+      "score": 256
+    },
+    {
+      "artist": "Jeanne Black",
+      "title": "He'll Have To Stay",
+      "weeks": 11,
+      "peak": 4,
+      "score": 254
+    },
+    {
+      "artist": "Connie Stevens",
+      "title": "Sixteen Reasons",
+      "weeks": 24,
+      "peak": 3,
+      "score": 253
+    },
+    {
+      "artist": "Bobby Rydell",
+      "title": "Volare",
+      "weeks": 15,
+      "peak": 4,
+      "score": 247
+    },
+    {
+      "artist": "Roy Orbison",
+      "title": "Only The Lonely (Know How I Feel)",
+      "weeks": 21,
+      "peak": 2,
+      "score": 246
+    },
+    {
+      "artist": "Floyd Cramer",
+      "title": "Last Date",
+      "weeks": 13,
+      "peak": 2,
+      "score": 246
+    },
+    {
+      "artist": "Fats Domino",
+      "title": "Walking To New Orleans",
+      "weeks": 14,
+      "peak": 6,
+      "score": 239
+    },
+    {
+      "artist": "Jimmy Jones",
+      "title": "Good Timin'",
+      "weeks": 15,
+      "peak": 3,
+      "score": 235
+    },
+    {
+      "artist": "Duane Eddy And The Rebels",
+      "title": "Because They're Young",
+      "weeks": 15,
+      "peak": 4,
+      "score": 234
+    },
+    {
+      "artist": "Bill Black's Combo",
+      "title": "White Silver Sands",
+      "weeks": 14,
+      "peak": 9,
+      "score": 231
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Connie Francis",
+      "hits": 2
+    },
+    {
+      "artist": "Elvis Presley",
+      "hits": 3
+    },
+    {
+      "artist": "Brenda Lee",
+      "hits": 3
+    },
+    {
+      "artist": "Jimmy Jones",
+      "hits": 2
+    },
+    {
+      "artist": "The Everly Brothers",
+      "hits": 2
+    },
+    {
+      "artist": "Bobby Rydell",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Hank Ballard And The Midnighters",
+      "title": "Finger Poppin' Time",
+      "weeks": 26,
+      "peak": 7,
+      "score": 19
+    },
+    {
+      "artist": "Connie Stevens",
+      "title": "Sixteen Reasons",
+      "weeks": 24,
+      "peak": 3,
+      "score": 253
+    },
+    {
+      "artist": "Brenda Lee",
+      "title": "I'm Sorry",
+      "weeks": 23,
+      "peak": 1,
+      "score": 402
+    },
+    {
+      "artist": "Jim Reeves",
+      "title": "He'll Have To Go",
+      "weeks": 22,
+      "peak": 2,
+      "score": 566
+    },
+    {
+      "artist": "Brenda Lee",
+      "title": "Sweet Nothin's",
+      "weeks": 22,
+      "peak": 4,
+      "score": 297
+    },
+    {
+      "artist": "Hank Locklin",
+      "title": "Please Help Me, I'm Falling",
+      "weeks": 22,
+      "peak": 8,
+      "score": 192
+    },
+    {
+      "artist": "Percy Faith And His Orchestra",
+      "title": "The Theme From \"A Summer Place\"",
+      "weeks": 21,
+      "peak": 1,
+      "score": 456
+    },
+    {
+      "artist": "Roy Orbison",
+      "title": "Only The Lonely (Know How I Feel)",
+      "weeks": 21,
+      "peak": 2,
+      "score": 246
+    },
+    {
+      "artist": "Charlie Rich",
+      "title": "Lonely Weekends",
+      "weeks": 21,
+      "peak": 22,
+      "score": -219
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "It's Now Or Never",
+      "weeks": 20,
+      "peak": 1,
+      "score": 423
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Chubby Checker",
+      "title": "The Twist",
+      "weeks": 18,
+      "peak": 1,
+      "score": 474
+    },
+    {
+      "artist": "Percy Faith And His Orchestra",
+      "title": "The Theme From \"A Summer Place\"",
+      "weeks": 21,
+      "peak": 1,
+      "score": 456
+    },
+    {
+      "artist": "Connie Francis",
+      "title": "Everybody's Somebody's Fool",
+      "weeks": 18,
+      "peak": 1,
+      "score": 437
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "It's Now Or Never",
+      "weeks": 20,
+      "peak": 1,
+      "score": 423
+    },
+    {
+      "artist": "Connie Francis",
+      "title": "My Heart Has A Mind Of Its Own",
+      "weeks": 17,
+      "peak": 1,
+      "score": 405
+    },
+    {
+      "artist": "Brenda Lee",
+      "title": "I'm Sorry",
+      "weeks": 23,
+      "peak": 1,
+      "score": 402
+    },
+    {
+      "artist": "Mark Dinning",
+      "title": "Teen Angel",
+      "weeks": 16,
+      "peak": 1,
+      "score": 356
+    },
+    {
+      "artist": "The Drifters",
+      "title": "Save The Last Dance For Me",
+      "weeks": 18,
+      "peak": 1,
+      "score": 352
+    },
+    {
+      "artist": "Brian Hyland",
+      "title": "Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini",
+      "weeks": 15,
+      "peak": 1,
+      "score": 341
+    },
+    {
+      "artist": "The Everly Brothers",
+      "title": "Cathy's Clown",
+      "weeks": 17,
+      "peak": 1,
+      "score": 340
+    },
+    {
+      "artist": "Hollywood Argyles",
+      "title": "Alley-Oop",
+      "weeks": 15,
+      "peak": 1,
+      "score": 325
+    },
+    {
+      "artist": "Brenda Lee",
+      "title": "I Want To Be Wanted",
+      "weeks": 15,
+      "peak": 1,
+      "score": 319
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "Stuck On You",
+      "weeks": 16,
+      "peak": 1,
+      "score": 317
+    },
+    {
+      "artist": "Johnny Preston",
+      "title": "Running Bear",
+      "weeks": 16,
+      "peak": 1,
+      "score": 289
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "Are You Lonesome To-night?",
+      "weeks": 8,
+      "peak": 1,
+      "score": 285
+    },
+    {
+      "artist": "Larry Verne",
+      "title": "Mr. Custer",
+      "weeks": 13,
+      "peak": 1,
+      "score": 263
+    },
+    {
+      "artist": "Maurice Williams",
+      "title": "Stay",
+      "weeks": 14,
+      "peak": 1,
+      "score": 256
+    },
+    {
+      "artist": "Marty Robbins",
+      "title": "El Paso",
+      "weeks": 14,
+      "peak": 1,
+      "score": 211
+    },
+    {
+      "artist": "Ray Charles",
+      "title": "Georgia On My Mind",
+      "weeks": 13,
+      "peak": 1,
+      "score": 210
+    }
+  ]
+}

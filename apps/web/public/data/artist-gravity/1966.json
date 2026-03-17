@@ -1,0 +1,438 @@
+[
+  {
+    "artist": "The Beatles",
+    "score": 890.6
+  },
+  {
+    "artist": "The Rolling Stones",
+    "score": 682.7
+  },
+  {
+    "artist": "The Supremes",
+    "score": 586.3
+  },
+  {
+    "artist": "The Beach Boys",
+    "score": 580.8
+  },
+  {
+    "artist": "Frank Sinatra",
+    "score": 573
+  },
+  {
+    "artist": "Herb Alpert & The Tijuana Brass",
+    "score": 499.7
+  },
+  {
+    "artist": "Herman's Hermits",
+    "score": 475.7
+  },
+  {
+    "artist": "Soundtrack",
+    "score": 392.9
+  },
+  {
+    "artist": "The Lovin' Spoonful",
+    "score": 391.5
+  },
+  {
+    "artist": "Nancy Sinatra",
+    "score": 389.1
+  },
+  {
+    "artist": "The Righteous Brothers",
+    "score": 378.5
+  },
+  {
+    "artist": "Elvis Presley",
+    "score": 345.4
+  },
+  {
+    "artist": "The Monkees",
+    "score": 300.2
+  },
+  {
+    "artist": "Barbra Streisand",
+    "score": 294.3
+  },
+  {
+    "artist": "Simon",
+    "score": 294.1
+  },
+  {
+    "artist": "The Mamas",
+    "score": 293.8
+  },
+  {
+    "artist": "The Association",
+    "score": 291.5
+  },
+  {
+    "artist": "Donovan",
+    "score": 289.6
+  },
+  {
+    "artist": "Gary Lewis And The Playboys",
+    "score": 281.8
+  },
+  {
+    "artist": "The Temptations",
+    "score": 281
+  },
+  {
+    "artist": "Bill Cosby",
+    "score": 265.7
+  },
+  {
+    "artist": "SSgt Barry Sadler",
+    "score": 202.5
+  },
+  {
+    "artist": "The Mamas & The Papas",
+    "score": 200.7
+  },
+  {
+    "artist": "Johnny Rivers",
+    "score": 198.6
+  },
+  {
+    "artist": "Lou Rawls",
+    "score": 194.2
+  },
+  {
+    "artist": "Paul Revere & The Raiders",
+    "score": 193.3
+  },
+  {
+    "artist": "Paul Revere",
+    "score": 192.5
+  },
+  {
+    "artist": "Bob Dylan",
+    "score": 192.4
+  },
+  {
+    "artist": "Herb Alpert's Tijuana Brass",
+    "score": 192.4
+  },
+  {
+    "artist": "The Dave Clark Five",
+    "score": 191
+  },
+  {
+    "artist": "The Hollies",
+    "score": 190.4
+  },
+  {
+    "artist": "The 4 Seasons",
+    "score": 189.7
+  },
+  {
+    "artist": "The New Vaudeville Band",
+    "score": 184.4
+  },
+  {
+    "artist": "Roger Williams",
+    "score": 184.3
+  },
+  {
+    "artist": "Ray Charles",
+    "score": 183.8
+  },
+  {
+    "artist": "The Byrds",
+    "score": 183.4
+  },
+  {
+    "artist": "Four Tops",
+    "score": 183.3
+  },
+  {
+    "artist": "Al Martino",
+    "score": 180.7
+  },
+  {
+    "artist": "The Animals",
+    "score": 180.7
+  },
+  {
+    "artist": "Wilson Pickett",
+    "score": 176
+  },
+  {
+    "artist": "Ramsey Lewis",
+    "score": 173.4
+  },
+  {
+    "artist": "Lou Christie",
+    "score": 100.4
+  },
+  {
+    "artist": "The Young Rascals",
+    "score": 100.4
+  },
+  {
+    "artist": "Percy Sledge",
+    "score": 100.3
+  },
+  {
+    "artist": "Petula Clark",
+    "score": 100.2
+  },
+  {
+    "artist": "Tommy James And The Shondells",
+    "score": 100.2
+  },
+  {
+    "artist": "The Troggs",
+    "score": 100.1
+  },
+  {
+    "artist": "Bobby Hebb",
+    "score": 99.5
+  },
+  {
+    "artist": "Ray Conniff",
+    "score": 99.5
+  },
+  {
+    "artist": "Sam The Sham And The Pharaohs",
+    "score": 99.4
+  },
+  {
+    "artist": "The Cyrkle",
+    "score": 99.3
+  },
+  {
+    "artist": "The Mindbenders",
+    "score": 99.3
+  },
+  {
+    "artist": "Cher",
+    "score": 99.1
+  },
+  {
+    "artist": "Roger Miller",
+    "score": 99
+  },
+  {
+    "artist": "Various Artists",
+    "score": 99
+  },
+  {
+    "artist": "The Happenings",
+    "score": 98.4
+  },
+  {
+    "artist": "The Royal Guardsmen",
+    "score": 98.3
+  },
+  {
+    "artist": "Stevie Wonder",
+    "score": 98.2
+  },
+  {
+    "artist": "The T-bones",
+    "score": 98
+  },
+  {
+    "artist": "Eddy Arnold",
+    "score": 97.7
+  },
+  {
+    "artist": "Napoleon Xiv",
+    "score": 97.6
+  },
+  {
+    "artist": "James Brown And The Famous Flames",
+    "score": 97.5
+  },
+  {
+    "artist": "Andy Williams",
+    "score": 97.4
+  },
+  {
+    "artist": "Dusty Springfield",
+    "score": 97.3
+  },
+  {
+    "artist": "Mitch Ryder And The Detroit Wheels",
+    "score": 97.3
+  },
+  {
+    "artist": "Crispian St. Peters",
+    "score": 97.2
+  },
+  {
+    "artist": "Los Bravos",
+    "score": 97.2
+  },
+  {
+    "artist": "The Vogues",
+    "score": 96.9
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "score": 96.8
+  },
+  {
+    "artist": "The Statler Brothers",
+    "score": 96.6
+  },
+  {
+    "artist": "The Outsiders",
+    "score": 96.5
+  },
+  {
+    "artist": "Bob Lind",
+    "score": 96.3
+  },
+  {
+    "artist": "The Left Banke",
+    "score": 96.3
+  },
+  {
+    "artist": "Count Five",
+    "score": 96.2
+  },
+  {
+    "artist": "Smokey Robinson & The Miracles",
+    "score": 95.5
+  },
+  {
+    "artist": "James",
+    "score": 95.4
+  },
+  {
+    "artist": "Peter And Gordon",
+    "score": 95.3
+  },
+  {
+    "artist": "Tommy Roe",
+    "score": 95.3
+  },
+  {
+    "artist": "Neil Diamond",
+    "score": 95.2
+  },
+  {
+    "artist": "Johnny Mathis",
+    "score": 94.8
+  },
+  {
+    "artist": "Mike Douglas",
+    "score": 94.8
+  },
+  {
+    "artist": "Jimmy Ruffin",
+    "score": 94.7
+  },
+  {
+    "artist": "Sergio Mendes",
+    "score": 94.7
+  },
+  {
+    "artist": "Robert Parker",
+    "score": 94.4
+  },
+  {
+    "artist": "The Capitols",
+    "score": 94.4
+  },
+  {
+    "artist": "The Marvelettes",
+    "score": 94.2
+  },
+  {
+    "artist": "Aaron Neville",
+    "score": 93.5
+  },
+  {
+    "artist": "Jack Jones",
+    "score": 93.5
+  },
+  {
+    "artist": "The Mccoys",
+    "score": 93.4
+  },
+  {
+    "artist": "B.j. Thomas And The Triumphs",
+    "score": 93.3
+  },
+  {
+    "artist": "Dionne Warwick",
+    "score": 93.2
+  },
+  {
+    "artist": "Bobby Darin",
+    "score": 93.1
+  },
+  {
+    "artist": "Frank Sinatra With Count Basie And His Orchestra",
+    "score": 93
+  },
+  {
+    "artist": "The Kinks",
+    "score": 92.9
+  },
+  {
+    "artist": "Dean Martin",
+    "score": 91.8
+  },
+  {
+    "artist": "The Rascals",
+    "score": 88.5
+  },
+  {
+    "artist": "Nancy Wilson",
+    "score": 88.2
+  },
+  {
+    "artist": "The Sandpipers",
+    "score": 87
+  },
+  {
+    "artist": "Mrs. Miller",
+    "score": 86.7
+  },
+  {
+    "artist": "Ramsey Lewis Trio",
+    "score": 86.7
+  },
+  {
+    "artist": "Tom Lehrer",
+    "score": 86.3
+  },
+  {
+    "artist": "Tony Bennett",
+    "score": 84.9
+  },
+  {
+    "artist": "Sonny & Cher",
+    "score": 84.5
+  },
+  {
+    "artist": "John Davidson",
+    "score": 82.3
+  },
+  {
+    "artist": "Peter, Paul & Mary",
+    "score": 82
+  },
+  {
+    "artist": "Jim Reeves",
+    "score": 81.9
+  },
+  {
+    "artist": "Eydie Gorme",
+    "score": 80.5
+  },
+  {
+    "artist": "Jay & The Americans",
+    "score": 80.4
+  },
+  {
+    "artist": "The Lettermen",
+    "score": 80.3
+  }
+]

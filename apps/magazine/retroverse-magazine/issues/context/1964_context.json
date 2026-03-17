@@ -1,0 +1,542 @@
+{
+  "year": "1964",
+  "top_songs": [
+    {
+      "artist": "Louis Armstrong And The All Stars",
+      "title": "Hello, Dolly!",
+      "weeks": 22,
+      "peak": 1,
+      "score": 520
+    },
+    {
+      "artist": "The Beatles",
+      "title": "I Want To Hold Your Hand",
+      "weeks": 15,
+      "peak": 1,
+      "score": 502
+    },
+    {
+      "artist": "The Beatles",
+      "title": "She Loves You",
+      "weeks": 15,
+      "peak": 1,
+      "score": 435
+    },
+    {
+      "artist": "Roy Orbison And The Candy Men",
+      "title": "Oh, Pretty Woman",
+      "weeks": 15,
+      "peak": 1,
+      "score": 414
+    },
+    {
+      "artist": "Mary Wells",
+      "title": "My Guy",
+      "weeks": 15,
+      "peak": 1,
+      "score": 394
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "I Get Around",
+      "weeks": 15,
+      "peak": 1,
+      "score": 382
+    },
+    {
+      "artist": "The Beatles",
+      "title": "A Hard Day's Night",
+      "weeks": 13,
+      "peak": 1,
+      "score": 377
+    },
+    {
+      "artist": "Dean Martin",
+      "title": "Everybody Loves Somebody",
+      "weeks": 15,
+      "peak": 1,
+      "score": 373
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Baby Love",
+      "weeks": 13,
+      "peak": 1,
+      "score": 371
+    },
+    {
+      "artist": "Manfred Mann",
+      "title": "Do Wah Diddy Diddy",
+      "weeks": 13,
+      "peak": 1,
+      "score": 365
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Where Did Our Love Go",
+      "weeks": 14,
+      "peak": 1,
+      "score": 358
+    },
+    {
+      "artist": "The 4 Seasons",
+      "title": "Rag Doll",
+      "weeks": 12,
+      "peak": 1,
+      "score": 336
+    },
+    {
+      "artist": "The Newbeats",
+      "title": "Bread And Butter",
+      "weeks": 12,
+      "peak": 2,
+      "score": 320
+    },
+    {
+      "artist": "The Dixie Cups",
+      "title": "Chapel Of Love",
+      "weeks": 13,
+      "peak": 1,
+      "score": 313
+    },
+    {
+      "artist": "J. Frank Wilson And The Cavaliers",
+      "title": "Last Kiss",
+      "weeks": 15,
+      "peak": 2,
+      "score": 308
+    },
+    {
+      "artist": "The Animals",
+      "title": "House Of The Rising Sun",
+      "weeks": 11,
+      "peak": 1,
+      "score": 303
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Twist And Shout",
+      "weeks": 11,
+      "peak": 2,
+      "score": 299
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Can't Buy Me Love",
+      "weeks": 10,
+      "peak": 1,
+      "score": 297
+    },
+    {
+      "artist": "Peter And Gordon",
+      "title": "A World Without Love",
+      "weeks": 12,
+      "peak": 1,
+      "score": 294
+    },
+    {
+      "artist": "Martha",
+      "title": "Dancing In The Street",
+      "weeks": 14,
+      "peak": 2,
+      "score": 293
+    },
+    {
+      "artist": "The Rip Chords",
+      "title": "Hey Little Cobra",
+      "weeks": 11,
+      "peak": 4,
+      "score": 289
+    },
+    {
+      "artist": "The 4 Seasons",
+      "title": "Dawn (Go Away)",
+      "weeks": 13,
+      "peak": 3,
+      "score": 285
+    },
+    {
+      "artist": "Lesley Gore",
+      "title": "You Don't Own Me",
+      "weeks": 12,
+      "peak": 2,
+      "score": 276
+    },
+    {
+      "artist": "The Dave Clark Five",
+      "title": "Bits And Pieces",
+      "weeks": 11,
+      "peak": 4,
+      "score": 268
+    },
+    {
+      "artist": "Major Lance",
+      "title": "Um, Um, Um, Um, Um, Um",
+      "weeks": 11,
+      "peak": 5,
+      "score": 259
+    },
+    {
+      "artist": "Jan",
+      "title": "The Little Old Lady (From Pasadena)",
+      "weeks": 11,
+      "peak": 3,
+      "score": 258
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Please Please Me",
+      "weeks": 13,
+      "peak": 3,
+      "score": 255
+    },
+    {
+      "artist": "The Trashmen",
+      "title": "Surfin' Bird",
+      "weeks": 9,
+      "peak": 4,
+      "score": 253
+    },
+    {
+      "artist": "The Marketts",
+      "title": "Out Of Limits",
+      "weeks": 10,
+      "peak": 3,
+      "score": 253
+    },
+    {
+      "artist": "The Drifters",
+      "title": "Under The Boardwalk",
+      "weeks": 14,
+      "peak": 4,
+      "score": 253
+    },
+    {
+      "artist": "Bobby Vinton",
+      "title": "There! I've Said It Again",
+      "weeks": 8,
+      "peak": 1,
+      "score": 249
+    },
+    {
+      "artist": "The Kingsmen",
+      "title": "Louie Louie",
+      "weeks": 8,
+      "peak": 2,
+      "score": 249
+    },
+    {
+      "artist": "The Shangri-las",
+      "title": "Leader Of The Pack",
+      "weeks": 12,
+      "peak": 1,
+      "score": 248
+    },
+    {
+      "artist": "Lorne Greene",
+      "title": "Ringo",
+      "weeks": 9,
+      "peak": 1,
+      "score": 242
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Love Me Do",
+      "weeks": 14,
+      "peak": 1,
+      "score": 236
+    },
+    {
+      "artist": "The Dave Clark Five",
+      "title": "Because",
+      "weeks": 10,
+      "peak": 3,
+      "score": 236
+    },
+    {
+      "artist": "Billy J. Kramer",
+      "title": "Little Children",
+      "weeks": 15,
+      "peak": 7,
+      "score": 233
+    },
+    {
+      "artist": "The Shangri-las",
+      "title": "Remember (Walkin' in the Sand)",
+      "weeks": 11,
+      "peak": 5,
+      "score": 232
+    },
+    {
+      "artist": "Johnny Rivers",
+      "title": "Memphis",
+      "weeks": 12,
+      "peak": 2,
+      "score": 231
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Do You Want To Know A Secret",
+      "weeks": 11,
+      "peak": 2,
+      "score": 228
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "The Beatles",
+      "hits": 8
+    },
+    {
+      "artist": "The Supremes",
+      "hits": 2
+    },
+    {
+      "artist": "The 4 Seasons",
+      "hits": 2
+    },
+    {
+      "artist": "The Dave Clark Five",
+      "hits": 2
+    },
+    {
+      "artist": "The Shangri-las",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Louis Armstrong And The All Stars",
+      "title": "Hello, Dolly!",
+      "weeks": 22,
+      "peak": 1,
+      "score": 520
+    },
+    {
+      "artist": "Barbra Streisand",
+      "title": "People",
+      "weeks": 19,
+      "peak": 5,
+      "score": 53
+    },
+    {
+      "artist": "Gale Garnett",
+      "title": "We'll Sing In The Sunshine",
+      "weeks": 17,
+      "peak": 4,
+      "score": 224
+    },
+    {
+      "artist": "Al undefined Hirt",
+      "title": "Java",
+      "weeks": 16,
+      "peak": 4,
+      "score": 219
+    },
+    {
+      "artist": "Gene Pitney",
+      "title": "It Hurts To Be In Love",
+      "weeks": 16,
+      "peak": 7,
+      "score": 80
+    },
+    {
+      "artist": "The Beatles",
+      "title": "I Want To Hold Your Hand",
+      "weeks": 15,
+      "peak": 1,
+      "score": 502
+    },
+    {
+      "artist": "The Beatles",
+      "title": "She Loves You",
+      "weeks": 15,
+      "peak": 1,
+      "score": 435
+    },
+    {
+      "artist": "Roy Orbison And The Candy Men",
+      "title": "Oh, Pretty Woman",
+      "weeks": 15,
+      "peak": 1,
+      "score": 414
+    },
+    {
+      "artist": "Mary Wells",
+      "title": "My Guy",
+      "weeks": 15,
+      "peak": 1,
+      "score": 394
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "I Get Around",
+      "weeks": 15,
+      "peak": 1,
+      "score": 382
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Louis Armstrong And The All Stars",
+      "title": "Hello, Dolly!",
+      "weeks": 22,
+      "peak": 1,
+      "score": 520
+    },
+    {
+      "artist": "The Beatles",
+      "title": "I Want To Hold Your Hand",
+      "weeks": 15,
+      "peak": 1,
+      "score": 502
+    },
+    {
+      "artist": "The Beatles",
+      "title": "She Loves You",
+      "weeks": 15,
+      "peak": 1,
+      "score": 435
+    },
+    {
+      "artist": "Roy Orbison And The Candy Men",
+      "title": "Oh, Pretty Woman",
+      "weeks": 15,
+      "peak": 1,
+      "score": 414
+    },
+    {
+      "artist": "Mary Wells",
+      "title": "My Guy",
+      "weeks": 15,
+      "peak": 1,
+      "score": 394
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "I Get Around",
+      "weeks": 15,
+      "peak": 1,
+      "score": 382
+    },
+    {
+      "artist": "The Beatles",
+      "title": "A Hard Day's Night",
+      "weeks": 13,
+      "peak": 1,
+      "score": 377
+    },
+    {
+      "artist": "Dean Martin",
+      "title": "Everybody Loves Somebody",
+      "weeks": 15,
+      "peak": 1,
+      "score": 373
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Baby Love",
+      "weeks": 13,
+      "peak": 1,
+      "score": 371
+    },
+    {
+      "artist": "Manfred Mann",
+      "title": "Do Wah Diddy Diddy",
+      "weeks": 13,
+      "peak": 1,
+      "score": 365
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Where Did Our Love Go",
+      "weeks": 14,
+      "peak": 1,
+      "score": 358
+    },
+    {
+      "artist": "The 4 Seasons",
+      "title": "Rag Doll",
+      "weeks": 12,
+      "peak": 1,
+      "score": 336
+    },
+    {
+      "artist": "The Dixie Cups",
+      "title": "Chapel Of Love",
+      "weeks": 13,
+      "peak": 1,
+      "score": 313
+    },
+    {
+      "artist": "The Animals",
+      "title": "House Of The Rising Sun",
+      "weeks": 11,
+      "peak": 1,
+      "score": 303
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Can't Buy Me Love",
+      "weeks": 10,
+      "peak": 1,
+      "score": 297
+    },
+    {
+      "artist": "Peter And Gordon",
+      "title": "A World Without Love",
+      "weeks": 12,
+      "peak": 1,
+      "score": 294
+    },
+    {
+      "artist": "Bobby Vinton",
+      "title": "There! I've Said It Again",
+      "weeks": 8,
+      "peak": 1,
+      "score": 249
+    },
+    {
+      "artist": "The Shangri-las",
+      "title": "Leader Of The Pack",
+      "weeks": 12,
+      "peak": 1,
+      "score": 248
+    },
+    {
+      "artist": "Lorne Greene",
+      "title": "Ringo",
+      "weeks": 9,
+      "peak": 1,
+      "score": 242
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Love Me Do",
+      "weeks": 14,
+      "peak": 1,
+      "score": 236
+    },
+    {
+      "artist": "Bobby Vinton",
+      "title": "Mr. Lonely",
+      "weeks": 9,
+      "peak": 1,
+      "score": 217
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Come See About Me",
+      "weeks": 7,
+      "peak": 1,
+      "score": 162
+    },
+    {
+      "artist": "The Beatles",
+      "title": "I Feel Fine",
+      "weeks": 4,
+      "peak": 1,
+      "score": 134
+    }
+  ]
+}

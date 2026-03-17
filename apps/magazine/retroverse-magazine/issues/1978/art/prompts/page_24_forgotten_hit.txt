@@ -1,0 +1,64 @@
+RetroVerse page art brief
+
+Target page: 1978 / forgotten_hit
+Page slug: forgotten_hit
+Page number: 24
+Page title to be overlaid later: Almost Hits: Can't Smile Without You — Barry Manilow
+Story anchor to be overlaid later: A near-miss worth preserving
+Illustration role: EDITORIAL_SCENE_ARTIST
+Studio responsibility: Create page-aware narrative scenes that support feature storytelling and leave disciplined overlay space for typography.
+
+Role-specific prompt framing:
+- Treat the artwork as a wide narrative editorial scene that explains the story before typography arrives.
+- Stage a wide narrative scene with multiple characters or clear social activity inside one coherent environment.
+- Use props, gestures, lighting, and background detail to imply the story without relying on labels or captions.
+- Keep the scene spacious enough for overlay copy while still feeling alive and story-driven.
+
+Page purpose:
+Present Almost Hits: Can't Smile Without You — Barry Manilow as a complete RetroVerse 1978 feature story page, with page-aware artwork under real typography and no text baked into the illustration layer for `forgotten_hit`.
+
+Story summary:
+Almost Hits: Can't Smile Without You — Barry Manilow A near-miss worth preserving Lede BJ Lovestreet treats "Almost Hits: Can't Smile Without You — Barry Manilow" as the issue's central framing argument, not just a single isolated story. Near-miss pressure is clearest in "Can't Smile Without You" by Barry Manilow, which peaked at No. ? across ? weeks. In 1978, almost hits: can't smile without you — barry manilow becomes a measurable editorial claim. Analysis The editorial approach links chart outcomes to the broader way the year felt in real time. The album_dynamics source contributes 2 structured fields for this story build. Planning rationale: Near-miss records are highly reusable and work
+
+Scene description:
+A music-memory vignette from 1978, centered on one durable song and the social world around it.
+
+Style instructions:
+- Stage one coherent editorial moment or environment tied directly to the article summary.
+- Use period-correct props, lighting, and human activity to imply the story without baking in labels or captions.
+- Keep the calmest negative space inside the declared title, body, and sidebar zones.
+
+Composition:
+- full-page editorial background with protected overlay zones
+- Orientation: portrait
+- Mood: editorial and period-aware
+- Color palette: warm paper stock, halftone black, amber, teal, and late-70s saturated accent colors
+
+Visual hierarchy:
+- Primary focal area supports Almost Hits: Can't Smile Without You — Barry Manilow.
+- Secondary props reinforce `forgotten_hit` without competing with text zones.
+- Negative space stays calm inside title, body, sidebar, and footer zones.
+- Character and environment detail support the story while preserving calm text landing zones.
+
+Protected text-safe zones:
+- title_zone: x=7%, y=6%, width=54%, height=14%, unit=percent
+- body_zone: x=7%, y=24%, width=55%, height=60%, unit=percent
+- sidebar_zone: x=65%, y=24%, width=24%, height=56%, unit=percent
+- footer_zone: x=7%, y=93%, width=86%, height=3%, unit=percent
+
+Illustration rules:
+- no readable text inside artwork
+- DO NOT RENDER FINAL TEXT INTO THE ARTWORK.
+- Do not render readable article body text.
+- Do not render chart or table text.
+- Do not render fake production typography.
+- Do not render magazine headlines, page titles, pull quotes, sidebars, or page furniture.
+- Only environmental/signage text is allowed, and only if it is natural, minimal, and subordinate.
+- Preserve open space for title, body, sidebar, and footer placement.
+- Treat the artwork as a background asset used by the layout engine.
+
+RetroVerse Easter egg rule:
+- Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography.
+
+Global artwork constraint:
+- editorial illustration only, background artwork, no text, no typography, no lettering, no numbers, no logos, no signage, no readable symbols. Leave clean open space near the top of the composition for magazine masthead placement.

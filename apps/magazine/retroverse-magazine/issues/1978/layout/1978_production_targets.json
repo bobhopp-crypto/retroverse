@@ -1,0 +1,246 @@
+{
+  "year": 1978,
+  "art_director": "Daisy Delgado",
+  "targets": [
+    {
+      "story_id": "story_001",
+      "headline": "Crossover soundtrack culture pushed songs and albums into the same mainstream spotlight",
+      "writer": "BJ Lovestreet",
+      "final_word_count_target": "900-1200",
+      "layout_type": "cover-led opener",
+      "visual_requirements": {
+        "assigned_visual_role": "cover feature",
+        "image_count_target": "2-3",
+        "illustration_required": true,
+        "illustration_dependency": "article must be finalized first"
+      },
+      "asset_requirements": [
+        "article blueprint json",
+        "chart movement tables",
+        "cultural event timeline",
+        "song and artist ranking tables",
+        "sonic profile metrics",
+        "writer draft markdown"
+      ],
+      "final_prose_required_before_art": true
+    },
+    {
+      "story_id": "story_002",
+      "headline": "Bee Gees: The Year’s Power Curve",
+      "writer": "BJ Lovestreet",
+      "final_word_count_target": "500-700",
+      "layout_type": "single-page profile",
+      "visual_requirements": {
+        "assigned_visual_role": "profile page",
+        "image_count_target": "1",
+        "illustration_required": true,
+        "illustration_dependency": "article must be finalized first"
+      },
+      "asset_requirements": [
+        "article blueprint json",
+        "chart movement tables",
+        "song and artist ranking tables",
+        "writer draft markdown"
+      ],
+      "final_prose_required_before_art": true
+    },
+    {
+      "story_id": "story_003",
+      "headline": "From Debut to Top 10: Stayin' Alive — Bee Gees",
+      "writer": "BJ Lovestreet",
+      "final_word_count_target": "250-400",
+      "layout_type": "single-page narrative",
+      "visual_requirements": {
+        "assigned_visual_role": "short narrative page",
+        "image_count_target": "1",
+        "illustration_required": true,
+        "illustration_dependency": "article must be finalized first"
+      },
+      "asset_requirements": [
+        "article blueprint json",
+        "chart movement tables",
+        "song and artist ranking tables",
+        "writer draft markdown"
+      ],
+      "final_prose_required_before_art": true
+    },
+    {
+      "story_id": "story_004",
+      "headline": "Fastest Climb of the Year: Stayin' Alive — Bee Gees",
+      "writer": "Kevin Casey",
+      "final_word_count_target": "350-500",
+      "layout_type": "single-page infographic",
+      "visual_requirements": {
+        "assigned_visual_role": "chart breakdown",
+        "image_count_target": "2-3",
+        "illustration_required": false,
+        "illustration_dependency": "data card can be designed from structured facts"
+      },
+      "asset_requirements": [
+        "article blueprint json",
+        "chart movement tables",
+        "data callout templates",
+        "writer draft markdown"
+      ],
+      "final_prose_required_before_art": false
+    },
+    {
+      "story_id": "story_005",
+      "headline": "Sharpest Drop on the Board: Hot Shot — Karen Young",
+      "writer": "Kevin Casey",
+      "final_word_count_target": "350-500",
+      "layout_type": "single-page infographic",
+      "visual_requirements": {
+        "assigned_visual_role": "chart breakdown",
+        "image_count_target": "2-3",
+        "illustration_required": false,
+        "illustration_dependency": "data card can be designed from structured facts"
+      },
+      "asset_requirements": [
+        "article blueprint json",
+        "chart movement tables",
+        "data callout templates",
+        "writer draft markdown"
+      ],
+      "final_prose_required_before_art": false
+    },
+    {
+      "story_id": "story_006",
+      "headline": "Album Gravity: Saturday Night Fever — Soundtrack",
+      "writer": "A.J. Hunter",
+      "final_word_count_target": "900-1200",
+      "layout_type": "two-page spread",
+      "visual_requirements": {
+        "assigned_visual_role": "feature spread",
+        "image_count_target": "2",
+        "illustration_required": true,
+        "illustration_dependency": "article must be finalized first"
+      },
+      "asset_requirements": [
+        "article blueprint json",
+        "chart movement tables",
+        "writer draft markdown"
+      ],
+      "final_prose_required_before_art": true
+    },
+    {
+      "story_id": "story_007",
+      "headline": "Slow Climb, Big Payoff: Rumours — Fleetwood Mac",
+      "writer": "A.J. Hunter",
+      "final_word_count_target": "450-850",
+      "layout_type": "timeline spread",
+      "visual_requirements": {
+        "assigned_visual_role": "timeline spread",
+        "image_count_target": "2",
+        "illustration_required": false,
+        "illustration_dependency": "data card can be designed from structured facts"
+      },
+      "asset_requirements": [
+        "article blueprint json",
+        "chart movement tables",
+        "writer draft markdown"
+      ],
+      "final_prose_required_before_art": false
+    },
+    {
+      "story_id": "story_008",
+      "headline": "Screen-Year Pulse: {'rank': 1, 'title': 'Grease', 'note': 'Musical blockbuster with broad repeat attendance.'}",
+      "writer": "Lola Vance",
+      "final_word_count_target": "300-450",
+      "layout_type": "screen feature spread",
+      "visual_requirements": {
+        "assigned_visual_role": "screen feature",
+        "image_count_target": "1-2",
+        "illustration_required": true,
+        "illustration_dependency": "article must be finalized first"
+      },
+      "asset_requirements": [
+        "article blueprint json",
+        "cultural event timeline",
+        "screen-culture warehouse extracts",
+        "writer draft markdown"
+      ],
+      "final_prose_required_before_art": true
+    },
+    {
+      "story_id": "story_009",
+      "headline": "Television in the Room: {'title': 'Mork and Mindy', 'network': 'ABC', 'note': 'Fast-rising comedy with broad cultural pickup.'}",
+      "writer": "Lola Vance",
+      "final_word_count_target": "250-400",
+      "layout_type": "screen feature spread",
+      "visual_requirements": {
+        "assigned_visual_role": "screen feature",
+        "image_count_target": "1",
+        "illustration_required": true,
+        "illustration_dependency": "article must be finalized first"
+      },
+      "asset_requirements": [
+        "article blueprint json",
+        "cultural event timeline",
+        "screen-culture warehouse extracts",
+        "writer draft markdown"
+      ],
+      "final_prose_required_before_art": true
+    },
+    {
+      "story_id": "story_010",
+      "headline": "The Week-by-Week Yearline",
+      "writer": "Professor Wheeler",
+      "final_word_count_target": "450-850",
+      "layout_type": "timeline spread",
+      "visual_requirements": {
+        "assigned_visual_role": "timeline spread",
+        "image_count_target": "2",
+        "illustration_required": false,
+        "illustration_dependency": "data card can be designed from structured facts"
+      },
+      "asset_requirements": [
+        "article blueprint json",
+        "chart movement tables",
+        "cultural event timeline",
+        "writer draft markdown"
+      ],
+      "final_prose_required_before_art": false
+    },
+    {
+      "story_id": "story_011",
+      "headline": "Almost Hits: Can't Smile Without You — Barry Manilow",
+      "writer": "BJ Lovestreet",
+      "final_word_count_target": "150-250",
+      "layout_type": "modular sidebar",
+      "visual_requirements": {
+        "assigned_visual_role": "sidebar box",
+        "image_count_target": "1",
+        "illustration_required": true,
+        "illustration_dependency": "article must be finalized first"
+      },
+      "asset_requirements": [
+        "article blueprint json",
+        "chart movement tables",
+        "writer draft markdown"
+      ],
+      "final_prose_required_before_art": true
+    },
+    {
+      "story_id": "story_012",
+      "headline": "Sonic Fingerprint Card Set",
+      "writer": "A.J. Hunter",
+      "final_word_count_target": "50-120 per card",
+      "layout_type": "multi-card set",
+      "visual_requirements": {
+        "assigned_visual_role": "data card set",
+        "image_count_target": "4-8",
+        "illustration_required": false,
+        "illustration_dependency": "data card can be designed from structured facts"
+      },
+      "asset_requirements": [
+        "article blueprint json",
+        "cultural event timeline",
+        "data callout templates",
+        "sonic profile metrics",
+        "writer draft markdown"
+      ],
+      "final_prose_required_before_art": false
+    }
+  ]
+}

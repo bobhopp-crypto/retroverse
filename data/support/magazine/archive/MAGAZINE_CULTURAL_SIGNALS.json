@@ -1,0 +1,421 @@
+{
+  "generated_at_utc": "2026-03-11T03:20:19Z",
+  "method": "metadata-first low-rate repository queries",
+  "magazines": [
+    {
+      "magazine_title": "MAD Magazine",
+      "issue_count": 202,
+      "repository_breakdown": {
+        "Internet Archive": 200,
+        "HathiTrust": 2,
+        "Google Books": 0
+      },
+      "decade_distribution": {
+        "1950s": 8,
+        "1960s": 17,
+        "1970s": 52,
+        "1980s": 65,
+        "1990s": 15,
+        "2000s": 5,
+        "2010s": 3,
+        "2020s": 35
+      },
+      "ads_presence_rate_known": 1.0,
+      "masthead_presence_rate_known": 1.0,
+      "common_departments": [
+        "satire",
+        "parody",
+        "comic_features",
+        "letters"
+      ],
+      "target_audience": "Teen and adult satire readers",
+      "notes": "Signals are metadata-derived; no bulk page scraping performed."
+    },
+    {
+      "magazine_title": "National Lampoon",
+      "issue_count": 64,
+      "repository_breakdown": {
+        "Internet Archive": 33,
+        "HathiTrust": 28,
+        "Google Books": 3
+      },
+      "decade_distribution": {
+        "1950s": 5,
+        "1960s": 8,
+        "1970s": 16,
+        "1980s": 12,
+        "1990s": 3,
+        "2000s": 2,
+        "2020s": 3
+      },
+      "ads_presence_rate_known": 1.0,
+      "masthead_presence_rate_known": 1.0,
+      "common_departments": [
+        "satire",
+        "parody",
+        "humor_columns",
+        "illustration"
+      ],
+      "target_audience": "Young adult and adult humor readers",
+      "notes": "Signals are metadata-derived; no bulk page scraping performed."
+    },
+    {
+      "magazine_title": "Billboard",
+      "issue_count": 202,
+      "repository_breakdown": {
+        "Internet Archive": 54,
+        "HathiTrust": 137,
+        "Google Books": 11
+      },
+      "decade_distribution": {
+        "1920s": 1,
+        "1930s": 6,
+        "1940s": 2,
+        "1970s": 3,
+        "1980s": 4,
+        "1990s": 1,
+        "2000s": 4,
+        "2010s": 33,
+        "2020s": 11
+      },
+      "ads_presence_rate_known": 1.0,
+      "masthead_presence_rate_known": 1.0,
+      "common_departments": [
+        "charts",
+        "industry_news",
+        "reviews",
+        "ads"
+      ],
+      "target_audience": "Music industry professionals and fans",
+      "notes": "Signals are metadata-derived; no bulk page scraping performed."
+    },
+    {
+      "magazine_title": "People",
+      "issue_count": 132,
+      "repository_breakdown": {
+        "Internet Archive": 131,
+        "HathiTrust": 0,
+        "Google Books": 1
+      },
+      "decade_distribution": {
+        "1920s": 1,
+        "1950s": 4,
+        "1970s": 2,
+        "1980s": 10,
+        "1990s": 15,
+        "2000s": 3,
+        "2010s": 58,
+        "2020s": 39
+      },
+      "ads_presence_rate_known": 1.0,
+      "masthead_presence_rate_known": 1.0,
+      "common_departments": [
+        "celebrity_profiles",
+        "lifestyle",
+        "entertainment_news",
+        "ads"
+      ],
+      "target_audience": "General celebrity and lifestyle audience",
+      "notes": "Signals are metadata-derived; no bulk page scraping performed."
+    },
+    {
+      "magazine_title": "Entertainment Weekly",
+      "issue_count": 242,
+      "repository_breakdown": {
+        "Internet Archive": 195,
+        "HathiTrust": 0,
+        "Google Books": 47
+      },
+      "decade_distribution": {
+        "1990s": 27,
+        "2000s": 33,
+        "2010s": 175,
+        "2020s": 7
+      },
+      "ads_presence_rate_known": 1.0,
+      "masthead_presence_rate_known": 1.0,
+      "common_departments": [
+        "reviews",
+        "features",
+        "industry_news",
+        "ads"
+      ],
+      "target_audience": "Film, TV, and pop culture audience",
+      "notes": "Signals are metadata-derived; no bulk page scraping performed."
+    },
+    {
+      "magazine_title": "Tiger Beat",
+      "issue_count": 5,
+      "repository_breakdown": {
+        "Internet Archive": 5,
+        "HathiTrust": 0,
+        "Google Books": 0
+      },
+      "decade_distribution": {
+        "2000s": 1,
+        "2010s": 4
+      },
+      "ads_presence_rate_known": 1.0,
+      "masthead_presence_rate_known": 1.0,
+      "common_departments": [
+        "idol_profiles",
+        "posters",
+        "fan_mail",
+        "ads"
+      ],
+      "target_audience": "Teen pop culture and fan audience",
+      "notes": "Signals are metadata-derived; no bulk page scraping performed."
+    },
+    {
+      "magazine_title": "Teen Beat",
+      "issue_count": 0,
+      "repository_breakdown": {
+        "Internet Archive": 0,
+        "HathiTrust": 0,
+        "Google Books": 0
+      },
+      "decade_distribution": {},
+      "ads_presence_rate_known": null,
+      "masthead_presence_rate_known": null,
+      "common_departments": [],
+      "target_audience": "Teen pop culture and fan audience",
+      "notes": "Signals are metadata-derived; no bulk page scraping performed."
+    },
+    {
+      "magazine_title": "Seventeen",
+      "issue_count": 71,
+      "repository_breakdown": {
+        "Internet Archive": 70,
+        "HathiTrust": 0,
+        "Google Books": 1
+      },
+      "decade_distribution": {
+        "1950s": 1,
+        "1970s": 9,
+        "1990s": 1,
+        "2000s": 11,
+        "2010s": 46,
+        "2020s": 3
+      },
+      "ads_presence_rate_known": 1.0,
+      "masthead_presence_rate_known": 1.0,
+      "common_departments": [
+        "fashion",
+        "beauty",
+        "advice",
+        "ads"
+      ],
+      "target_audience": "Teen and young women audience",
+      "notes": "Signals are metadata-derived; no bulk page scraping performed."
+    },
+    {
+      "magazine_title": "Cosmopolitan",
+      "issue_count": 171,
+      "repository_breakdown": {
+        "Internet Archive": 111,
+        "HathiTrust": 56,
+        "Google Books": 4
+      },
+      "decade_distribution": {
+        "1880s": 1,
+        "1900s": 4,
+        "1920s": 2,
+        "1930s": 13,
+        "1940s": 8,
+        "1950s": 35,
+        "1960s": 10,
+        "1970s": 1,
+        "1990s": 2,
+        "2010s": 24,
+        "2020s": 16
+      },
+      "ads_presence_rate_known": 1.0,
+      "masthead_presence_rate_known": 1.0,
+      "common_departments": [
+        "fashion",
+        "beauty",
+        "relationships",
+        "ads"
+      ],
+      "target_audience": "Young adult and adult women audience",
+      "notes": "Signals are metadata-derived; no bulk page scraping performed."
+    },
+    {
+      "magazine_title": "New York Magazine",
+      "issue_count": 241,
+      "repository_breakdown": {
+        "Internet Archive": 19,
+        "HathiTrust": 212,
+        "Google Books": 10
+      },
+      "decade_distribution": {
+        "1960s": 3,
+        "1970s": 4,
+        "1980s": 3,
+        "1990s": 4,
+        "2010s": 14,
+        "2020s": 1
+      },
+      "ads_presence_rate_known": 1.0,
+      "masthead_presence_rate_known": 1.0,
+      "common_departments": [
+        "city_life",
+        "culture",
+        "reviews",
+        "ads"
+      ],
+      "target_audience": "Urban culture and news audience",
+      "notes": "Signals are metadata-derived; no bulk page scraping performed."
+    }
+  ],
+  "agent_log": [
+    {
+      "magazine_title": "MAD Magazine",
+      "scout_agent": {
+        "internet_archive_issues": 200,
+        "internet_archive_pages_scanned": 6,
+        "internet_archive_stop_repeated": false,
+        "hathitrust_issues": 2,
+        "hathitrust_queries": 1,
+        "hathitrust_stop_repeated": false,
+        "google_books_issues": 0,
+        "google_books_pages_scanned": 2,
+        "google_books_stop_repeated": true
+      }
+    },
+    {
+      "magazine_title": "National Lampoon",
+      "scout_agent": {
+        "internet_archive_issues": 33,
+        "internet_archive_pages_scanned": 3,
+        "internet_archive_stop_repeated": true,
+        "hathitrust_issues": 28,
+        "hathitrust_queries": 1,
+        "hathitrust_stop_repeated": false,
+        "google_books_issues": 3,
+        "google_books_pages_scanned": 3,
+        "google_books_stop_repeated": true
+      }
+    },
+    {
+      "magazine_title": "Billboard",
+      "scout_agent": {
+        "internet_archive_issues": 54,
+        "internet_archive_pages_scanned": 4,
+        "internet_archive_stop_repeated": true,
+        "hathitrust_issues": 137,
+        "hathitrust_queries": 1,
+        "hathitrust_stop_repeated": false,
+        "google_books_issues": 11,
+        "google_books_pages_scanned": 4,
+        "google_books_stop_repeated": true
+      }
+    },
+    {
+      "magazine_title": "People",
+      "scout_agent": {
+        "internet_archive_issues": 131,
+        "internet_archive_pages_scanned": 6,
+        "internet_archive_stop_repeated": false,
+        "hathitrust_issues": 0,
+        "hathitrust_queries": 1,
+        "hathitrust_stop_repeated": false,
+        "google_books_issues": 1,
+        "google_books_pages_scanned": 3,
+        "google_books_stop_repeated": true
+      }
+    },
+    {
+      "magazine_title": "Entertainment Weekly",
+      "scout_agent": {
+        "internet_archive_issues": 195,
+        "internet_archive_pages_scanned": 6,
+        "internet_archive_stop_repeated": false,
+        "hathitrust_issues": 0,
+        "hathitrust_queries": 1,
+        "hathitrust_stop_repeated": false,
+        "google_books_issues": 47,
+        "google_books_pages_scanned": 5,
+        "google_books_stop_repeated": false
+      }
+    },
+    {
+      "magazine_title": "Tiger Beat",
+      "scout_agent": {
+        "internet_archive_issues": 5,
+        "internet_archive_pages_scanned": 5,
+        "internet_archive_stop_repeated": true,
+        "hathitrust_issues": 0,
+        "hathitrust_queries": 1,
+        "hathitrust_stop_repeated": false,
+        "google_books_issues": 0,
+        "google_books_pages_scanned": 2,
+        "google_books_stop_repeated": true
+      }
+    },
+    {
+      "magazine_title": "Teen Beat",
+      "scout_agent": {
+        "internet_archive_issues": 0,
+        "internet_archive_pages_scanned": 4,
+        "internet_archive_stop_repeated": true,
+        "hathitrust_issues": 0,
+        "hathitrust_queries": 1,
+        "hathitrust_stop_repeated": false,
+        "google_books_issues": 0,
+        "google_books_pages_scanned": 2,
+        "google_books_stop_repeated": true
+      }
+    },
+    {
+      "magazine_title": "Seventeen",
+      "scout_agent": {
+        "internet_archive_issues": 70,
+        "internet_archive_pages_scanned": 4,
+        "internet_archive_stop_repeated": true,
+        "hathitrust_issues": 0,
+        "hathitrust_queries": 1,
+        "hathitrust_stop_repeated": false,
+        "google_books_issues": 1,
+        "google_books_pages_scanned": 3,
+        "google_books_stop_repeated": true
+      }
+    },
+    {
+      "magazine_title": "Cosmopolitan",
+      "scout_agent": {
+        "internet_archive_issues": 111,
+        "internet_archive_pages_scanned": 6,
+        "internet_archive_stop_repeated": true,
+        "hathitrust_issues": 56,
+        "hathitrust_queries": 1,
+        "hathitrust_stop_repeated": false,
+        "google_books_issues": 4,
+        "google_books_pages_scanned": 5,
+        "google_books_stop_repeated": true
+      }
+    },
+    {
+      "magazine_title": "New York Magazine",
+      "scout_agent": {
+        "internet_archive_issues": 19,
+        "internet_archive_pages_scanned": 3,
+        "internet_archive_stop_repeated": true,
+        "hathitrust_issues": 212,
+        "hathitrust_queries": 1,
+        "hathitrust_stop_repeated": false,
+        "google_books_issues": 10,
+        "google_books_pages_scanned": 3,
+        "google_books_stop_repeated": true
+      }
+    }
+  ],
+  "qa_summary": {
+    "rows": 1330,
+    "missing_issue_url": 0,
+    "missing_magazine_title": 0,
+    "missing_repository": 0,
+    "missing_issue_date": 421,
+    "unknown_pages": 1097
+  }
+}

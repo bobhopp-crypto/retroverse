@@ -1,0 +1,491 @@
+{
+  "year": "2011",
+  "top_songs": [
+    {
+      "artist": "Pitbull",
+      "title": "Give Me Everything",
+      "weeks": 38,
+      "peak": 1,
+      "score": 1070
+    },
+    {
+      "artist": "Lmfao",
+      "title": "Party Rock Anthem",
+      "weeks": 39,
+      "peak": 1,
+      "score": 989
+    },
+    {
+      "artist": "Adele",
+      "title": "Rolling In The Deep",
+      "weeks": 49,
+      "peak": 1,
+      "score": 971
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "E.T.",
+      "weeks": 29,
+      "peak": 1,
+      "score": 861
+    },
+    {
+      "artist": "Nicki Minaj",
+      "title": "Super Bass",
+      "weeks": 34,
+      "peak": 3,
+      "score": 841
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "Moves Like Jagger",
+      "weeks": 26,
+      "peak": 1,
+      "score": 772
+    },
+    {
+      "artist": "Ceelo Green",
+      "title": "F**k You! (Forget You)",
+      "weeks": 32,
+      "peak": 2,
+      "score": 729
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Firework",
+      "weeks": 31,
+      "peak": 1,
+      "score": 680
+    },
+    {
+      "artist": "Jennifer Lopez",
+      "title": "On The Floor",
+      "weeks": 29,
+      "peak": 3,
+      "score": 672
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "Grenade",
+      "weeks": 25,
+      "peak": 1,
+      "score": 655
+    },
+    {
+      "artist": "The Black Eyed Peas",
+      "title": "Just Can't Get Enough",
+      "weeks": 31,
+      "peak": 3,
+      "score": 620
+    },
+    {
+      "artist": "Chris Brown",
+      "title": "Look At Me Now",
+      "weeks": 27,
+      "peak": 6,
+      "score": 614
+    },
+    {
+      "artist": "Lil Wayne",
+      "title": "How To Love",
+      "weeks": 24,
+      "peak": 5,
+      "score": 609
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Last Friday Night (T.G.I.F.)",
+      "weeks": 23,
+      "peak": 1,
+      "score": 580
+    },
+    {
+      "artist": "Enrique Iglesias",
+      "title": "Tonight (I'm Lovin' You)",
+      "weeks": 22,
+      "peak": 4,
+      "score": 556
+    },
+    {
+      "artist": "Britney Spears",
+      "title": "Till The World Ends",
+      "weeks": 24,
+      "peak": 3,
+      "score": 549
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "The Edge Of Glory",
+      "weeks": 24,
+      "peak": 3,
+      "score": 539
+    },
+    {
+      "artist": "Rihanna",
+      "title": "sssS&M",
+      "weeks": 25,
+      "peak": 1,
+      "score": 517
+    },
+    {
+      "artist": "Bad Meets Evil",
+      "title": "Lighters",
+      "weeks": 22,
+      "peak": 4,
+      "score": 515
+    },
+    {
+      "artist": "Cobra Starship",
+      "title": "You Make Me Feel...",
+      "weeks": 23,
+      "peak": 7,
+      "score": 511
+    },
+    {
+      "artist": "Lady Antebellum",
+      "title": "Just A Kiss",
+      "weeks": 33,
+      "peak": 7,
+      "score": 510
+    },
+    {
+      "artist": "Jeremih",
+      "title": "Down On Me",
+      "weeks": 28,
+      "peak": 4,
+      "score": 506
+    },
+    {
+      "artist": "P!nk",
+      "title": "F**kin' Perfect",
+      "weeks": 30,
+      "peak": 2,
+      "score": 506
+    },
+    {
+      "artist": "David Guetta",
+      "title": "Without You",
+      "weeks": 16,
+      "peak": 4,
+      "score": 487
+    },
+    {
+      "artist": "Rihanna",
+      "title": "We Found Love",
+      "weeks": 13,
+      "peak": 1,
+      "score": 485
+    },
+    {
+      "artist": "Lmfao",
+      "title": "Sexy And I Know It",
+      "weeks": 16,
+      "peak": 2,
+      "score": 460
+    },
+    {
+      "artist": "Adele",
+      "title": "Someone Like You",
+      "weeks": 24,
+      "peak": 1,
+      "score": 456
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Born This Way",
+      "weeks": 20,
+      "peak": 1,
+      "score": 454
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "The Lazy Song",
+      "weeks": 26,
+      "peak": 4,
+      "score": 443
+    },
+    {
+      "artist": "Diddy - Dirty Money",
+      "title": "Coming Home",
+      "weeks": 21,
+      "peak": 11,
+      "score": 419
+    },
+    {
+      "artist": "Pitbull",
+      "title": "Hey Baby (Drop It To The Floor)",
+      "weeks": 20,
+      "peak": 7,
+      "score": 417
+    },
+    {
+      "artist": "Onerepublic",
+      "title": "The Good Life",
+      "weeks": 34,
+      "peak": 8,
+      "score": 416
+    },
+    {
+      "artist": "Drake",
+      "title": "Headlines",
+      "weeks": 19,
+      "peak": 13,
+      "score": 415
+    },
+    {
+      "artist": "Ke$ha",
+      "title": "Blow",
+      "weeks": 25,
+      "peak": 7,
+      "score": 412
+    },
+    {
+      "artist": "Wiz Khalifa",
+      "title": "Black And Yellow",
+      "weeks": 15,
+      "peak": 1,
+      "score": 410
+    },
+    {
+      "artist": "Dj Khaled",
+      "title": "I'm On One",
+      "weeks": 23,
+      "peak": 10,
+      "score": 395
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "Just The Way You Are",
+      "weeks": 27,
+      "peak": 6,
+      "score": 388
+    },
+    {
+      "artist": "Rihanna",
+      "title": "What's My Name?",
+      "weeks": 14,
+      "peak": 3,
+      "score": 375
+    },
+    {
+      "artist": "Lil Wayne",
+      "title": "6 Foot 7 Foot",
+      "weeks": 21,
+      "peak": 9,
+      "score": 375
+    },
+    {
+      "artist": "Lupe Fiasco",
+      "title": "The Show Goes On",
+      "weeks": 31,
+      "peak": 9,
+      "score": 372
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Pitbull",
+      "hits": 2
+    },
+    {
+      "artist": "Lmfao",
+      "hits": 2
+    },
+    {
+      "artist": "Adele",
+      "hits": 2
+    },
+    {
+      "artist": "Katy Perry",
+      "hits": 3
+    },
+    {
+      "artist": "Bruno Mars",
+      "hits": 3
+    },
+    {
+      "artist": "Lil Wayne",
+      "hits": 2
+    },
+    {
+      "artist": "Lady Gaga",
+      "hits": 2
+    },
+    {
+      "artist": "Rihanna",
+      "hits": 3
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Adele",
+      "title": "Rolling In The Deep",
+      "weeks": 49,
+      "peak": 1,
+      "score": 971
+    },
+    {
+      "artist": "Lmfao",
+      "title": "Party Rock Anthem",
+      "weeks": 39,
+      "peak": 1,
+      "score": 989
+    },
+    {
+      "artist": "Pitbull",
+      "title": "Give Me Everything",
+      "weeks": 38,
+      "peak": 1,
+      "score": 1070
+    },
+    {
+      "artist": "Eli Young Band",
+      "title": "Crazy Girl",
+      "weeks": 36,
+      "peak": 30,
+      "score": -707
+    },
+    {
+      "artist": "Nicki Minaj",
+      "title": "Super Bass",
+      "weeks": 34,
+      "peak": 3,
+      "score": 841
+    },
+    {
+      "artist": "Onerepublic",
+      "title": "The Good Life",
+      "weeks": 34,
+      "peak": 8,
+      "score": 416
+    },
+    {
+      "artist": "Foster The People",
+      "title": "Pumped Up Kicks",
+      "weeks": 34,
+      "peak": 3,
+      "score": 346
+    },
+    {
+      "artist": "Lady Antebellum",
+      "title": "Just A Kiss",
+      "weeks": 33,
+      "peak": 7,
+      "score": 510
+    },
+    {
+      "artist": "Ceelo Green",
+      "title": "F**k You! (Forget You)",
+      "weeks": 32,
+      "peak": 2,
+      "score": 729
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Firework",
+      "weeks": 31,
+      "peak": 1,
+      "score": 680
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Pitbull",
+      "title": "Give Me Everything",
+      "weeks": 38,
+      "peak": 1,
+      "score": 1070
+    },
+    {
+      "artist": "Lmfao",
+      "title": "Party Rock Anthem",
+      "weeks": 39,
+      "peak": 1,
+      "score": 989
+    },
+    {
+      "artist": "Adele",
+      "title": "Rolling In The Deep",
+      "weeks": 49,
+      "peak": 1,
+      "score": 971
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "E.T.",
+      "weeks": 29,
+      "peak": 1,
+      "score": 861
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "Moves Like Jagger",
+      "weeks": 26,
+      "peak": 1,
+      "score": 772
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Firework",
+      "weeks": 31,
+      "peak": 1,
+      "score": 680
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "Grenade",
+      "weeks": 25,
+      "peak": 1,
+      "score": 655
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Last Friday Night (T.G.I.F.)",
+      "weeks": 23,
+      "peak": 1,
+      "score": 580
+    },
+    {
+      "artist": "Rihanna",
+      "title": "sssS&M",
+      "weeks": 25,
+      "peak": 1,
+      "score": 517
+    },
+    {
+      "artist": "Rihanna",
+      "title": "We Found Love",
+      "weeks": 13,
+      "peak": 1,
+      "score": 485
+    },
+    {
+      "artist": "Adele",
+      "title": "Someone Like You",
+      "weeks": 24,
+      "peak": 1,
+      "score": 456
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Born This Way",
+      "weeks": 20,
+      "peak": 1,
+      "score": 454
+    },
+    {
+      "artist": "Wiz Khalifa",
+      "title": "Black And Yellow",
+      "weeks": 15,
+      "peak": 1,
+      "score": 410
+    },
+    {
+      "artist": "Britney Spears",
+      "title": "Hold It Against Me",
+      "weeks": 17,
+      "peak": 1,
+      "score": 34
+    }
+  ]
+}

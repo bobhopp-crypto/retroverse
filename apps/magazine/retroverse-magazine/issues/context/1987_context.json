@@ -1,0 +1,587 @@
+{
+  "year": "1987",
+  "top_songs": [
+    {
+      "artist": "Whitney Houston",
+      "title": "I Wanna Dance With Somebody (Who Loves Me)",
+      "weeks": 18,
+      "peak": 1,
+      "score": 316
+    },
+    {
+      "artist": "Bill Medley",
+      "title": "(I've Had) The Time Of My Life",
+      "weeks": 14,
+      "peak": 1,
+      "score": 299
+    },
+    {
+      "artist": "Bob Seger",
+      "title": "Shakedown (From \"Beverly Hills Cop II\")",
+      "weeks": 18,
+      "peak": 1,
+      "score": 293
+    },
+    {
+      "artist": "Billy Idol",
+      "title": "Mony Mony \"Live\"",
+      "weeks": 17,
+      "peak": 1,
+      "score": 293
+    },
+    {
+      "artist": "Belinda Carlisle",
+      "title": "Heaven Is A Place On Earth",
+      "weeks": 14,
+      "peak": 1,
+      "score": 293
+    },
+    {
+      "artist": "Tiffany",
+      "title": "I Think We're Alone Now",
+      "weeks": 18,
+      "peak": 1,
+      "score": 289
+    },
+    {
+      "artist": "The Georgia Satellites",
+      "title": "Keep Your Hands To Yourself",
+      "weeks": 14,
+      "peak": 2,
+      "score": 281
+    },
+    {
+      "artist": "Billy Vera",
+      "title": "At This Moment",
+      "weeks": 13,
+      "peak": 1,
+      "score": 267
+    },
+    {
+      "artist": "U2",
+      "title": "I Still Haven't Found What I'm Looking For",
+      "weeks": 17,
+      "peak": 1,
+      "score": 267
+    },
+    {
+      "artist": "Richard Marx",
+      "title": "Should've Known Better",
+      "weeks": 14,
+      "peak": 3,
+      "score": 264
+    },
+    {
+      "artist": "George Michael",
+      "title": "Faith",
+      "weeks": 10,
+      "peak": 1,
+      "score": 252
+    },
+    {
+      "artist": "U2",
+      "title": "With Or Without You",
+      "weeks": 18,
+      "peak": 1,
+      "score": 247
+    },
+    {
+      "artist": "Bon Jovi",
+      "title": "Livin' On A Prayer",
+      "weeks": 18,
+      "peak": 1,
+      "score": 240
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "Didn't We Almost Have It All",
+      "weeks": 17,
+      "peak": 1,
+      "score": 238
+    },
+    {
+      "artist": "Aretha Franklin",
+      "title": "I Knew You Were Waiting (For Me)",
+      "weeks": 17,
+      "peak": 1,
+      "score": 233
+    },
+    {
+      "artist": "Starship",
+      "title": "Nothing's Gonna Stop Us Now",
+      "weeks": 22,
+      "peak": 1,
+      "score": 232
+    },
+    {
+      "artist": "Huey Lewis",
+      "title": "Jacob's Ladder",
+      "weeks": 15,
+      "peak": 1,
+      "score": 225
+    },
+    {
+      "artist": "Prince",
+      "title": "Sign 'O' The Times",
+      "weeks": 14,
+      "peak": 3,
+      "score": 224
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "title": "Little Lies",
+      "weeks": 18,
+      "peak": 4,
+      "score": 223
+    },
+    {
+      "artist": "Club Nouveau",
+      "title": "Lean On Me",
+      "weeks": 17,
+      "peak": 1,
+      "score": 220
+    },
+    {
+      "artist": "Sting",
+      "title": "We'll Be Together",
+      "weeks": 12,
+      "peak": 7,
+      "score": 219
+    },
+    {
+      "artist": "Whitesnake",
+      "title": "Is This Love",
+      "weeks": 10,
+      "peak": 2,
+      "score": 219
+    },
+    {
+      "artist": "Jody Watley",
+      "title": "Looking For A New Love",
+      "weeks": 19,
+      "peak": 2,
+      "score": 215
+    },
+    {
+      "artist": "George Michael",
+      "title": "I Want Your Sex (From \"Beverly Hills Cop II\")",
+      "weeks": 20,
+      "peak": 2,
+      "score": 215
+    },
+    {
+      "artist": "Samantha Fox",
+      "title": "Touch Me (I Want Your Body)",
+      "weeks": 14,
+      "peak": 4,
+      "score": 211
+    },
+    {
+      "artist": "Heart",
+      "title": "Alone",
+      "weeks": 21,
+      "peak": 1,
+      "score": 204
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "So Emotional",
+      "weeks": 9,
+      "peak": 2,
+      "score": 200
+    },
+    {
+      "artist": "Madonna",
+      "title": "Who's That Girl",
+      "weeks": 16,
+      "peak": 1,
+      "score": 194
+    },
+    {
+      "artist": "Lisa Lisa And Cult Jam",
+      "title": "Head To Toe",
+      "weeks": 20,
+      "peak": 1,
+      "score": 193
+    },
+    {
+      "artist": "Cutting Crew",
+      "title": "(I Just) Died In Your Arms",
+      "weeks": 19,
+      "peak": 1,
+      "score": 191
+    },
+    {
+      "artist": "Robbie Nevil",
+      "title": "C'est La Vie",
+      "weeks": 11,
+      "peak": 2,
+      "score": 190
+    },
+    {
+      "artist": "Los Lobos",
+      "title": "La Bamba",
+      "weeks": 21,
+      "peak": 1,
+      "score": 190
+    },
+    {
+      "artist": "Genesis",
+      "title": "In Too Deep",
+      "weeks": 17,
+      "peak": 3,
+      "score": 188
+    },
+    {
+      "artist": "Madonna",
+      "title": "Causing A Commotion",
+      "weeks": 16,
+      "peak": 2,
+      "score": 188
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "I Just Can't Stop Loving You",
+      "weeks": 14,
+      "peak": 1,
+      "score": 185
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "title": "Brilliant Disguise",
+      "weeks": 13,
+      "peak": 5,
+      "score": 185
+    },
+    {
+      "artist": "Cyndi Lauper",
+      "title": "Change Of Heart",
+      "weeks": 12,
+      "peak": 3,
+      "score": 184
+    },
+    {
+      "artist": "Chicago",
+      "title": "Will You Still Love Me?",
+      "weeks": 16,
+      "peak": 3,
+      "score": 184
+    },
+    {
+      "artist": "Madonna",
+      "title": "Open Your Heart",
+      "weeks": 14,
+      "peak": 1,
+      "score": 182
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "Control",
+      "weeks": 9,
+      "peak": 5,
+      "score": 181
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Whitney Houston",
+      "hits": 3
+    },
+    {
+      "artist": "U2",
+      "hits": 2
+    },
+    {
+      "artist": "George Michael",
+      "hits": 2
+    },
+    {
+      "artist": "Madonna",
+      "hits": 3
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Debbie Gibson",
+      "title": "Only In My Dreams",
+      "weeks": 28,
+      "peak": 4,
+      "score": 49
+    },
+    {
+      "artist": "T'pau",
+      "title": "Heart And Soul",
+      "weeks": 27,
+      "peak": 4,
+      "score": 22
+    },
+    {
+      "artist": "Whitesnake",
+      "title": "Here I Go Again",
+      "weeks": 26,
+      "peak": 1,
+      "score": 104
+    },
+    {
+      "artist": "Chris De Burgh",
+      "title": "The Lady In Red",
+      "weeks": 26,
+      "peak": 3,
+      "score": 57
+    },
+    {
+      "artist": "Glenn Medeiros",
+      "title": "Nothing's Gonna Change My Love For You",
+      "weeks": 25,
+      "peak": 12,
+      "score": -66
+    },
+    {
+      "artist": "Kenny Loggins",
+      "title": "Meet Me Half Way",
+      "weeks": 25,
+      "peak": 11,
+      "score": -159
+    },
+    {
+      "artist": "Crowded House",
+      "title": "Don't Dream It's Over",
+      "weeks": 24,
+      "peak": 2,
+      "score": 167
+    },
+    {
+      "artist": "Dan Hill",
+      "title": "Can't We Try",
+      "weeks": 24,
+      "peak": 6,
+      "score": -10
+    },
+    {
+      "artist": "Reo Speedwagon",
+      "title": "In My Dreams",
+      "weeks": 24,
+      "peak": 19,
+      "score": -240
+    },
+    {
+      "artist": "The Whispers",
+      "title": "Rock Steady",
+      "weeks": 23,
+      "peak": 7,
+      "score": 21
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Whitney Houston",
+      "title": "I Wanna Dance With Somebody (Who Loves Me)",
+      "weeks": 18,
+      "peak": 1,
+      "score": 316
+    },
+    {
+      "artist": "Bill Medley",
+      "title": "(I've Had) The Time Of My Life",
+      "weeks": 14,
+      "peak": 1,
+      "score": 299
+    },
+    {
+      "artist": "Bob Seger",
+      "title": "Shakedown (From \"Beverly Hills Cop II\")",
+      "weeks": 18,
+      "peak": 1,
+      "score": 293
+    },
+    {
+      "artist": "Billy Idol",
+      "title": "Mony Mony \"Live\"",
+      "weeks": 17,
+      "peak": 1,
+      "score": 293
+    },
+    {
+      "artist": "Belinda Carlisle",
+      "title": "Heaven Is A Place On Earth",
+      "weeks": 14,
+      "peak": 1,
+      "score": 293
+    },
+    {
+      "artist": "Tiffany",
+      "title": "I Think We're Alone Now",
+      "weeks": 18,
+      "peak": 1,
+      "score": 289
+    },
+    {
+      "artist": "Billy Vera",
+      "title": "At This Moment",
+      "weeks": 13,
+      "peak": 1,
+      "score": 267
+    },
+    {
+      "artist": "U2",
+      "title": "I Still Haven't Found What I'm Looking For",
+      "weeks": 17,
+      "peak": 1,
+      "score": 267
+    },
+    {
+      "artist": "George Michael",
+      "title": "Faith",
+      "weeks": 10,
+      "peak": 1,
+      "score": 252
+    },
+    {
+      "artist": "U2",
+      "title": "With Or Without You",
+      "weeks": 18,
+      "peak": 1,
+      "score": 247
+    },
+    {
+      "artist": "Bon Jovi",
+      "title": "Livin' On A Prayer",
+      "weeks": 18,
+      "peak": 1,
+      "score": 240
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "Didn't We Almost Have It All",
+      "weeks": 17,
+      "peak": 1,
+      "score": 238
+    },
+    {
+      "artist": "Aretha Franklin",
+      "title": "I Knew You Were Waiting (For Me)",
+      "weeks": 17,
+      "peak": 1,
+      "score": 233
+    },
+    {
+      "artist": "Starship",
+      "title": "Nothing's Gonna Stop Us Now",
+      "weeks": 22,
+      "peak": 1,
+      "score": 232
+    },
+    {
+      "artist": "Huey Lewis",
+      "title": "Jacob's Ladder",
+      "weeks": 15,
+      "peak": 1,
+      "score": 225
+    },
+    {
+      "artist": "Club Nouveau",
+      "title": "Lean On Me",
+      "weeks": 17,
+      "peak": 1,
+      "score": 220
+    },
+    {
+      "artist": "Heart",
+      "title": "Alone",
+      "weeks": 21,
+      "peak": 1,
+      "score": 204
+    },
+    {
+      "artist": "Madonna",
+      "title": "Who's That Girl",
+      "weeks": 16,
+      "peak": 1,
+      "score": 194
+    },
+    {
+      "artist": "Lisa Lisa And Cult Jam",
+      "title": "Head To Toe",
+      "weeks": 20,
+      "peak": 1,
+      "score": 193
+    },
+    {
+      "artist": "Cutting Crew",
+      "title": "(I Just) Died In Your Arms",
+      "weeks": 19,
+      "peak": 1,
+      "score": 191
+    },
+    {
+      "artist": "Los Lobos",
+      "title": "La Bamba",
+      "weeks": 21,
+      "peak": 1,
+      "score": 190
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "I Just Can't Stop Loving You",
+      "weeks": 14,
+      "peak": 1,
+      "score": 185
+    },
+    {
+      "artist": "Madonna",
+      "title": "Open Your Heart",
+      "weeks": 14,
+      "peak": 1,
+      "score": 182
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Bad",
+      "weeks": 14,
+      "peak": 1,
+      "score": 172
+    },
+    {
+      "artist": "Atlantic Starr",
+      "title": "Always",
+      "weeks": 22,
+      "peak": 1,
+      "score": 161
+    },
+    {
+      "artist": "Gregory Abbott",
+      "title": "Shake You Down",
+      "weeks": 11,
+      "peak": 1,
+      "score": 150
+    },
+    {
+      "artist": "The Bangles",
+      "title": "Walk Like An Egyptian",
+      "weeks": 9,
+      "peak": 1,
+      "score": 135
+    },
+    {
+      "artist": "Lisa Lisa And Cult Jam",
+      "title": "Lost In Emotion",
+      "weeks": 20,
+      "peak": 1,
+      "score": 108
+    },
+    {
+      "artist": "Whitesnake",
+      "title": "Here I Go Again",
+      "weeks": 26,
+      "peak": 1,
+      "score": 104
+    },
+    {
+      "artist": "Kim Wilde",
+      "title": "You Keep Me Hangin' On",
+      "weeks": 21,
+      "peak": 1,
+      "score": 56
+    }
+  ]
+}

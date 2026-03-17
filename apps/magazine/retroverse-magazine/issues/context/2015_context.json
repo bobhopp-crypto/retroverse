@@ -1,0 +1,444 @@
+{
+  "year": "2015",
+  "top_songs": [
+    {
+      "artist": "Mark Ronson",
+      "title": "Uptown Funk!",
+      "weeks": 50,
+      "peak": 1,
+      "score": 1478
+    },
+    {
+      "artist": "Fetty Wap",
+      "title": "Trap Queen",
+      "weeks": 47,
+      "peak": 2,
+      "score": 1155
+    },
+    {
+      "artist": "Ed Sheeran",
+      "title": "Thinking Out Loud",
+      "weeks": 48,
+      "peak": 2,
+      "score": 1079
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "The Hills",
+      "weeks": 29,
+      "peak": 1,
+      "score": 948
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "Sugar",
+      "weeks": 42,
+      "peak": 2,
+      "score": 944
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Can't Feel My Face",
+      "weeks": 27,
+      "peak": 1,
+      "score": 910
+    },
+    {
+      "artist": "Wiz Khalifa",
+      "title": "See You Again",
+      "weeks": 40,
+      "peak": 1,
+      "score": 850
+    },
+    {
+      "artist": "Ellie Goulding",
+      "title": "Love Me Like You Do",
+      "weeks": 34,
+      "peak": 3,
+      "score": 757
+    },
+    {
+      "artist": "Silento",
+      "title": "Watch Me",
+      "weeks": 42,
+      "peak": 3,
+      "score": 733
+    },
+    {
+      "artist": "Omi",
+      "title": "Cheerleader",
+      "weeks": 34,
+      "peak": 1,
+      "score": 722
+    },
+    {
+      "artist": "Fetty Wap",
+      "title": "679",
+      "weeks": 24,
+      "peak": 4,
+      "score": 722
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Earned It (Fifty Shades Of Grey)",
+      "weeks": 43,
+      "peak": 3,
+      "score": 712
+    },
+    {
+      "artist": "Walk The Moon",
+      "title": "Shut Up And Dance",
+      "weeks": 48,
+      "peak": 4,
+      "score": 670
+    },
+    {
+      "artist": "Jason Derulo",
+      "title": "Want To Want Me",
+      "weeks": 35,
+      "peak": 5,
+      "score": 662
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Blank Space",
+      "weeks": 29,
+      "peak": 1,
+      "score": 653
+    },
+    {
+      "artist": "Major Lazer X Dj Snake",
+      "title": "Lean On",
+      "weeks": 36,
+      "peak": 4,
+      "score": 652
+    },
+    {
+      "artist": "Selena Gomez",
+      "title": "Good For You",
+      "weeks": 25,
+      "peak": 5,
+      "score": 611
+    },
+    {
+      "artist": "Hozier",
+      "title": "Take Me To Church",
+      "weeks": 23,
+      "peak": 2,
+      "score": 599
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "What Do You Mean?",
+      "weeks": 15,
+      "peak": 1,
+      "score": 563
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Bad Blood",
+      "weeks": 24,
+      "peak": 1,
+      "score": 527
+    },
+    {
+      "artist": "Drake",
+      "title": "Hotline Bling",
+      "weeks": 19,
+      "peak": 2,
+      "score": 514
+    },
+    {
+      "artist": "Meghan Trainor",
+      "title": "Lips Are Movin",
+      "weeks": 21,
+      "peak": 4,
+      "score": 480
+    },
+    {
+      "artist": "Rachel Platten",
+      "title": "Fight Song",
+      "weeks": 31,
+      "peak": 6,
+      "score": 469
+    },
+    {
+      "artist": "David Guetta",
+      "title": "Hey Mama",
+      "weeks": 24,
+      "peak": 8,
+      "score": 467
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Wildest Dreams",
+      "weeks": 15,
+      "peak": 5,
+      "score": 460
+    },
+    {
+      "artist": "Sam Smith",
+      "title": "I'm Not The Only One",
+      "weeks": 22,
+      "peak": 5,
+      "score": 459
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "weeks": 33,
+      "peak": 5,
+      "score": 453
+    },
+    {
+      "artist": "R. City",
+      "title": "Locked Away",
+      "weeks": 21,
+      "peak": 6,
+      "score": 433
+    },
+    {
+      "artist": "Skrillex",
+      "title": "Where Are U Now",
+      "weeks": 41,
+      "peak": 8,
+      "score": 385
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Style",
+      "weeks": 30,
+      "peak": 6,
+      "score": 384
+    },
+    {
+      "artist": "Flo Rida",
+      "title": "G.D.F.R.",
+      "weeks": 30,
+      "peak": 8,
+      "score": 363
+    },
+    {
+      "artist": "Pitbull",
+      "title": "Time Of Our Lives",
+      "weeks": 26,
+      "peak": 9,
+      "score": 362
+    },
+    {
+      "artist": "Ed Sheeran",
+      "title": "Photograph",
+      "weeks": 30,
+      "peak": 10,
+      "score": 357
+    },
+    {
+      "artist": "Andy Grammer",
+      "title": "Honey, I'm Good.",
+      "weeks": 31,
+      "peak": 9,
+      "score": 351
+    },
+    {
+      "artist": "Meghan Trainor",
+      "title": "All About That Bass",
+      "weeks": 24,
+      "peak": 5,
+      "score": 347
+    },
+    {
+      "artist": "Fall Out Boy",
+      "title": "Centuries",
+      "weeks": 20,
+      "peak": 10,
+      "score": 343
+    },
+    {
+      "artist": "Rihanna",
+      "title": "B**** Better Have My Money",
+      "weeks": 23,
+      "peak": 15,
+      "score": 337
+    },
+    {
+      "artist": "Usher",
+      "title": "I Don't Mind",
+      "weeks": 19,
+      "peak": 11,
+      "score": 331
+    },
+    {
+      "artist": "Nick Jonas",
+      "title": "Jealous",
+      "weeks": 18,
+      "peak": 7,
+      "score": 330
+    },
+    {
+      "artist": "Nicki Minaj",
+      "title": "Only",
+      "weeks": 18,
+      "peak": 15,
+      "score": 308
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Fetty Wap",
+      "hits": 2
+    },
+    {
+      "artist": "Ed Sheeran",
+      "hits": 2
+    },
+    {
+      "artist": "The Weeknd",
+      "hits": 3
+    },
+    {
+      "artist": "Taylor Swift",
+      "hits": 5
+    },
+    {
+      "artist": "Meghan Trainor",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Mark Ronson",
+      "title": "Uptown Funk!",
+      "weeks": 50,
+      "peak": 1,
+      "score": 1478
+    },
+    {
+      "artist": "Ed Sheeran",
+      "title": "Thinking Out Loud",
+      "weeks": 48,
+      "peak": 2,
+      "score": 1079
+    },
+    {
+      "artist": "Walk The Moon",
+      "title": "Shut Up And Dance",
+      "weeks": 48,
+      "peak": 4,
+      "score": 670
+    },
+    {
+      "artist": "Fetty Wap",
+      "title": "Trap Queen",
+      "weeks": 47,
+      "peak": 2,
+      "score": 1155
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Earned It (Fifty Shades Of Grey)",
+      "weeks": 43,
+      "peak": 3,
+      "score": 712
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "Sugar",
+      "weeks": 42,
+      "peak": 2,
+      "score": 944
+    },
+    {
+      "artist": "Silento",
+      "title": "Watch Me",
+      "weeks": 42,
+      "peak": 3,
+      "score": 733
+    },
+    {
+      "artist": "Skrillex",
+      "title": "Where Are U Now",
+      "weeks": 41,
+      "peak": 8,
+      "score": 385
+    },
+    {
+      "artist": "Wiz Khalifa",
+      "title": "See You Again",
+      "weeks": 40,
+      "peak": 1,
+      "score": 850
+    },
+    {
+      "artist": "Omarion",
+      "title": "Post To Be",
+      "weeks": 37,
+      "peak": 13,
+      "score": 214
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Mark Ronson",
+      "title": "Uptown Funk!",
+      "weeks": 50,
+      "peak": 1,
+      "score": 1478
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "The Hills",
+      "weeks": 29,
+      "peak": 1,
+      "score": 948
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Can't Feel My Face",
+      "weeks": 27,
+      "peak": 1,
+      "score": 910
+    },
+    {
+      "artist": "Wiz Khalifa",
+      "title": "See You Again",
+      "weeks": 40,
+      "peak": 1,
+      "score": 850
+    },
+    {
+      "artist": "Omi",
+      "title": "Cheerleader",
+      "weeks": 34,
+      "peak": 1,
+      "score": 722
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Blank Space",
+      "weeks": 29,
+      "peak": 1,
+      "score": 653
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "What Do You Mean?",
+      "weeks": 15,
+      "peak": 1,
+      "score": 563
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Bad Blood",
+      "weeks": 24,
+      "peak": 1,
+      "score": 527
+    },
+    {
+      "artist": "Adele",
+      "title": "Hello",
+      "weeks": 7,
+      "peak": 1,
+      "score": 280
+    }
+  ]
+}

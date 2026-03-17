@@ -1,0 +1,433 @@
+{
+  "year": "1958",
+  "top_songs": [
+    {
+      "artist": "Tommy Edwards",
+      "title": "It's All In The Game",
+      "weeks": 20,
+      "peak": 1,
+      "score": 512
+    },
+    {
+      "artist": "Conway Twitty",
+      "title": "It's Only Make Believe",
+      "weeks": 16,
+      "peak": 1,
+      "score": 433
+    },
+    {
+      "artist": "Big Bopper",
+      "title": "Chantilly Lace",
+      "weeks": 22,
+      "peak": 6,
+      "score": 418
+    },
+    {
+      "artist": "The Kingston Trio",
+      "title": "Tom Dooley",
+      "weeks": 14,
+      "peak": 1,
+      "score": 399
+    },
+    {
+      "artist": "Bobby Day",
+      "title": "Rock-in Robin",
+      "weeks": 21,
+      "peak": 2,
+      "score": 397
+    },
+    {
+      "artist": "Domenico Modugno",
+      "title": "Nel Blu Dipinto Di Blu (Volare)",
+      "weeks": 16,
+      "peak": 1,
+      "score": 392
+    },
+    {
+      "artist": "The Elegants",
+      "title": "Little Star",
+      "weeks": 17,
+      "peak": 1,
+      "score": 386
+    },
+    {
+      "artist": "The Everly Brothers",
+      "title": "Bird Dog",
+      "weeks": 18,
+      "peak": 2,
+      "score": 380
+    },
+    {
+      "artist": "Jimmy Clanton And His Rockets",
+      "title": "Just A Dream",
+      "weeks": 15,
+      "peak": 4,
+      "score": 338
+    },
+    {
+      "artist": "Robin Luke",
+      "title": "Susie Darlin'",
+      "weeks": 17,
+      "peak": 5,
+      "score": 335
+    },
+    {
+      "artist": "Earl Grant",
+      "title": "The End",
+      "weeks": 16,
+      "peak": 7,
+      "score": 294
+    },
+    {
+      "artist": "The Tommy Dorsey Orchestra",
+      "title": "Tea For Two Cha Cha",
+      "weeks": 18,
+      "peak": 7,
+      "score": 291
+    },
+    {
+      "artist": "Cozy Cole",
+      "title": "Topsy II",
+      "weeks": 19,
+      "peak": 3,
+      "score": 288
+    },
+    {
+      "artist": "The Teddy Bears",
+      "title": "To Know Him, Is To Love Him",
+      "weeks": 15,
+      "peak": 1,
+      "score": 287
+    },
+    {
+      "artist": "Ricky Nelson",
+      "title": "Lonesome Town",
+      "weeks": 11,
+      "peak": 7,
+      "score": 269
+    },
+    {
+      "artist": "The Playmates",
+      "title": "Beep Beep",
+      "weeks": 9,
+      "peak": 4,
+      "score": 256
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "One Night",
+      "weeks": 8,
+      "peak": 4,
+      "score": 253
+    },
+    {
+      "artist": "Ricky Nelson",
+      "title": "I Got A Feeling",
+      "weeks": 12,
+      "peak": 10,
+      "score": 250
+    },
+    {
+      "artist": "Little Anthony And The Imperials",
+      "title": "Tears On My Pillow",
+      "weeks": 19,
+      "peak": 4,
+      "score": 243
+    },
+    {
+      "artist": "Ricky Nelson",
+      "title": "Poor Little Fool",
+      "weeks": 11,
+      "peak": 1,
+      "score": 242
+    },
+    {
+      "artist": "Poni-tails",
+      "title": "Born Too Late",
+      "weeks": 14,
+      "peak": 7,
+      "score": 224
+    },
+    {
+      "artist": "Jack Scott",
+      "title": "My True Love",
+      "weeks": 14,
+      "peak": 3,
+      "score": 220
+    },
+    {
+      "artist": "Perez Prado And His Orchestra",
+      "title": "Patricia",
+      "weeks": 14,
+      "peak": 2,
+      "score": 216
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "I Got Stung",
+      "weeks": 9,
+      "peak": 8,
+      "score": 215
+    },
+    {
+      "artist": "The Everly Brothers",
+      "title": "Devoted To You",
+      "weeks": 14,
+      "peak": 10,
+      "score": 199
+    },
+    {
+      "artist": "The Everly Brothers",
+      "title": "Problems",
+      "weeks": 8,
+      "peak": 2,
+      "score": 193
+    },
+    {
+      "artist": "The Olympics",
+      "title": "Western Movies",
+      "weeks": 12,
+      "peak": 8,
+      "score": 179
+    },
+    {
+      "artist": "Eddie Cochran",
+      "title": "Summertime Blues",
+      "weeks": 16,
+      "peak": 8,
+      "score": 178
+    },
+    {
+      "artist": "Duane Eddy His Twangy Guitar And The Rebels",
+      "title": "Rebel-'rouser",
+      "weeks": 8,
+      "peak": 6,
+      "score": 170
+    },
+    {
+      "artist": "Bobby Darin",
+      "title": "Queen Of The Hop",
+      "weeks": 13,
+      "peak": 9,
+      "score": 170
+    },
+    {
+      "artist": "Peggy Lee",
+      "title": "Fever",
+      "weeks": 12,
+      "peak": 8,
+      "score": 156
+    },
+    {
+      "artist": "The Johnny Otis Show",
+      "title": "Willie And The Hand Jive",
+      "weeks": 10,
+      "peak": 9,
+      "score": 147
+    },
+    {
+      "artist": "Doris Day",
+      "title": "Everybody Loves A Lover",
+      "weeks": 12,
+      "peak": 14,
+      "score": 143
+    },
+    {
+      "artist": "Clyde Mcphatter",
+      "title": "A Lover's Question",
+      "weeks": 12,
+      "peak": 9,
+      "score": 139
+    },
+    {
+      "artist": "Kalin Twins",
+      "title": "When",
+      "weeks": 9,
+      "peak": 5,
+      "score": 123
+    },
+    {
+      "artist": "The Royaltones",
+      "title": "Poor Boy",
+      "weeks": 11,
+      "peak": 17,
+      "score": 117
+    },
+    {
+      "artist": "Frankie Avalon",
+      "title": "Ginger Bread",
+      "weeks": 11,
+      "peak": 9,
+      "score": 110
+    },
+    {
+      "artist": "The Platters",
+      "title": "Smoke Gets In Your Eyes",
+      "weeks": 7,
+      "peak": 2,
+      "score": 108
+    },
+    {
+      "artist": "Bobby Darin",
+      "title": "Splish Splash",
+      "weeks": 8,
+      "peak": 3,
+      "score": 102
+    },
+    {
+      "artist": "The Chipmunks",
+      "title": "The Chipmunk Song",
+      "weeks": 5,
+      "peak": 1,
+      "score": 94
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "The Everly Brothers",
+      "hits": 3
+    },
+    {
+      "artist": "Ricky Nelson",
+      "hits": 3
+    },
+    {
+      "artist": "Elvis Presley",
+      "hits": 2
+    },
+    {
+      "artist": "Bobby Darin",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Big Bopper",
+      "title": "Chantilly Lace",
+      "weeks": 22,
+      "peak": 6,
+      "score": 418
+    },
+    {
+      "artist": "Bobby Day",
+      "title": "Rock-in Robin",
+      "weeks": 21,
+      "peak": 2,
+      "score": 397
+    },
+    {
+      "artist": "Tommy Edwards",
+      "title": "It's All In The Game",
+      "weeks": 20,
+      "peak": 1,
+      "score": 512
+    },
+    {
+      "artist": "Cozy Cole",
+      "title": "Topsy II",
+      "weeks": 19,
+      "peak": 3,
+      "score": 288
+    },
+    {
+      "artist": "Little Anthony And The Imperials",
+      "title": "Tears On My Pillow",
+      "weeks": 19,
+      "peak": 4,
+      "score": 243
+    },
+    {
+      "artist": "The Everly Brothers",
+      "title": "Bird Dog",
+      "weeks": 18,
+      "peak": 2,
+      "score": 380
+    },
+    {
+      "artist": "The Tommy Dorsey Orchestra",
+      "title": "Tea For Two Cha Cha",
+      "weeks": 18,
+      "peak": 7,
+      "score": 291
+    },
+    {
+      "artist": "The Elegants",
+      "title": "Little Star",
+      "weeks": 17,
+      "peak": 1,
+      "score": 386
+    },
+    {
+      "artist": "Robin Luke",
+      "title": "Susie Darlin'",
+      "weeks": 17,
+      "peak": 5,
+      "score": 335
+    },
+    {
+      "artist": "Roger Williams",
+      "title": "Near You",
+      "weeks": 17,
+      "peak": 10,
+      "score": 85
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Tommy Edwards",
+      "title": "It's All In The Game",
+      "weeks": 20,
+      "peak": 1,
+      "score": 512
+    },
+    {
+      "artist": "Conway Twitty",
+      "title": "It's Only Make Believe",
+      "weeks": 16,
+      "peak": 1,
+      "score": 433
+    },
+    {
+      "artist": "The Kingston Trio",
+      "title": "Tom Dooley",
+      "weeks": 14,
+      "peak": 1,
+      "score": 399
+    },
+    {
+      "artist": "Domenico Modugno",
+      "title": "Nel Blu Dipinto Di Blu (Volare)",
+      "weeks": 16,
+      "peak": 1,
+      "score": 392
+    },
+    {
+      "artist": "The Elegants",
+      "title": "Little Star",
+      "weeks": 17,
+      "peak": 1,
+      "score": 386
+    },
+    {
+      "artist": "The Teddy Bears",
+      "title": "To Know Him, Is To Love Him",
+      "weeks": 15,
+      "peak": 1,
+      "score": 287
+    },
+    {
+      "artist": "Ricky Nelson",
+      "title": "Poor Little Fool",
+      "weeks": 11,
+      "peak": 1,
+      "score": 242
+    },
+    {
+      "artist": "The Chipmunks",
+      "title": "The Chipmunk Song",
+      "weeks": 5,
+      "peak": 1,
+      "score": 94
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "story_id": "story_012",
+  "headline": "Sonic Fingerprint Card Set",
+  "writer": "A.J. Hunter",
+  "writer_role": "Music Features Editor",
+  "story_type": "data card set",
+  "primary_medium": "music",
+  "supporting_signals": [
+    "sonic_profile",
+    "sonic_extremes",
+    "context_sources"
+  ],
+  "sections": {
+    "lede": "A.J. Hunter (Music Features Editor) opens this data card set by framing Sonic Fingerprint Card Set through music evidence from the 1978 RetroVerse dataset.",
+    "analysis": "Primary lens: music-first and era-aware. Beat alignment: music. Data focus: chart_dynamics, artist_power_index, sonic_profile.",
+    "data_highlights": [
+      "sonic_profile: 5 fields (average_danceability, average_energy, average_valence)"
+    ],
+    "cultural_context": "Context anchor: 1978-01-01 — January 1 – Air India Flight 855 , a Boeing 747 passenger jet, crashes off the coast of Bombay , killing 213.",
+    "closing": "Editorial rule check: Articles must use real historical data.; Data should be pulled from existing RetroVerse datasets.. This draft remains a data-grounded planning draft for the full article stage."
+  },
+  "sources_used": [
+    "PROJECT_STATE.md",
+    "issues/plans/1978_narrative_plan.json",
+    "issues/context/1978_context.json",
+    "/Users/bobhopp/Sites/retroverse/data/raw/screen-culture/warehouse/movies_by_year.json",
+    "/Users/bobhopp/Sites/retroverse/data/raw/screen-culture/warehouse/television_by_year.json",
+    "/Users/bobhopp/Sites/retroverse/data/raw/screen-culture/warehouse/screen_culture_inventory.json",
+    "sonic_profile",
+    "sonic_extremes",
+    "context_sources"
+  ]
+}

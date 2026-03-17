@@ -1,0 +1,506 @@
+[
+  {
+    "artist": "Elton John",
+    "score": 391.4
+  },
+  {
+    "artist": "Diana Ross",
+    "score": 387.9
+  },
+  {
+    "artist": "Eagles",
+    "score": 386.4
+  },
+  {
+    "artist": "Bee Gees",
+    "score": 383.5
+  },
+  {
+    "artist": "Barry Manilow",
+    "score": 380.9
+  },
+  {
+    "artist": "Kc And The Sunshine Band",
+    "score": 378.2
+  },
+  {
+    "artist": "KISS",
+    "score": 372.8
+  },
+  {
+    "artist": "Chicago",
+    "score": 304.3
+  },
+  {
+    "artist": "Wings",
+    "score": 302.3
+  },
+  {
+    "artist": "Gary Wright",
+    "score": 298.8
+  },
+  {
+    "artist": "Captain",
+    "score": 293.9
+  },
+  {
+    "artist": "Peter Frampton",
+    "score": 291.1
+  },
+  {
+    "artist": "David Bowie",
+    "score": 284.8
+  },
+  {
+    "artist": "Ohio Players",
+    "score": 283.6
+  },
+  {
+    "artist": "Commodores",
+    "score": 282.2
+  },
+  {
+    "artist": "Electric Light Orchestra",
+    "score": 281.7
+  },
+  {
+    "artist": "Silver Convention",
+    "score": 280
+  },
+  {
+    "artist": "John Denver",
+    "score": 279.4
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "score": 203.1
+  },
+  {
+    "artist": "Paul Simon",
+    "score": 201.5
+  },
+  {
+    "artist": "Boz Scaggs",
+    "score": 201.3
+  },
+  {
+    "artist": "Rod Stewart",
+    "score": 200.7
+  },
+  {
+    "artist": "Led Zeppelin",
+    "score": 200.3
+  },
+  {
+    "artist": "Wild Cherry",
+    "score": 198.8
+  },
+  {
+    "artist": "Johnnie Taylor",
+    "score": 198.7
+  },
+  {
+    "artist": "Aerosmith",
+    "score": 196.1
+  },
+  {
+    "artist": "Lou Rawls",
+    "score": 196.1
+  },
+  {
+    "artist": "The Beatles",
+    "score": 195.3
+  },
+  {
+    "artist": "Boston",
+    "score": 194.9
+  },
+  {
+    "artist": "George Benson",
+    "score": 194.6
+  },
+  {
+    "artist": "Queen",
+    "score": 194
+  },
+  {
+    "artist": "Daryl Hall undefined John Oates",
+    "score": 193.8
+  },
+  {
+    "artist": "Stevie Wonder",
+    "score": 193.5
+  },
+  {
+    "artist": "The Brothers Johnson",
+    "score": 193.5
+  },
+  {
+    "artist": "America",
+    "score": 193.4
+  },
+  {
+    "artist": "Jefferson Starship",
+    "score": 192.7
+  },
+  {
+    "artist": "The Rolling Stones",
+    "score": 192.3
+  },
+  {
+    "artist": "Bay City Rollers",
+    "score": 192
+  },
+  {
+    "artist": "The O'Jays",
+    "score": 191.7
+  },
+  {
+    "artist": "England Dan",
+    "score": 191.6
+  },
+  {
+    "artist": "The Beach Boys",
+    "score": 191.1
+  },
+  {
+    "artist": "Donna Summer",
+    "score": 190.5
+  },
+  {
+    "artist": "Gordon Lightfoot",
+    "score": 190.5
+  },
+  {
+    "artist": "War",
+    "score": 190.3
+  },
+  {
+    "artist": "Heart",
+    "score": 190.1
+  },
+  {
+    "artist": "C.w. Mccall",
+    "score": 189.6
+  },
+  {
+    "artist": "The Doobie Brothers",
+    "score": 188.5
+  },
+  {
+    "artist": "Linda Ronstadt",
+    "score": 186
+  },
+  {
+    "artist": "Jethro Tull",
+    "score": 177.4
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "score": 104.2
+  },
+  {
+    "artist": "Bob Dylan",
+    "score": 102.5
+  },
+  {
+    "artist": "Walter Murphy",
+    "score": 101.8
+  },
+  {
+    "artist": "The 4 Seasons",
+    "score": 101.6
+  },
+  {
+    "artist": "The Manhattans",
+    "score": 101.6
+  },
+  {
+    "artist": "The Sylvers",
+    "score": 101.1
+  },
+  {
+    "artist": "Rick Dees",
+    "score": 101
+  },
+  {
+    "artist": "Starland Vocal Band",
+    "score": 101
+  },
+  {
+    "artist": "The Bellamy Brothers",
+    "score": 100.9
+  },
+  {
+    "artist": "Steve Miller",
+    "score": 100.8
+  },
+  {
+    "artist": "The Miracles",
+    "score": 100.8
+  },
+  {
+    "artist": "Rhythm Heritage",
+    "score": 100.7
+  },
+  {
+    "artist": "John Sebastian",
+    "score": 100.4
+  },
+  {
+    "artist": "The Steve Miller Band",
+    "score": 100.1
+  },
+  {
+    "artist": "Maxine Nightingale",
+    "score": 100
+  },
+  {
+    "artist": "Eric Carmen",
+    "score": 99.7
+  },
+  {
+    "artist": "Helen Reddy",
+    "score": 99.6
+  },
+  {
+    "artist": "Marilyn Mccoo",
+    "score": 99.6
+  },
+  {
+    "artist": "The Spinners",
+    "score": 99.6
+  },
+  {
+    "artist": "Dorothy Moore",
+    "score": 99.2
+  },
+  {
+    "artist": "Starbuck",
+    "score": 99.2
+  },
+  {
+    "artist": "Carole King",
+    "score": 99.1
+  },
+  {
+    "artist": "Elvin Bishop",
+    "score": 98.7
+  },
+  {
+    "artist": "Marvin Gaye",
+    "score": 98.6
+  },
+  {
+    "artist": "Neil Diamond",
+    "score": 98.6
+  },
+  {
+    "artist": "Andrea True Connection",
+    "score": 98.5
+  },
+  {
+    "artist": "Hot Chocolate",
+    "score": 98.2
+  },
+  {
+    "artist": "Bad Company",
+    "score": 97.8
+  },
+  {
+    "artist": "Joni Mitchell",
+    "score": 97.3
+  },
+  {
+    "artist": "Rufus",
+    "score": 97.1
+  },
+  {
+    "artist": "Leo Sayer",
+    "score": 97
+  },
+  {
+    "artist": "Orleans",
+    "score": 96.8
+  },
+  {
+    "artist": "Seals",
+    "score": 96.6
+  },
+  {
+    "artist": "Pratt",
+    "score": 96.4
+  },
+  {
+    "artist": "Cliff Richard",
+    "score": 96.2
+  },
+  {
+    "artist": "Dr. Hook",
+    "score": 96.2
+  },
+  {
+    "artist": "Earth, Wind",
+    "score": 96.1
+  },
+  {
+    "artist": "Henry Gross",
+    "score": 96
+  },
+  {
+    "artist": "Sweet",
+    "score": 95.9
+  },
+  {
+    "artist": "Rufus And Chaka Khan",
+    "score": 95.8
+  },
+  {
+    "artist": "Jackson Browne",
+    "score": 95.6
+  },
+  {
+    "artist": "The Staple Singers",
+    "score": 95.5
+  },
+  {
+    "artist": "Captain & Tennille",
+    "score": 95.1
+  },
+  {
+    "artist": "Paul Anka",
+    "score": 94.3
+  },
+  {
+    "artist": "Bob Marley And The Wailers",
+    "score": 94.2
+  },
+  {
+    "artist": "Barry Devorzon And Perry Botikin Jr",
+    "score": 93.8
+  },
+  {
+    "artist": "Waylon Jennings, Willie Nelson, Jessi Colter, Tompall Glaser",
+    "score": 93.8
+  },
+  {
+    "artist": "Nazareth",
+    "score": 93.7
+  },
+  {
+    "artist": "Seals & Crofts",
+    "score": 93.7
+  },
+  {
+    "artist": "The Isley Brothers",
+    "score": 93.6
+  },
+  {
+    "artist": "Brass Construction",
+    "score": 93.5
+  },
+  {
+    "artist": "Average White Band",
+    "score": 93.4
+  },
+  {
+    "artist": "Harold Melvin And The Blue Notes",
+    "score": 93.1
+  },
+  {
+    "artist": "Neil Sedaka",
+    "score": 93.1
+  },
+  {
+    "artist": "Paul McCartney And Wings",
+    "score": 93.1
+  },
+  {
+    "artist": "Brick",
+    "score": 93
+  },
+  {
+    "artist": "Firefall",
+    "score": 92.9
+  },
+  {
+    "artist": "Santana",
+    "score": 92.6
+  },
+  {
+    "artist": "Larry Groce",
+    "score": 92.5
+  },
+  {
+    "artist": "Vicki Sue Robinson",
+    "score": 92.5
+  },
+  {
+    "artist": "Lynyrd Skynyrd",
+    "score": 92.3
+  },
+  {
+    "artist": "John Travolta",
+    "score": 92
+  },
+  {
+    "artist": "Robin Trower",
+    "score": 92
+  },
+  {
+    "artist": "Rose Royce",
+    "score": 92
+  },
+  {
+    "artist": "Art Garfunkel",
+    "score": 91.8
+  },
+  {
+    "artist": "David Ruffin",
+    "score": 91.7
+  },
+  {
+    "artist": "Engelbert Humperdinck",
+    "score": 91
+  },
+  {
+    "artist": "Parliament",
+    "score": 90.7
+  },
+  {
+    "artist": "Burton Cummings",
+    "score": 90.2
+  },
+  {
+    "artist": "Natalie Cole",
+    "score": 90
+  },
+  {
+    "artist": "The Salsoul Orchestra",
+    "score": 90
+  },
+  {
+    "artist": "Janis Ian",
+    "score": 89.9
+  },
+  {
+    "artist": "Olivia Newton-John",
+    "score": 89.4
+  },
+  {
+    "artist": "Phoebe Snow",
+    "score": 89.2
+  },
+  {
+    "artist": "Daryl Hall John Oates",
+    "score": 88.8
+  },
+  {
+    "artist": "Cat Stevens",
+    "score": 88.6
+  },
+  {
+    "artist": "Eric Clapton",
+    "score": 86.1
+  }
+]

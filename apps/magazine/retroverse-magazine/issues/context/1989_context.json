@@ -1,0 +1,620 @@
+{
+  "year": "1989",
+  "top_songs": [
+    {
+      "artist": "Milli Vanilli",
+      "title": "Blame It On The Rain",
+      "weeks": 13,
+      "peak": 1,
+      "score": 318
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "Miss You Much",
+      "weeks": 18,
+      "peak": 1,
+      "score": 312
+    },
+    {
+      "artist": "Billy Joel",
+      "title": "We Didn't Start The Fire",
+      "weeks": 12,
+      "peak": 1,
+      "score": 311
+    },
+    {
+      "artist": "Bad English",
+      "title": "When I See You Smile",
+      "weeks": 16,
+      "peak": 1,
+      "score": 309
+    },
+    {
+      "artist": "Paula Abdul",
+      "title": "(It's Just) The Way That You Love Me",
+      "weeks": 15,
+      "peak": 3,
+      "score": 309
+    },
+    {
+      "artist": "Gloria Estefan",
+      "title": "Don't Wanna Lose You",
+      "weeks": 18,
+      "peak": 1,
+      "score": 282
+    },
+    {
+      "artist": "Young M.c",
+      "title": "Bust A Move",
+      "weeks": 23,
+      "peak": 7,
+      "score": 278
+    },
+    {
+      "artist": "Roxette",
+      "title": "Listen To Your Heart",
+      "weeks": 19,
+      "peak": 1,
+      "score": 276
+    },
+    {
+      "artist": "Soul Ii Soul",
+      "title": "Back To Life",
+      "weeks": 15,
+      "peak": 4,
+      "score": 274
+    },
+    {
+      "artist": "Paula Abdul",
+      "title": "Cold Hearted",
+      "weeks": 21,
+      "peak": 1,
+      "score": 272
+    },
+    {
+      "artist": "Richard Marx",
+      "title": "Angelia",
+      "weeks": 13,
+      "peak": 4,
+      "score": 271
+    },
+    {
+      "artist": "Richard Marx",
+      "title": "Satisfied",
+      "weeks": 15,
+      "peak": 1,
+      "score": 259
+    },
+    {
+      "artist": "The B-52s",
+      "title": "Love Shack",
+      "weeks": 18,
+      "peak": 3,
+      "score": 257
+    },
+    {
+      "artist": "Phil Collins",
+      "title": "Another Day In Paradise",
+      "weeks": 9,
+      "peak": 1,
+      "score": 249
+    },
+    {
+      "artist": "Fine Young Cannibals",
+      "title": "Good Thing",
+      "weeks": 17,
+      "peak": 1,
+      "score": 247
+    },
+    {
+      "artist": "Warrant",
+      "title": "Heaven",
+      "weeks": 19,
+      "peak": 2,
+      "score": 246
+    },
+    {
+      "artist": "Madonna",
+      "title": "Like A Prayer",
+      "weeks": 16,
+      "peak": 1,
+      "score": 242
+    },
+    {
+      "artist": "Roxette",
+      "title": "The Look",
+      "weeks": 19,
+      "peak": 1,
+      "score": 239
+    },
+    {
+      "artist": "Paula Abdul",
+      "title": "Straight Up",
+      "weeks": 20,
+      "peak": 1,
+      "score": 231
+    },
+    {
+      "artist": "Bobby Brown",
+      "title": "On Our Own (From \"Ghostbusters II\")",
+      "weeks": 20,
+      "peak": 2,
+      "score": 228
+    },
+    {
+      "artist": "Linda Ronstadt",
+      "title": "Don't Know Much",
+      "weeks": 14,
+      "peak": 2,
+      "score": 228
+    },
+    {
+      "artist": "New Kids On The Block",
+      "title": "I'll Be Loving You (Forever)",
+      "weeks": 21,
+      "peak": 1,
+      "score": 222
+    },
+    {
+      "artist": "Tears For Fears",
+      "title": "Sowing The Seeds Of Love",
+      "weeks": 15,
+      "peak": 2,
+      "score": 220
+    },
+    {
+      "artist": "Milli Vanilli",
+      "title": "Baby Don't Forget My Number",
+      "weeks": 21,
+      "peak": 1,
+      "score": 219
+    },
+    {
+      "artist": "Martika",
+      "title": "Toy Soldiers",
+      "weeks": 20,
+      "peak": 1,
+      "score": 215
+    },
+    {
+      "artist": "Taylor Dayne",
+      "title": "With Every Beat Of My Heart",
+      "weeks": 11,
+      "peak": 5,
+      "score": 213
+    },
+    {
+      "artist": "Debbie Gibson",
+      "title": "Lost In Your Eyes",
+      "weeks": 19,
+      "peak": 1,
+      "score": 211
+    },
+    {
+      "artist": "The Bangles",
+      "title": "Eternal Flame",
+      "weeks": 19,
+      "peak": 1,
+      "score": 209
+    },
+    {
+      "artist": "Paula Abdul",
+      "title": "Forever Your Girl",
+      "weeks": 22,
+      "peak": 1,
+      "score": 204
+    },
+    {
+      "artist": "Madonna",
+      "title": "Cherish",
+      "weeks": 15,
+      "peak": 2,
+      "score": 192
+    },
+    {
+      "artist": "Mike + The Mechanics",
+      "title": "The Living Years",
+      "weeks": 20,
+      "peak": 1,
+      "score": 188
+    },
+    {
+      "artist": "Edie Brickell",
+      "title": "What I Am",
+      "weeks": 13,
+      "peak": 7,
+      "score": 186
+    },
+    {
+      "artist": "Sheriff",
+      "title": "When I'm With You",
+      "weeks": 15,
+      "peak": 1,
+      "score": 182
+    },
+    {
+      "artist": "Bon Jovi",
+      "title": "Born To Be My Baby",
+      "weeks": 14,
+      "peak": 3,
+      "score": 182
+    },
+    {
+      "artist": "Simply Red",
+      "title": "If You Don't Know Me By Now",
+      "weeks": 22,
+      "peak": 1,
+      "score": 182
+    },
+    {
+      "artist": "New Kids On The Block",
+      "title": "You Got It (The Right Stuff)",
+      "weeks": 19,
+      "peak": 3,
+      "score": 181
+    },
+    {
+      "artist": "Sheena Easton",
+      "title": "The Lover In Me",
+      "weeks": 16,
+      "peak": 2,
+      "score": 179
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "Rhythm Nation",
+      "weeks": 8,
+      "peak": 4,
+      "score": 177
+    },
+    {
+      "artist": "The Cure",
+      "title": "Love Song",
+      "weeks": 17,
+      "peak": 2,
+      "score": 175
+    },
+    {
+      "artist": "Alice Cooper",
+      "title": "Poison",
+      "weeks": 15,
+      "peak": 7,
+      "score": 169
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Milli Vanilli",
+      "hits": 2
+    },
+    {
+      "artist": "Janet Jackson",
+      "hits": 2
+    },
+    {
+      "artist": "Paula Abdul",
+      "hits": 4
+    },
+    {
+      "artist": "Roxette",
+      "hits": 2
+    },
+    {
+      "artist": "Richard Marx",
+      "hits": 2
+    },
+    {
+      "artist": "Madonna",
+      "hits": 2
+    },
+    {
+      "artist": "New Kids On The Block",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Bette Midler",
+      "title": "Wind Beneath My Wings (From \"Beaches\")",
+      "weeks": 29,
+      "peak": 1,
+      "score": -2
+    },
+    {
+      "artist": "Milli Vanilli",
+      "title": "Girl You Know It's True",
+      "weeks": 26,
+      "peak": 2,
+      "score": 91
+    },
+    {
+      "artist": "Great White",
+      "title": "Once Bitten Twice Shy",
+      "weeks": 26,
+      "peak": 5,
+      "score": 22
+    },
+    {
+      "artist": "Dino",
+      "title": "I Like It",
+      "weeks": 25,
+      "peak": 7,
+      "score": 83
+    },
+    {
+      "artist": "Lita Ford",
+      "title": "Close My Eyes Forever",
+      "weeks": 25,
+      "peak": 8,
+      "score": -55
+    },
+    {
+      "artist": "Neneh Cherry",
+      "title": "Buffalo Stance",
+      "weeks": 24,
+      "peak": 3,
+      "score": 79
+    },
+    {
+      "artist": "Safire",
+      "title": "Thinking Of You",
+      "weeks": 24,
+      "peak": 12,
+      "score": -66
+    },
+    {
+      "artist": "Jimmy Harnen",
+      "title": "Where Are You Now?",
+      "weeks": 24,
+      "peak": 10,
+      "score": -160
+    },
+    {
+      "artist": "Young M.c",
+      "title": "Bust A Move",
+      "weeks": 23,
+      "peak": 7,
+      "score": 278
+    },
+    {
+      "artist": "Fine Young Cannibals",
+      "title": "She Drives Me Crazy",
+      "weeks": 23,
+      "peak": 1,
+      "score": 110
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Milli Vanilli",
+      "title": "Blame It On The Rain",
+      "weeks": 13,
+      "peak": 1,
+      "score": 318
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "Miss You Much",
+      "weeks": 18,
+      "peak": 1,
+      "score": 312
+    },
+    {
+      "artist": "Billy Joel",
+      "title": "We Didn't Start The Fire",
+      "weeks": 12,
+      "peak": 1,
+      "score": 311
+    },
+    {
+      "artist": "Bad English",
+      "title": "When I See You Smile",
+      "weeks": 16,
+      "peak": 1,
+      "score": 309
+    },
+    {
+      "artist": "Gloria Estefan",
+      "title": "Don't Wanna Lose You",
+      "weeks": 18,
+      "peak": 1,
+      "score": 282
+    },
+    {
+      "artist": "Roxette",
+      "title": "Listen To Your Heart",
+      "weeks": 19,
+      "peak": 1,
+      "score": 276
+    },
+    {
+      "artist": "Paula Abdul",
+      "title": "Cold Hearted",
+      "weeks": 21,
+      "peak": 1,
+      "score": 272
+    },
+    {
+      "artist": "Richard Marx",
+      "title": "Satisfied",
+      "weeks": 15,
+      "peak": 1,
+      "score": 259
+    },
+    {
+      "artist": "Phil Collins",
+      "title": "Another Day In Paradise",
+      "weeks": 9,
+      "peak": 1,
+      "score": 249
+    },
+    {
+      "artist": "Fine Young Cannibals",
+      "title": "Good Thing",
+      "weeks": 17,
+      "peak": 1,
+      "score": 247
+    },
+    {
+      "artist": "Madonna",
+      "title": "Like A Prayer",
+      "weeks": 16,
+      "peak": 1,
+      "score": 242
+    },
+    {
+      "artist": "Roxette",
+      "title": "The Look",
+      "weeks": 19,
+      "peak": 1,
+      "score": 239
+    },
+    {
+      "artist": "Paula Abdul",
+      "title": "Straight Up",
+      "weeks": 20,
+      "peak": 1,
+      "score": 231
+    },
+    {
+      "artist": "New Kids On The Block",
+      "title": "I'll Be Loving You (Forever)",
+      "weeks": 21,
+      "peak": 1,
+      "score": 222
+    },
+    {
+      "artist": "Milli Vanilli",
+      "title": "Baby Don't Forget My Number",
+      "weeks": 21,
+      "peak": 1,
+      "score": 219
+    },
+    {
+      "artist": "Martika",
+      "title": "Toy Soldiers",
+      "weeks": 20,
+      "peak": 1,
+      "score": 215
+    },
+    {
+      "artist": "Debbie Gibson",
+      "title": "Lost In Your Eyes",
+      "weeks": 19,
+      "peak": 1,
+      "score": 211
+    },
+    {
+      "artist": "The Bangles",
+      "title": "Eternal Flame",
+      "weeks": 19,
+      "peak": 1,
+      "score": 209
+    },
+    {
+      "artist": "Paula Abdul",
+      "title": "Forever Your Girl",
+      "weeks": 22,
+      "peak": 1,
+      "score": 204
+    },
+    {
+      "artist": "Mike + The Mechanics",
+      "title": "The Living Years",
+      "weeks": 20,
+      "peak": 1,
+      "score": 188
+    },
+    {
+      "artist": "Sheriff",
+      "title": "When I'm With You",
+      "weeks": 15,
+      "peak": 1,
+      "score": 182
+    },
+    {
+      "artist": "Simply Red",
+      "title": "If You Don't Know Me By Now",
+      "weeks": 22,
+      "peak": 1,
+      "score": 182
+    },
+    {
+      "artist": "Richard Marx",
+      "title": "Right Here Waiting",
+      "weeks": 21,
+      "peak": 1,
+      "score": 161
+    },
+    {
+      "artist": "New Kids On The Block",
+      "title": "Hangin' Tough",
+      "weeks": 17,
+      "peak": 1,
+      "score": 161
+    },
+    {
+      "artist": "Prince",
+      "title": "Batdance (From \"Batman\")",
+      "weeks": 18,
+      "peak": 1,
+      "score": 151
+    },
+    {
+      "artist": "Fine Young Cannibals",
+      "title": "She Drives Me Crazy",
+      "weeks": 23,
+      "peak": 1,
+      "score": 110
+    },
+    {
+      "artist": "Michael Damian",
+      "title": "Rock On (From \"Dream A Little Dream\")",
+      "weeks": 21,
+      "peak": 1,
+      "score": 97
+    },
+    {
+      "artist": "Milli Vanilli",
+      "title": "Girl I'm Gonna Miss You",
+      "weeks": 22,
+      "peak": 1,
+      "score": 81
+    },
+    {
+      "artist": "Phil Collins",
+      "title": "Two Hearts",
+      "weeks": 11,
+      "peak": 1,
+      "score": 76
+    },
+    {
+      "artist": "Bon Jovi",
+      "title": "I'll Be There For You",
+      "weeks": 22,
+      "peak": 1,
+      "score": 66
+    },
+    {
+      "artist": "Poison",
+      "title": "Every Rose Has Its Thorn",
+      "weeks": 11,
+      "peak": 1,
+      "score": 46
+    },
+    {
+      "artist": "Bette Midler",
+      "title": "Wind Beneath My Wings (From \"Beaches\")",
+      "weeks": 29,
+      "peak": 1,
+      "score": -2
+    },
+    {
+      "artist": "Bobby Brown",
+      "title": "My Prerogative",
+      "weeks": 13,
+      "peak": 1,
+      "score": -8
+    }
+  ]
+}

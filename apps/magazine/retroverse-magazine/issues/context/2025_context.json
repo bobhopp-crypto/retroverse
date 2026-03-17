@@ -1,0 +1,459 @@
+{
+  "year": "2025",
+  "top_songs": [
+    {
+      "artist": "Lady Gaga",
+      "title": "Die With A Smile",
+      "weeks": 42,
+      "peak": 1,
+      "score": 1442
+    },
+    {
+      "artist": "Shaboozey",
+      "title": "A Bar Song (Tipsy)",
+      "weeks": 41,
+      "peak": 2,
+      "score": 1365
+    },
+    {
+      "artist": "Teddy Swims",
+      "title": "Lose Control",
+      "weeks": 41,
+      "peak": 4,
+      "score": 1335
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "title": "Luther",
+      "weeks": 42,
+      "peak": 1,
+      "score": 1314
+    },
+    {
+      "artist": "Alex Warren",
+      "title": "Ordinary",
+      "weeks": 44,
+      "peak": 1,
+      "score": 1308
+    },
+    {
+      "artist": "Benson Boone",
+      "title": "Beautiful Things",
+      "weeks": 41,
+      "peak": 8,
+      "score": 1131
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "I'm The Problem",
+      "weeks": 36,
+      "peak": 2,
+      "score": 1009
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Birds Of A Feather",
+      "weeks": 36,
+      "peak": 3,
+      "score": 1003
+    },
+    {
+      "artist": "Chappell Roan",
+      "title": "Pink Pony Club",
+      "weeks": 41,
+      "peak": 4,
+      "score": 947
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "Just In Case",
+      "weeks": 29,
+      "peak": 2,
+      "score": 897
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "What I Want",
+      "weeks": 25,
+      "peak": 1,
+      "score": 861
+    },
+    {
+      "artist": "Post Malone",
+      "title": "I Had Some Help",
+      "weeks": 35,
+      "peak": 8,
+      "score": 844
+    },
+    {
+      "artist": "Rose",
+      "title": "APT.",
+      "weeks": 36,
+      "peak": 3,
+      "score": 751
+    },
+    {
+      "artist": "Leon Thomas",
+      "title": "Mutt",
+      "weeks": 45,
+      "peak": 6,
+      "score": 697
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "title": "Manchild",
+      "weeks": 25,
+      "peak": 1,
+      "score": 693
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "I Got Better",
+      "weeks": 28,
+      "peak": 7,
+      "score": 688
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "Daisies",
+      "weeks": 22,
+      "peak": 2,
+      "score": 681
+    },
+    {
+      "artist": "Drake",
+      "title": "Nokia",
+      "weeks": 27,
+      "peak": 2,
+      "score": 677
+    },
+    {
+      "artist": "Huntr/x: Ejae, Audrey Nuna",
+      "title": "Golden",
+      "weeks": 20,
+      "peak": 1,
+      "score": 670
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "title": "Espresso",
+      "weeks": 29,
+      "peak": 9,
+      "score": 663
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "Love Somebody",
+      "weeks": 36,
+      "peak": 10,
+      "score": 620
+    },
+    {
+      "artist": "Gracie Abrams",
+      "title": "That's So True",
+      "weeks": 29,
+      "peak": 6,
+      "score": 589
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "title": "TV Off",
+      "weeks": 27,
+      "peak": 3,
+      "score": 536
+    },
+    {
+      "artist": "Ravyn Lenae",
+      "title": "Love Me Not",
+      "weeks": 34,
+      "peak": 5,
+      "score": 526
+    },
+    {
+      "artist": "Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo",
+      "title": "Your Idol",
+      "weeks": 20,
+      "peak": 4,
+      "score": 526
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "title": "Not Like Us",
+      "weeks": 20,
+      "peak": 1,
+      "score": 504
+    },
+    {
+      "artist": "Sza",
+      "title": "30 For 30",
+      "weeks": 36,
+      "peak": 10,
+      "score": 490
+    },
+    {
+      "artist": "Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo",
+      "title": "Soda Pop",
+      "weeks": 19,
+      "peak": 3,
+      "score": 482
+    },
+    {
+      "artist": "Doechii",
+      "title": "Anxiety",
+      "weeks": 20,
+      "peak": 9,
+      "score": 473
+    },
+    {
+      "artist": "Bigxthaplug",
+      "title": "All The Way",
+      "weeks": 27,
+      "peak": 4,
+      "score": 453
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Timeless",
+      "weeks": 29,
+      "peak": 7,
+      "score": 428
+    },
+    {
+      "artist": "Huntr/x: Ejae, Audrey Nuna",
+      "title": "How It's Done",
+      "weeks": 19,
+      "peak": 8,
+      "score": 411
+    },
+    {
+      "artist": "Lola Young",
+      "title": "Messy",
+      "weeks": 29,
+      "peak": 14,
+      "score": 393
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "The Fate Of Ophelia",
+      "weeks": 10,
+      "peak": 1,
+      "score": 389
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "title": "Squabble Up",
+      "weeks": 26,
+      "peak": 5,
+      "score": 365
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "title": "Taste",
+      "weeks": 21,
+      "peak": 10,
+      "score": 324
+    },
+    {
+      "artist": "Olivia Dean",
+      "title": "Man I Need",
+      "weeks": 16,
+      "peak": 4,
+      "score": 319
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Opalite",
+      "weeks": 10,
+      "peak": 2,
+      "score": 318
+    },
+    {
+      "artist": "Benson Boone",
+      "title": "Mystical Magical",
+      "weeks": 27,
+      "peak": 17,
+      "score": 284
+    },
+    {
+      "artist": "Tate Mcrae",
+      "title": "Sports Car",
+      "weeks": 23,
+      "peak": 16,
+      "score": 246
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Kendrick Lamar",
+      "hits": 4
+    },
+    {
+      "artist": "Benson Boone",
+      "hits": 2
+    },
+    {
+      "artist": "Morgan Wallen",
+      "hits": 5
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "hits": 3
+    },
+    {
+      "artist": "Huntr/x: Ejae, Audrey Nuna",
+      "hits": 2
+    },
+    {
+      "artist": "Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo",
+      "hits": 2
+    },
+    {
+      "artist": "Taylor Swift",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Leon Thomas",
+      "title": "Mutt",
+      "weeks": 45,
+      "peak": 6,
+      "score": 697
+    },
+    {
+      "artist": "Alex Warren",
+      "title": "Ordinary",
+      "weeks": 44,
+      "peak": 1,
+      "score": 1308
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Wildflower",
+      "weeks": 44,
+      "peak": 29,
+      "score": -410
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Die With A Smile",
+      "weeks": 42,
+      "peak": 1,
+      "score": 1442
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "title": "Luther",
+      "weeks": 42,
+      "peak": 1,
+      "score": 1314
+    },
+    {
+      "artist": "Shaboozey",
+      "title": "Good News",
+      "weeks": 42,
+      "peak": 12,
+      "score": -6
+    },
+    {
+      "artist": "Shaboozey",
+      "title": "A Bar Song (Tipsy)",
+      "weeks": 41,
+      "peak": 2,
+      "score": 1365
+    },
+    {
+      "artist": "Teddy Swims",
+      "title": "Lose Control",
+      "weeks": 41,
+      "peak": 4,
+      "score": 1335
+    },
+    {
+      "artist": "Benson Boone",
+      "title": "Beautiful Things",
+      "weeks": 41,
+      "peak": 8,
+      "score": 1131
+    },
+    {
+      "artist": "Chappell Roan",
+      "title": "Pink Pony Club",
+      "weeks": 41,
+      "peak": 4,
+      "score": 947
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Lady Gaga",
+      "title": "Die With A Smile",
+      "weeks": 42,
+      "peak": 1,
+      "score": 1442
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "title": "Luther",
+      "weeks": 42,
+      "peak": 1,
+      "score": 1314
+    },
+    {
+      "artist": "Alex Warren",
+      "title": "Ordinary",
+      "weeks": 44,
+      "peak": 1,
+      "score": 1308
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "What I Want",
+      "weeks": 25,
+      "peak": 1,
+      "score": 861
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "title": "Manchild",
+      "weeks": 25,
+      "peak": 1,
+      "score": 693
+    },
+    {
+      "artist": "Huntr/x: Ejae, Audrey Nuna",
+      "title": "Golden",
+      "weeks": 20,
+      "peak": 1,
+      "score": 670
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "title": "Not Like Us",
+      "weeks": 20,
+      "peak": 1,
+      "score": 504
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "The Fate Of Ophelia",
+      "weeks": 10,
+      "peak": 1,
+      "score": 389
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "All I Want For Christmas Is You",
+      "weeks": 7,
+      "peak": 1,
+      "score": 229
+    },
+    {
+      "artist": "Travis Scott",
+      "title": "4X4",
+      "weeks": 4,
+      "peak": 1,
+      "score": -54
+    }
+  ]
+}

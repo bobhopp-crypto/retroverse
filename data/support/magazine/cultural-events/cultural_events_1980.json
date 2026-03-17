@@ -1,0 +1,69 @@
+{
+  "year": 1980,
+  "films": [
+    "Star Wars: Episode V - The Empire Strikes Back",
+    "9 to 5",
+    "Stir Crazy",
+    "Airplane!",
+    "Any Which Way You Can",
+    "Private Benjamin",
+    "Coal Miner's Daughter",
+    "Smokey and the Bandit II",
+    "The Blue Lagoon",
+    "The Blues Brothers"
+  ],
+  "tv": [
+    "Dallas",
+    "The Dukes of Hazzard",
+    "60 Minutes",
+    "M*A*S*H",
+    "The Love Boat",
+    "The Jeffersons",
+    "Alice",
+    "House Calls",
+    "ABC",
+    "Little House on the Prairie"
+  ],
+  "headlines": [
+    {
+      "event": "January 1 – Changes to the succession to the Swedish throne come into effect, introducing absolute primogeniture , thus placing Crown Princess Victoria first in line to the throne ( heir apparent ), ahead of her baby brother. Sweden is the first monarchy to adopt this rule of succession. Members of the royal family may also now marry commoners without losing their place in the succession.",
+      "date": "1980-01-01"
+    },
+    {
+      "event": "January 4 – U.S. President Jimmy Carter proclaims a grain embargo against the USSR with the support of the European Commission .",
+      "date": "1980-01-04"
+    },
+    {
+      "event": "January 6 – Global Positioning System time epoch begins at 00:00 UTC.",
+      "date": "1980-01-06"
+    },
+    {
+      "event": "January 9 – In Saudi Arabia , 63 Islamist insurgents are beheaded for their part in the siege of the Great Mosque in Mecca in November 1979 .",
+      "date": "1980-01-09"
+    },
+    {
+      "event": "January 14 – Indian National Congress party leader Indira Gandhi returns to power as the Prime Minister of India .",
+      "date": "1980-01-14"
+    },
+    {
+      "event": "January 20 – At least 200 people are killed when the Corralejas Bullring collapses at Sincelejo , Colombia.",
+      "date": "1980-01-20"
+    },
+    {
+      "event": "January 21 – The London Gold Fixing hits its highest price ever of $843 per troy ounce ($2,249.50 in 2020 when adjusted for inflation).",
+      "date": "1980-01-21"
+    },
+    {
+      "event": "January 22 – Andrei Sakharov , Soviet scientist and human rights activist, is arrested in Moscow.",
+      "date": "1980-01-22"
+    },
+    {
+      "event": "January 26 – Israel and Egypt establish diplomatic relations.",
+      "date": "1980-01-26"
+    },
+    {
+      "event": "January 27 – Canadian Caper : Six United States diplomats , posing as Canadians, manage to escape from Tehran , Iran , as they board a flight to Zürich , Switzerland, on Swissair .",
+      "date": "1980-01-27"
+    }
+  ]
+}

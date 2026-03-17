@@ -1,0 +1,458 @@
+[
+  {
+    "artist": "Creedence Clearwater Revival",
+    "score": 772.7
+  },
+  {
+    "artist": "The Beatles",
+    "score": 508
+  },
+  {
+    "artist": "The Temptations",
+    "score": 466.9
+  },
+  {
+    "artist": "Bobby Sherman",
+    "score": 465.9
+  },
+  {
+    "artist": "Jackson 5",
+    "score": 401.3
+  },
+  {
+    "artist": "Santana",
+    "score": 389.4
+  },
+  {
+    "artist": "Chicago",
+    "score": 383
+  },
+  {
+    "artist": "The Guess Who",
+    "score": 379.4
+  },
+  {
+    "artist": "Rare Earth",
+    "score": 373
+  },
+  {
+    "artist": "Neil Diamond",
+    "score": 371.5
+  },
+  {
+    "artist": "Elvis Presley",
+    "score": 365.9
+  },
+  {
+    "artist": "Led Zeppelin",
+    "score": 301.1
+  },
+  {
+    "artist": "Carpenters",
+    "score": 299.8
+  },
+  {
+    "artist": "Three Dog Night",
+    "score": 295.2
+  },
+  {
+    "artist": "The Jackson 5",
+    "score": 294.6
+  },
+  {
+    "artist": "Tom Jones",
+    "score": 294
+  },
+  {
+    "artist": "Soundtrack",
+    "score": 290.4
+  },
+  {
+    "artist": "Joe Cocker",
+    "score": 287.6
+  },
+  {
+    "artist": "Grand Funk Railroad",
+    "score": 285.7
+  },
+  {
+    "artist": "B.j. Thomas",
+    "score": 284.7
+  },
+  {
+    "artist": "Bread",
+    "score": 281.9
+  },
+  {
+    "artist": "James Taylor",
+    "score": 199.8
+  },
+  {
+    "artist": "Blood, Sweat & Tears",
+    "score": 199.6
+  },
+  {
+    "artist": "Diana Ross",
+    "score": 199.2
+  },
+  {
+    "artist": "The Who",
+    "score": 198.8
+  },
+  {
+    "artist": "George Harrison",
+    "score": 197.7
+  },
+  {
+    "artist": "Simon",
+    "score": 197.7
+  },
+  {
+    "artist": "The 5th Dimension",
+    "score": 197.3
+  },
+  {
+    "artist": "The Rolling Stones",
+    "score": 195.6
+  },
+  {
+    "artist": "Dawn",
+    "score": 195.4
+  },
+  {
+    "artist": "The Doors",
+    "score": 192.7
+  },
+  {
+    "artist": "Bob Dylan",
+    "score": 191.9
+  },
+  {
+    "artist": "The Band",
+    "score": 191.5
+  },
+  {
+    "artist": "Stevie Wonder",
+    "score": 190.5
+  },
+  {
+    "artist": "The Moody Blues",
+    "score": 189
+  },
+  {
+    "artist": "Badfinger",
+    "score": 187.4
+  },
+  {
+    "artist": "Johnny Cash",
+    "score": 187.4
+  },
+  {
+    "artist": "Frijid Pink",
+    "score": 186.3
+  },
+  {
+    "artist": "Isaac Hayes",
+    "score": 185.1
+  },
+  {
+    "artist": "Eric Burdon And War",
+    "score": 183.8
+  },
+  {
+    "artist": "Steppenwolf",
+    "score": 183.6
+  },
+  {
+    "artist": "Free",
+    "score": 182.3
+  },
+  {
+    "artist": "Melanie",
+    "score": 182.1
+  },
+  {
+    "artist": "Glen Campbell",
+    "score": 182
+  },
+  {
+    "artist": "Iron Butterfly",
+    "score": 180
+  },
+  {
+    "artist": "John Lennon",
+    "score": 179.3
+  },
+  {
+    "artist": "Peter, Paul & Mary",
+    "score": 173.2
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "score": 103.6
+  },
+  {
+    "artist": "Crosby, Stills, Nash & Young",
+    "score": 102.9
+  },
+  {
+    "artist": "Paul McCartney",
+    "score": 102.4
+  },
+  {
+    "artist": "Edwin Starr",
+    "score": 100.5
+  },
+  {
+    "artist": "Ray Stevens",
+    "score": 100.5
+  },
+  {
+    "artist": "Sly",
+    "score": 100.3
+  },
+  {
+    "artist": "The Partridge Family Starring Shirley Jones",
+    "score": 100.2
+  },
+  {
+    "artist": "Smokey Robinson",
+    "score": 100.1
+  },
+  {
+    "artist": "The Shocking Blue",
+    "score": 100.1
+  },
+  {
+    "artist": "The Poppy Family",
+    "score": 99.7
+  },
+  {
+    "artist": "Eddie Holman",
+    "score": 99.3
+  },
+  {
+    "artist": "The Jaggerz",
+    "score": 99.3
+  },
+  {
+    "artist": "The Ides Of March",
+    "score": 99.2
+  },
+  {
+    "artist": "Engelbert Humperdinck",
+    "score": 99.1
+  },
+  {
+    "artist": "Freda Payne",
+    "score": 99
+  },
+  {
+    "artist": "Sly & The Family Stone",
+    "score": 98.8
+  },
+  {
+    "artist": "Brian Hyland",
+    "score": 98.7
+  },
+  {
+    "artist": "Peter, Paul",
+    "score": 98.7
+  },
+  {
+    "artist": "Sugarloaf",
+    "score": 98.7
+  },
+  {
+    "artist": "Chairman Of The Board",
+    "score": 98.5
+  },
+  {
+    "artist": "Jimi Hendrix",
+    "score": 98.5
+  },
+  {
+    "artist": "Norman Greenbaum",
+    "score": 98.5
+  },
+  {
+    "artist": "The Moments",
+    "score": 98.5
+  },
+  {
+    "artist": "John Ono Lennon",
+    "score": 98.3
+  },
+  {
+    "artist": "Mungo Jerry",
+    "score": 98.3
+  },
+  {
+    "artist": "Tyrone Davis",
+    "score": 98.3
+  },
+  {
+    "artist": "Blues Image",
+    "score": 97.5
+  },
+  {
+    "artist": "Brook Benton",
+    "score": 97.5
+  },
+  {
+    "artist": "Traffic",
+    "score": 97.5
+  },
+  {
+    "artist": "Clarence Carter",
+    "score": 97.4
+  },
+  {
+    "artist": "Crosby, Stills & Nash",
+    "score": 97.2
+  },
+  {
+    "artist": "Vanity Fare",
+    "score": 97.2
+  },
+  {
+    "artist": "R. Dean Taylor",
+    "score": 96.5
+  },
+  {
+    "artist": "Stephen Stills",
+    "score": 96.5
+  },
+  {
+    "artist": "Edison Lighthouse",
+    "score": 96.3
+  },
+  {
+    "artist": "The Tee Set",
+    "score": 96.2
+  },
+  {
+    "artist": "Steam",
+    "score": 95.5
+  },
+  {
+    "artist": "The Friends Of Distinction",
+    "score": 95.3
+  },
+  {
+    "artist": "Dionne Warwick",
+    "score": 95
+  },
+  {
+    "artist": "The Hollies",
+    "score": 94.6
+  },
+  {
+    "artist": "Alive",
+    "score": 94.4
+  },
+  {
+    "artist": "The Supremes",
+    "score": 93.8
+  },
+  {
+    "artist": "Anne Murray",
+    "score": 93.6
+  },
+  {
+    "artist": "Bobby Bloom",
+    "score": 93.6
+  },
+  {
+    "artist": "The 5 Stairsteps",
+    "score": 93.6
+  },
+  {
+    "artist": "Various Artists",
+    "score": 93.6
+  },
+  {
+    "artist": "Neil Young",
+    "score": 93.5
+  },
+  {
+    "artist": "100 Proof Aged In Soul",
+    "score": 93.4
+  },
+  {
+    "artist": "Ronnie Dyson",
+    "score": 93.4
+  },
+  {
+    "artist": "Tommy Roe",
+    "score": 92.7
+  },
+  {
+    "artist": "Jethro Tull",
+    "score": 92.4
+  },
+  {
+    "artist": "The Kinks",
+    "score": 92.4
+  },
+  {
+    "artist": "The Pipkins",
+    "score": 92.2
+  },
+  {
+    "artist": "The Partridge Family",
+    "score": 91.9
+  },
+  {
+    "artist": "Mark Lindsay",
+    "score": 91.2
+  },
+  {
+    "artist": "The Archies",
+    "score": 90.8
+  },
+  {
+    "artist": "Ferrante",
+    "score": 90.6
+  },
+  {
+    "artist": "Eric Clapton",
+    "score": 89.3
+  },
+  {
+    "artist": "Ten Years After",
+    "score": 89
+  },
+  {
+    "artist": "FLiP",
+    "score": 87.4
+  },
+  {
+    "artist": "Cream",
+    "score": 87.1
+  },
+  {
+    "artist": "Mountain",
+    "score": 86.9
+  },
+  {
+    "artist": "Aretha Franklin",
+    "score": 86
+  },
+  {
+    "artist": "Donovan",
+    "score": 85.9
+  },
+  {
+    "artist": "Otis Redding/The Jimi Hendrix Experience",
+    "score": 85.5
+  },
+  {
+    "artist": "Derek & The Dominos",
+    "score": 84.6
+  },
+  {
+    "artist": "Elton John",
+    "score": 84.3
+  }
+]

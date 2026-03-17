@@ -1,0 +1,470 @@
+{
+  "year": "2016",
+  "top_songs": [
+    {
+      "artist": "Drake",
+      "title": "One Dance",
+      "weeks": 36,
+      "peak": 1,
+      "score": 1033
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "Love Yourself",
+      "weeks": 37,
+      "peak": 1,
+      "score": 978
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "title": "Stressed Out",
+      "weeks": 40,
+      "peak": 2,
+      "score": 976
+    },
+    {
+      "artist": "The Chainsmokers",
+      "title": "Don't Let Me Down",
+      "weeks": 44,
+      "peak": 3,
+      "score": 955
+    },
+    {
+      "artist": "Calvin Harris",
+      "title": "This Is What You Came For",
+      "weeks": 32,
+      "peak": 3,
+      "score": 931
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "Can't Stop The Feeling!",
+      "weeks": 32,
+      "peak": 1,
+      "score": 905
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Work",
+      "weeks": 36,
+      "peak": 1,
+      "score": 898
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "title": "Heathens",
+      "weeks": 26,
+      "peak": 2,
+      "score": 850
+    },
+    {
+      "artist": "Fifth Harmony",
+      "title": "Work From Home",
+      "weeks": 34,
+      "peak": 4,
+      "score": 798
+    },
+    {
+      "artist": "The Chainsmokers",
+      "title": "Closer",
+      "weeks": 20,
+      "peak": 1,
+      "score": 778
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "Sorry",
+      "weeks": 35,
+      "peak": 1,
+      "score": 734
+    },
+    {
+      "artist": "Desiigner",
+      "title": "Panda",
+      "weeks": 40,
+      "peak": 1,
+      "score": 732
+    },
+    {
+      "artist": "Flo Rida",
+      "title": "My House",
+      "weeks": 34,
+      "peak": 4,
+      "score": 730
+    },
+    {
+      "artist": "Mike Posner",
+      "title": "I Took A Pill In Ibiza",
+      "weeks": 37,
+      "peak": 4,
+      "score": 715
+    },
+    {
+      "artist": "Lukas Graham",
+      "title": "7 Years",
+      "weeks": 36,
+      "peak": 2,
+      "score": 675
+    },
+    {
+      "artist": "Major Lazer",
+      "title": "Cold Water",
+      "weeks": 21,
+      "peak": 2,
+      "score": 673
+    },
+    {
+      "artist": "Zayn",
+      "title": "Pillowtalk",
+      "weeks": 24,
+      "peak": 1,
+      "score": 657
+    },
+    {
+      "artist": "G-eazy X Bebe Rexha",
+      "title": "Me, Myself & I",
+      "weeks": 31,
+      "peak": 7,
+      "score": 641
+    },
+    {
+      "artist": "Dj Snake",
+      "title": "Let Me Love You",
+      "weeks": 19,
+      "peak": 4,
+      "score": 627
+    },
+    {
+      "artist": "Dnce",
+      "title": "Cake By The Ocean",
+      "weeks": 38,
+      "peak": 9,
+      "score": 621
+    },
+    {
+      "artist": "Shawn Mendes",
+      "title": "Treat You Better",
+      "weeks": 28,
+      "peak": 6,
+      "score": 609
+    },
+    {
+      "artist": "Sia",
+      "title": "Cheap Thrills",
+      "weeks": 44,
+      "peak": 1,
+      "score": 604
+    },
+    {
+      "artist": "Adele",
+      "title": "Send My Love (To Your New Lover)",
+      "weeks": 26,
+      "peak": 8,
+      "score": 600
+    },
+    {
+      "artist": "Adele",
+      "title": "Hello",
+      "weeks": 19,
+      "peak": 1,
+      "score": 574
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Needed Me",
+      "weeks": 45,
+      "peak": 7,
+      "score": 559
+    },
+    {
+      "artist": "D.r.a.m",
+      "title": "Broccoli",
+      "weeks": 27,
+      "peak": 5,
+      "score": 515
+    },
+    {
+      "artist": "Shawn Mendes",
+      "title": "Stitches",
+      "weeks": 23,
+      "peak": 6,
+      "score": 500
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "Side To Side",
+      "weeks": 16,
+      "peak": 4,
+      "score": 477
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "Dangerous Woman",
+      "weeks": 21,
+      "peak": 8,
+      "score": 470
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Starboy",
+      "weeks": 13,
+      "peak": 2,
+      "score": 465
+    },
+    {
+      "artist": "The Chainsmokers",
+      "title": "Roses",
+      "weeks": 23,
+      "peak": 6,
+      "score": 452
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "title": "Ride",
+      "weeks": 39,
+      "peak": 5,
+      "score": 422
+    },
+    {
+      "artist": "Drake",
+      "title": "Too Good",
+      "weeks": 29,
+      "peak": 14,
+      "score": 421
+    },
+    {
+      "artist": "Drake",
+      "title": "Hotline Bling",
+      "weeks": 17,
+      "peak": 3,
+      "score": 377
+    },
+    {
+      "artist": "Drake",
+      "title": "Jumpman",
+      "weeks": 20,
+      "peak": 12,
+      "score": 374
+    },
+    {
+      "artist": "P!nk",
+      "title": "Just Like Fire",
+      "weeks": 26,
+      "peak": 10,
+      "score": 364
+    },
+    {
+      "artist": "Drake",
+      "title": "Controlla",
+      "weeks": 26,
+      "peak": 16,
+      "score": 363
+    },
+    {
+      "artist": "Bryson Tiller",
+      "title": "Don't",
+      "weeks": 23,
+      "peak": 13,
+      "score": 362
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "24K Magic",
+      "weeks": 10,
+      "peak": 4,
+      "score": 357
+    },
+    {
+      "artist": "Selena Gomez",
+      "title": "Same Old Love",
+      "weeks": 15,
+      "peak": 5,
+      "score": 346
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Drake",
+      "hits": 5
+    },
+    {
+      "artist": "Justin Bieber",
+      "hits": 2
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "hits": 3
+    },
+    {
+      "artist": "The Chainsmokers",
+      "hits": 3
+    },
+    {
+      "artist": "Rihanna",
+      "hits": 2
+    },
+    {
+      "artist": "Shawn Mendes",
+      "hits": 2
+    },
+    {
+      "artist": "Adele",
+      "hits": 2
+    },
+    {
+      "artist": "Ariana Grande",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Rihanna",
+      "title": "Needed Me",
+      "weeks": 45,
+      "peak": 7,
+      "score": 559
+    },
+    {
+      "artist": "The Chainsmokers",
+      "title": "Don't Let Me Down",
+      "weeks": 44,
+      "peak": 3,
+      "score": 955
+    },
+    {
+      "artist": "Sia",
+      "title": "Cheap Thrills",
+      "weeks": 44,
+      "peak": 1,
+      "score": 604
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "title": "Stressed Out",
+      "weeks": 40,
+      "peak": 2,
+      "score": 976
+    },
+    {
+      "artist": "Desiigner",
+      "title": "Panda",
+      "weeks": 40,
+      "peak": 1,
+      "score": 732
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "title": "Ride",
+      "weeks": 39,
+      "peak": 5,
+      "score": 422
+    },
+    {
+      "artist": "Dnce",
+      "title": "Cake By The Ocean",
+      "weeks": 38,
+      "peak": 9,
+      "score": 621
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "Love Yourself",
+      "weeks": 37,
+      "peak": 1,
+      "score": 978
+    },
+    {
+      "artist": "Mike Posner",
+      "title": "I Took A Pill In Ibiza",
+      "weeks": 37,
+      "peak": 4,
+      "score": 715
+    },
+    {
+      "artist": "Drake",
+      "title": "One Dance",
+      "weeks": 36,
+      "peak": 1,
+      "score": 1033
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Drake",
+      "title": "One Dance",
+      "weeks": 36,
+      "peak": 1,
+      "score": 1033
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "Love Yourself",
+      "weeks": 37,
+      "peak": 1,
+      "score": 978
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "Can't Stop The Feeling!",
+      "weeks": 32,
+      "peak": 1,
+      "score": 905
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Work",
+      "weeks": 36,
+      "peak": 1,
+      "score": 898
+    },
+    {
+      "artist": "The Chainsmokers",
+      "title": "Closer",
+      "weeks": 20,
+      "peak": 1,
+      "score": 778
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "Sorry",
+      "weeks": 35,
+      "peak": 1,
+      "score": 734
+    },
+    {
+      "artist": "Desiigner",
+      "title": "Panda",
+      "weeks": 40,
+      "peak": 1,
+      "score": 732
+    },
+    {
+      "artist": "Zayn",
+      "title": "Pillowtalk",
+      "weeks": 24,
+      "peak": 1,
+      "score": 657
+    },
+    {
+      "artist": "Sia",
+      "title": "Cheap Thrills",
+      "weeks": 44,
+      "peak": 1,
+      "score": 604
+    },
+    {
+      "artist": "Adele",
+      "title": "Hello",
+      "weeks": 19,
+      "peak": 1,
+      "score": 574
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "title": "Black Beatles",
+      "weeks": 14,
+      "peak": 1,
+      "score": 236
+    }
+  ]
+}

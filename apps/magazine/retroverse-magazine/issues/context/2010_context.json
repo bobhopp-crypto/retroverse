@@ -1,0 +1,520 @@
+{
+  "year": "2010",
+  "top_songs": [
+    {
+      "artist": "Train",
+      "title": "Hey, Soul Sister",
+      "weeks": 43,
+      "peak": 3,
+      "score": 1043
+    },
+    {
+      "artist": "Lady Antebellum",
+      "title": "Need You Now",
+      "weeks": 42,
+      "peak": 2,
+      "score": 965
+    },
+    {
+      "artist": "Taio Cruz",
+      "title": "Dynamite",
+      "weeks": 28,
+      "peak": 2,
+      "score": 865
+    },
+    {
+      "artist": "B.o.b",
+      "title": "Airplanes",
+      "weeks": 30,
+      "peak": 2,
+      "score": 862
+    },
+    {
+      "artist": "Usher",
+      "title": "OMG",
+      "weeks": 30,
+      "peak": 1,
+      "score": 820
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "California Gurls",
+      "weeks": 27,
+      "peak": 1,
+      "score": 783
+    },
+    {
+      "artist": "Taio Cruz",
+      "title": "Break Your Heart",
+      "weeks": 29,
+      "peak": 1,
+      "score": 767
+    },
+    {
+      "artist": "Ke$ha",
+      "title": "TiK ToK",
+      "weeks": 28,
+      "peak": 1,
+      "score": 761
+    },
+    {
+      "artist": "Eminem",
+      "title": "Love The Way You Lie",
+      "weeks": 25,
+      "peak": 1,
+      "score": 759
+    },
+    {
+      "artist": "Usher",
+      "title": "DJ Got Us Fallin' In Love",
+      "weeks": 22,
+      "peak": 4,
+      "score": 721
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Teenage Dream",
+      "weeks": 21,
+      "peak": 1,
+      "score": 689
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "Just The Way You Are",
+      "weeks": 21,
+      "peak": 1,
+      "score": 682
+    },
+    {
+      "artist": "Eminem",
+      "title": "Not Afraid",
+      "weeks": 25,
+      "peak": 1,
+      "score": 660
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Bad Romance",
+      "weeks": 27,
+      "peak": 2,
+      "score": 641
+    },
+    {
+      "artist": "B.o.b",
+      "title": "Nothin' On You",
+      "weeks": 28,
+      "peak": 1,
+      "score": 639
+    },
+    {
+      "artist": "Young Money",
+      "title": "BedRock",
+      "weeks": 22,
+      "peak": 2,
+      "score": 618
+    },
+    {
+      "artist": "Jason Derulo",
+      "title": "In My Head",
+      "weeks": 33,
+      "peak": 5,
+      "score": 612
+    },
+    {
+      "artist": "Enrique Iglesias",
+      "title": "I Like It",
+      "weeks": 31,
+      "peak": 4,
+      "score": 609
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Telephone",
+      "weeks": 30,
+      "peak": 3,
+      "score": 605
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Rude Boy",
+      "weeks": 22,
+      "peak": 1,
+      "score": 593
+    },
+    {
+      "artist": "Nelly",
+      "title": "Just A Dream",
+      "weeks": 17,
+      "peak": 3,
+      "score": 580
+    },
+    {
+      "artist": "Mike Posner",
+      "title": "Cooler Than Me",
+      "weeks": 29,
+      "peak": 6,
+      "score": 539
+    },
+    {
+      "artist": "The Black Eyed Peas",
+      "title": "Imma Be",
+      "weeks": 25,
+      "peak": 1,
+      "score": 506
+    },
+    {
+      "artist": "Travie Mccoy",
+      "title": "Billionaire",
+      "weeks": 27,
+      "peak": 4,
+      "score": 501
+    },
+    {
+      "artist": "Drake",
+      "title": "Find Your Love",
+      "weeks": 21,
+      "peak": 5,
+      "score": 498
+    },
+    {
+      "artist": "Trey Songz",
+      "title": "Bottoms Up",
+      "weeks": 18,
+      "peak": 6,
+      "score": 493
+    },
+    {
+      "artist": "Trey Songz",
+      "title": "Say Aah",
+      "weeks": 24,
+      "peak": 9,
+      "score": 477
+    },
+    {
+      "artist": "Ludacris",
+      "title": "How Low",
+      "weeks": 20,
+      "peak": 6,
+      "score": 474
+    },
+    {
+      "artist": "David Guetta",
+      "title": "Sexy Chick",
+      "weeks": 21,
+      "peak": 5,
+      "score": 451
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Alejandro",
+      "weeks": 23,
+      "peak": 5,
+      "score": 442
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Only Girl (In The World)",
+      "weeks": 14,
+      "peak": 1,
+      "score": 441
+    },
+    {
+      "artist": "Far*east Movement",
+      "title": "Like A G6",
+      "weeks": 18,
+      "peak": 1,
+      "score": 439
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Mine",
+      "weeks": 19,
+      "peak": 3,
+      "score": 425
+    },
+    {
+      "artist": "Iyaz",
+      "title": "Replay",
+      "weeks": 17,
+      "peak": 2,
+      "score": 407
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "Baby",
+      "weeks": 20,
+      "peak": 5,
+      "score": 380
+    },
+    {
+      "artist": "Flo Rida",
+      "title": "Club Can't Handle Me",
+      "weeks": 24,
+      "peak": 9,
+      "score": 372
+    },
+    {
+      "artist": "Jay-z + Alicia Keys",
+      "title": "Empire State Of Mind",
+      "weeks": 16,
+      "peak": 2,
+      "score": 368
+    },
+    {
+      "artist": "Timbaland",
+      "title": "Carry Out",
+      "weeks": 24,
+      "peak": 11,
+      "score": 362
+    },
+    {
+      "artist": "The Black Eyed Peas",
+      "title": "I Gotta Feeling",
+      "weeks": 29,
+      "peak": 9,
+      "score": 330
+    },
+    {
+      "artist": "Ke$ha",
+      "title": "Your Love Is My Drug",
+      "weeks": 28,
+      "peak": 4,
+      "score": 322
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Taio Cruz",
+      "hits": 2
+    },
+    {
+      "artist": "B.o.b",
+      "hits": 2
+    },
+    {
+      "artist": "Usher",
+      "hits": 2
+    },
+    {
+      "artist": "Katy Perry",
+      "hits": 2
+    },
+    {
+      "artist": "Ke$ha",
+      "hits": 2
+    },
+    {
+      "artist": "Eminem",
+      "hits": 2
+    },
+    {
+      "artist": "Lady Gaga",
+      "hits": 3
+    },
+    {
+      "artist": "Rihanna",
+      "hits": 2
+    },
+    {
+      "artist": "The Black Eyed Peas",
+      "hits": 2
+    },
+    {
+      "artist": "Trey Songz",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Train",
+      "title": "Hey, Soul Sister",
+      "weeks": 43,
+      "peak": 3,
+      "score": 1043
+    },
+    {
+      "artist": "Lady Antebellum",
+      "title": "Need You Now",
+      "weeks": 42,
+      "peak": 2,
+      "score": 965
+    },
+    {
+      "artist": "The Script",
+      "title": "Breakeven",
+      "weeks": 41,
+      "peak": 12,
+      "score": 219
+    },
+    {
+      "artist": "Jason Derulo",
+      "title": "In My Head",
+      "weeks": 33,
+      "peak": 5,
+      "score": 612
+    },
+    {
+      "artist": "Michael Buble",
+      "title": "Haven't Met You Yet",
+      "weeks": 33,
+      "peak": 24,
+      "score": 188
+    },
+    {
+      "artist": "Enrique Iglesias",
+      "title": "I Like It",
+      "weeks": 31,
+      "peak": 4,
+      "score": 609
+    },
+    {
+      "artist": "B.o.b",
+      "title": "Airplanes",
+      "weeks": 30,
+      "peak": 2,
+      "score": 862
+    },
+    {
+      "artist": "Usher",
+      "title": "OMG",
+      "weeks": 30,
+      "peak": 1,
+      "score": 820
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Telephone",
+      "weeks": 30,
+      "peak": 3,
+      "score": 605
+    },
+    {
+      "artist": "Adam Lambert",
+      "title": "Whataya Want From Me",
+      "weeks": 30,
+      "peak": 10,
+      "score": 155
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Usher",
+      "title": "OMG",
+      "weeks": 30,
+      "peak": 1,
+      "score": 820
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "California Gurls",
+      "weeks": 27,
+      "peak": 1,
+      "score": 783
+    },
+    {
+      "artist": "Taio Cruz",
+      "title": "Break Your Heart",
+      "weeks": 29,
+      "peak": 1,
+      "score": 767
+    },
+    {
+      "artist": "Ke$ha",
+      "title": "TiK ToK",
+      "weeks": 28,
+      "peak": 1,
+      "score": 761
+    },
+    {
+      "artist": "Eminem",
+      "title": "Love The Way You Lie",
+      "weeks": 25,
+      "peak": 1,
+      "score": 759
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Teenage Dream",
+      "weeks": 21,
+      "peak": 1,
+      "score": 689
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "Just The Way You Are",
+      "weeks": 21,
+      "peak": 1,
+      "score": 682
+    },
+    {
+      "artist": "Eminem",
+      "title": "Not Afraid",
+      "weeks": 25,
+      "peak": 1,
+      "score": 660
+    },
+    {
+      "artist": "B.o.b",
+      "title": "Nothin' On You",
+      "weeks": 28,
+      "peak": 1,
+      "score": 639
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Rude Boy",
+      "weeks": 22,
+      "peak": 1,
+      "score": 593
+    },
+    {
+      "artist": "The Black Eyed Peas",
+      "title": "Imma Be",
+      "weeks": 25,
+      "peak": 1,
+      "score": 506
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Only Girl (In The World)",
+      "weeks": 14,
+      "peak": 1,
+      "score": 441
+    },
+    {
+      "artist": "Far*east Movement",
+      "title": "Like A G6",
+      "weeks": 18,
+      "peak": 1,
+      "score": 439
+    },
+    {
+      "artist": "P!nk",
+      "title": "Raise Your Glass",
+      "weeks": 10,
+      "peak": 1,
+      "score": 308
+    },
+    {
+      "artist": "Ke$ha",
+      "title": "We R Who We R",
+      "weeks": 7,
+      "peak": 1,
+      "score": 252
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Firework",
+      "weeks": 8,
+      "peak": 1,
+      "score": 213
+    },
+    {
+      "artist": "Rihanna",
+      "title": "What's My Name?",
+      "weeks": 8,
+      "peak": 1,
+      "score": 159
+    }
+  ]
+}

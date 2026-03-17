@@ -1,0 +1,18 @@
+Retro magazine illustration for page 20 of a 1969 pop culture magazine.
+
+Prompt source: legacy
+Page slug: retro_ad
+Page title: Retro Ad
+
+Article topic:
+This page slot is part of the canonical RetroVerse issue structure. The retro_ad section is wired into the build pipeline and currently holds a reserve editorial slot for 1969. Production Note Keep this slot in the issue order. Replace this reserve slot when year-specific editorial content is approved.
+
+Visual direction from page brief:
+Retro Ad House Advertisement Present Retro Ad as a complete RetroVerse 1969 retro_ad reserve page page, with page-aware artwork under real typography and no text baked into the illustration layer for `retro_ad`. Retro Ad House Advertisement This page slot is part of the canonical RetroVerse issue structure. The retro_ad section is wired into the build pipeline and currently holds a reserve editorial slot for 1969. Production Note Keep this slot in the issue order. Replace this reserve slot when year-specific editorial content is approved.
+
+Create a lively illustrated scene reflecting the topic.
+1970s editorial illustration style, bold color palette, energetic composition.
+
+Important:
+leave soft areas suitable for text placement.
+Do not include readable typography.

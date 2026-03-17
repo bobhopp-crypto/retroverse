@@ -1,0 +1,978 @@
+{
+  "year": 1978,
+  "generated_at": "2026-03-14T17:41:56",
+  "page_count": 30,
+  "duplicate_image_paths": {},
+  "pages": [
+    {
+      "page_number": 1,
+      "page_slug": "cover",
+      "article_title": "RETROVERSE",
+      "article_excerpt": "RETROVERSE Press \u25b6 Play for the Past",
+      "article_source_path": "issues/1978/cover.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_01_cover.json",
+      "art_direction_path": "issues/1978/art_direction/page_01_cover.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_01.txt",
+      "generated_image_path": "issues/1978/art/pages/page_01.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_01.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_01.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_01.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_01_cover.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_01.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_01.png"
+        ]
+      }
+    },
+    {
+      "page_number": 2,
+      "page_slug": "masthead",
+      "article_title": "RETROVERSE",
+      "article_excerpt": "RETROVERSE Press \u25b6 Play for the Past",
+      "article_source_path": "issues/1978/masthead.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_02_masthead.json",
+      "art_direction_path": "issues/1978/art_direction/page_02_masthead.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_02.txt",
+      "generated_image_path": "issues/1978/art/pages/page_02.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_02.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_02.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_02.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_02_masthead.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_02.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_02.png"
+        ]
+      }
+    },
+    {
+      "page_number": 3,
+      "page_slug": "editor_letter",
+      "article_title": "Editor Letter",
+      "article_excerpt": "Editor Letter By BJ Lovestreet, Editor-in-Chief*",
+      "article_source_path": "issues/1978/editor_letter.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_03_editor_letter.json",
+      "art_direction_path": "issues/1978/art_direction/page_03_editor_letter.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_03.txt",
+      "generated_image_path": "issues/1978/art/pages/page_03.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_03.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_03.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_03.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_03_editor_letter.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_03.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_03.png"
+        ]
+      }
+    },
+    {
+      "page_number": 4,
+      "page_slug": "year_snapshot",
+      "article_title": "Year Snapshot: 1978 in Motion: Dance Floors, Marquees, and Living Rooms",
+      "article_excerpt": "Year Snapshot: 1978 in Motion: Dance Floors, Marquees, and Living Rooms The year at a glance 1978 feels like a hinge year, where radio hits such as Night Fever carry club energy into everyday streets, cabs, and corner stores. Artists including Bee Gees and Do...",
+      "article_source_path": "issues/1978/data/editorial.json",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_04_year_snapshot.json",
+      "art_direction_path": "issues/1978/art_direction/page_04_year_snapshot.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_04.txt",
+      "generated_image_path": "issues/1978/art/pages/page_04.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_04.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_04.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_04.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_04_year_snapshot.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_04.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_04.png"
+        ]
+      }
+    },
+    {
+      "page_number": 5,
+      "page_slug": "charts_overview",
+      "article_title": "Charts Overview: The Shape of 1978",
+      "article_excerpt": "Charts Overview: The Shape of 1978 By Nicole Thomas, Charts Editor*",
+      "article_source_path": "issues/1978/charts_overview.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_05_charts_overview.json",
+      "art_direction_path": "issues/1978/art_direction/page_05_charts_overview.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_05.txt",
+      "generated_image_path": "issues/1978/art/pages/page_05.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_05.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_05.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_05.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_05_charts_overview.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_05.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_05.png"
+        ]
+      }
+    },
+    {
+      "page_number": 6,
+      "page_slug": "top_song_1",
+      "article_title": "01. Stayin' Alive \u2014 Bee Gees",
+      "article_excerpt": "01. Stayin' Alive \u2014 Bee Gees By Bob Jones, Music Features Editor*",
+      "article_source_path": "issues/1978/songs/01.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_06_top_song_1.json",
+      "art_direction_path": "issues/1978/art_direction/page_06_top_song_1.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_06.txt",
+      "generated_image_path": "issues/1978/art/pages/page_06.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_06.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_06.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_06.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_06_top_song_1.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_06.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_06.png"
+        ]
+      }
+    },
+    {
+      "page_number": 7,
+      "page_slug": "top_song_2",
+      "article_title": "02. Night Fever \u2014 Bee Gees",
+      "article_excerpt": "02. Night Fever \u2014 Bee Gees By Bob Jones, Music Features Editor*",
+      "article_source_path": "issues/1978/songs/02.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_07_top_song_2.json",
+      "art_direction_path": "issues/1978/art_direction/page_07_top_song_2.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_07.txt",
+      "generated_image_path": "issues/1978/art/pages/page_07.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_07.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_07.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_07.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_07_top_song_2.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_07.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_07.png"
+        ]
+      }
+    },
+    {
+      "page_number": 8,
+      "page_slug": "top_song_3",
+      "article_title": "03. (Love Is) Thicker Than Water \u2014 Andy Gibb",
+      "article_excerpt": "03. (Love Is) Thicker Than Water \u2014 Andy Gibb By Bob Jones, Music Features Editor*",
+      "article_source_path": "issues/1978/songs/03.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_08_top_song_3.json",
+      "art_direction_path": "issues/1978/art_direction/page_08_top_song_3.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_08.txt",
+      "generated_image_path": "issues/1978/art/pages/page_08.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_08.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_08.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_08.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_08_top_song_3.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_08.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_08.png"
+        ]
+      }
+    },
+    {
+      "page_number": 9,
+      "page_slug": "top_song_4",
+      "article_title": "04. Three Times A Lady \u2014 Commodores",
+      "article_excerpt": "04. Three Times A Lady \u2014 Commodores By Bob Jones, Music Features Editor*",
+      "article_source_path": "issues/1978/songs/04.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_09_top_song_4.json",
+      "art_direction_path": "issues/1978/art_direction/page_09_top_song_4.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_09.txt",
+      "generated_image_path": "issues/1978/art/pages/page_09.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_09.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_09.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_09.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_09_top_song_4.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_09.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_09.png"
+        ]
+      }
+    },
+    {
+      "page_number": 10,
+      "page_slug": "top_song_5",
+      "article_title": "05. Kiss You All Over \u2014 Exile",
+      "article_excerpt": "05. Kiss You All Over \u2014 Exile By Bob Jones, Music Features Editor*",
+      "article_source_path": "issues/1978/songs/05.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_10_top_song_5.json",
+      "art_direction_path": "issues/1978/art_direction/page_10_top_song_5.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_10.txt",
+      "generated_image_path": "issues/1978/art/pages/page_10.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_10.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_10.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_10.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_10_top_song_5.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_10.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_10.png"
+        ]
+      }
+    },
+    {
+      "page_number": 11,
+      "page_slug": "top_song_6",
+      "article_title": "06. Can't Smile Without You \u2014 Barry Manilow",
+      "article_excerpt": "06. Can't Smile Without You \u2014 Barry Manilow By Bob Jones, Music Features Editor*",
+      "article_source_path": "issues/1978/songs/06.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_11_top_song_6.json",
+      "art_direction_path": "issues/1978/art_direction/page_11_top_song_6.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_11.txt",
+      "generated_image_path": "issues/1978/art/pages/page_11.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_11.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_11.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_11.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_11_top_song_6.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_11.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_11.png"
+        ]
+      }
+    },
+    {
+      "page_number": 12,
+      "page_slug": "top_song_7",
+      "article_title": "07. MacArthur Park \u2014 Donna Summer",
+      "article_excerpt": "07. MacArthur Park \u2014 Donna Summer By Bob Jones, Music Features Editor*",
+      "article_source_path": "issues/1978/songs/07.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_12_top_song_7.json",
+      "art_direction_path": "issues/1978/art_direction/page_12_top_song_7.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_12.txt",
+      "generated_image_path": "issues/1978/art/pages/page_12.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_12.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_12.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_12.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_12_top_song_7.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_12.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_12.png"
+        ]
+      }
+    },
+    {
+      "page_number": 13,
+      "page_slug": "top_song_8",
+      "article_title": "08. Lay Down Sally \u2014 Eric Clapton",
+      "article_excerpt": "08. Lay Down Sally \u2014 Eric Clapton By Bob Jones, Music Features Editor*",
+      "article_source_path": "issues/1978/songs/08.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_13_top_song_8.json",
+      "art_direction_path": "issues/1978/art_direction/page_13_top_song_8.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_13.txt",
+      "generated_image_path": "issues/1978/art/pages/page_13.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_13.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_13.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_13.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_13_top_song_8.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_13.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_13.png"
+        ]
+      }
+    },
+    {
+      "page_number": 14,
+      "page_slug": "top_song_9",
+      "article_title": "09. Shadow Dancing \u2014 Andy Gibb",
+      "article_excerpt": "09. Shadow Dancing \u2014 Andy Gibb By Bob Jones, Music Features Editor*",
+      "article_source_path": "issues/1978/songs/09.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_14_top_song_9.json",
+      "art_direction_path": "issues/1978/art_direction/page_14_top_song_9.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_14.txt",
+      "generated_image_path": "issues/1978/art/pages/page_14.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_14.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_14.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_14.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_14_top_song_9.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_14.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_14.png"
+        ]
+      }
+    },
+    {
+      "page_number": 15,
+      "page_slug": "top_song_10",
+      "article_title": "10. Boogie Oogie Oogie \u2014 A Taste Of Honey",
+      "article_excerpt": "10. Boogie Oogie Oogie \u2014 A Taste Of Honey By Bob Jones, Music Features Editor*",
+      "article_source_path": "issues/1978/songs/10.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_15_top_song_10.json",
+      "art_direction_path": "issues/1978/art_direction/page_15_top_song_10.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_15.txt",
+      "generated_image_path": "issues/1978/art/pages/page_15.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_15.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_15.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_15.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_15_top_song_10.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_15.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_15.png"
+        ]
+      }
+    },
+    {
+      "page_number": 16,
+      "page_slug": "movies",
+      "article_title": "Movies of the Year",
+      "article_excerpt": "Movies of the Year By Martin Hale, Film Editor*",
+      "article_source_path": "issues/1978/movies.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_16_movies.json",
+      "art_direction_path": "issues/1978/art_direction/page_16_movies.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_16.txt",
+      "generated_image_path": "issues/1978/art/pages/page_16.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_16.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_16.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_16.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_16_movies.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_16.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_16.png"
+        ]
+      }
+    },
+    {
+      "page_number": 17,
+      "page_slug": "television",
+      "article_title": "Television of the Year",
+      "article_excerpt": "Television of the Year By Linda Park, Television Editor*",
+      "article_source_path": "issues/1978/television.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_17_television.json",
+      "art_direction_path": "issues/1978/art_direction/page_17_television.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_17.txt",
+      "generated_image_path": "issues/1978/art/pages/page_17.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_17.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_17.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_17.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_17_television.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_17.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_17.png"
+        ]
+      }
+    },
+    {
+      "page_number": 18,
+      "page_slug": "culture",
+      "article_title": "Culture Feature: Everyday 1978",
+      "article_excerpt": "Culture Feature: Everyday 1978 By Eve Binet, Culture & Lifestyle Editor*",
+      "article_source_path": "issues/1978/culture.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_18_culture.json",
+      "art_direction_path": "issues/1978/art_direction/page_18_culture.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_18.txt",
+      "generated_image_path": "issues/1978/art/pages/page_18.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_18.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_18.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_18.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_18_culture.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_18.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_18.png"
+        ]
+      }
+    },
+    {
+      "page_number": 19,
+      "page_slug": "arcade",
+      "article_title": "Arcade / Technology",
+      "article_excerpt": "Placeholder content.*",
+      "article_source_path": "issues/1978/arcade.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_19_arcade.json",
+      "art_direction_path": "issues/1978/art_direction/page_19_arcade.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_19.txt",
+      "generated_image_path": "issues/1978/art/pages/page_19.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_19.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_19.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_19.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_19_arcade.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [
+          "Final page copy includes placeholder or reserve language."
+        ],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_19.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_19.png"
+        ]
+      }
+    },
+    {
+      "page_number": 20,
+      "page_slug": "retro_ad",
+      "article_title": "Retro Advertisements",
+      "article_excerpt": "Placeholder content.*",
+      "article_source_path": "issues/1978/ads.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_20_retro_ad.json",
+      "art_direction_path": "issues/1978/art_direction/page_20_retro_ad.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_20.txt",
+      "generated_image_path": "issues/1978/art/pages/page_20.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_20.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_20.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_20.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_20_retro_ad.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [
+          "Final page copy includes placeholder or reserve language."
+        ],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_20.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_20.png"
+        ]
+      }
+    },
+    {
+      "page_number": 21,
+      "page_slug": "comic",
+      "article_title": "Comic Page",
+      "article_excerpt": "Placeholder content.*",
+      "article_source_path": "issues/1978/comic.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_21_comic.json",
+      "art_direction_path": "issues/1978/art_direction/page_21_comic.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_21.txt",
+      "generated_image_path": "issues/1978/art/pages/page_21.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_21.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_21.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_21.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_21_comic.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [
+          "Final page copy includes placeholder or reserve language."
+        ],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_21.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_21.png"
+        ]
+      }
+    },
+    {
+      "page_number": 22,
+      "page_slug": "puzzle",
+      "article_title": "Puzzle 1",
+      "article_excerpt": "Placeholder content.*",
+      "article_source_path": "issues/1978/puzzle1.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_22_puzzle.json",
+      "art_direction_path": "issues/1978/art_direction/page_22_puzzle.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_22.txt",
+      "generated_image_path": "issues/1978/art/pages/page_22.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_22.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_22.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_22.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_22_puzzle.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [
+          "Final page copy includes placeholder or reserve language."
+        ],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_22.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_22.png"
+        ]
+      }
+    },
+    {
+      "page_number": 23,
+      "page_slug": "letters",
+      "article_title": "Letters",
+      "article_excerpt": "\"You Could Hear It Everywhere\" R. M., Cleveland*",
+      "article_source_path": "issues/1978/letters.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_23_letters.json",
+      "art_direction_path": "issues/1978/art_direction/page_23_letters.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_23.txt",
+      "generated_image_path": "issues/1978/art/pages/page_23.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_23.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_23.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_23.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_23_letters.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_23.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_23.png"
+        ]
+      }
+    },
+    {
+      "page_number": 24,
+      "page_slug": "forgotten_hit",
+      "article_title": "Almost Hits: Can't Smile Without You \u2014 Barry Manilow",
+      "article_excerpt": "Lede",
+      "article_source_path": "issues/1978/articles/story_011.md",
+      "final_article_path": "issues/1978/articles/final/story_011.md",
+      "page_brief_path": "issues/1978/layout/page_briefs/page_24_forgotten_hit.json",
+      "art_direction_path": "issues/1978/art_direction/page_24_forgotten_hit.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_24.txt",
+      "generated_image_path": "issues/1978/art/pages/page_24.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_24.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_24.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_24.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_24_forgotten_hit.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_24.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_24.png"
+        ]
+      }
+    },
+    {
+      "page_number": 25,
+      "page_slug": "one_hit_wonder",
+      "article_title": "RETROVERSE TOP 23",
+      "article_excerpt": "RETROVERSE TOP 23 The Biggest Songs of the Year",
+      "article_source_path": "issues/1978/chart_top23.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_25_one_hit_wonder.json",
+      "art_direction_path": "issues/1978/art_direction/page_25_one_hit_wonder.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_25.txt",
+      "generated_image_path": "issues/1978/art/pages/page_25.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_25.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_25.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_25.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_25_one_hit_wonder.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [
+          "Final page copy includes placeholder or reserve language."
+        ],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_25.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_25.png"
+        ]
+      }
+    },
+    {
+      "page_number": 26,
+      "page_slug": "album_spotlight",
+      "article_title": "Album Gravity: Saturday Night Fever \u2014 Soundtrack",
+      "article_excerpt": "Lede",
+      "article_source_path": "issues/1978/articles/story_006.md",
+      "final_article_path": "issues/1978/articles/final/story_006.md",
+      "page_brief_path": "issues/1978/layout/page_briefs/page_26_album_spotlight.json",
+      "art_direction_path": "issues/1978/art_direction/page_26_album_spotlight.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_26.txt",
+      "generated_image_path": "issues/1978/art/pages/page_26.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_26.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_26.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_26.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_26_album_spotlight.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_26.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_26.png"
+        ]
+      }
+    },
+    {
+      "page_number": 27,
+      "page_slug": "year_timeline",
+      "article_title": "The Week-by-Week Yearline",
+      "article_excerpt": "Lede",
+      "article_source_path": "issues/1978/articles/story_010.md",
+      "final_article_path": "issues/1978/articles/final/story_010.md",
+      "page_brief_path": "issues/1978/layout/page_briefs/page_27_year_timeline.json",
+      "art_direction_path": "issues/1978/art_direction/page_27_year_timeline.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_27.txt",
+      "generated_image_path": "issues/1978/art/pages/page_27.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_27.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_27.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_27.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_27_year_timeline.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_27.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_27.png"
+        ]
+      }
+    },
+    {
+      "page_number": 28,
+      "page_slug": "culture_collage",
+      "article_title": "Culture Feature: Everyday 1978",
+      "article_excerpt": "Culture Feature: Everyday 1978 By Eve Binet, Culture & Lifestyle Editor*",
+      "article_source_path": "issues/1978/culture.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_28_culture_collage.json",
+      "art_direction_path": "issues/1978/art_direction/page_28_culture_collage.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_28.txt",
+      "generated_image_path": "issues/1978/art/pages/page_28.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_28.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_28.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_28.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_28_culture_collage.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_28.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_28.png"
+        ]
+      }
+    },
+    {
+      "page_number": 29,
+      "page_slug": "retro_ads_page",
+      "article_title": "Retro Advertisements",
+      "article_excerpt": "Placeholder content.*",
+      "article_source_path": "issues/1978/ads.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_29_retro_ads_page.json",
+      "art_direction_path": "issues/1978/art_direction/page_29_retro_ads_page.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_29.txt",
+      "generated_image_path": "issues/1978/art/pages/page_29.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_29.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_29.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_29.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_29_retro_ads_page.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_29.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_29.png"
+        ]
+      }
+    },
+    {
+      "page_number": 30,
+      "page_slug": "chart_top23",
+      "article_title": "RETROVERSE TOP 23",
+      "article_excerpt": "RETROVERSE TOP 23 The Biggest Songs of the Year",
+      "article_source_path": "issues/1978/chart_top23.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_30_chart_top23.json",
+      "art_direction_path": "issues/1978/art_direction/page_30_chart_top23.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_30.txt",
+      "generated_image_path": "issues/1978/art/pages/page_30.png",
+      "generated_image_paths": [
+        "issues/1978/art/pages/page_30.png"
+      ],
+      "layout_image_paths": [
+        "issues/1978/art/pages/page_30.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_30.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_30_chart_top23.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": [
+          "layout-only: issues/1978/art/pages/page_30.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_30.png"
+        ]
+      }
+    }
+  ]
+}

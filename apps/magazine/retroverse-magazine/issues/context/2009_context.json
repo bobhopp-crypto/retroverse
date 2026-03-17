@@ -1,0 +1,488 @@
+{
+  "year": "2009",
+  "top_songs": [
+    {
+      "artist": "The Black Eyed Peas",
+      "title": "I Gotta Feeling",
+      "weeks": 27,
+      "peak": 1,
+      "score": 943
+    },
+    {
+      "artist": "The Black Eyed Peas",
+      "title": "Boom Boom Pow",
+      "weeks": 33,
+      "peak": 1,
+      "score": 830
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "You Belong With Me",
+      "weeks": 33,
+      "peak": 2,
+      "score": 793
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Just Dance",
+      "weeks": 30,
+      "peak": 1,
+      "score": 776
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Poker Face",
+      "weeks": 40,
+      "peak": 1,
+      "score": 722
+    },
+    {
+      "artist": "The All-american Rejects",
+      "title": "Gives You Hell",
+      "weeks": 31,
+      "peak": 4,
+      "score": 721
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Love Story",
+      "weeks": 35,
+      "peak": 4,
+      "score": 712
+    },
+    {
+      "artist": "Keri Hilson",
+      "title": "Knock You Down",
+      "weeks": 31,
+      "peak": 3,
+      "score": 703
+    },
+    {
+      "artist": "The Fray",
+      "title": "You Found Me",
+      "weeks": 35,
+      "peak": 7,
+      "score": 664
+    },
+    {
+      "artist": "Miley Cyrus",
+      "title": "The Climb",
+      "weeks": 28,
+      "peak": 4,
+      "score": 662
+    },
+    {
+      "artist": "Jason Mraz",
+      "title": "I'm Yours",
+      "weeks": 41,
+      "peak": 7,
+      "score": 648
+    },
+    {
+      "artist": "Jay Sean",
+      "title": "Down",
+      "weeks": 24,
+      "peak": 1,
+      "score": 644
+    },
+    {
+      "artist": "Miley Cyrus",
+      "title": "Party In The U.S.A.",
+      "weeks": 18,
+      "peak": 2,
+      "score": 631
+    },
+    {
+      "artist": "Pitbull",
+      "title": "I Know You Want Me (Calle Ocho)",
+      "weeks": 35,
+      "peak": 2,
+      "score": 619
+    },
+    {
+      "artist": "Flo Rida",
+      "title": "Right Round",
+      "weeks": 26,
+      "peak": 1,
+      "score": 610
+    },
+    {
+      "artist": "Jamie Foxx",
+      "title": "Blame It",
+      "weeks": 27,
+      "peak": 2,
+      "score": 595
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Heartless",
+      "weeks": 24,
+      "peak": 2,
+      "score": 589
+    },
+    {
+      "artist": "Jason Derulo",
+      "title": "Whatcha Say",
+      "weeks": 18,
+      "peak": 1,
+      "score": 574
+    },
+    {
+      "artist": "T.i",
+      "title": "Dead And Gone",
+      "weeks": 27,
+      "peak": 2,
+      "score": 548
+    },
+    {
+      "artist": "Sean Kingston",
+      "title": "Fire Burning",
+      "weeks": 21,
+      "peak": 5,
+      "score": 547
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "title": "My Life Would Suck Without You",
+      "weeks": 24,
+      "peak": 1,
+      "score": 508
+    },
+    {
+      "artist": "Drake",
+      "title": "Best I Ever Had",
+      "weeks": 24,
+      "peak": 2,
+      "score": 489
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Obsessed",
+      "weeks": 21,
+      "peak": 7,
+      "score": 485
+    },
+    {
+      "artist": "Jay-z, Rihanna",
+      "title": "Run This Town",
+      "weeks": 20,
+      "peak": 2,
+      "score": 484
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Halo",
+      "weeks": 31,
+      "peak": 5,
+      "score": 483
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Waking Up In Vegas",
+      "weeks": 23,
+      "peak": 9,
+      "score": 469
+    },
+    {
+      "artist": "Soulja Boy Tell 'em",
+      "title": "Kiss Me Thru The Phone",
+      "weeks": 27,
+      "peak": 3,
+      "score": 463
+    },
+    {
+      "artist": "Britney Spears",
+      "title": "Circus",
+      "weeks": 20,
+      "peak": 9,
+      "score": 451
+    },
+    {
+      "artist": "Jay-z + Alicia Keys",
+      "title": "Empire State Of Mind",
+      "weeks": 14,
+      "peak": 1,
+      "score": 451
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Single Ladies (Put A Ring On It)",
+      "weeks": 18,
+      "peak": 1,
+      "score": 447
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Paparazzi",
+      "weeks": 16,
+      "peak": 6,
+      "score": 418
+    },
+    {
+      "artist": "Kid Cudi",
+      "title": "Day 'N' Nite",
+      "weeks": 27,
+      "peak": 3,
+      "score": 401
+    },
+    {
+      "artist": "Jeremih",
+      "title": "Birthday Sex",
+      "weeks": 20,
+      "peak": 4,
+      "score": 397
+    },
+    {
+      "artist": "P!nk",
+      "title": "Sober",
+      "weeks": 22,
+      "peak": 15,
+      "score": 374
+    },
+    {
+      "artist": "T.i",
+      "title": "Live Your Life",
+      "weeks": 16,
+      "peak": 2,
+      "score": 357
+    },
+    {
+      "artist": "Kevin Rudolf",
+      "title": "Let It Rock",
+      "weeks": 19,
+      "peak": 8,
+      "score": 357
+    },
+    {
+      "artist": "Drake",
+      "title": "Forever",
+      "weeks": 13,
+      "peak": 8,
+      "score": 342
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Hot N Cold",
+      "weeks": 19,
+      "peak": 6,
+      "score": 337
+    },
+    {
+      "artist": "Britney Spears",
+      "title": "3",
+      "weeks": 10,
+      "peak": 1,
+      "score": 337
+    },
+    {
+      "artist": "Ne-yo",
+      "title": "Mad",
+      "weeks": 22,
+      "peak": 11,
+      "score": 328
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "The Black Eyed Peas",
+      "hits": 2
+    },
+    {
+      "artist": "Taylor Swift",
+      "hits": 2
+    },
+    {
+      "artist": "Lady Gaga",
+      "hits": 3
+    },
+    {
+      "artist": "Miley Cyrus",
+      "hits": 2
+    },
+    {
+      "artist": "T.i",
+      "hits": 2
+    },
+    {
+      "artist": "Drake",
+      "hits": 2
+    },
+    {
+      "artist": "Beyonce",
+      "hits": 2
+    },
+    {
+      "artist": "Katy Perry",
+      "hits": 2
+    },
+    {
+      "artist": "Britney Spears",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Kings Of Leon",
+      "title": "Use Somebody",
+      "weeks": 45,
+      "peak": 4,
+      "score": 328
+    },
+    {
+      "artist": "Jason Mraz",
+      "title": "I'm Yours",
+      "weeks": 41,
+      "peak": 7,
+      "score": 648
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Poker Face",
+      "weeks": 40,
+      "peak": 1,
+      "score": 722
+    },
+    {
+      "artist": "Shinedown",
+      "title": "Second Chance",
+      "weeks": 38,
+      "peak": 7,
+      "score": 250
+    },
+    {
+      "artist": "3oh!3",
+      "title": "Don't Trust Me",
+      "weeks": 36,
+      "peak": 7,
+      "score": 102
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Love Story",
+      "weeks": 35,
+      "peak": 4,
+      "score": 712
+    },
+    {
+      "artist": "The Fray",
+      "title": "You Found Me",
+      "weeks": 35,
+      "peak": 7,
+      "score": 664
+    },
+    {
+      "artist": "Pitbull",
+      "title": "I Know You Want Me (Calle Ocho)",
+      "weeks": 35,
+      "peak": 2,
+      "score": 619
+    },
+    {
+      "artist": "The Black Eyed Peas",
+      "title": "Boom Boom Pow",
+      "weeks": 33,
+      "peak": 1,
+      "score": 830
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "You Belong With Me",
+      "weeks": 33,
+      "peak": 2,
+      "score": 793
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "The Black Eyed Peas",
+      "title": "I Gotta Feeling",
+      "weeks": 27,
+      "peak": 1,
+      "score": 943
+    },
+    {
+      "artist": "The Black Eyed Peas",
+      "title": "Boom Boom Pow",
+      "weeks": 33,
+      "peak": 1,
+      "score": 830
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Just Dance",
+      "weeks": 30,
+      "peak": 1,
+      "score": 776
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Poker Face",
+      "weeks": 40,
+      "peak": 1,
+      "score": 722
+    },
+    {
+      "artist": "Jay Sean",
+      "title": "Down",
+      "weeks": 24,
+      "peak": 1,
+      "score": 644
+    },
+    {
+      "artist": "Flo Rida",
+      "title": "Right Round",
+      "weeks": 26,
+      "peak": 1,
+      "score": 610
+    },
+    {
+      "artist": "Jason Derulo",
+      "title": "Whatcha Say",
+      "weeks": 18,
+      "peak": 1,
+      "score": 574
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "title": "My Life Would Suck Without You",
+      "weeks": 24,
+      "peak": 1,
+      "score": 508
+    },
+    {
+      "artist": "Jay-z + Alicia Keys",
+      "title": "Empire State Of Mind",
+      "weeks": 14,
+      "peak": 1,
+      "score": 451
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Single Ladies (Put A Ring On It)",
+      "weeks": 18,
+      "peak": 1,
+      "score": 447
+    },
+    {
+      "artist": "Britney Spears",
+      "title": "3",
+      "weeks": 10,
+      "peak": 1,
+      "score": 337
+    },
+    {
+      "artist": "Owl City",
+      "title": "Fireflies",
+      "weeks": 17,
+      "peak": 1,
+      "score": 246
+    },
+    {
+      "artist": "Eminem, Dr. Dre",
+      "title": "Crack A Bottle",
+      "weeks": 17,
+      "peak": 1,
+      "score": 4
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "year": 1978,
+  "pages": [
+    {
+      "page_number": 1,
+      "page_slug": "cover",
+      "title": "1978",
+      "brief_path": "issues/1978/layout/page_briefs/page_01_cover.json"
+    },
+    {
+      "page_number": 2,
+      "page_slug": "masthead",
+      "title": "Masthead",
+      "brief_path": "issues/1978/layout/page_briefs/page_02_masthead.json"
+    },
+    {
+      "page_number": 3,
+      "page_slug": "editor_letter",
+      "title": "Editor Letter",
+      "brief_path": "issues/1978/layout/page_briefs/page_03_editor_letter.json"
+    },
+    {
+      "page_number": 4,
+      "page_slug": "year_snapshot",
+      "title": "Year Snapshot: 1978 in Motion: Dance Floors, Marquees, and Living Rooms",
+      "brief_path": "issues/1978/layout/page_briefs/page_04_year_snapshot.json"
+    },
+    {
+      "page_number": 5,
+      "page_slug": "charts_overview",
+      "title": "Charts Overview: The Shape of 1978",
+      "brief_path": "issues/1978/layout/page_briefs/page_05_charts_overview.json"
+    },
+    {
+      "page_number": 6,
+      "page_slug": "top_song_1",
+      "title": "01. Stayin' Alive — Bee Gees",
+      "brief_path": "issues/1978/layout/page_briefs/page_06_top_song_1.json"
+    },
+    {
+      "page_number": 7,
+      "page_slug": "top_song_2",
+      "title": "02. Night Fever — Bee Gees",
+      "brief_path": "issues/1978/layout/page_briefs/page_07_top_song_2.json"
+    },
+    {
+      "page_number": 8,
+      "page_slug": "top_song_3",
+      "title": "03. (Love Is) Thicker Than Water — Andy Gibb",
+      "brief_path": "issues/1978/layout/page_briefs/page_08_top_song_3.json"
+    },
+    {
+      "page_number": 9,
+      "page_slug": "top_song_4",
+      "title": "04. Three Times A Lady — Commodores",
+      "brief_path": "issues/1978/layout/page_briefs/page_09_top_song_4.json"
+    },
+    {
+      "page_number": 10,
+      "page_slug": "top_song_5",
+      "title": "05. Kiss You All Over — Exile",
+      "brief_path": "issues/1978/layout/page_briefs/page_10_top_song_5.json"
+    },
+    {
+      "page_number": 11,
+      "page_slug": "top_song_6",
+      "title": "06. Can't Smile Without You — Barry Manilow",
+      "brief_path": "issues/1978/layout/page_briefs/page_11_top_song_6.json"
+    },
+    {
+      "page_number": 12,
+      "page_slug": "top_song_7",
+      "title": "07. MacArthur Park — Donna Summer",
+      "brief_path": "issues/1978/layout/page_briefs/page_12_top_song_7.json"
+    },
+    {
+      "page_number": 13,
+      "page_slug": "top_song_8",
+      "title": "08. Lay Down Sally — Eric Clapton",
+      "brief_path": "issues/1978/layout/page_briefs/page_13_top_song_8.json"
+    },
+    {
+      "page_number": 14,
+      "page_slug": "top_song_9",
+      "title": "09. Shadow Dancing — Andy Gibb",
+      "brief_path": "issues/1978/layout/page_briefs/page_14_top_song_9.json"
+    },
+    {
+      "page_number": 15,
+      "page_slug": "top_song_10",
+      "title": "10. Boogie Oogie Oogie — A Taste Of Honey",
+      "brief_path": "issues/1978/layout/page_briefs/page_15_top_song_10.json"
+    },
+    {
+      "page_number": 16,
+      "page_slug": "movies",
+      "title": "Movies of the Year",
+      "brief_path": "issues/1978/layout/page_briefs/page_16_movies.json"
+    },
+    {
+      "page_number": 17,
+      "page_slug": "television",
+      "title": "Television of the Year",
+      "brief_path": "issues/1978/layout/page_briefs/page_17_television.json"
+    },
+    {
+      "page_number": 18,
+      "page_slug": "culture",
+      "title": "Culture Feature: Everyday 1978",
+      "brief_path": "issues/1978/layout/page_briefs/page_18_culture.json"
+    },
+    {
+      "page_number": 19,
+      "page_slug": "arcade",
+      "title": "Arcade / Technology",
+      "brief_path": "issues/1978/layout/page_briefs/page_19_arcade.json"
+    },
+    {
+      "page_number": 20,
+      "page_slug": "retro_ad",
+      "title": "Retro Ad",
+      "brief_path": "issues/1978/layout/page_briefs/page_20_retro_ad.json"
+    },
+    {
+      "page_number": 21,
+      "page_slug": "comic",
+      "title": "Comic Page",
+      "brief_path": "issues/1978/layout/page_briefs/page_21_comic.json"
+    },
+    {
+      "page_number": 22,
+      "page_slug": "puzzle",
+      "title": "Puzzle 1",
+      "brief_path": "issues/1978/layout/page_briefs/page_22_puzzle.json"
+    },
+    {
+      "page_number": 23,
+      "page_slug": "letters",
+      "title": "Letters",
+      "brief_path": "issues/1978/layout/page_briefs/page_23_letters.json"
+    },
+    {
+      "page_number": 24,
+      "page_slug": "forgotten_hit",
+      "title": "Almost Hits: Can't Smile Without You — Barry Manilow",
+      "brief_path": "issues/1978/layout/page_briefs/page_24_forgotten_hit.json"
+    },
+    {
+      "page_number": 25,
+      "page_slug": "one_hit_wonder",
+      "title": "One Hit Wonder",
+      "brief_path": "issues/1978/layout/page_briefs/page_25_one_hit_wonder.json"
+    },
+    {
+      "page_number": 26,
+      "page_slug": "album_spotlight",
+      "title": "Album Gravity: Saturday Night Fever — Soundtrack",
+      "brief_path": "issues/1978/layout/page_briefs/page_26_album_spotlight.json"
+    },
+    {
+      "page_number": 27,
+      "page_slug": "year_timeline",
+      "title": "The Week-by-Week Yearline",
+      "brief_path": "issues/1978/layout/page_briefs/page_27_year_timeline.json"
+    },
+    {
+      "page_number": 28,
+      "page_slug": "culture_collage",
+      "title": "Culture Collage",
+      "brief_path": "issues/1978/layout/page_briefs/page_28_culture_collage.json"
+    },
+    {
+      "page_number": 29,
+      "page_slug": "retro_ads_page",
+      "title": "Retro Ads Page",
+      "brief_path": "issues/1978/layout/page_briefs/page_29_retro_ads_page.json"
+    },
+    {
+      "page_number": 30,
+      "page_slug": "chart_top23",
+      "title": "RetroVerse Top 23",
+      "brief_path": "issues/1978/layout/page_briefs/page_30_chart_top23.json"
+    }
+  ]
+}

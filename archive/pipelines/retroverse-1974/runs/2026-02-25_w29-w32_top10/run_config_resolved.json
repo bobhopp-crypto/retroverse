@@ -1,0 +1,57 @@
+{
+  "run_id": "2026-02-25_w29-w32_top10",
+  "config_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/pipeline/config/pipeline_1974_w29_w32_top10.yaml",
+  "project_root": "/Users/bobhopp/Sites/retroverse/retroverse-1974",
+  "started_at": "2026-02-25T22:08:14.096438+00:00",
+  "config": {
+    "run_id": "2026-02-25_w29-w32_top10",
+    "db_path": "data/db/billboard-hot-100.db",
+    "weeks_csv": "data/weeks/weeks_1974_minimal.csv",
+    "context_path": "data/libraries/context_1974.json",
+    "weeks": [
+      30
+    ],
+    "top_n": 10,
+    "image": {
+      "width": 1080,
+      "height": 1920,
+      "format": "png"
+    },
+    "ambient": {
+      "max_lines": 2,
+      "k_weights": {
+        "0": 0.4,
+        "1": 0.4,
+        "2": 0.2
+      },
+      "soft_repeat_window": 12
+    },
+    "output_root": "out/1974",
+    "runs_root": "runs",
+    "render": {
+      "provider": "openai",
+      "model": "gpt-image-1",
+      "concurrency": 2,
+      "timeout_seconds": 180,
+      "fail_fast": false
+    },
+    "resume": {
+      "skip_if_image_exists": true,
+      "overwrite_sidecars": true
+    }
+  },
+  "resolved_paths": {
+    "db_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/data/db/billboard-hot-100.db",
+    "weeks_csv": "/Users/bobhopp/Sites/retroverse/retroverse-1974/data/weeks/weeks_1974_minimal.csv",
+    "context_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/data/libraries/context_1974.json",
+    "output_root": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974",
+    "runs_root": "/Users/bobhopp/Sites/retroverse/retroverse-1974/runs"
+  },
+  "created_output_folders": [
+    "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/week_30_1974-07-29_1974-08-04/top10"
+  ],
+  "schema_detection": {
+    "strategy": "event_join",
+    "note": "Detected join strategy event/event_entry/work using event.issue_date, event_entry.rank/weeks_on_chart/peak_pos, work.title_display, artist source p.\"name_display\"."
+  }
+}

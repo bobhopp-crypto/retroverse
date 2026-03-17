@@ -1,0 +1,510 @@
+{
+  "year": "1967",
+  "top_songs": [
+    {
+      "artist": "Lulu",
+      "title": "To Sir With Love",
+      "weeks": 17,
+      "peak": 1,
+      "score": 404
+    },
+    {
+      "artist": "The Association",
+      "title": "Windy",
+      "weeks": 14,
+      "peak": 1,
+      "score": 402
+    },
+    {
+      "artist": "Bobbie Gentry",
+      "title": "Ode To Billie Joe",
+      "weeks": 14,
+      "peak": 1,
+      "score": 373
+    },
+    {
+      "artist": "The Monkees",
+      "title": "I'm A Believer",
+      "weeks": 11,
+      "peak": 1,
+      "score": 365
+    },
+    {
+      "artist": "Nancy Sinatra",
+      "title": "Somethin' Stupid",
+      "weeks": 13,
+      "peak": 1,
+      "score": 365
+    },
+    {
+      "artist": "Frankie Valli",
+      "title": "Can't Take My Eyes Off You",
+      "weeks": 16,
+      "peak": 2,
+      "score": 356
+    },
+    {
+      "artist": "The Doors",
+      "title": "Light My Fire",
+      "weeks": 17,
+      "peak": 1,
+      "score": 351
+    },
+    {
+      "artist": "The Turtles",
+      "title": "Happy Together",
+      "weeks": 15,
+      "peak": 1,
+      "score": 338
+    },
+    {
+      "artist": "The Box Tops",
+      "title": "The Letter",
+      "weeks": 16,
+      "peak": 1,
+      "score": 334
+    },
+    {
+      "artist": "The Seekers",
+      "title": "Georgy Girl",
+      "weeks": 11,
+      "peak": 2,
+      "score": 333
+    },
+    {
+      "artist": "Aretha Franklin",
+      "title": "Respect",
+      "weeks": 12,
+      "peak": 1,
+      "score": 333
+    },
+    {
+      "artist": "The Young Rascals",
+      "title": "Groovin'",
+      "weeks": 13,
+      "peak": 1,
+      "score": 325
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "I Was Made To Love Her",
+      "weeks": 15,
+      "peak": 2,
+      "score": 317
+    },
+    {
+      "artist": "Strawberry Alarm Clock",
+      "title": "Incense And Peppermints",
+      "weeks": 14,
+      "peak": 1,
+      "score": 316
+    },
+    {
+      "artist": "The Music Explosion",
+      "title": "Little Bit O' Soul",
+      "weeks": 16,
+      "peak": 2,
+      "score": 301
+    },
+    {
+      "artist": "The Buckinghams",
+      "title": "Kind Of A Drag",
+      "weeks": 12,
+      "peak": 1,
+      "score": 295
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Love Is Here And Now You're Gone",
+      "weeks": 11,
+      "peak": 1,
+      "score": 295
+    },
+    {
+      "artist": "The Association",
+      "title": "Never My Love",
+      "weeks": 14,
+      "peak": 2,
+      "score": 293
+    },
+    {
+      "artist": "The Monkees",
+      "title": "A Little Bit Me, A Little Bit You",
+      "weeks": 10,
+      "peak": 2,
+      "score": 278
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Reflections",
+      "weeks": 11,
+      "peak": 2,
+      "score": 278
+    },
+    {
+      "artist": "Aaron Neville",
+      "title": "Tell It Like It Is",
+      "weeks": 9,
+      "peak": 2,
+      "score": 276
+    },
+    {
+      "artist": "The Supremes",
+      "title": "The Happening",
+      "weeks": 11,
+      "peak": 1,
+      "score": 274
+    },
+    {
+      "artist": "Arthur Conley",
+      "title": "Sweet Soul Music",
+      "weeks": 15,
+      "peak": 2,
+      "score": 271
+    },
+    {
+      "artist": "The Cowsills",
+      "title": "The Rain, The Park & Other Things",
+      "weeks": 14,
+      "peak": 2,
+      "score": 269
+    },
+    {
+      "artist": "The Mamas",
+      "title": "Dedicated To The One I Love",
+      "weeks": 10,
+      "peak": 2,
+      "score": 265
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Ruby Tuesday",
+      "weeks": 12,
+      "peak": 1,
+      "score": 262
+    },
+    {
+      "artist": "Blues Magoos",
+      "title": "(We Ain't Got) Nothin' Yet",
+      "weeks": 10,
+      "peak": 5,
+      "score": 259
+    },
+    {
+      "artist": "Bobby Vee And The Strangers",
+      "title": "Come Back When You Grow Up",
+      "weeks": 16,
+      "peak": 3,
+      "score": 258
+    },
+    {
+      "artist": "The Royal Guardsmen",
+      "title": "Snoopy Vs. The Red Baron",
+      "weeks": 9,
+      "peak": 2,
+      "score": 257
+    },
+    {
+      "artist": "Tommy James And The Shondells",
+      "title": "I Think We're Alone Now",
+      "weeks": 17,
+      "peak": 4,
+      "score": 257
+    },
+    {
+      "artist": "Procol Harum",
+      "title": "A Whiter Shade Of Pale",
+      "weeks": 12,
+      "peak": 5,
+      "score": 257
+    },
+    {
+      "artist": "The Beatles",
+      "title": "All You Need Is Love",
+      "weeks": 11,
+      "peak": 1,
+      "score": 255
+    },
+    {
+      "artist": "Soul Survivors",
+      "title": "Expressway (To Your Heart)",
+      "weeks": 15,
+      "peak": 4,
+      "score": 244
+    },
+    {
+      "artist": "The Monkees",
+      "title": "Daydream Believer",
+      "weeks": 7,
+      "peak": 1,
+      "score": 242
+    },
+    {
+      "artist": "Bobby Vinton",
+      "title": "Please Love Me Forever",
+      "weeks": 13,
+      "peak": 6,
+      "score": 240
+    },
+    {
+      "artist": "Sam",
+      "title": "Soul Man",
+      "weeks": 15,
+      "peak": 2,
+      "score": 239
+    },
+    {
+      "artist": "The Monkees",
+      "title": "Pleasant Valley Sunday",
+      "weeks": 10,
+      "peak": 3,
+      "score": 230
+    },
+    {
+      "artist": "Dionne Warwick",
+      "title": "I Say A Little Prayer",
+      "weeks": 11,
+      "peak": 4,
+      "score": 228
+    },
+    {
+      "artist": "Aretha Franklin",
+      "title": "Baby I Love You",
+      "weeks": 11,
+      "peak": 4,
+      "score": 223
+    },
+    {
+      "artist": "Paul Revere",
+      "title": "Good Thing",
+      "weeks": 7,
+      "peak": 4,
+      "score": 215
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "The Association",
+      "hits": 2
+    },
+    {
+      "artist": "The Monkees",
+      "hits": 4
+    },
+    {
+      "artist": "Aretha Franklin",
+      "hits": 2
+    },
+    {
+      "artist": "The Supremes",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Lulu",
+      "title": "To Sir With Love",
+      "weeks": 17,
+      "peak": 1,
+      "score": 404
+    },
+    {
+      "artist": "The Doors",
+      "title": "Light My Fire",
+      "weeks": 17,
+      "peak": 1,
+      "score": 351
+    },
+    {
+      "artist": "Tommy James And The Shondells",
+      "title": "I Think We're Alone Now",
+      "weeks": 17,
+      "peak": 4,
+      "score": 257
+    },
+    {
+      "artist": "Jay And The Techniques",
+      "title": "Apples, Peaches, Pumpkin Pie",
+      "weeks": 17,
+      "peak": 6,
+      "score": 108
+    },
+    {
+      "artist": "Dionne Warwick",
+      "title": "Alfie",
+      "weeks": 17,
+      "peak": 15,
+      "score": -76
+    },
+    {
+      "artist": "Davie Allan And The Arrows",
+      "title": "Blue's Theme",
+      "weeks": 17,
+      "peak": 37,
+      "score": -456
+    },
+    {
+      "artist": "Frankie Valli",
+      "title": "Can't Take My Eyes Off You",
+      "weeks": 16,
+      "peak": 2,
+      "score": 356
+    },
+    {
+      "artist": "The Box Tops",
+      "title": "The Letter",
+      "weeks": 16,
+      "peak": 1,
+      "score": 334
+    },
+    {
+      "artist": "The Music Explosion",
+      "title": "Little Bit O' Soul",
+      "weeks": 16,
+      "peak": 2,
+      "score": 301
+    },
+    {
+      "artist": "Bobby Vee And The Strangers",
+      "title": "Come Back When You Grow Up",
+      "weeks": 16,
+      "peak": 3,
+      "score": 258
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Lulu",
+      "title": "To Sir With Love",
+      "weeks": 17,
+      "peak": 1,
+      "score": 404
+    },
+    {
+      "artist": "The Association",
+      "title": "Windy",
+      "weeks": 14,
+      "peak": 1,
+      "score": 402
+    },
+    {
+      "artist": "Bobbie Gentry",
+      "title": "Ode To Billie Joe",
+      "weeks": 14,
+      "peak": 1,
+      "score": 373
+    },
+    {
+      "artist": "The Monkees",
+      "title": "I'm A Believer",
+      "weeks": 11,
+      "peak": 1,
+      "score": 365
+    },
+    {
+      "artist": "Nancy Sinatra",
+      "title": "Somethin' Stupid",
+      "weeks": 13,
+      "peak": 1,
+      "score": 365
+    },
+    {
+      "artist": "The Doors",
+      "title": "Light My Fire",
+      "weeks": 17,
+      "peak": 1,
+      "score": 351
+    },
+    {
+      "artist": "The Turtles",
+      "title": "Happy Together",
+      "weeks": 15,
+      "peak": 1,
+      "score": 338
+    },
+    {
+      "artist": "The Box Tops",
+      "title": "The Letter",
+      "weeks": 16,
+      "peak": 1,
+      "score": 334
+    },
+    {
+      "artist": "Aretha Franklin",
+      "title": "Respect",
+      "weeks": 12,
+      "peak": 1,
+      "score": 333
+    },
+    {
+      "artist": "The Young Rascals",
+      "title": "Groovin'",
+      "weeks": 13,
+      "peak": 1,
+      "score": 325
+    },
+    {
+      "artist": "Strawberry Alarm Clock",
+      "title": "Incense And Peppermints",
+      "weeks": 14,
+      "peak": 1,
+      "score": 316
+    },
+    {
+      "artist": "The Buckinghams",
+      "title": "Kind Of A Drag",
+      "weeks": 12,
+      "peak": 1,
+      "score": 295
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Love Is Here And Now You're Gone",
+      "weeks": 11,
+      "peak": 1,
+      "score": 295
+    },
+    {
+      "artist": "The Supremes",
+      "title": "The Happening",
+      "weeks": 11,
+      "peak": 1,
+      "score": 274
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Ruby Tuesday",
+      "weeks": 12,
+      "peak": 1,
+      "score": 262
+    },
+    {
+      "artist": "The Beatles",
+      "title": "All You Need Is Love",
+      "weeks": 11,
+      "peak": 1,
+      "score": 255
+    },
+    {
+      "artist": "The Monkees",
+      "title": "Daydream Believer",
+      "weeks": 7,
+      "peak": 1,
+      "score": 242
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Penny Lane",
+      "weeks": 10,
+      "peak": 1,
+      "score": 213
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Hello Goodbye",
+      "weeks": 5,
+      "peak": 1,
+      "score": 145
+    }
+  ]
+}

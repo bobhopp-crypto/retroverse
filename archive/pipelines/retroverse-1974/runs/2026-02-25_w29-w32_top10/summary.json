@@ -1,0 +1,52 @@
+{
+  "run_id": "2026-02-25_w29-w32_top10",
+  "started_at": "2026-02-25T22:08:14.096438+00:00",
+  "completed_at": "2026-02-25T22:12:34.593249+00:00",
+  "elapsed_seconds": 260.499,
+  "steps": {
+    "extract": {
+      "run_id": "2026-02-25_w29-w32_top10",
+      "spine_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/runs/2026-02-25_w29-w32_top10/spine.csv",
+      "row_count": 10,
+      "schema_detection": {
+        "strategy": "event_join",
+        "note": "Detected join strategy event/event_entry/work using event.issue_date, event_entry.rank/weeks_on_chart/peak_pos, work.title_display, artist source p.\"name_display\"."
+      }
+    },
+    "ambient": {
+      "run_id": "2026-02-25_w29-w32_top10",
+      "ambient_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/runs/2026-02-25_w29-w32_top10/ambient.csv",
+      "row_count": 10,
+      "k_distribution": {
+        "0": 3,
+        "1": 6,
+        "2": 1
+      }
+    },
+    "build": {
+      "run_id": "2026-02-25_w29-w32_top10",
+      "prompts_jsonl_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/runs/2026-02-25_w29-w32_top10/prompts.jsonl",
+      "batch_log_csv_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/runs/2026-02-25_w29-w32_top10/batch_log.csv",
+      "batch_log_jsonl_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/runs/2026-02-25_w29-w32_top10/batch_log.jsonl",
+      "record_count": 10
+    },
+    "render": {
+      "run_id": "2026-02-25_w29-w32_top10",
+      "record_count": 10,
+      "status_counts": {
+        "success": 10
+      },
+      "batch_log_jsonl_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/runs/2026-02-25_w29-w32_top10/batch_log.jsonl",
+      "errors_jsonl_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/runs/2026-02-25_w29-w32_top10/errors.jsonl",
+      "render_enabled": true
+    },
+    "validate": {
+      "run_id": "2026-02-25_w29-w32_top10",
+      "validation_report_path": "/Users/bobhopp/Sites/retroverse/retroverse-1974/runs/2026-02-25_w29-w32_top10/validation_report.json",
+      "status": "pass",
+      "expected_cards": 10,
+      "image_files_existing": 10
+    }
+  },
+  "status": "pass"
+}

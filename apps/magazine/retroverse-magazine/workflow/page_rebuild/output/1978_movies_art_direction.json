@@ -1,0 +1,133 @@
+{
+  "year": 1978,
+  "page_slug": "movies",
+  "page_number": 16,
+  "page_title": "1978 Movies of the Year",
+  "story_subtitle": "Screen-Year Pulse: Grease",
+  "page_purpose": "Rebuild page 16 as a single portrait editorial movie feature that uses the finalized `Screen-Year Pulse: Grease` story as the primary text layer, grounds the page in verified 1978 movie rankings and soundtrack crossover facts, and reserves clean overlay zones so illustration can remain text-free until layout.",
+  "page_intent_readback": "Read this as a whole page, not a spot illustration: page 16 is a single-page movie feature whose text is already written and whose art must support the Grease-led 1978 screen mood without taking over the title/body/sidebar zones.",
+  "composition_type": "full-page editorial background with right-heavy focal scene and protected overlay zones",
+  "page_orientation": "portrait",
+  "page_aware_design": true,
+  "art_zone_dimensions": [
+    {
+      "id": "full_page_background",
+      "label": "Full Page Background",
+      "x": 0,
+      "y": 0,
+      "width": 100,
+      "height": 100,
+      "unit": "percent",
+      "purpose": "Artwork layer that lives behind all final layout text."
+    },
+    {
+      "id": "focal_scene_zone",
+      "label": "Focal Scene",
+      "x": 60,
+      "y": 9,
+      "width": 31,
+      "height": 34,
+      "unit": "percent",
+      "purpose": "Primary theater/marquee/crowd action zone."
+    },
+    {
+      "id": "supporting_texture_zone",
+      "label": "Supporting Texture",
+      "x": 63,
+      "y": 46,
+      "width": 28,
+      "height": 34,
+      "unit": "percent",
+      "purpose": "Secondary poster, ticket, sidewalk, and atmosphere detail without crowding the sidebar safe zone."
+    }
+  ],
+  "text_safe_zones": [
+    {
+      "id": "title_zone",
+      "label": "Title Block",
+      "x": 7,
+      "y": 6,
+      "width": 54,
+      "height": 14,
+      "unit": "percent",
+      "purpose": "Title, subtitle, byline, and deck overlay area."
+    },
+    {
+      "id": "body_zone",
+      "label": "Body Copy",
+      "x": 7,
+      "y": 24,
+      "width": 58,
+      "height": 62,
+      "unit": "percent",
+      "purpose": "Two-column article body overlay area."
+    },
+    {
+      "id": "sidebar_zone",
+      "label": "Sidebar / Stat Box",
+      "x": 68,
+      "y": 49,
+      "width": 23,
+      "height": 28,
+      "unit": "percent",
+      "purpose": "Verified facts and ranking sidebar overlay area."
+    },
+    {
+      "id": "footer_zone",
+      "label": "Footer",
+      "x": 7,
+      "y": 93,
+      "width": 86,
+      "height": 3,
+      "unit": "percent",
+      "purpose": "Page number and issue footer overlay area."
+    }
+  ],
+  "mood": "crowded, cinematic, rain-slick, editorial, anticipatory",
+  "color_palette": [
+    {
+      "name": "Marquee Red",
+      "hex": "#b64635",
+      "usage": "Hero glow and warm headline-adjacent energy."
+    },
+    {
+      "name": "Projector Gold",
+      "hex": "#d2a34d",
+      "usage": "Marquee bulbs, ticket booth warmth, reflected light."
+    },
+    {
+      "name": "CRT Teal",
+      "hex": "#2f7e86",
+      "usage": "Cool balancing accents and street-night contrast."
+    },
+    {
+      "name": "Newsprint Cream",
+      "hex": "#efe2c6",
+      "usage": "Quiet negative-space base behind overlay text."
+    },
+    {
+      "name": "Ink Brown",
+      "hex": "#41342b",
+      "usage": "Line work, shadow structure, and print texture."
+    }
+  ],
+  "scene_description": "Design a full-page 1978 movie feature scene outside a theater at dusk or night. Grease is the emotional anchor, but the page should feel like a broader screen-year mood piece, not a single-poster tribute. Use a marquee, ticket window, queueing moviegoers, wet pavement reflections, and supporting poster-case or reel details to suggest the pull of Grease, Superman, and Animal House. Keep the upper-left and lower-left fields quieter so the real title and body copy can sit over the illustration cleanly. Use the right side for the highest contrast and the strongest narrative action.",
+  "visual_hierarchy": [
+    "The marquee and crowd line dominate the upper-right focal scene.",
+    "Ticket booth, poster cases, and reflected sidewalk light support the moviegoing story without taking over safe zones.",
+    "Left-side paper tone and simpler texture stay calm for title and body overlays.",
+    "Lower-right background texture supports the sidebar box but does not compete with its final text."
+  ],
+  "optional_easter_egg_guidance": "Optional and subtle: hide the word 'RetroVerse' only as a tiny environmental Easter egg. It must never behave like headline copy, body text, or page furniture.",
+  "environmental_text_policy": "Only minimal environmental/signage text is allowed if it feels natural to the scene and remains tiny, sparse, and clearly secondary. Suggested examples: a small 'Tickets' sign or tiny showtime numerals.",
+  "forbidden_rendering": [
+    "article body text",
+    "charts/tables",
+    "exact production typography",
+    "page title and subtitle",
+    "byline text",
+    "sidebar labels and stat text",
+    "page number"
+  ],
+  "text_rendering_instruction": "DO NOT RENDER FINAL TEXT INTO THE ARTWORK"
+}

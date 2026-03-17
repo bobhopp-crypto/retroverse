@@ -1,0 +1,4 @@
+{
+  "strategy": "event_join",
+  "note": "Detected join strategy event/event_entry/work using event.issue_date, event_entry.rank/weeks_on_chart/peak_pos, work.title_display, artist source p.\"name_display\"."
+}

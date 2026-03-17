@@ -1,0 +1,101 @@
+rv_rank,title,artist,total_score,weekly_score_top26,peak_bonus,peak_rank,weeks_on_chart,weeks_in_top_10,weeks_in_top_40,first_chart_date,last_chart_date
+1,To Sir With Love,Lulu,8902.6590,8782.6590,120,1,17,9,15,1967-09-09,1967-12-30
+2,Light My Fire,The Doors,8570.8952,8450.8952,120,1,17,9,14,1967-06-03,1967-09-23
+3,Can't Take My Eyes Off You,Frankie Valli,8087.1766,8012.1766,75,2,16,8,14,1967-05-20,1967-09-02
+4,The Letter,The Box Tops,8041.1259,7921.1259,120,1,16,8,13,1967-08-12,1967-11-25
+5,Windy,The Association,7879.2687,7759.2687,120,1,14,9,13,1967-05-27,1967-08-26
+6,Happy Together,The Turtles,7772.7158,7652.7158,120,1,15,9,12,1967-02-11,1967-05-20
+7,Little Bit O' Soul,The Music Explosion,7771.4223,7696.4223,75,2,16,9,13,1967-05-13,1967-08-26
+8,Ode To Billie Joe,Bobbie Gentry,7695.4368,7575.4368,120,1,14,9,12,1967-08-05,1967-11-04
+9,I Think We're Alone Now,Tommy James And The Shondells,7576.6268,7536.6268,40,4,17,6,12,1967-02-11,1967-06-03
+10,I Was Made To Love Her,Stevie Wonder,7423.1413,7348.1413,75,2,15,7,12,1967-06-10,1967-09-16
+11,Come Back When You Grow Up,Bobby Vee And The Strangers,7420.8035,7345.8035,75,3,16,7,13,1967-07-22,1967-11-04
+12,Incense And Peppermints,Strawberry Alarm Clock,7277.6199,7157.6199,120,1,14,9,12,1967-09-30,1967-12-30
+13,Somethin' Stupid,Nancy Sinatra,7269.3779,7149.3779,120,1,13,9,11,1967-03-18,1967-06-10
+14,Sweet Soul Music,Arthur Conley,7112.8418,7037.8418,75,2,15,7,11,1967-03-11,1967-06-17
+15,Groovin',The Young Rascals,7038.9764,6918.9764,120,1,13,9,11,1967-04-22,1967-07-15
+16,Never My Love,The Association,7036.1240,6961.1240,75,2,14,8,11,1967-08-26,1967-11-25
+17,Soul Man,Sam,6929.1775,6854.1775,75,2,15,8,11,1967-09-09,1967-12-16
+18,"The Rain, The Park & Other Things",The Cowsills,6864.8008,6789.8008,75,2,14,8,11,1967-09-30,1967-12-30
+19,Expressway (To Your Heart),Soul Survivors,6841.2015,6801.2015,40,4,15,6,12,1967-09-02,1967-12-09
+20,Respect,Aretha Franklin,6669.6617,6549.6617,120,1,12,7,11,1967-04-29,1967-07-15
+21,I'm A Believer,The Monkees,6659.3873,6539.3873,120,1,11,9,10,1967-01-07,1967-03-18
+22,"Apples, Peaches, Pumpkin Pie",Jay And The Techniques,6622.3585,6607.3585,15,6,17,5,11,1967-07-15,1967-11-04
+23,Come On Down To My Boat,Every Mothers' Son,6497.0070,6482.0070,15,6,15,4,12,1967-05-06,1967-08-12
+24,Kind Of A Drag,The Buckinghams,6391.3603,6271.3603,120,1,12,7,10,1967-01-07,1967-03-25
+25,It Must Be Him,Vikki Carr,6337.1657,6262.1657,75,3,15,6,11,1967-09-02,1967-12-09
+26,Georgy Girl,The Seekers,6313.4851,6238.4851,75,2,11,8,11,1967-01-07,1967-03-18
+27,Ruby Tuesday,The Rolling Stones,6160.4854,6040.4854,120,1,12,7,9,1967-01-21,1967-04-08
+28,Please Love Me Forever,Bobby Vinton,6076.4957,6061.4957,15,6,13,5,11,1967-09-30,1967-12-23
+29,Release Me (And Let Me Love Again),Engelbert Humperdinck,6065.9207,6025.9207,40,4,14,5,10,1967-04-08,1967-07-08
+30,"For What It's Worth (Stop, Hey What's That Sound)",Buffalo Springfield,6053.7036,6038.7036,15,7,15,2,11,1967-01-28,1967-05-06
+31,Love Is Here And Now You're Gone,The Supremes,6017.3025,5897.3025,120,1,11,7,10,1967-01-28,1967-04-08
+32,Gimme Little Sign,Brenton Wood,5992.3765,5977.3765,15,9,15,3,10,1967-08-12,1967-11-18
+33,A Whiter Shade Of Pale,Procol Harum,5986.1310,5946.1310,40,5,12,7,10,1967-06-24,1967-09-09
+34,I Got Rhythm,The Happenings,5876.3080,5801.3080,75,3,13,6,9,1967-04-08,1967-07-01
+35,Reflections,Diana Ross,5872.1878,5797.1878,75,2,11,7,10,1967-08-12,1967-10-21
+36,The Happening,The Supremes,5859.5009,5739.5009,120,1,11,6,10,1967-04-08,1967-06-17
+37,Your Precious Love,Marvin Gaye,5829.8563,5789.8563,40,5,13,5,10,1967-09-09,1967-12-02
+38,All You Need Is Love,The Beatles,5761.2938,5641.2938,120,1,11,7,9,1967-07-22,1967-09-30
+39,Somebody To Love,Jefferson Airplane,5716.1988,5676.1988,40,5,15,4,9,1967-04-01,1967-07-08
+40,San Francisco (Be Sure To Wear Flowers In Your Hair),Scott Mckenzie,5698.0233,5658.0233,40,4,12,5,10,1967-05-27,1967-08-12
+41,Jimmy Mack,Martha,5656.8855,5641.8855,15,10,14,3,10,1967-02-25,1967-05-27
+42,Then You Can Tell Me Goodbye,The Casinos,5603.6548,5588.6548,15,6,13,4,10,1967-01-14,1967-04-08
+43,Brown Eyed Girl,Van Morrison,5588.1280,5573.1280,15,10,16,1,10,1967-07-15,1967-10-28
+44,Don't You Care,The Buckinghams,5559.6758,5544.6758,15,6,14,3,10,1967-03-11,1967-06-10
+45,Get On Up,The Esquires,5553.3759,5553.3759,0,11,15,0,10,1967-08-19,1967-11-25
+46,This Is My Song,Petula Clark,5541.5645,5466.5645,75,3,12,5,9,1967-03-04,1967-05-20
+47,"A Little Bit Me, A Little Bit You",The Monkees,5521.0677,5446.0677,75,2,10,6,10,1967-03-25,1967-05-27
+48,My Cup Runneth Over,Ed Ames,5424.9295,5409.9295,15,8,13,3,10,1967-01-21,1967-04-15
+49,Dedicated To The One I Love,The Mamas,5418.0071,5343.0071,75,2,10,6,9,1967-02-25,1967-04-29
+50,"Mercy, Mercy, Mercy",The Buckinghams,5416.0541,5376.0541,40,5,12,4,10,1967-06-17,1967-09-02
+51,I Say A Little Prayer,Dionne Warwick,5411.8801,5371.8801,40,4,11,6,9,1967-10-21,1967-12-30
+52,There's A Kind Of Hush,Herman's Hermits,5411.0513,5371.0513,40,4,12,4,9,1967-02-11,1967-04-29
+53,On A Carousel,The Hollies,5398.7468,5398.7468,0,11,14,0,9,1967-03-18,1967-06-17
+54,Baby I Love You,Aretha Franklin,5389.7829,5349.7829,40,4,11,5,8,1967-07-22,1967-09-30
+55,Up -- Up And Away,The 5th Dimension,5377.5998,5362.5998,15,7,12,4,10,1967-06-03,1967-08-19
+56,(Your Love Keeps Lifting Me) Higher And Higher,Jackie Wilson,5375.8477,5360.8477,15,6,12,4,9,1967-08-12,1967-10-28
+57,You're My Everything,The Temptations,5332.4598,5317.4598,15,6,12,5,9,1967-07-29,1967-10-14
+58,I Heard It Through The Grapevine,Gladys Knight And The Pips,5312.9469,5237.9469,75,2,11,5,9,1967-10-21,1967-12-30
+59,Carrie-Anne,The Hollies,5312.8926,5297.8926,15,9,13,1,10,1967-06-17,1967-09-09
+60,Silence Is Golden,The Tremeloes,5307.4646,5307.4646,0,11,14,0,10,1967-06-17,1967-09-16
+61,(We Ain't Got) Nothin' Yet,Blues Magoos,5281.5335,5241.5335,40,5,10,5,10,1967-01-07,1967-03-11
+62,Baby I Need Your Lovin',Johnny Rivers,5255.5036,5180.5036,75,3,11,5,8,1967-02-04,1967-04-15
+63,Western Union,The Five Americans,5220.7760,5180.7760,40,5,12,5,9,1967-03-04,1967-05-20
+64,Tell It Like It Is,Aaron Neville,5212.1209,5137.1209,75,2,9,7,8,1967-01-07,1967-03-04
+65,How Can I Be Sure,The Young Rascals,5194.1012,5154.1012,40,4,11,4,9,1967-09-09,1967-11-18
+66,Penny Lane,The Beatles,5113.8495,4993.8495,120,1,10,5,9,1967-02-25,1967-04-29
+67,Pleasant Valley Sunday,The Monkees,5109.5539,5034.5539,75,3,10,5,9,1967-07-22,1967-09-23
+68,Alfie,Dionne Warwick,5062.5506,5062.5506,0,15,17,0,9,1967-04-08,1967-07-29
+69,Snoopy Vs. The Red Baron,The Royal Guardsmen,5058.7059,4983.7059,75,2,9,6,8,1967-01-07,1967-03-04
+70,I've Been Lonely Too Long,The Young Rascals,5043.3341,5043.3341,0,16,14,0,9,1967-01-28,1967-04-29
+71,Sock It To Me-Baby!,Mitch Ryder And The Detroit Wheels,4993.2524,4978.2524,15,6,11,4,9,1967-02-04,1967-04-15
+72,Gimme Some Lovin',The Spencer Davis Group,4890.4225,4875.4225,15,7,12,3,9,1967-01-07,1967-03-25
+73,Boogaloo Down Broadway,The Fantastic Johnny C,4882.5561,4867.5561,15,7,13,3,9,1967-10-07,1967-12-30
+74,98.6,Keith,4869.5228,4854.5228,15,7,10,3,9,1967-01-07,1967-03-11
+75,I Never Loved A Man (The Way I Love You),Aretha Franklin,4868.9375,4853.9375,15,9,11,2,9,1967-03-04,1967-05-13
+76,I Can See For Miles,The Who,4865.6947,4850.6947,15,9,11,3,9,1967-10-14,1967-12-23
+77,Bernadette,Four Tops,4861.6185,4821.6185,40,4,10,5,8,1967-03-11,1967-05-13
+78,She'd Rather Be With Me,The Turtles,4859.7468,4784.7468,75,3,11,4,8,1967-05-13,1967-07-22
+79,Let's Live For Today,The Grass Roots,4835.9058,4820.9058,15,8,12,3,9,1967-05-13,1967-07-29
+80,Funky Broadway,Wilson Pickett,4822.9042,4807.9042,15,8,12,3,9,1967-08-05,1967-10-21
+81,Close Your Eyes,Peaches,4814.2426,4799.2426,15,8,12,3,9,1967-03-25,1967-06-10
+82,Let It Out (Let It All Hang Out),The Hombres,4781.7336,4781.7336,0,12,13,0,10,1967-09-16,1967-12-09
+83,California Nights,Lesley Gore,4763.3172,4763.3172,0,16,14,0,9,1967-02-04,1967-05-06
+84,Little Ole Man (Uptight-Everything's Alright),Bill Cosby,4729.2042,4689.2042,40,4,11,3,8,1967-09-02,1967-11-11
+85,Friday On My Mind,The Easybeats,4727.2141,4727.2141,0,16,14,0,8,1967-03-18,1967-06-17
+86,The Beat Goes On,Sonny,4701.3359,4686.3359,15,6,11,4,8,1967-01-14,1967-03-25
+87,Cold Sweat - Part 1,James Brown And The Famous Flames,4669.2301,4654.2301,15,7,12,3,8,1967-07-15,1967-09-30
+88,Soul Finger,Bar-kays,4658.3400,4658.3400,0,17,15,0,9,1967-05-20,1967-08-26
+89,White Rabbit,Jefferson Airplane,4616.4526,4601.4526,15,8,10,2,9,1967-06-24,1967-08-26
+90,"Girl, You'll Be A Woman Soon",Neil Diamond,4517.1469,4502.1469,15,10,11,1,8,1967-04-08,1967-06-17
+91,Here Comes My Baby,The Tremeloes,4478.4816,4478.4816,0,13,12,0,8,1967-04-08,1967-06-24
+92,Here We Go Again,Ray Charles,4473.2505,4473.2505,0,15,12,0,9,1967-05-20,1967-08-05
+93,I Dig Rock And Roll Music,"Peter, Paul",4448.6805,4433.6805,15,9,11,2,8,1967-08-19,1967-10-28
+94,I Had Too Much To Dream (Last Night),The Electric Prunes,4420.9037,4420.9037,0,11,10,0,8,1967-01-07,1967-03-11
+95,I Take It Back,Sandy Posey,4403.4670,4403.4670,0,12,12,0,8,1967-06-10,1967-08-26
+96,Society's Child (Baby I've Been Thinking),Janis Ian,4391.9929,4391.9929,0,14,12,0,8,1967-05-27,1967-08-12
+97,Daydream Believer,The Monkees,4373.8155,4253.8155,120,1,7,6,7,1967-11-18,1967-12-30
+98,Don't Sleep In The Subway,Petula Clark,4349.3824,4309.3824,40,5,10,3,7,1967-06-03,1967-08-05
+99,Ain't No Mountain High Enough,Marvin Gaye,4346.4382,4346.4382,0,19,12,0,9,1967-05-13,1967-07-29
+100,All I Need,The Temptations,4309.4548,4294.4548,15,8,10,3,8,1967-04-29,1967-07-01

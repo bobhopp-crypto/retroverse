@@ -1,0 +1,39 @@
+{
+  "run_id": "2026-02-26_w30_top3_authentic_print_1974_v1_720x1280",
+  "style_version": "authentic_print_1974_v1",
+  "week_number": 30,
+  "date_range_start": "1974-07-29",
+  "date_range_end": "1974-08-04",
+  "chart_date": "1974-08-03",
+  "rank": 2,
+  "title": "Don't Let The Sun Go Down On Me",
+  "artist": "Elton John",
+  "weeks_on_chart": 7,
+  "peak_position": 2,
+  "ambient_lines": [],
+  "layout_logic_resolved": "Large ceremonial rank display. Song title dominant. Artist name secondary. Weeks on chart and peak position in simple boxed panels. Subtle decorative frame appropriate to 1974 print design.",
+  "strict_injected_variables": {
+    "rank": 2,
+    "title": "Don't Let The Sun Go Down On Me",
+    "artist": "Elton John",
+    "weeks_on_chart": 7,
+    "peak_position": 2,
+    "ambient_lines": []
+  },
+  "negative_block_enforced": [
+    "no gradients",
+    "no glow",
+    "no photorealism",
+    "no cinematic lighting",
+    "no realistic faces",
+    "no modern digital rendering style"
+  ],
+  "prompt_text": "Create a vertical 720x1280 collectible chart card designed as a printed promotional artifact from 1974.\n\nStyle: authentic 1970s print design. Limited ink palette (3-4 colors max). Flat ink fills only. No gradients. No glow. No photorealism. No cinematic lighting.\n\nInclude subtle paper grain and slight ink registration imperfections. The image must feel physically printed on textured paper.\n\nIllustration: hand-inked, symbolic, minimal detail. Flat shading. No realistic faces. No modern digital rendering style.\n\nTypography: bold period-authentic serif. Strong hierarchy. Slightly imperfect print alignment allowed. Must be legible.\n\nLayout:\n\nLarge ceremonial rank display.\nSong title dominant.\nArtist name secondary.\nWeeks on chart and peak position in simple boxed panels.\nSubtle decorative frame appropriate to 1974 print design.\n\nContent:\nRank: 2\nTitle: Don't Let The Sun Go Down On Me\nArtist: Elton John\nWeeks on Chart: 7\nPeak Position: 2\nAmbient lines (neutral historical context only):\n\n\nThe result must look like a real printed chart card that could have existed in 1974.\n\nResolved layout logic (computed in code): Large ceremonial rank display. Song title dominant. Artist name secondary. Weeks on chart and peak position in simple boxed panels. Subtle decorative frame appropriate to 1974 print design.\nRender resolution override for this run: 720x1280.\nStyle version pin: authentic_print_1974_v1.\nNegative block (enforced): no gradients, no glow, no photorealism, no cinematic lighting, no realistic faces, no modern digital rendering style.\n",
+  "basename": "1974_W30_1974-08-03_R02_don-t-let-the-sun-go-down-on-me__elton-john",
+  "output_paths": {
+    "prompt_txt": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/authentic_print_1974_v1/week_30_1974-07-29_1974-08-04/top3/prompts/1974_W30_1974-08-03_R02_don-t-let-the-sun-go-down-on-me__elton-john.txt",
+    "meta_json": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/authentic_print_1974_v1/week_30_1974-07-29_1974-08-04/top3/meta/1974_W30_1974-08-03_R02_don-t-let-the-sun-go-down-on-me__elton-john.json",
+    "image_png": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/authentic_print_1974_v1/week_30_1974-07-29_1974-08-04/top3/images/1974_W30_1974-08-03_R02_don-t-let-the-sun-go-down-on-me__elton-john.png",
+    "render_log_json": "/Users/bobhopp/Sites/retroverse/retroverse-1974/out/1974/authentic_print_1974_v1/week_30_1974-07-29_1974-08-04/top3/logs/1974_W30_1974-08-03_R02_don-t-let-the-sun-go-down-on-me__elton-john.render.json"
+  }
+}

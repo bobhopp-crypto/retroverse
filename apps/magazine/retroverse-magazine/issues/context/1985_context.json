@@ -1,0 +1,574 @@
+{
+  "year": "1985",
+  "top_songs": [
+    {
+      "artist": "Stevie Wonder",
+      "title": "Part-Time Lover",
+      "weeks": 17,
+      "peak": 1,
+      "score": 365
+    },
+    {
+      "artist": "Phil Collins And Marilyn Martin",
+      "title": "Separate Lives",
+      "weeks": 13,
+      "peak": 1,
+      "score": 353
+    },
+    {
+      "artist": "Starship",
+      "title": "We Built This City",
+      "weeks": 17,
+      "peak": 1,
+      "score": 332
+    },
+    {
+      "artist": "Reo Speedwagon",
+      "title": "Can't Fight This Feeling",
+      "weeks": 18,
+      "peak": 1,
+      "score": 330
+    },
+    {
+      "artist": "Wham!",
+      "title": "Careless Whisper",
+      "weeks": 19,
+      "peak": 1,
+      "score": 326
+    },
+    {
+      "artist": "Glenn Frey",
+      "title": "You Belong To The City",
+      "weeks": 16,
+      "peak": 2,
+      "score": 311
+    },
+    {
+      "artist": "Jan Hammer",
+      "title": "Miami Vice Theme",
+      "weeks": 17,
+      "peak": 1,
+      "score": 308
+    },
+    {
+      "artist": "Huey Lewis",
+      "title": "The Power Of Love",
+      "weeks": 19,
+      "peak": 1,
+      "score": 300
+    },
+    {
+      "artist": "Foreigner",
+      "title": "I Want To Know What Love Is",
+      "weeks": 17,
+      "peak": 1,
+      "score": 299
+    },
+    {
+      "artist": "Prince And The Revolution",
+      "title": "Raspberry Beret",
+      "weeks": 17,
+      "peak": 2,
+      "score": 271
+    },
+    {
+      "artist": "Heart",
+      "title": "Never",
+      "weeks": 16,
+      "peak": 4,
+      "score": 268
+    },
+    {
+      "artist": "Duran Duran",
+      "title": "A View To A Kill",
+      "weeks": 17,
+      "peak": 1,
+      "score": 265
+    },
+    {
+      "artist": "Phil Collins",
+      "title": "Sussudio",
+      "weeks": 17,
+      "peak": 1,
+      "score": 261
+    },
+    {
+      "artist": "Thompson Twins",
+      "title": "Lay Your Hands On Me",
+      "weeks": 15,
+      "peak": 6,
+      "score": 260
+    },
+    {
+      "artist": "Madonna",
+      "title": "Crazy For You",
+      "weeks": 21,
+      "peak": 1,
+      "score": 259
+    },
+    {
+      "artist": "Aretha Franklin",
+      "title": "Who's Zoomin' Who",
+      "weeks": 14,
+      "peak": 7,
+      "score": 259
+    },
+    {
+      "artist": "Tears For Fears",
+      "title": "Head Over Heels",
+      "weeks": 16,
+      "peak": 3,
+      "score": 256
+    },
+    {
+      "artist": "Mr. Mister",
+      "title": "Broken Wings",
+      "weeks": 15,
+      "peak": 1,
+      "score": 256
+    },
+    {
+      "artist": "Bryan Adams",
+      "title": "Heaven",
+      "weeks": 19,
+      "peak": 1,
+      "score": 254
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "Saving All My Love For You",
+      "weeks": 20,
+      "peak": 1,
+      "score": 240
+    },
+    {
+      "artist": "Arcadia",
+      "title": "Election Day",
+      "weeks": 10,
+      "peak": 6,
+      "score": 232
+    },
+    {
+      "artist": "Sting",
+      "title": "If You Love Somebody Set Them Free",
+      "weeks": 18,
+      "peak": 3,
+      "score": 230
+    },
+    {
+      "artist": "Tears For Fears",
+      "title": "Shout",
+      "weeks": 19,
+      "peak": 1,
+      "score": 230
+    },
+    {
+      "artist": "Zz Top",
+      "title": "Sleeping Bag",
+      "weeks": 11,
+      "peak": 8,
+      "score": 226
+    },
+    {
+      "artist": "Phil Collins",
+      "title": "One More Night",
+      "weeks": 18,
+      "peak": 1,
+      "score": 224
+    },
+    {
+      "artist": "Simple Minds",
+      "title": "Alive & Kicking",
+      "weeks": 11,
+      "peak": 3,
+      "score": 224
+    },
+    {
+      "artist": "Aretha Franklin",
+      "title": "Freeway Of Love",
+      "weeks": 19,
+      "peak": 3,
+      "score": 221
+    },
+    {
+      "artist": "Phil Collins",
+      "title": "Don't Lose My Number",
+      "weeks": 18,
+      "peak": 4,
+      "score": 220
+    },
+    {
+      "artist": "Wham!",
+      "title": "Everything She Wants",
+      "weeks": 20,
+      "peak": 1,
+      "score": 219
+    },
+    {
+      "artist": "Glenn Frey",
+      "title": "The Heat Is On",
+      "weeks": 20,
+      "peak": 2,
+      "score": 217
+    },
+    {
+      "artist": "Lionel Richie",
+      "title": "Say You, Say Me",
+      "weeks": 8,
+      "peak": 1,
+      "score": 212
+    },
+    {
+      "artist": "Paul Young",
+      "title": "Everytime You Go Away",
+      "weeks": 23,
+      "peak": 1,
+      "score": 210
+    },
+    {
+      "artist": "Dire Straits",
+      "title": "Money For Nothing",
+      "weeks": 22,
+      "peak": 1,
+      "score": 206
+    },
+    {
+      "artist": "Tina Turner",
+      "title": "We Don't Need Another Hero (Thunderdome)",
+      "weeks": 18,
+      "peak": 2,
+      "score": 195
+    },
+    {
+      "artist": "Philip Bailey",
+      "title": "Easy Lover",
+      "weeks": 17,
+      "peak": 2,
+      "score": 194
+    },
+    {
+      "artist": "The Pointer Sisters",
+      "title": "Neutron Dance",
+      "weeks": 17,
+      "peak": 6,
+      "score": 186
+    },
+    {
+      "artist": "Madonna",
+      "title": "Material Girl",
+      "weeks": 17,
+      "peak": 2,
+      "score": 184
+    },
+    {
+      "artist": "Corey Hart",
+      "title": "Never Surrender",
+      "weeks": 20,
+      "peak": 3,
+      "score": 182
+    },
+    {
+      "artist": "Teena Marie",
+      "title": "Lover Girl",
+      "weeks": 21,
+      "peak": 4,
+      "score": 179
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "title": "Glory Days",
+      "weeks": 18,
+      "peak": 5,
+      "score": 178
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Wham!",
+      "hits": 2
+    },
+    {
+      "artist": "Glenn Frey",
+      "hits": 2
+    },
+    {
+      "artist": "Phil Collins",
+      "hits": 3
+    },
+    {
+      "artist": "Madonna",
+      "hits": 2
+    },
+    {
+      "artist": "Aretha Franklin",
+      "hits": 2
+    },
+    {
+      "artist": "Tears For Fears",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "A-ha",
+      "title": "Take On Me",
+      "weeks": 25,
+      "peak": 1,
+      "score": 105
+    },
+    {
+      "artist": "Kool",
+      "title": "Cherish",
+      "weeks": 25,
+      "peak": 2,
+      "score": 98
+    },
+    {
+      "artist": "Tears For Fears",
+      "title": "Everybody Wants To Rule The World",
+      "weeks": 24,
+      "peak": 1,
+      "score": 154
+    },
+    {
+      "artist": "Animotion",
+      "title": "Obsession",
+      "weeks": 24,
+      "peak": 6,
+      "score": -9
+    },
+    {
+      "artist": "Paul Young",
+      "title": "Everytime You Go Away",
+      "weeks": 23,
+      "peak": 1,
+      "score": 210
+    },
+    {
+      "artist": "Howard Jones",
+      "title": "Things Can Only Get Better",
+      "weeks": 23,
+      "peak": 5,
+      "score": 74
+    },
+    {
+      "artist": "Dire Straits",
+      "title": "Money For Nothing",
+      "weeks": 22,
+      "peak": 1,
+      "score": 206
+    },
+    {
+      "artist": "Simple Minds",
+      "title": "Don't You (Forget About Me)",
+      "weeks": 22,
+      "peak": 1,
+      "score": 152
+    },
+    {
+      "artist": "John Parr",
+      "title": "St. Elmo's Fire (Man In Motion)",
+      "weeks": 22,
+      "peak": 1,
+      "score": 114
+    },
+    {
+      "artist": "Debarge",
+      "title": "Rhythm Of The Night",
+      "weeks": 22,
+      "peak": 3,
+      "score": 112
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Stevie Wonder",
+      "title": "Part-Time Lover",
+      "weeks": 17,
+      "peak": 1,
+      "score": 365
+    },
+    {
+      "artist": "Phil Collins And Marilyn Martin",
+      "title": "Separate Lives",
+      "weeks": 13,
+      "peak": 1,
+      "score": 353
+    },
+    {
+      "artist": "Starship",
+      "title": "We Built This City",
+      "weeks": 17,
+      "peak": 1,
+      "score": 332
+    },
+    {
+      "artist": "Reo Speedwagon",
+      "title": "Can't Fight This Feeling",
+      "weeks": 18,
+      "peak": 1,
+      "score": 330
+    },
+    {
+      "artist": "Wham!",
+      "title": "Careless Whisper",
+      "weeks": 19,
+      "peak": 1,
+      "score": 326
+    },
+    {
+      "artist": "Jan Hammer",
+      "title": "Miami Vice Theme",
+      "weeks": 17,
+      "peak": 1,
+      "score": 308
+    },
+    {
+      "artist": "Huey Lewis",
+      "title": "The Power Of Love",
+      "weeks": 19,
+      "peak": 1,
+      "score": 300
+    },
+    {
+      "artist": "Foreigner",
+      "title": "I Want To Know What Love Is",
+      "weeks": 17,
+      "peak": 1,
+      "score": 299
+    },
+    {
+      "artist": "Duran Duran",
+      "title": "A View To A Kill",
+      "weeks": 17,
+      "peak": 1,
+      "score": 265
+    },
+    {
+      "artist": "Phil Collins",
+      "title": "Sussudio",
+      "weeks": 17,
+      "peak": 1,
+      "score": 261
+    },
+    {
+      "artist": "Madonna",
+      "title": "Crazy For You",
+      "weeks": 21,
+      "peak": 1,
+      "score": 259
+    },
+    {
+      "artist": "Mr. Mister",
+      "title": "Broken Wings",
+      "weeks": 15,
+      "peak": 1,
+      "score": 256
+    },
+    {
+      "artist": "Bryan Adams",
+      "title": "Heaven",
+      "weeks": 19,
+      "peak": 1,
+      "score": 254
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "Saving All My Love For You",
+      "weeks": 20,
+      "peak": 1,
+      "score": 240
+    },
+    {
+      "artist": "Tears For Fears",
+      "title": "Shout",
+      "weeks": 19,
+      "peak": 1,
+      "score": 230
+    },
+    {
+      "artist": "Phil Collins",
+      "title": "One More Night",
+      "weeks": 18,
+      "peak": 1,
+      "score": 224
+    },
+    {
+      "artist": "Wham!",
+      "title": "Everything She Wants",
+      "weeks": 20,
+      "peak": 1,
+      "score": 219
+    },
+    {
+      "artist": "Lionel Richie",
+      "title": "Say You, Say Me",
+      "weeks": 8,
+      "peak": 1,
+      "score": 212
+    },
+    {
+      "artist": "Paul Young",
+      "title": "Everytime You Go Away",
+      "weeks": 23,
+      "peak": 1,
+      "score": 210
+    },
+    {
+      "artist": "Dire Straits",
+      "title": "Money For Nothing",
+      "weeks": 22,
+      "peak": 1,
+      "score": 206
+    },
+    {
+      "artist": "Usa For Africa",
+      "title": "We Are The World",
+      "weeks": 18,
+      "peak": 1,
+      "score": 169
+    },
+    {
+      "artist": "Tears For Fears",
+      "title": "Everybody Wants To Rule The World",
+      "weeks": 24,
+      "peak": 1,
+      "score": 154
+    },
+    {
+      "artist": "Simple Minds",
+      "title": "Don't You (Forget About Me)",
+      "weeks": 22,
+      "peak": 1,
+      "score": 152
+    },
+    {
+      "artist": "Madonna",
+      "title": "Like A Virgin",
+      "weeks": 12,
+      "peak": 1,
+      "score": 147
+    },
+    {
+      "artist": "Ready For The World",
+      "title": "Oh Sheila",
+      "weeks": 21,
+      "peak": 1,
+      "score": 143
+    },
+    {
+      "artist": "John Parr",
+      "title": "St. Elmo's Fire (Man In Motion)",
+      "weeks": 22,
+      "peak": 1,
+      "score": 114
+    },
+    {
+      "artist": "A-ha",
+      "title": "Take On Me",
+      "weeks": 25,
+      "peak": 1,
+      "score": 105
+    }
+  ]
+}

@@ -1,0 +1,1675 @@
+{
+  "assets": [
+    {
+      "file": "issues/1978/art/collage/collage_01.png",
+      "category": "textures",
+      "prompt": "1978 artifact illustration, record-store listening booth card for night fever, hand-drawn editorial ink and watercolor, slightly worn paper texture, magazine collage panel",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "artifact",
+        "record",
+        "store",
+        "listening",
+        "booth",
+        "card",
+        "night"
+      ]
+    },
+    {
+      "file": "issues/1978/art/collage/collage_02.png",
+      "category": "textures",
+      "prompt": "1978 artifact illustration, movie ticket stub: late show for grease, hand-drawn editorial ink and watercolor, slightly worn paper texture, magazine collage panel",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "artifact",
+        "movie",
+        "ticket",
+        "stub",
+        "late",
+        "show",
+        "grease"
+      ]
+    },
+    {
+      "file": "issues/1978/art/collage/collage_03.png",
+      "category": "textures",
+      "prompt": "1978 artifact illustration, subway token and folded transit map corner, hand-drawn editorial ink and watercolor, slightly worn paper texture, magazine collage panel",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "artifact",
+        "subway",
+        "token",
+        "folded",
+        "transit",
+        "map",
+        "corner"
+      ]
+    },
+    {
+      "file": "issues/1978/art/collage/collage_04.png",
+      "category": "textures",
+      "prompt": "1978 artifact illustration, arcade score sheet tucked into jacket pocket, hand-drawn editorial ink and watercolor, slightly worn paper texture, magazine collage panel",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "artifact",
+        "arcade",
+        "score",
+        "sheet",
+        "tucked",
+        "jacket",
+        "pocket"
+      ]
+    },
+    {
+      "file": "issues/1978/art/collage/collage_05.png",
+      "category": "textures",
+      "prompt": "1978 artifact illustration, tv listing clipping with mork and mindy circled in pen, hand-drawn editorial ink and watercolor, slightly worn paper texture, magazine collage panel",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "artifact",
+        "listing",
+        "clipping",
+        "mork",
+        "mindy",
+        "circled",
+        "pen"
+      ]
+    },
+    {
+      "file": "issues/1978/art/collage/collage_06.png",
+      "category": "textures",
+      "prompt": "1978 artifact illustration, neon diner receipt with coffee refill marks, hand-drawn editorial ink and watercolor, slightly worn paper texture, magazine collage panel",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "artifact",
+        "neon",
+        "diner",
+        "receipt",
+        "coffee",
+        "refill",
+        "marks"
+      ]
+    },
+    {
+      "file": "issues/1978/art/collage/collage_07.png",
+      "category": "textures",
+      "prompt": "1978 artifact illustration, department-store fashion swatch and disco shoe sketch, hand-drawn editorial ink and watercolor, slightly worn paper texture, magazine collage panel",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "artifact",
+        "department",
+        "store",
+        "fashion",
+        "swatch",
+        "disco",
+        "shoe"
+      ]
+    },
+    {
+      "file": "issues/1978/art/collage/collage_08.png",
+      "category": "textures",
+      "prompt": "1978 artifact illustration, fm station request slip from a weekend countdown, hand-drawn editorial ink and watercolor, slightly worn paper texture, magazine collage panel",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "artifact",
+        "station",
+        "request",
+        "slip",
+        "weekend",
+        "countdown",
+        "drawn"
+      ]
+    },
+    {
+      "file": "issues/1978/art/collage/collage_09.png",
+      "category": "textures",
+      "prompt": "1978 artifact illustration, polaroid-style street snapshot outside a cinema queue, hand-drawn editorial ink and watercolor, slightly worn paper texture, magazine collage panel",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "artifact",
+        "polaroid",
+        "street",
+        "snapshot",
+        "outside",
+        "cinema",
+        "queue"
+      ]
+    },
+    {
+      "file": "issues/1978/art/collage/collage_placeholder.png",
+      "category": "props",
+      "prompt": "",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "collage",
+        "placeholder"
+      ]
+    },
+    {
+      "file": "issues/1978/art/comic/comic_panel_01.png",
+      "category": "margin_gags",
+      "prompt": "1978 narrative comic panel, Friday night starts at the record counter as friends compare new 45s., expressive linework, limited color wash, retro humor magazine style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "narrative",
+        "comic",
+        "friday",
+        "night",
+        "starts",
+        "record",
+        "counter"
+      ]
+    },
+    {
+      "file": "issues/1978/art/comic/comic_panel_02.png",
+      "category": "margin_gags",
+      "prompt": "1978 narrative comic panel, The DJ drops Hot Stuff and the room locks into tempo., expressive linework, limited color wash, retro humor magazine style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "narrative",
+        "comic",
+        "drops",
+        "hot",
+        "stuff",
+        "room",
+        "locks"
+      ]
+    },
+    {
+      "file": "issues/1978/art/comic/comic_panel_03.png",
+      "category": "margin_gags",
+      "prompt": "1978 narrative comic panel, By midnight, the line wraps around the block for Superman., expressive linework, limited color wash, retro humor magazine style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "narrative",
+        "comic",
+        "midnight",
+        "line",
+        "wraps",
+        "around",
+        "block"
+      ]
+    },
+    {
+      "file": "issues/1978/art/comic/comic_panel_04.png",
+      "category": "margin_gags",
+      "prompt": "1978 narrative comic panel, Saturday afternoon drifts toward the arcade and a pocket of quarters., expressive linework, limited color wash, retro humor magazine style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "narrative",
+        "comic",
+        "saturday",
+        "afternoon",
+        "drifts",
+        "toward",
+        "arcade"
+      ]
+    },
+    {
+      "file": "issues/1978/art/comic/comic_panel_05.png",
+      "category": "margin_gags",
+      "prompt": "1978 narrative comic panel, At home, everyone argues playfully over whether to watch WKRP in Cincinnati., expressive linework, limited color wash, retro humor magazine style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "narrative",
+        "comic",
+        "home",
+        "everyone",
+        "argues",
+        "playfully",
+        "over"
+      ]
+    },
+    {
+      "file": "issues/1978/art/comic/comic_panel_06.png",
+      "category": "margin_gags",
+      "prompt": "1978 narrative comic panel, Sunday closes with notes, flyers, and tickets spread on a kitchen table., expressive linework, limited color wash, retro humor magazine style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "narrative",
+        "comic",
+        "sunday",
+        "closes",
+        "notes",
+        "flyers",
+        "tickets"
+      ]
+    },
+    {
+      "file": "issues/1978/art/cover/back_page_1978.png",
+      "category": "backgrounds",
+      "prompt": "1978 magazine cover illustration, neon city nightlife, disco marquee, arcade glow, hand-painted editorial style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cover",
+        "neon",
+        "city",
+        "nightlife",
+        "disco",
+        "marquee",
+        "arcade"
+      ]
+    },
+    {
+      "file": "issues/1978/art/cover/cover_1978.png",
+      "category": "backgrounds",
+      "prompt": "1978 magazine cover illustration, neon city nightlife, disco marquee, arcade glow, hand-painted editorial style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cover",
+        "neon",
+        "city",
+        "nightlife",
+        "disco",
+        "marquee",
+        "arcade"
+      ]
+    },
+    {
+      "file": "issues/1978/art/cover/cover_placeholder.png",
+      "category": "backgrounds",
+      "prompt": "",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "cover",
+        "placeholder"
+      ]
+    },
+    {
+      "file": "issues/1978/art/departments/department_portrait.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "issues/1978/art/feature/cinema_marquee.png",
+      "category": "backgrounds",
+      "prompt": "1978 movie theater marquee with crowd line, rainy sidewalk reflections, retro ink and watercolor style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "movie",
+        "theater",
+        "marquee",
+        "crowd",
+        "line",
+        "rainy",
+        "sidewalk"
+      ]
+    },
+    {
+      "file": "issues/1978/art/feature/department_portrait.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "issues/1978/art/feature/disco_floor.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "issues/1978/art/feature/feature_placeholder.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "issues/1978/art/feature/tv_livingroom.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year. 1978 television living room scene",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "issues/1978/art/parody/fake_ad_kit.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "issues/1978/art/parody/parody_placeholder.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "issues/1978/art/parody/trivia_grid.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "issues/1978/art/parody/weekend_console.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/backgrounds/background_cover_neon_city_nightlife_retro_1978.png",
+      "category": "backgrounds",
+      "prompt": "1978 magazine cover illustration, neon city nightlife, disco marquee, arcade glow, hand-painted editorial style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cover",
+        "neon",
+        "city",
+        "nightlife",
+        "disco",
+        "marquee",
+        "arcade"
+      ]
+    },
+    {
+      "file": "art-library/backgrounds/background_cover_neon_city_nightlife_retro_1978_2.png",
+      "category": "backgrounds",
+      "prompt": "1978 magazine cover illustration, neon city nightlife, disco marquee, arcade glow, hand-painted editorial style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cover",
+        "neon",
+        "city",
+        "nightlife",
+        "disco",
+        "marquee",
+        "arcade"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_2.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_3.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_4.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_2.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_3.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_4.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/backgrounds/background_cover_neon_city_nightlife_retro_1978_3.png",
+      "category": "backgrounds",
+      "prompt": "1978 magazine cover illustration, neon city nightlife, disco marquee, arcade glow, hand-painted editorial style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cover",
+        "neon",
+        "city",
+        "nightlife",
+        "disco",
+        "marquee",
+        "arcade"
+      ]
+    },
+    {
+      "file": "art-library/backgrounds/background_cover_neon_city_nightlife_retro_1978_4.png",
+      "category": "backgrounds",
+      "prompt": "1978 magazine cover illustration, neon city nightlife, disco marquee, arcade glow, hand-painted editorial style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cover",
+        "neon",
+        "city",
+        "nightlife",
+        "disco",
+        "marquee",
+        "arcade"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_5.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_6.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_7.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_8.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_5.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_6.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_7.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_8.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/backgrounds/background_cover_neon_city_nightlife_retro_1978_5.png",
+      "category": "backgrounds",
+      "prompt": "1978 magazine cover illustration, neon city nightlife, disco marquee, arcade glow, hand-painted editorial style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cover",
+        "neon",
+        "city",
+        "nightlife",
+        "disco",
+        "marquee",
+        "arcade"
+      ]
+    },
+    {
+      "file": "art-library/backgrounds/background_cover_neon_city_nightlife_retro_1978_6.png",
+      "category": "backgrounds",
+      "prompt": "1978 magazine cover illustration, neon city nightlife, disco marquee, arcade glow, hand-painted editorial style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cover",
+        "neon",
+        "city",
+        "nightlife",
+        "disco",
+        "marquee",
+        "arcade"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_9.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_10.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_11.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_12.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_9.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_10.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_11.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_12.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/backgrounds/background_cover_neon_city_nightlife_retro_1978_7.png",
+      "category": "backgrounds",
+      "prompt": "1978 magazine cover illustration, neon city nightlife, disco marquee, arcade glow, hand-painted editorial style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cover",
+        "neon",
+        "city",
+        "nightlife",
+        "disco",
+        "marquee",
+        "arcade"
+      ]
+    },
+    {
+      "file": "art-library/backgrounds/background_cover_neon_city_nightlife_retro_1978_8.png",
+      "category": "backgrounds",
+      "prompt": "1978 magazine cover illustration, neon city nightlife, disco marquee, arcade glow, hand-painted editorial style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cover",
+        "neon",
+        "city",
+        "nightlife",
+        "disco",
+        "marquee",
+        "arcade"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_13.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_14.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_15.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_16.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_13.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_14.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_15.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_16.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/backgrounds/background_cover_neon_city_nightlife_retro_1978_9.png",
+      "category": "backgrounds",
+      "prompt": "1978 magazine cover illustration, neon city nightlife, disco marquee, arcade glow, hand-painted editorial style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cover",
+        "neon",
+        "city",
+        "nightlife",
+        "disco",
+        "marquee",
+        "arcade"
+      ]
+    },
+    {
+      "file": "art-library/backgrounds/background_cover_neon_city_nightlife_retro_1978_10.png",
+      "category": "backgrounds",
+      "prompt": "1978 magazine cover illustration, neon city nightlife, disco marquee, arcade glow, hand-painted editorial style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cover",
+        "neon",
+        "city",
+        "nightlife",
+        "disco",
+        "marquee",
+        "arcade"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_17.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_18.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_19.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_20.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_17.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_18.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_19.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_20.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/backgrounds/background_cover_neon_city_nightlife_retro_1978_11.png",
+      "category": "backgrounds",
+      "prompt": "1978 magazine cover illustration, neon city nightlife, disco marquee, arcade glow, hand-painted editorial style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cover",
+        "neon",
+        "city",
+        "nightlife",
+        "disco",
+        "marquee",
+        "arcade"
+      ]
+    },
+    {
+      "file": "art-library/backgrounds/background_cover_neon_city_nightlife_retro_1978_12.png",
+      "category": "backgrounds",
+      "prompt": "1978 magazine cover illustration, neon city nightlife, disco marquee, arcade glow, hand-painted editorial style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cover",
+        "neon",
+        "city",
+        "nightlife",
+        "disco",
+        "marquee",
+        "arcade"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_21.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_22.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_23.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_24.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_21.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_22.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_23.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_24.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/backgrounds/background_cover_neon_city_nightlife_retro_1978_13.png",
+      "category": "backgrounds",
+      "prompt": "1978 magazine cover illustration, neon city nightlife, disco marquee, arcade glow, hand-painted editorial style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cover",
+        "neon",
+        "city",
+        "nightlife",
+        "disco",
+        "marquee",
+        "arcade"
+      ]
+    },
+    {
+      "file": "art-library/backgrounds/background_cover_neon_city_nightlife_retro_1978_14.png",
+      "category": "backgrounds",
+      "prompt": "1978 magazine cover illustration, neon city nightlife, disco marquee, arcade glow, hand-painted editorial style",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cover",
+        "neon",
+        "city",
+        "nightlife",
+        "disco",
+        "marquee",
+        "arcade"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_25.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_26.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_27.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/textures/texture_cultural_bustling_night_street_retro_1978_28.png",
+      "category": "textures",
+      "prompt": "1978 cultural magazine illustration, bustling night street with cinema marquee, disco glow, record store windows, hand-drawn ink lines with watercolor textures, editorial print style; story focus: 1978 in Motion: Dance Floors, Marquees, and Living Rooms. Subtheme: A short field report on how music, movies, and television are shaping one shared year.",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "cultural",
+        "bustling",
+        "night",
+        "street",
+        "cinema",
+        "marquee",
+        "disco"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_25.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_26.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_27.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    },
+    {
+      "file": "art-library/fake_ads/fake_ad_gadget_advertisement_art_chrome_retro_1978_28.png",
+      "category": "fake_ads",
+      "prompt": "1978 satirical gadget advertisement art, chrome control panel, glowing buttons, exaggerated retro illustration",
+      "year_created": "1978",
+      "source_issue": "1978",
+      "tags": [
+        "1978",
+        "gadget",
+        "advertisement",
+        "art",
+        "chrome",
+        "control",
+        "glowing",
+        "buttons"
+      ]
+    }
+  ]
+}

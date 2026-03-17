@@ -1,0 +1,41 @@
+rv_rank,title,artist,total_score,weekly_score_top26,peak_bonus,peak_rank,weeks_on_chart,weeks_in_top_10,weeks_in_top_40,first_chart_date,last_chart_date
+1,Maggie May/Reason To Believe,Rod Stewart,9629.7797,9509.7797,120,1,21,11,15,1971-07-17,1971-12-04
+2,Joy To The World,Three Dog Night,9513.5911,9393.5911,120,1,17,11,15,1971-03-13,1971-07-03
+3,Indian Reservation (The Lament Of The Cherokee Reservation Indian),The Raiders,9513.1173,9393.1173,120,1,22,9,15,1971-04-10,1971-09-04
+4,It's Too Late/I Feel The Earth Move,Carole King,9127.4012,9007.4012,120,1,17,10,15,1971-05-08,1971-08-28
+5,"Take Me Home, Country Roads",John Denver,8697.3940,8622.3940,75,2,23,8,14,1971-04-10,1971-09-25
+6,How Can You Mend A Broken Heart,Bee Gees,8187.5845,8067.5845,120,1,15,10,14,1971-06-26,1971-10-02
+7,Go Away Little Girl,Donny Osmond,8032.6638,7912.6638,120,1,15,9,13,1971-08-07,1971-11-13
+8,Just My Imagination (Running Away With Me),The Temptations,8020.4348,7900.4348,120,1,15,9,13,1971-02-06,1971-05-15
+9,Mr. Big Stuff,Jean Knight,7921.5205,7846.5205,75,2,16,8,13,1971-05-29,1971-09-11
+10,Tired Of Being Alone,Al Green,7879.2024,7879.2024,0,11,19,0,15,1971-07-24,1971-11-27
+11,Treat Her Like A Lady,Cornelius Brothers,7844.9989,7769.9989,75,3,18,7,13,1971-04-10,1971-08-07
+12,Smiling Faces Sometimes,The Undisputed Truth,7798.5602,7723.5602,75,3,18,6,13,1971-06-26,1971-10-23
+13,Want Ads,The Honey Cone,7706.9233,7586.9233,120,1,16,8,13,1971-04-10,1971-07-24
+14,"Gypsys, Tramps & Thieves",Cher,7690.1870,7570.1870,120,1,15,9,13,1971-09-18,1971-12-25
+15,Superstar/Bless The Beasts And Children,Carpenters,7626.0572,7551.0572,75,2,17,8,12,1971-09-04,1971-12-25
+16,What's Going On,Marvin Gaye,7614.9409,7539.9409,75,2,15,8,13,1971-02-20,1971-05-29
+17,The Night They Drove Old Dixie Down,Joan Baez,7595.6041,7520.6041,75,3,15,8,13,1971-08-14,1971-11-20
+18,One Bad Apple,The Osmonds,7574.5331,7454.5331,120,1,15,9,12,1971-01-02,1971-04-10
+19,Me And Bobby McGee,Janis Joplin,7492.0120,7372.0120,120,1,15,8,12,1971-01-30,1971-05-08
+20,You've Got A Friend,James Taylor,7429.8957,7309.8957,120,1,14,8,12,1971-06-05,1971-09-04
+21,She's A Lady,Tom Jones,7410.8816,7335.8816,75,2,14,8,12,1971-02-06,1971-05-08
+22,Knock Three Times,Dawn,7308.1840,7188.1840,120,1,12,9,12,1971-01-02,1971-03-20
+23,Ain't No Sunshine,Bill,7303.0074,7228.0074,75,3,16,6,12,1971-07-17,1971-10-30
+24,Do You Know What I Mean,Lee Michaels,7279.2350,7264.2350,15,6,17,5,12,1971-07-31,1971-11-20
+25,Signs,Five Man Electrical Band,7025.3328,6950.3328,75,3,18,5,12,1971-05-29,1971-09-25
+26,Uncle Albert/Admiral Halsey,Paul,7023.4630,6903.4630,120,1,13,7,12,1971-08-14,1971-11-06
+27,Brown Sugar,The Rolling Stones,6921.0200,6801.0200,120,1,12,8,12,1971-05-01,1971-07-17
+28,Put Your Hand In The Hand,Ocean,6850.3755,6775.3755,75,2,14,7,12,1971-03-13,1971-06-12
+29,Amos Moses,Jerry Reed,6800.1735,6785.1735,15,8,15,2,14,1971-01-02,1971-04-10
+30,Yo-Yo,The Osmonds,6775.3690,6700.3690,75,3,13,8,12,1971-09-11,1971-12-04
+31,Rainy Days And Mondays,Carpenters,6769.8963,6694.8963,75,2,12,7,11,1971-05-15,1971-07-31
+32,For All We Know,Carpenters,6703.9048,6628.9048,75,3,13,7,12,1971-02-06,1971-05-01
+33,Never Can Say Goodbye,Jackson 5,6682.9135,6607.9135,75,2,12,7,11,1971-04-03,1971-06-19
+34,Rose Garden,Lynn Anderson,6667.4057,6592.4057,75,3,12,6,12,1971-01-02,1971-03-20
+35,Sweet And Innocent,Donny Osmond Of The Osmonds,6659.3070,6644.3070,15,7,16,5,11,1971-03-27,1971-07-10
+36,Theme From Shaft,Isaac Hayes,6576.4336,6456.4336,120,1,11,9,10,1971-10-16,1971-12-25
+37,I've Found Someone Of My Own,The Free Movement,6543.2299,6503.2299,40,5,26,3,11,1971-05-22,1971-11-27
+38,It Don't Come Easy,Ringo Starr,6469.4209,6429.4209,40,4,12,7,11,1971-05-01,1971-07-17
+39,Temptation Eyes,The Grass Roots,6446.3878,6446.3878,0,15,17,0,11,1971-01-02,1971-04-24
+40,Don't Pull Your Love,"Hamilton, Joe Frank",6392.6560,6352.6560,40,4,14,6,11,1971-05-22,1971-08-21

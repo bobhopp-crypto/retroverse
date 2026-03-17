@@ -1,0 +1,110 @@
+.perf-pad {
+  position: relative;
+  width: 100%;
+  border: 1px solid var(--rv-border-soft);
+  border-radius: 6px;
+  background: var(--rv-control);
+  color: var(--rv-ink);
+  padding: 2px 6px;
+  font-weight: 900;
+  letter-spacing: 0.01em;
+  text-align: center;
+  line-height: 1.1;
+  box-shadow: 0 1px 0 rgba(58, 43, 28, 0.12);
+  transition:
+    transform var(--rv-transition-fast),
+    box-shadow var(--rv-transition-fast),
+    background var(--rv-transition-fast),
+    border-color var(--rv-transition-fast);
+  touch-action: manipulation;
+  user-select: none;
+}
+
+.perf-pad:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.perf-pad:hover:not(:disabled) {
+  box-shadow: 0 2px 0 rgba(58, 43, 28, 0.16);
+}
+
+.perf-pad:active:not(:disabled) {
+  transform: scale(0.995);
+}
+
+.perf-pad--small {
+  min-height: 30px;
+  font-size: 0.67rem;
+}
+
+.perf-pad--medium {
+  min-height: 31px;
+  font-size: 0.7rem;
+}
+
+.perf-pad--large {
+  min-height: 33px;
+  font-size: 0.74rem;
+}
+
+.perf-pad[data-group='decade'],
+.perf-pad[data-group='year'] {
+  background: color-mix(in srgb, var(--rv-control) 95%, white 5%);
+  border-color: var(--rv-border-strong);
+  border-width: 1px;
+  border-radius: 8px;
+}
+
+.perf-pad[data-group='year'].perf-pad--medium {
+  min-height: 33px;
+}
+
+.perf-pad[data-group='decade'].perf-pad--large {
+  min-height: 35px;
+}
+
+.perf-pad[data-group='tier'],
+.perf-pad[data-group='count'] {
+  background: color-mix(in srgb, var(--rv-control) 95%, black 5%);
+  border-width: 0.9px;
+}
+
+.perf-pad[data-group='tier']:hover:not(:disabled),
+.perf-pad[data-group='count']:hover:not(:disabled) {
+  box-shadow: 0 1px 0 rgba(58, 43, 28, 0.12);
+}
+
+.perf-pad.is-active {
+  background: var(--rv-selected-bg);
+  box-shadow: var(--rv-selected-shadow);
+  border-color: var(--rv-selected-border);
+  border-width: 1px;
+  transform: scale(1.02);
+}
+
+.perf-pad-group {
+  display: grid;
+  gap: 8px;
+  width: 100%;
+  min-width: 0;
+  margin-bottom: 8px;
+}
+
+.perf-pad-group:last-child {
+  margin-bottom: 0;
+}
+
+.perf-pad-grid {
+  display: grid;
+  grid-template-columns: repeat(var(--perf-pad-columns), minmax(0, 1fr));
+  gap: 8px;
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.perf-pad-grid > * {
+  min-width: 0;
+}

@@ -1,0 +1,534 @@
+{
+  "year": "2021",
+  "top_songs": [
+    {
+      "artist": "Dua Lipa",
+      "title": "Levitating",
+      "weeks": 49,
+      "peak": 2,
+      "score": 1620
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Save Your Tears",
+      "weeks": 50,
+      "peak": 1,
+      "score": 1333
+    },
+    {
+      "artist": "Doja Cat",
+      "title": "Kiss Me More",
+      "weeks": 36,
+      "peak": 3,
+      "score": 1087
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Blinding Lights",
+      "weeks": 35,
+      "peak": 3,
+      "score": 1037
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "title": "Good 4 U",
+      "weeks": 31,
+      "peak": 1,
+      "score": 1033
+    },
+    {
+      "artist": "Lil Nas X",
+      "title": "Montero (Call Me By Your Name)",
+      "weeks": 34,
+      "peak": 1,
+      "score": 935
+    },
+    {
+      "artist": "Silk Sonic",
+      "title": "Leave The Door Open",
+      "weeks": 38,
+      "peak": 1,
+      "score": 903
+    },
+    {
+      "artist": "The Kid Laroi",
+      "title": "Stay",
+      "weeks": 23,
+      "peak": 1,
+      "score": 888
+    },
+    {
+      "artist": "Ed Sheeran",
+      "title": "Bad Habits",
+      "weeks": 25,
+      "peak": 2,
+      "score": 859
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "title": "Drivers License",
+      "weeks": 28,
+      "peak": 1,
+      "score": 805
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "Peaches",
+      "weeks": 30,
+      "peak": 1,
+      "score": 795
+    },
+    {
+      "artist": "Lil Nas X",
+      "title": "Industry Baby",
+      "weeks": 21,
+      "peak": 1,
+      "score": 748
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "title": "Deja Vu",
+      "weeks": 29,
+      "peak": 3,
+      "score": 726
+    },
+    {
+      "artist": "24kgoldn",
+      "title": "Mood",
+      "weeks": 33,
+      "peak": 1,
+      "score": 714
+    },
+    {
+      "artist": "Walker Hayes",
+      "title": "Fancy Like",
+      "weeks": 26,
+      "peak": 3,
+      "score": 675
+    },
+    {
+      "artist": "Bts",
+      "title": "Butter",
+      "weeks": 20,
+      "peak": 1,
+      "score": 628
+    },
+    {
+      "artist": "Chris Brown",
+      "title": "Go Crazy",
+      "weeks": 20,
+      "peak": 3,
+      "score": 574
+    },
+    {
+      "artist": "Masked Wolf",
+      "title": "Astronaut In The Ocean",
+      "weeks": 28,
+      "peak": 6,
+      "score": 564
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "34+35",
+      "weeks": 21,
+      "peak": 2,
+      "score": 555
+    },
+    {
+      "artist": "Cardi B",
+      "title": "Up",
+      "weeks": 20,
+      "peak": 1,
+      "score": 546
+    },
+    {
+      "artist": "Polo G",
+      "title": "Rapstar",
+      "weeks": 20,
+      "peak": 1,
+      "score": 539
+    },
+    {
+      "artist": "Doja Cat",
+      "title": "You Right",
+      "weeks": 25,
+      "peak": 11,
+      "score": 533
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "Positions",
+      "weeks": 21,
+      "peak": 2,
+      "score": 508
+    },
+    {
+      "artist": "Pop Smoke",
+      "title": "What You Know Bout Love",
+      "weeks": 27,
+      "peak": 9,
+      "score": 478
+    },
+    {
+      "artist": "Lil Tjay",
+      "title": "Calling My Phone",
+      "weeks": 22,
+      "peak": 3,
+      "score": 444
+    },
+    {
+      "artist": "Ed Sheeran",
+      "title": "Shivers",
+      "weeks": 14,
+      "peak": 5,
+      "score": 434
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Therefore I Am",
+      "weeks": 21,
+      "peak": 12,
+      "score": 429
+    },
+    {
+      "artist": "Doja Cat",
+      "title": "Need To Know",
+      "weeks": 27,
+      "peak": 8,
+      "score": 426
+    },
+    {
+      "artist": "Drake",
+      "title": "Way 2 Sexy",
+      "weeks": 15,
+      "peak": 1,
+      "score": 420
+    },
+    {
+      "artist": "Saweetie",
+      "title": "Best Friend",
+      "weeks": 30,
+      "peak": 14,
+      "score": 409
+    },
+    {
+      "artist": "Giveon",
+      "title": "Heartbreak Anniversary",
+      "weeks": 29,
+      "peak": 16,
+      "score": 386
+    },
+    {
+      "artist": "Pop Smoke",
+      "title": "For The Night",
+      "weeks": 19,
+      "peak": 11,
+      "score": 347
+    },
+    {
+      "artist": "The Kid Laroi",
+      "title": "Without You",
+      "weeks": 36,
+      "peak": 8,
+      "score": 344
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "Beautiful Mistakes",
+      "weeks": 25,
+      "peak": 13,
+      "score": 330
+    },
+    {
+      "artist": "Adele",
+      "title": "Easy On Me",
+      "weeks": 10,
+      "peak": 1,
+      "score": 330
+    },
+    {
+      "artist": "Bad Bunny",
+      "title": "Dakiti",
+      "weeks": 21,
+      "peak": 16,
+      "score": 328
+    },
+    {
+      "artist": "Glass Animals",
+      "title": "Heat Waves",
+      "weeks": 48,
+      "peak": 7,
+      "score": 317
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "Holy",
+      "weeks": 12,
+      "peak": 4,
+      "score": 295
+    },
+    {
+      "artist": "Drake",
+      "title": "Knife Talk",
+      "weeks": 15,
+      "peak": 4,
+      "score": 288
+    },
+    {
+      "artist": "Wizkid",
+      "title": "Essence",
+      "weeks": 24,
+      "peak": 9,
+      "score": 279
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "The Weeknd",
+      "hits": 2
+    },
+    {
+      "artist": "Doja Cat",
+      "hits": 3
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "hits": 3
+    },
+    {
+      "artist": "Lil Nas X",
+      "hits": 2
+    },
+    {
+      "artist": "The Kid Laroi",
+      "hits": 2
+    },
+    {
+      "artist": "Ed Sheeran",
+      "hits": 2
+    },
+    {
+      "artist": "Justin Bieber",
+      "hits": 2
+    },
+    {
+      "artist": "Ariana Grande",
+      "hits": 2
+    },
+    {
+      "artist": "Pop Smoke",
+      "hits": 2
+    },
+    {
+      "artist": "Drake",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "The Weeknd",
+      "title": "Save Your Tears",
+      "weeks": 50,
+      "peak": 1,
+      "score": 1333
+    },
+    {
+      "artist": "Dua Lipa",
+      "title": "Levitating",
+      "weeks": 49,
+      "peak": 2,
+      "score": 1620
+    },
+    {
+      "artist": "Glass Animals",
+      "title": "Heat Waves",
+      "weeks": 48,
+      "peak": 7,
+      "score": 317
+    },
+    {
+      "artist": "Silk Sonic",
+      "title": "Leave The Door Open",
+      "weeks": 38,
+      "peak": 1,
+      "score": 903
+    },
+    {
+      "artist": "Luke Combs",
+      "title": "Forever After All",
+      "weeks": 37,
+      "peak": 12,
+      "score": 33
+    },
+    {
+      "artist": "Doja Cat",
+      "title": "Kiss Me More",
+      "weeks": 36,
+      "peak": 3,
+      "score": 1087
+    },
+    {
+      "artist": "The Kid Laroi",
+      "title": "Without You",
+      "weeks": 36,
+      "peak": 8,
+      "score": 344
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Blinding Lights",
+      "weeks": 35,
+      "peak": 3,
+      "score": 1037
+    },
+    {
+      "artist": "Lil Nas X",
+      "title": "Montero (Call Me By Your Name)",
+      "weeks": 34,
+      "peak": 1,
+      "score": 935
+    },
+    {
+      "artist": "Machine Gun Kelly X Blackbear",
+      "title": "My Ex's Best Friend",
+      "weeks": 34,
+      "peak": 20,
+      "score": 215
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "The Weeknd",
+      "title": "Save Your Tears",
+      "weeks": 50,
+      "peak": 1,
+      "score": 1333
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "title": "Good 4 U",
+      "weeks": 31,
+      "peak": 1,
+      "score": 1033
+    },
+    {
+      "artist": "Lil Nas X",
+      "title": "Montero (Call Me By Your Name)",
+      "weeks": 34,
+      "peak": 1,
+      "score": 935
+    },
+    {
+      "artist": "Silk Sonic",
+      "title": "Leave The Door Open",
+      "weeks": 38,
+      "peak": 1,
+      "score": 903
+    },
+    {
+      "artist": "The Kid Laroi",
+      "title": "Stay",
+      "weeks": 23,
+      "peak": 1,
+      "score": 888
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "title": "Drivers License",
+      "weeks": 28,
+      "peak": 1,
+      "score": 805
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "Peaches",
+      "weeks": 30,
+      "peak": 1,
+      "score": 795
+    },
+    {
+      "artist": "Lil Nas X",
+      "title": "Industry Baby",
+      "weeks": 21,
+      "peak": 1,
+      "score": 748
+    },
+    {
+      "artist": "24kgoldn",
+      "title": "Mood",
+      "weeks": 33,
+      "peak": 1,
+      "score": 714
+    },
+    {
+      "artist": "Bts",
+      "title": "Butter",
+      "weeks": 20,
+      "peak": 1,
+      "score": 628
+    },
+    {
+      "artist": "Cardi B",
+      "title": "Up",
+      "weeks": 20,
+      "peak": 1,
+      "score": 546
+    },
+    {
+      "artist": "Polo G",
+      "title": "Rapstar",
+      "weeks": 20,
+      "peak": 1,
+      "score": 539
+    },
+    {
+      "artist": "Drake",
+      "title": "Way 2 Sexy",
+      "weeks": 15,
+      "peak": 1,
+      "score": 420
+    },
+    {
+      "artist": "Adele",
+      "title": "Easy On Me",
+      "weeks": 10,
+      "peak": 1,
+      "score": 330
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "All I Want For Christmas Is You",
+      "weeks": 7,
+      "peak": 1,
+      "score": 223
+    },
+    {
+      "artist": "Coldplay X Bts",
+      "title": "My Universe",
+      "weeks": 12,
+      "peak": 1,
+      "score": 112
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "All Too Well (Taylor's Version)",
+      "weeks": 5,
+      "peak": 1,
+      "score": 78
+    },
+    {
+      "artist": "Bts",
+      "title": "Permission To Dance",
+      "weeks": 7,
+      "peak": 1,
+      "score": 25
+    },
+    {
+      "artist": "Drake",
+      "title": "What's Next",
+      "weeks": 16,
+      "peak": 1,
+      "score": -65
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "year": "2003",
+  "top_songs": [
+    {
+      "artist": "Matchbox Twenty",
+      "title": "Unwell",
+      "weeks": 41,
+      "peak": 5,
+      "score": 888
+    },
+    {
+      "artist": "R. Kelly",
+      "title": "Ignition",
+      "weeks": 34,
+      "peak": 2,
+      "score": 828
+    },
+    {
+      "artist": "50 Cent",
+      "title": "In Da Club",
+      "weeks": 30,
+      "peak": 1,
+      "score": 777
+    },
+    {
+      "artist": "3 Doors Down",
+      "title": "When I'm Gone",
+      "weeks": 39,
+      "peak": 4,
+      "score": 766
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Crazy In Love",
+      "weeks": 27,
+      "peak": 1,
+      "score": 748
+    },
+    {
+      "artist": "Sean Paul",
+      "title": "Get Busy",
+      "weeks": 32,
+      "peak": 1,
+      "score": 709
+    },
+    {
+      "artist": "Kid Rock",
+      "title": "Picture",
+      "weeks": 29,
+      "peak": 4,
+      "score": 700
+    },
+    {
+      "artist": "Aaliyah",
+      "title": "Miss You",
+      "weeks": 25,
+      "peak": 3,
+      "score": 687
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Baby Boy",
+      "weeks": 20,
+      "peak": 1,
+      "score": 665
+    },
+    {
+      "artist": "Nelly, P. Diddy",
+      "title": "Shake Ya Tailfeather",
+      "weeks": 27,
+      "peak": 1,
+      "score": 654
+    },
+    {
+      "artist": "Chingy",
+      "title": "Right Thurr",
+      "weeks": 33,
+      "peak": 2,
+      "score": 642
+    },
+    {
+      "artist": "Evanescence",
+      "title": "Bring Me To Life",
+      "weeks": 32,
+      "peak": 5,
+      "score": 637
+    },
+    {
+      "artist": "Jennifer Lopez",
+      "title": "All I Have",
+      "weeks": 20,
+      "peak": 1,
+      "score": 600
+    },
+    {
+      "artist": "Busta Rhymes",
+      "title": "I Know What You Want",
+      "weeks": 24,
+      "peak": 3,
+      "score": 586
+    },
+    {
+      "artist": "50 Cent",
+      "title": "21 Questions",
+      "weeks": 23,
+      "peak": 1,
+      "score": 570
+    },
+    {
+      "artist": "Avril Lavigne",
+      "title": "I'm With You",
+      "weeks": 23,
+      "peak": 4,
+      "score": 567
+    },
+    {
+      "artist": "Fabolous",
+      "title": "Into You",
+      "weeks": 26,
+      "peak": 4,
+      "score": 558
+    },
+    {
+      "artist": "Lil' Kim",
+      "title": "Magic Stick",
+      "weeks": 24,
+      "peak": 2,
+      "score": 544
+    },
+    {
+      "artist": "50 Cent",
+      "title": "P.I.M.P.",
+      "weeks": 25,
+      "peak": 3,
+      "score": 532
+    },
+    {
+      "artist": "Christina Aguilera",
+      "title": "Beautiful",
+      "weeks": 21,
+      "peak": 2,
+      "score": 526
+    },
+    {
+      "artist": "Uncle Kracker",
+      "title": "Drift Away",
+      "weeks": 35,
+      "peak": 9,
+      "score": 506
+    },
+    {
+      "artist": "The Black Eyed Peas",
+      "title": "Where Is The Love?",
+      "weeks": 25,
+      "peak": 8,
+      "score": 494
+    },
+    {
+      "artist": "Lil Jon",
+      "title": "Get Low",
+      "weeks": 35,
+      "peak": 2,
+      "score": 493
+    },
+    {
+      "artist": "Ja Rule",
+      "title": "Mesmerize",
+      "weeks": 19,
+      "peak": 2,
+      "score": 492
+    },
+    {
+      "artist": "B2k",
+      "title": "Bump, Bump, Bump",
+      "weeks": 17,
+      "peak": 1,
+      "score": 482
+    },
+    {
+      "artist": "Ashanti",
+      "title": "Rock Wit U (Awww Baby)",
+      "weeks": 21,
+      "peak": 2,
+      "score": 482
+    },
+    {
+      "artist": "Fabolous",
+      "title": "Can't Let You Go",
+      "weeks": 23,
+      "peak": 4,
+      "score": 475
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "Cry Me A River",
+      "weeks": 18,
+      "peak": 3,
+      "score": 455
+    },
+    {
+      "artist": "Ludacris",
+      "title": "Stand Up",
+      "weeks": 17,
+      "peak": 1,
+      "score": 441
+    },
+    {
+      "artist": "Youngbloodz",
+      "title": "Damn!",
+      "weeks": 21,
+      "peak": 4,
+      "score": 422
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "Rock Your Body",
+      "weeks": 22,
+      "peak": 5,
+      "score": 413
+    },
+    {
+      "artist": "3 Doors Down",
+      "title": "Here Without You",
+      "weeks": 18,
+      "peak": 5,
+      "score": 413
+    },
+    {
+      "artist": "Dixie Chicks",
+      "title": "Landslide",
+      "weeks": 14,
+      "peak": 7,
+      "score": 402
+    },
+    {
+      "artist": "Lumidee",
+      "title": "Never Leave You - Uh Ooh, Uh Oooh!",
+      "weeks": 20,
+      "peak": 3,
+      "score": 386
+    },
+    {
+      "artist": "Tyrese",
+      "title": "How You Gonna Act Like That",
+      "weeks": 25,
+      "peak": 7,
+      "score": 385
+    },
+    {
+      "artist": "Santana",
+      "title": "Why Don't You & I",
+      "weeks": 23,
+      "peak": 8,
+      "score": 369
+    },
+    {
+      "artist": "Snoop Dogg",
+      "title": "Beautiful",
+      "weeks": 20,
+      "peak": 6,
+      "score": 360
+    },
+    {
+      "artist": "Chingy",
+      "title": "Holidae In",
+      "weeks": 15,
+      "peak": 3,
+      "score": 354
+    },
+    {
+      "artist": "Santana",
+      "title": "The Game Of Love",
+      "weeks": 24,
+      "peak": 9,
+      "score": 348
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "title": "Miss Independent",
+      "weeks": 20,
+      "peak": 9,
+      "score": 345
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "50 Cent",
+      "hits": 3
+    },
+    {
+      "artist": "3 Doors Down",
+      "hits": 2
+    },
+    {
+      "artist": "Beyonce",
+      "hits": 2
+    },
+    {
+      "artist": "Chingy",
+      "hits": 2
+    },
+    {
+      "artist": "Fabolous",
+      "hits": 2
+    },
+    {
+      "artist": "Justin Timberlake",
+      "hits": 2
+    },
+    {
+      "artist": "Santana",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Matchbox Twenty",
+      "title": "Unwell",
+      "weeks": 41,
+      "peak": 5,
+      "score": 888
+    },
+    {
+      "artist": "3 Doors Down",
+      "title": "When I'm Gone",
+      "weeks": 39,
+      "peak": 4,
+      "score": 766
+    },
+    {
+      "artist": "Trapt",
+      "title": "Headstrong",
+      "weeks": 36,
+      "peak": 16,
+      "score": -156
+    },
+    {
+      "artist": "Uncle Kracker",
+      "title": "Drift Away",
+      "weeks": 35,
+      "peak": 9,
+      "score": 506
+    },
+    {
+      "artist": "Lil Jon",
+      "title": "Get Low",
+      "weeks": 35,
+      "peak": 2,
+      "score": 493
+    },
+    {
+      "artist": "R. Kelly",
+      "title": "Ignition",
+      "weeks": 34,
+      "peak": 2,
+      "score": 828
+    },
+    {
+      "artist": "Chingy",
+      "title": "Right Thurr",
+      "weeks": 33,
+      "peak": 2,
+      "score": 642
+    },
+    {
+      "artist": "Sean Paul",
+      "title": "Get Busy",
+      "weeks": 32,
+      "peak": 1,
+      "score": 709
+    },
+    {
+      "artist": "Evanescence",
+      "title": "Bring Me To Life",
+      "weeks": 32,
+      "peak": 5,
+      "score": 637
+    },
+    {
+      "artist": "Wayne Wonder",
+      "title": "No Letting Go",
+      "weeks": 31,
+      "peak": 11,
+      "score": 161
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "50 Cent",
+      "title": "In Da Club",
+      "weeks": 30,
+      "peak": 1,
+      "score": 777
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Crazy In Love",
+      "weeks": 27,
+      "peak": 1,
+      "score": 748
+    },
+    {
+      "artist": "Sean Paul",
+      "title": "Get Busy",
+      "weeks": 32,
+      "peak": 1,
+      "score": 709
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Baby Boy",
+      "weeks": 20,
+      "peak": 1,
+      "score": 665
+    },
+    {
+      "artist": "Nelly, P. Diddy",
+      "title": "Shake Ya Tailfeather",
+      "weeks": 27,
+      "peak": 1,
+      "score": 654
+    },
+    {
+      "artist": "Jennifer Lopez",
+      "title": "All I Have",
+      "weeks": 20,
+      "peak": 1,
+      "score": 600
+    },
+    {
+      "artist": "50 Cent",
+      "title": "21 Questions",
+      "weeks": 23,
+      "peak": 1,
+      "score": 570
+    },
+    {
+      "artist": "B2k",
+      "title": "Bump, Bump, Bump",
+      "weeks": 17,
+      "peak": 1,
+      "score": 482
+    },
+    {
+      "artist": "Ludacris",
+      "title": "Stand Up",
+      "weeks": 17,
+      "peak": 1,
+      "score": 441
+    },
+    {
+      "artist": "Outkast",
+      "title": "Hey Ya!",
+      "weeks": 11,
+      "peak": 1,
+      "score": 287
+    },
+    {
+      "artist": "Eminem",
+      "title": "Lose Yourself",
+      "weeks": 10,
+      "peak": 1,
+      "score": 253
+    },
+    {
+      "artist": "Clay Aiken",
+      "title": "This Is The Night",
+      "weeks": 16,
+      "peak": 1,
+      "score": -153
+    }
+  ]
+}

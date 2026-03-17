@@ -1,0 +1,523 @@
+{
+  "year": "1972",
+  "top_songs": [
+    {
+      "artist": "Roberta Flack",
+      "title": "The First Time Ever I Saw Your Face",
+      "weeks": 18,
+      "peak": 1,
+      "score": 450
+    },
+    {
+      "artist": "Gilbert O'sullivan",
+      "title": "Alone Again (Naturally)",
+      "weeks": 18,
+      "peak": 1,
+      "score": 422
+    },
+    {
+      "artist": "Don Mclean",
+      "title": "American Pie (Parts I & II)",
+      "weeks": 14,
+      "peak": 1,
+      "score": 419
+    },
+    {
+      "artist": "Looking Glass",
+      "title": "Brandy (You're A Fine Girl)",
+      "weeks": 16,
+      "peak": 1,
+      "score": 413
+    },
+    {
+      "artist": "Al Green",
+      "title": "Let's Stay Together",
+      "weeks": 12,
+      "peak": 1,
+      "score": 406
+    },
+    {
+      "artist": "Nilsson",
+      "title": "Without You",
+      "weeks": 17,
+      "peak": 1,
+      "score": 380
+    },
+    {
+      "artist": "The Staple Singers",
+      "title": "I'll Take You There",
+      "weeks": 15,
+      "peak": 1,
+      "score": 373
+    },
+    {
+      "artist": "Neil Young",
+      "title": "Heart Of Gold",
+      "weeks": 14,
+      "peak": 1,
+      "score": 365
+    },
+    {
+      "artist": "America",
+      "title": "A Horse With No Name",
+      "weeks": 14,
+      "peak": 1,
+      "score": 364
+    },
+    {
+      "artist": "Joe Tex",
+      "title": "I Gotcha",
+      "weeks": 21,
+      "peak": 2,
+      "score": 361
+    },
+    {
+      "artist": "Luther Ingram",
+      "title": "(If Loving You Is Wrong) I Don't Want To Be Right",
+      "weeks": 16,
+      "peak": 3,
+      "score": 357
+    },
+    {
+      "artist": "The Chi-lites",
+      "title": "Oh Girl",
+      "weeks": 15,
+      "peak": 1,
+      "score": 354
+    },
+    {
+      "artist": "Neil Diamond",
+      "title": "Song Sung Blue",
+      "weeks": 13,
+      "peak": 1,
+      "score": 321
+    },
+    {
+      "artist": "The Hollies",
+      "title": "Long Cool Woman (In A Black Dress)",
+      "weeks": 15,
+      "peak": 2,
+      "score": 315
+    },
+    {
+      "artist": "The Stylistics",
+      "title": "Betcha By Golly, Wow",
+      "weeks": 16,
+      "peak": 3,
+      "score": 313
+    },
+    {
+      "artist": "Melanie",
+      "title": "Brand New Key",
+      "weeks": 9,
+      "peak": 1,
+      "score": 311
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Rockin' Robin",
+      "weeks": 13,
+      "peak": 2,
+      "score": 307
+    },
+    {
+      "artist": "Al Green",
+      "title": "Look What You Done For Me",
+      "weeks": 12,
+      "peak": 4,
+      "score": 302
+    },
+    {
+      "artist": "Cornelius Brothers",
+      "title": "Too Late To Turn Back Now",
+      "weeks": 14,
+      "peak": 2,
+      "score": 301
+    },
+    {
+      "artist": "Johnny Nash",
+      "title": "I Can See Clearly Now",
+      "weeks": 17,
+      "peak": 1,
+      "score": 296
+    },
+    {
+      "artist": "Mac Davis",
+      "title": "Baby Don't Get Hooked On Me",
+      "weeks": 18,
+      "peak": 1,
+      "score": 288
+    },
+    {
+      "artist": "Al Green",
+      "title": "I'm Still In Love With You",
+      "weeks": 12,
+      "peak": 3,
+      "score": 288
+    },
+    {
+      "artist": "The Osmonds",
+      "title": "Down By The Lazy River",
+      "weeks": 14,
+      "peak": 4,
+      "score": 287
+    },
+    {
+      "artist": "Badfinger",
+      "title": "Day After Day",
+      "weeks": 10,
+      "peak": 4,
+      "score": 284
+    },
+    {
+      "artist": "Three Dog Night",
+      "title": "Never Been To Spain",
+      "weeks": 11,
+      "peak": 5,
+      "score": 276
+    },
+    {
+      "artist": "Climax",
+      "title": "Precious And Few",
+      "weeks": 15,
+      "peak": 3,
+      "score": 276
+    },
+    {
+      "artist": "Aretha Franklin",
+      "title": "Day Dreaming",
+      "weeks": 12,
+      "peak": 5,
+      "score": 275
+    },
+    {
+      "artist": "Carpenters",
+      "title": "Hurting Each Other",
+      "weeks": 12,
+      "peak": 2,
+      "score": 266
+    },
+    {
+      "artist": "Jonathan Edwards",
+      "title": "Sunshine",
+      "weeks": 9,
+      "peak": 4,
+      "score": 262
+    },
+    {
+      "artist": "Donny Osmond",
+      "title": "Puppy Love",
+      "weeks": 12,
+      "peak": 3,
+      "score": 257
+    },
+    {
+      "artist": "The Moody Blues",
+      "title": "Nights In White Satin",
+      "weeks": 18,
+      "peak": 2,
+      "score": 252
+    },
+    {
+      "artist": "Bread",
+      "title": "Everything I Own",
+      "weeks": 13,
+      "peak": 5,
+      "score": 250
+    },
+    {
+      "artist": "Bill",
+      "title": "Lean On Me",
+      "weeks": 19,
+      "peak": 1,
+      "score": 250
+    },
+    {
+      "artist": "Robert John",
+      "title": "The Lion Sleeps Tonight",
+      "weeks": 17,
+      "peak": 3,
+      "score": 248
+    },
+    {
+      "artist": "Betty Wright",
+      "title": "Clean Up Woman",
+      "weeks": 9,
+      "peak": 6,
+      "score": 246
+    },
+    {
+      "artist": "The Dramatics",
+      "title": "In The Rain",
+      "weeks": 13,
+      "peak": 5,
+      "score": 246
+    },
+    {
+      "artist": "The Temptations",
+      "title": "Papa Was A Rollin' Stone",
+      "weeks": 12,
+      "peak": 1,
+      "score": 245
+    },
+    {
+      "artist": "Billy Preston",
+      "title": "Outa-Space",
+      "weeks": 17,
+      "peak": 2,
+      "score": 241
+    },
+    {
+      "artist": "Roberta Flack",
+      "title": "Where Is The Love",
+      "weeks": 13,
+      "peak": 5,
+      "score": 241
+    },
+    {
+      "artist": "The O'jays",
+      "title": "Back Stabbers",
+      "weeks": 15,
+      "peak": 3,
+      "score": 240
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Roberta Flack",
+      "hits": 2
+    },
+    {
+      "artist": "Al Green",
+      "hits": 3
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Gallery",
+      "title": "Nice To Be With You",
+      "weeks": 22,
+      "peak": 4,
+      "score": 7
+    },
+    {
+      "artist": "War",
+      "title": "Slippin' Into Darkness",
+      "weeks": 22,
+      "peak": 16,
+      "score": -93
+    },
+    {
+      "artist": "Joe Tex",
+      "title": "I Gotcha",
+      "weeks": 21,
+      "peak": 2,
+      "score": 361
+    },
+    {
+      "artist": "Sammy Davis, Jr",
+      "title": "The Candy Man",
+      "weeks": 21,
+      "peak": 1,
+      "score": 232
+    },
+    {
+      "artist": "Wayne Newton",
+      "title": "Daddy Don't You Walk So Fast",
+      "weeks": 20,
+      "peak": 4,
+      "score": 182
+    },
+    {
+      "artist": "Mel And Tim",
+      "title": "Starting All Over Again",
+      "weeks": 20,
+      "peak": 19,
+      "score": -69
+    },
+    {
+      "artist": "Daniel Boone",
+      "title": "Beautiful Sunday",
+      "weeks": 20,
+      "peak": 15,
+      "score": -130
+    },
+    {
+      "artist": "Bill",
+      "title": "Lean On Me",
+      "weeks": 19,
+      "peak": 1,
+      "score": 250
+    },
+    {
+      "artist": "Helen Reddy",
+      "title": "I Am Woman",
+      "weeks": 19,
+      "peak": 1,
+      "score": 107
+    },
+    {
+      "artist": "Rick Nelson And The Stone Canyon Band",
+      "title": "Garden Party",
+      "weeks": 19,
+      "peak": 6,
+      "score": 69
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Roberta Flack",
+      "title": "The First Time Ever I Saw Your Face",
+      "weeks": 18,
+      "peak": 1,
+      "score": 450
+    },
+    {
+      "artist": "Gilbert O'sullivan",
+      "title": "Alone Again (Naturally)",
+      "weeks": 18,
+      "peak": 1,
+      "score": 422
+    },
+    {
+      "artist": "Don Mclean",
+      "title": "American Pie (Parts I & II)",
+      "weeks": 14,
+      "peak": 1,
+      "score": 419
+    },
+    {
+      "artist": "Looking Glass",
+      "title": "Brandy (You're A Fine Girl)",
+      "weeks": 16,
+      "peak": 1,
+      "score": 413
+    },
+    {
+      "artist": "Al Green",
+      "title": "Let's Stay Together",
+      "weeks": 12,
+      "peak": 1,
+      "score": 406
+    },
+    {
+      "artist": "Nilsson",
+      "title": "Without You",
+      "weeks": 17,
+      "peak": 1,
+      "score": 380
+    },
+    {
+      "artist": "The Staple Singers",
+      "title": "I'll Take You There",
+      "weeks": 15,
+      "peak": 1,
+      "score": 373
+    },
+    {
+      "artist": "Neil Young",
+      "title": "Heart Of Gold",
+      "weeks": 14,
+      "peak": 1,
+      "score": 365
+    },
+    {
+      "artist": "America",
+      "title": "A Horse With No Name",
+      "weeks": 14,
+      "peak": 1,
+      "score": 364
+    },
+    {
+      "artist": "The Chi-lites",
+      "title": "Oh Girl",
+      "weeks": 15,
+      "peak": 1,
+      "score": 354
+    },
+    {
+      "artist": "Neil Diamond",
+      "title": "Song Sung Blue",
+      "weeks": 13,
+      "peak": 1,
+      "score": 321
+    },
+    {
+      "artist": "Melanie",
+      "title": "Brand New Key",
+      "weeks": 9,
+      "peak": 1,
+      "score": 311
+    },
+    {
+      "artist": "Johnny Nash",
+      "title": "I Can See Clearly Now",
+      "weeks": 17,
+      "peak": 1,
+      "score": 296
+    },
+    {
+      "artist": "Mac Davis",
+      "title": "Baby Don't Get Hooked On Me",
+      "weeks": 18,
+      "peak": 1,
+      "score": 288
+    },
+    {
+      "artist": "Bill",
+      "title": "Lean On Me",
+      "weeks": 19,
+      "peak": 1,
+      "score": 250
+    },
+    {
+      "artist": "The Temptations",
+      "title": "Papa Was A Rollin' Stone",
+      "weeks": 12,
+      "peak": 1,
+      "score": 245
+    },
+    {
+      "artist": "Sammy Davis, Jr",
+      "title": "The Candy Man",
+      "weeks": 21,
+      "peak": 1,
+      "score": 232
+    },
+    {
+      "artist": "Three Dog Night",
+      "title": "Black & White",
+      "weeks": 11,
+      "peak": 1,
+      "score": 230
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Ben",
+      "weeks": 16,
+      "peak": 1,
+      "score": 212
+    },
+    {
+      "artist": "Chuck Berry",
+      "title": "My Ding-A-Ling",
+      "weeks": 17,
+      "peak": 1,
+      "score": 176
+    },
+    {
+      "artist": "Billy Paul",
+      "title": "Me And Mrs. Jones",
+      "weeks": 9,
+      "peak": 1,
+      "score": 163
+    },
+    {
+      "artist": "Helen Reddy",
+      "title": "I Am Woman",
+      "weeks": 19,
+      "peak": 1,
+      "score": 107
+    }
+  ]
+}

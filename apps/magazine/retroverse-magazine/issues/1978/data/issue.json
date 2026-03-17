@@ -1,0 +1,634 @@
+{
+  "issue": {
+    "title": "RetroVerse",
+    "year": 1978,
+    "issue_name": "Illustrated Preview Issue",
+    "tagline": "Culture in real time",
+    "editor_in_chief": "B.J. Lovestreet",
+    "art_director": "Hanna Judge"
+  },
+  "pages": [
+    {
+      "slug": "cover",
+      "filename": "page_01_cover.html",
+      "page_number": 1,
+      "template": "template_cover.html",
+      "section": "Cover",
+      "page_title": "RetroVerse 1978",
+      "subtitle": "Disco glow, cinema crowds, and city-night momentum.",
+      "byline": "Cover concept by Hanna Judge",
+      "image_prompt_key": "cover",
+      "art_filename": "cover/cover_1978.png",
+      "text_blocks": [
+        "RetroVerse opens 1978 as a year in motion, where radio, film, and nightlife share the same pulse."
+      ],
+      "cover_lines": [
+        "Inside: Bee Gees, Donna Summer, Chic, and the pop-disco crossover.",
+        "Plus: Grease to Superman, chart tables, collage pages, and comic satire."
+      ]
+    },
+    {
+      "slug": "contents",
+      "filename": "page_02_contents.html",
+      "page_number": 2,
+      "template": "template_contents.html",
+      "section": "Contents",
+      "page_title": "Table of Contents",
+      "subtitle": "A 24-page map through 1978 music, film, and street culture.",
+      "byline": "Compiled by the RetroVerse desk",
+      "text_blocks": [
+        "Every section is written in-year and built for quick visual rhythm changes."
+      ],
+      "collage_tiles": [
+        "Neon marquee photo sketch",
+        "Subway token and map fragment",
+        "Record-store listening booth card",
+        "Arcade cabinet side detail",
+        "Fashion clipping and swatch",
+        "Pocket radio advertisement"
+      ],
+      "sidebar_items": [
+        "Editor-in-Chief: B.J. Lovestreet",
+        "Music Editor: A.J. Hunter",
+        "Film & Television: Bennett & Carter",
+        "Culture: Prof Dick Wheeler",
+        "Advice: Sue Belmer",
+        "Chart Narration: Kevin Casey",
+        "Art Direction: Hanna Judge"
+      ]
+    },
+    {
+      "slug": "editor_intro",
+      "filename": "page_03_editor.html",
+      "page_number": 3,
+      "template": "template_department_column.html",
+      "section": "Department",
+      "page_title": "Editor's Intro: 1978 in Transition",
+      "subtitle": "The late seventies are shifting faster than our labels.",
+      "byline": "By B.J. Lovestreet",
+      "image_prompt_key": "feature_cinema",
+      "art_filename": "feature/department_portrait.png",
+      "text_blocks": [
+        "The mood of 1978 is unmistakable: bright records, crowded cinemas, and television that remains stitched into nightly routine.",
+        "We are watching established forms evolve in public. Disco widens, rock adapts, and pop grows more polished without becoming predictable.",
+        "This issue tracks those shifts with pages designed to feel like a printed magazine, not a website article stream."
+      ],
+      "sidebar_items": [
+        "Music is setting pace for the whole week",
+        "Film is scaling up event energy",
+        "Television remains the intimate medium"
+      ],
+      "pull_quote": "\"1978 feels less like an ending than a loud midpoint.\""
+    },
+    {
+      "slug": "feature_disco",
+      "filename": "page_04_feature_disco.html",
+      "page_number": 4,
+      "template": "template_feature_spread.html",
+      "section": "Feature Story",
+      "page_title": "The Disco Boom",
+      "subtitle": "How dance-floor records became national fixtures.",
+      "byline": "By A.J. Hunter",
+      "image_prompt_key": "cover",
+      "art_filename": "feature/disco_floor.png",
+      "text_blocks": [
+        "By 1978, disco has moved from selective club circuits into mainstream radio and retail shelves.",
+        "The production style is deliberate: tight drums, elastic bass, lush strings, and vocal hooks that land immediately.",
+        "Listeners now hear dance records in cars, shops, and neighborhood parties, not only under mirrored ceilings.",
+        "Whatever its critics say, disco has become a shared social soundtrack."
+      ],
+      "pull_quote": "\"A strong dance record can turn strangers into a temporary community.\"",
+      "sidebar_items": [
+        "Bee Gees remain central to crossover momentum",
+        "Donna Summer signals dance-floor urgency",
+        "Chic proves groove can be both stylish and precise"
+      ],
+      "artifact_note": "Artifact placeholder: nightclub flyer stack and handwritten set notes."
+    },
+    {
+      "slug": "feature_backlash",
+      "filename": "page_05_feature_backlash.html",
+      "page_number": 5,
+      "template": "template_feature_spread.html",
+      "section": "Feature Story",
+      "page_title": "When Disco Meets Resistance",
+      "subtitle": "Taste politics and chart reality in the same week.",
+      "byline": "By A.J. Hunter",
+      "image_prompt_key": "feature_cinema",
+      "art_filename": "feature/feature_placeholder.png",
+      "text_blocks": [
+        "Every dominant style attracts a backlash, and disco now sits at the center of that argument.",
+        "Some critics dismiss the polish. Fans answer that arrangement craft is exactly why these records hold up.",
+        "Meanwhile, chart data keeps validating demand: Bee Gees, Donna Summer, and Chic continue drawing massive audiences.",
+        "The disagreement itself proves disco matters culturally, not just commercially."
+      ],
+      "pull_quote": "\"People debate disco all week and dance to it anyway.\"",
+      "sidebar_items": [
+        "Rolling Stones crossover proves genre boundaries are porous",
+        "Billy Joel and pop ballads coexist with club records",
+        "Village People underline disco as performance culture"
+      ],
+      "artifact_note": "Inset placeholder: FM playlist card with highlighted disco-heavy slots."
+    },
+    {
+      "slug": "collage_city",
+      "filename": "page_06_collage_city.html",
+      "page_number": 6,
+      "template": "template_grid_collage.html",
+      "section": "Collage",
+      "page_title": "City Night Collage",
+      "subtitle": "Nine artifacts from one 1978 evening.",
+      "byline": "Visual concept by Hanna Judge",
+      "image_prompt_key": "collage_items",
+      "text_blocks": [
+        "Collage page blends ephemera, quick captions, and atmosphere snapshots."
+      ],
+      "collage_tiles": [
+        "Subway token and transit map corner",
+        "Vinyl record booth listening card",
+        "Neon diner receipt sketch",
+        "Movie ticket stub from late show",
+        "Arcade cabinet side-art crop",
+        "Disco platform shoes catalog panel",
+        "Polaroid outside theater queue",
+        "Pocket radio advertisement block",
+        "Nightclub wrist stamp close-up"
+      ],
+      "caption": "Collage is a pacing reset between dense feature pages."
+    },
+    {
+      "slug": "parody_console",
+      "filename": "page_07_parody_console.html",
+      "page_number": 7,
+      "template": "template_visual_parody.html",
+      "section": "Parody",
+      "page_title": "Parody: Weekend Console",
+      "subtitle": "A fake control panel for total social optimization.",
+      "byline": "Parody desk",
+      "image_prompt_key": "parody_console",
+      "art_filename": "parody/weekend_console.png",
+      "text_blocks": [
+        "This faux ad promises one chrome dashboard that books clubs, selects songs, and predicts your best jacket before dusk."
+      ],
+      "parody_title": "THE WEEKEND CONSOLE 78",
+      "caption": "Satire target: late-1970s gadget promises and lifestyle over-engineering."
+    },
+    {
+      "slug": "data_billboard",
+      "filename": "page_08_data_billboard.html",
+      "page_number": 8,
+      "template": "template_data_page.html",
+      "section": "Data",
+      "page_title": "Billboard Pulse: Singles Board",
+      "subtitle": "1978 chart pressure from disco and crossover pop.",
+      "byline": "Chart desk",
+      "text_blocks": [
+        "This page tracks upper-tier singles momentum and weeks-on-chart durability."
+      ],
+      "table_source": "charts",
+      "sidebar_items": [
+        "Bee Gees maintain broad-format traction",
+        "Donna Summer dominates dance radio",
+        "Chic and Village People keep clubs in sync with pop charts"
+      ],
+      "debate_text": "Is chart stability now tied more closely to club play than ever before?"
+    },
+    {
+      "slug": "data_albums",
+      "filename": "page_09_data_albums.html",
+      "page_number": 9,
+      "template": "template_data_page.html",
+      "section": "Data",
+      "page_title": "Album Board: Retail Shelf Heat",
+      "subtitle": "How full-length records are moving in 1978 stores.",
+      "byline": "Records desk",
+      "text_blocks": [
+        "Album movement shows where repeat listening is strongest beyond single-week spikes."
+      ],
+      "table_rows": [
+        [
+          "1",
+          "Saturday Night Fever OST",
+          "Various Artists",
+          "36"
+        ],
+        [
+          "2",
+          "Some Girls",
+          "Rolling Stones",
+          "20"
+        ],
+        [
+          "3",
+          "52nd Street",
+          "Billy Joel",
+          "10"
+        ],
+        [
+          "4",
+          "Grease OST",
+          "Various Artists",
+          "24"
+        ],
+        [
+          "5",
+          "The Stranger",
+          "Billy Joel",
+          "38"
+        ]
+      ],
+      "sidebar_items": [
+        "Soundtracks remain major anchors",
+        "Rolling Stones sustain rock shelf velocity",
+        "Billy Joel bridges radio and album audiences"
+      ],
+      "debate_text": "Are soundtrack albums becoming the most reliable cross-demographic sellers?"
+    },
+    {
+      "slug": "department_culture",
+      "filename": "page_10_department_culture.html",
+      "page_number": 10,
+      "template": "template_department_column.html",
+      "section": "Department",
+      "page_title": "Culture Notebook",
+      "subtitle": "Prof Wheeler on arcades, wardrobes, and appliances.",
+      "byline": "By \"Prof\" Dick Wheeler",
+      "art_filename": "feature/department_portrait.png",
+      "text_blocks": [
+        "Arcades now act like social observatories where strategy and performance share the same floor space.",
+        "Fashion keeps splitting by setting: practical denim by day, metallic confidence by night.",
+        "Home technology keeps moving inward, from microwaves to cassette systems and new video format talk."
+      ],
+      "sidebar_items": [
+        "Observe lines and gathering points",
+        "Track outfit shifts by venue",
+        "Watch which devices become routine"
+      ],
+      "pull_quote": "\"Where people queue tells you what the culture values next.\""
+    },
+    {
+      "slug": "parody_planner",
+      "filename": "page_11_parody_planner.html",
+      "page_number": 11,
+      "template": "template_visual_parody.html",
+      "section": "Parody",
+      "page_title": "Parody: Weekend Planner Deluxe",
+      "subtitle": "A fake planner for overbooked social calendars.",
+      "byline": "Parody desk",
+      "art_filename": "parody/parody_placeholder.png",
+      "text_blocks": [
+        "Mock ad copy promises to schedule disco, cinema, arcade, and brunch with no emotional consequences."
+      ],
+      "parody_title": "COMMANDER OF SATURDAY",
+      "caption": "Humor break before returning to data-heavy pages."
+    },
+    {
+      "slug": "data_timeline",
+      "filename": "page_12_data_timeline.html",
+      "page_number": 12,
+      "template": "template_data_page.html",
+      "section": "Data",
+      "page_title": "1978 Timeline Board",
+      "subtitle": "Month-by-month media and culture checkpoints.",
+      "byline": "Research desk",
+      "text_blocks": [
+        "Timeline format connects shifts in music, film, television, and consumer behavior."
+      ],
+      "table_rows": [
+        [
+          "Jan",
+          "Music",
+          "Night Fever climbs rapidly",
+          "18"
+        ],
+        [
+          "Jun",
+          "Film",
+          "Grease opens to strong audiences",
+          "24"
+        ],
+        [
+          "Jul",
+          "Film",
+          "Animal House breakout run",
+          "17"
+        ],
+        [
+          "Oct",
+          "Music",
+          "Le Freak gains broad rotation",
+          "12"
+        ],
+        [
+          "Dec",
+          "Film",
+          "Superman event release season",
+          "14"
+        ]
+      ],
+      "sidebar_items": [
+        "Timeline entries should remain concise",
+        "Cross-reference chart and box office movement",
+        "Highlight moments with sustained after-effects"
+      ],
+      "debate_text": "Which medium set the year tone fastest: radio, TV, or theatrical film?"
+    },
+    {
+      "slug": "feature_interview",
+      "filename": "page_13_feature_interview.html",
+      "page_number": 13,
+      "template": "template_feature_spread.html",
+      "section": "Feature Story",
+      "page_title": "Interview: Behind the Booth",
+      "subtitle": "A late-1978 DJ on tempo, sequencing, and crowd reads.",
+      "byline": "Interview by A.J. Hunter",
+      "art_filename": "feature/disco_floor.png",
+      "text_blocks": [
+        "Interview pages translate scene knowledge into practical editorial insight.",
+        "Question: what changes first when energy drops? Answer: sequence, not volume.",
+        "Question: what do listeners request most? Answer: records they can sing by verse two.",
+        "Question: what stays true? Answer: timing matters as much as song choice."
+      ],
+      "pull_quote": "\"Great sets feel inevitable only after they work.\"",
+      "sidebar_items": [
+        "Use alternating Q/A blocks for readability",
+        "Highlight concise tactics in sidebars",
+        "Pair interview with booth artifact visuals"
+      ],
+      "artifact_note": "Artifact placeholder: marked-up set list with transition notes."
+    },
+    {
+      "slug": "parody_fake_ad",
+      "filename": "page_14_parody_fake_ad.html",
+      "page_number": 14,
+      "template": "template_visual_parody.html",
+      "section": "Parody",
+      "page_title": "Fake Advertisement Department",
+      "subtitle": "An impossible home disco package for the modern apartment.",
+      "byline": "Parody desk",
+      "art_filename": "parody/fake_ad_kit.png",
+      "text_blocks": [
+        "Faux ad placeholder: mirrored ceiling, smoke cartridge, and synchronized mood lighting in one weekend crate."
+      ],
+      "parody_title": "LIVING ROOM SATURDAY KIT",
+      "caption": "Satire target: instant-identity consumer bundles."
+    },
+    {
+      "slug": "comic_night",
+      "filename": "page_15_comic_night.html",
+      "page_number": 15,
+      "template": "template_narrative_comic.html",
+      "section": "Comic",
+      "page_title": "Narrative Comic: Friday Circuit",
+      "subtitle": "From record shop opening to final bus stop.",
+      "byline": "Storyboards by Hanna Judge | Script by RetroVerse desk",
+      "text_blocks": [
+        "Comic page uses six panels to pace one evening narrative."
+      ],
+      "panels": [
+        [
+          "Panel 1",
+          "Record-store clerk tests a fresh 45 for early customers.",
+          "Caption: 7:05 p.m. and the first chorus lands."
+        ],
+        [
+          "Panel 2",
+          "Friends argue disco versus cinema while scanning listings.",
+          "Dialogue: \"One song first, then we decide.\""
+        ],
+        [
+          "Panel 3",
+          "Taxi window catches neon and theater queue movement.",
+          "Caption: Midtown compresses into light and noise."
+        ],
+        [
+          "Panel 4",
+          "Dance floor opens and the room resets to one tempo.",
+          "Caption: Verse two, and everyone commits."
+        ],
+        [
+          "Panel 5",
+          "Booth conversation drifts from charts to rent and coffee.",
+          "Dialogue: \"Play the Bee Gees again before close.\""
+        ],
+        [
+          "Panel 6",
+          "Dawn sidewalk with radio still humming in a coat pocket.",
+          "Caption: Set ends; Saturday morning begins."
+        ]
+      ]
+    },
+    {
+      "slug": "feature_cinema",
+      "filename": "page_16_feature_cinema.html",
+      "page_number": 16,
+      "template": "template_feature_spread.html",
+      "section": "Feature Story",
+      "page_title": "Cinema Lines and Big-Screen Stakes",
+      "subtitle": "Grease, Superman, and event-film momentum.",
+      "byline": "By Charles Carter",
+      "image_prompt_key": "feature_cinema",
+      "art_filename": "feature/cinema_marquee.png",
+      "text_blocks": [
+        "1978 theaters are balancing broad comedy, musicals, suspense, and large-scale hero stories.",
+        "Grease and Animal House proved appetite for high-energy crowd experiences.",
+        "Superman and The Deer Hunter show opposite ends of scale but equal commitment to cinematic event value.",
+        "Box-office queues remain a public ritual that television cannot duplicate."
+      ],
+      "pull_quote": "\"A full theater still turns release night into a civic event.\"",
+      "sidebar_items": [
+        "Top box office titles include Grease and Superman",
+        "Halloween confirms low-budget precision can travel",
+        "Midnight Express and Hooper add tonal variety"
+      ],
+      "artifact_note": "Artifact placeholder: newspaper showtime grid with circled screenings."
+    },
+    {
+      "slug": "collage_movies_toys",
+      "filename": "page_17_collage_movies_toys.html",
+      "page_number": 17,
+      "template": "template_grid_collage.html",
+      "section": "Collage",
+      "page_title": "Movies, Toys, and Storefront Culture",
+      "subtitle": "How screen hits spill into aisles and catalogs.",
+      "byline": "Visual desk",
+      "image_prompt_key": "collage_items",
+      "text_blocks": [
+        "Collage pairs movie and toy artifacts to capture retail spillover from major releases."
+      ],
+      "collage_tiles": [
+        "Grease soundtrack rack card",
+        "Superman toy package concept",
+        "Animal House campus poster crop",
+        "Jaws 2 summer promotion panel",
+        "Halloween late-show ad tile",
+        "Every Which Way But Loose one-sheet edge",
+        "Hooper stunt publicity image slot",
+        "Deer Hunter prestige ad fragment",
+        "Midnight Express release clipping"
+      ],
+      "caption": "Nine-tile collage linking top box-office films to consumer artifacts."
+    },
+    {
+      "slug": "parody_humor",
+      "filename": "page_18_parody_humor.html",
+      "page_number": 18,
+      "template": "template_visual_parody.html",
+      "section": "Parody",
+      "page_title": "Parody: Hotline for Perfect Taste",
+      "subtitle": "A fake service that rates your weekend by station presets.",
+      "byline": "Parody desk",
+      "art_filename": "parody/parody_placeholder.png",
+      "text_blocks": [
+        "Satirical offer: call once, enter your three favorite songs, and receive certified cultural ranking by mail."
+      ],
+      "parody_title": "1-800-TASTE-CHECK",
+      "caption": "Humor slot keeps the issue from locking into one tone for too long."
+    },
+    {
+      "slug": "data_music",
+      "filename": "page_19_data_music.html",
+      "page_number": 19,
+      "template": "template_data_page.html",
+      "section": "Data",
+      "page_title": "Music Data: Cross-Format Movers",
+      "subtitle": "Singles spanning dance, pop, and rock lanes.",
+      "byline": "Chart desk",
+      "text_blocks": [
+        "Second chart page compares crossover endurance across formats and audiences."
+      ],
+      "table_rows": [
+        [
+          "1",
+          "Le Freak",
+          "Chic",
+          "17"
+        ],
+        [
+          "2",
+          "Hot Stuff",
+          "Donna Summer",
+          "14"
+        ],
+        [
+          "3",
+          "Miss You",
+          "Rolling Stones",
+          "16"
+        ],
+        [
+          "4",
+          "My Life",
+          "Billy Joel",
+          "15"
+        ],
+        [
+          "5",
+          "Y.M.C.A.",
+          "Village People",
+          "13"
+        ]
+      ],
+      "sidebar_items": [
+        "Disco remains central but not exclusive",
+        "Rock and pop crossovers continue to chart",
+        "Weeks-on-chart highlights sustained demand"
+      ],
+      "debate_text": "Do crossover records now define the mainstream more than pure-genre hits?"
+    },
+    {
+      "slug": "feature_tv",
+      "filename": "page_20_feature_tv.html",
+      "page_number": 20,
+      "template": "template_feature_spread.html",
+      "section": "Feature Story",
+      "page_title": "Television as Weekly Habit",
+      "subtitle": "Why prime-time structure still shapes household rhythm.",
+      "byline": "By Emily Bennett",
+      "art_filename": "feature/tv_livingroom.png",
+      "text_blocks": [
+        "Television remains the most intimate format because it returns on schedule and enters homes without ceremony.",
+        "New comedies and workplace formats in 1978 carry faster writing and stronger character contrast.",
+        "Programs like Mork and Mindy, WKRP in Cincinnati, and Taxi reflect a changing appetite for tonal mix.",
+        "Cinema may own spectacle, but television owns repetition and familiarity."
+      ],
+      "pull_quote": "\"A weekly show can become part of household architecture.\"",
+      "sidebar_items": [
+        "Dallas expands prime-time serialized appetite",
+        "Diff'rent Strokes shows family format flexibility",
+        "Network scheduling strategy is increasingly competitive"
+      ],
+      "artifact_note": "Artifact placeholder: TV Guide page with hand-marked lineup."
+    },
+    {
+      "slug": "department_sue",
+      "filename": "page_21_department_sue.html",
+      "page_number": 21,
+      "template": "template_department_column.html",
+      "section": "Department",
+      "page_title": "Sue Says: Mailbag",
+      "subtitle": "Dating, dignity, and dance-floor etiquette.",
+      "byline": "By Sue Belmer",
+      "art_filename": "feature/department_portrait.png",
+      "text_blocks": [
+        "Letter placeholder: every date feels like a dance audition, and conversation keeps getting postponed.",
+        "Sue answer: chemistry is not choreography. Good company listens before it judges.",
+        "Practical rule: split the evening between movement and talk, then watch behavior, not promises."
+      ],
+      "sidebar_items": [
+        "Ask for the evening you want",
+        "Use humor without shrinking your standards",
+        "Choose partners, not scorekeepers"
+      ],
+      "pull_quote": "\"You are dating a person, not auditioning for points.\""
+    },
+    {
+      "slug": "parody_trend",
+      "filename": "page_22_parody_trend.html",
+      "page_number": 22,
+      "template": "template_visual_parody.html",
+      "section": "Parody",
+      "page_title": "Parody: Certified Trend Bureau",
+      "subtitle": "A fake office that stamps your outfit as officially modern.",
+      "byline": "Parody desk",
+      "art_filename": "parody/parody_placeholder.png",
+      "text_blocks": [
+        "Parody ad placeholder for a civic-style bureau that approves collars, shoes, and dance vocabulary by decree."
+      ],
+      "parody_title": "TREND BUREAU APPROVAL SEAL",
+      "caption": "Satire of institutional certainty in style culture."
+    },
+    {
+      "slug": "parody_puzzle",
+      "filename": "page_23_parody_puzzle.html",
+      "page_number": 23,
+      "template": "template_visual_parody.html",
+      "section": "Puzzle / Trivia",
+      "page_title": "RetroVerse Trivia Grid",
+      "subtitle": "A puzzle page with faux-ad energy and culture clues.",
+      "byline": "Parody desk",
+      "art_filename": "parody/trivia_grid.png",
+      "text_blocks": [
+        "Puzzle placeholder: match chart hits, film titles, and iconic 1978 visuals inside a nine-cell trivia board."
+      ],
+      "parody_title": "MATCH THE 1978 CLUE",
+      "caption": "Puzzle/trivia page sets up the final visual landing on page 24."
+    },
+    {
+      "slug": "back_page",
+      "filename": "page_24_back.html",
+      "page_number": 24,
+      "template": "template_back_page.html",
+      "section": "Back Page",
+      "page_title": "Back Page Poster",
+      "subtitle": "One final frame of 1978 magazine atmosphere.",
+      "byline": "Art direction by Hanna Judge",
+      "image_prompt_key": "cover",
+      "art_filename": "cover/back_page_1978.png",
+      "text_blocks": [
+        "Back page closes the issue with a collectible-style poster placeholder."
+      ],
+      "caption": "Final caption: keep this page as the issue memory card for 1978."
+    }
+  ]
+}

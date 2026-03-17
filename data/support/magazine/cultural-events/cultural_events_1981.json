@@ -1,0 +1,69 @@
+{
+  "year": 1981,
+  "films": [
+    "Raiders of the Lost Ark",
+    "On Golden Pond",
+    "Superman II",
+    "Arthur",
+    "Stripes",
+    "The Cannonball Run",
+    "Chariots of Fire",
+    "For Your Eyes Only",
+    "The Four Seasons",
+    "Time Bandits"
+  ],
+  "tv": [
+    "Dallas",
+    "60 Minutes",
+    "The Jeffersons",
+    "Three's Company",
+    "Alice",
+    "The Dukes of Hazzard",
+    "ABC",
+    "ABC Monday Night Movie",
+    "M*A*S*H",
+    "One Day at a Time"
+  ],
+  "headlines": [
+    {
+      "event": "Greece enters the European Economic Community , predecessor of the European Union .",
+      "date": "1981-01-01"
+    },
+    {
+      "event": "Palau becomes a self-governing territory.",
+      "date": "1981-01-01"
+    },
+    {
+      "event": "January 6 – A funeral service is held in West Germany for Nazi Grand Admiral Karl Doenitz following his death on December 24.",
+      "date": "1981-01-06"
+    },
+    {
+      "event": "January 10 – Salvadoran Civil War : The FMLN launches its first major offensive, gaining control of most of Morazán and Chalatenango departments.",
+      "date": "1981-01-10"
+    },
+    {
+      "event": "January 15 – Pope John Paul II receives a delegation led by Polish Solidarity leader Lech Wałęsa at the Vatican .",
+      "date": "1981-01-15"
+    },
+    {
+      "event": "January 20 – Iran releases the 52 Americans held for 444 days, minutes after Ronald Reagan is sworn in as the 40th President of the United States, ending the Iran hostage crisis .",
+      "date": "1981-01-20"
+    },
+    {
+      "event": "January 21 – The first DeLorean automobile, a stainless steel sports car with gull-wing doors , rolls off the production line in Dunmurry , Northern Ireland .",
+      "date": "1981-01-21"
+    },
+    {
+      "event": "January 24 – An earthquake of M s 6.8 magnitude in Sichuan , China, kills 150 people. Japan suffers a less serious earthquake on the same day.",
+      "date": "1981-01-24"
+    },
+    {
+      "event": "January 25 – In South Africa the largest part of the town Laingsburg is swept away within minutes by one of the strongest floods ever experienced in the Great Karoo .",
+      "date": "1981-01-25"
+    },
+    {
+      "event": "January 27 – The Indonesian passenger ship Tampomas II catches fire and capsizes in the Java Sea , killing 580 people.",
+      "date": "1981-01-27"
+    }
+  ]
+}

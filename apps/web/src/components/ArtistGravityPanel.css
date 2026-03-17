@@ -1,0 +1,42 @@
+.artist-gravity-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.artist-gravity-item {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  border: 1px solid var(--rv-line);
+  border-radius: 8px;
+  padding: 6px 8px;
+  background: var(--rv-surface);
+}
+
+.artist-gravity-rank {
+  font-weight: 800;
+  min-width: 20px;
+  color: var(--rv-ink);
+}
+
+.artist-gravity-name {
+  font-weight: 600;
+  color: var(--rv-text);
+}
+
+.artist-gravity-link {
+  margin-top: 8px;
+  border: 0;
+  background: transparent;
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 700;
+  text-decoration: underline;
+  padding: 0;
+  cursor: pointer;
+  box-shadow: none;
+}

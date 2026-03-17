@@ -1,0 +1,356 @@
+:root {
+  --ink: #e8f3ff;
+  --muted: #acc7e8;
+  --panel-ink: #f5fbff;
+  --line: rgba(230, 246, 255, 0.35);
+  --shadow: rgba(0, 0, 0, 0.35);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  width: 1080px;
+  height: 1920px;
+  overflow: hidden;
+  font-family: 'Trebuchet MS', 'Gill Sans', 'Verdana', sans-serif;
+}
+
+body {
+  background: #0d1a2c;
+  color: var(--ink);
+}
+
+.rv-card {
+  width: 1080px;
+  height: 1920px;
+  padding: 56px;
+  display: grid;
+  grid-template-rows: auto auto 1fr auto;
+  gap: 22px;
+  position: relative;
+  overflow: hidden;
+}
+
+.rv-card::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: radial-gradient(circle at 20% 12%, rgba(255, 255, 255, 0.18), transparent 55%),
+    radial-gradient(circle at 84% 88%, rgba(255, 255, 255, 0.1), transparent 52%);
+  mix-blend-mode: screen;
+}
+
+.card-header {
+  z-index: 2;
+  display: grid;
+  gap: 10px;
+}
+
+.capsule-label {
+  margin: 0;
+  font-size: 27px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.week-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 14px;
+}
+
+.week-pill,
+.date-pill,
+.layout-pill {
+  border: 2px solid var(--line);
+  border-radius: 999px;
+  padding: 9px 18px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  background: rgba(7, 20, 35, 0.45);
+}
+
+.date-pill {
+  font-size: 23px;
+  color: var(--panel-ink);
+}
+
+.week-pill {
+  font-size: 27px;
+  min-width: 190px;
+}
+
+.hero {
+  z-index: 2;
+  position: relative;
+  border: 2px solid var(--line);
+  border-radius: 34px;
+  padding: 24px 28px 30px;
+  background: rgba(9, 24, 40, 0.55);
+  box-shadow: 0 18px 38px var(--shadow);
+}
+
+.hero-kicker {
+  margin: 0;
+  font-size: 24px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.song-badge {
+  position: absolute;
+  right: 24px;
+  top: 20px;
+  width: 112px;
+  height: 112px;
+  border-radius: 999px;
+  font-size: 50px;
+  font-weight: 900;
+  display: grid;
+  place-items: center;
+  border: 3px solid rgba(255, 255, 255, 0.7);
+  background: rgba(255, 255, 255, 0.15);
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+}
+
+h1 {
+  margin: 10px 132px 5px 0;
+  font-size: 58px;
+  line-height: 1.03;
+  letter-spacing: 0.2px;
+}
+
+.song-artist {
+  margin: 0;
+  font-size: 34px;
+  color: #fff2bb;
+  letter-spacing: 1px;
+}
+
+.card-grid {
+  z-index: 2;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas:
+    'movie tv'
+    'headline headline'
+    'mood mood';
+  gap: 16px;
+}
+
+.panel {
+  border: 2px solid var(--line);
+  border-radius: 26px;
+  padding: 20px 22px;
+  background: rgba(9, 24, 40, 0.45);
+  box-shadow: 0 14px 24px rgba(0, 0, 0, 0.28);
+}
+
+.panel h2 {
+  margin: 0 0 8px;
+  font-size: 24px;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.panel h3 {
+  margin: 0 0 4px;
+  font-size: 36px;
+  line-height: 1.12;
+}
+
+.panel p {
+  margin: 4px 0;
+  font-size: 24px;
+  line-height: 1.32;
+}
+
+.movie-panel {
+  grid-area: movie;
+}
+
+.tv-panel {
+  grid-area: tv;
+}
+
+.headline-panel {
+  grid-area: headline;
+}
+
+.mood-panel {
+  grid-area: mood;
+}
+
+.movie-pool {
+  margin: 10px 0 0;
+  padding: 0 0 0 22px;
+  display: grid;
+  gap: 5px;
+}
+
+.movie-pool li {
+  font-size: 22px;
+  line-height: 1.27;
+}
+
+.tv-row {
+  display: grid;
+  gap: 9px;
+}
+
+.tv-row strong {
+  color: #fff2bb;
+  letter-spacing: 0.5px;
+}
+
+.headline-quote {
+  margin: 4px 0 0;
+  font-size: 31px;
+  line-height: 1.28;
+  font-style: italic;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px;
+}
+
+.tag {
+  border: 2px solid var(--line);
+  border-radius: 999px;
+  padding: 6px 13px;
+  font-size: 21px;
+  letter-spacing: 0.6px;
+  background: rgba(7, 20, 35, 0.6);
+}
+
+.footer {
+  z-index: 2;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: var(--muted);
+}
+
+.footer p {
+  margin: 0;
+  font-size: 21px;
+  letter-spacing: 1px;
+}
+
+.layout-a {
+  background: radial-gradient(circle at 12% 7%, #5079b9 0%, #16345f 40%, #0f1e38 100%);
+}
+
+.layout-a .tv-panel {
+  border-width: 9px;
+  border-color: rgba(245, 248, 210, 0.75);
+  border-radius: 34px;
+  background: linear-gradient(160deg, rgba(24, 43, 76, 0.85), rgba(8, 17, 31, 0.8));
+  box-shadow: inset 0 0 0 3px rgba(252, 255, 226, 0.2), 0 14px 28px rgba(0, 0, 0, 0.35);
+}
+
+.layout-a .headline-panel {
+  border-radius: 42px;
+  background: rgba(255, 255, 255, 0.09);
+}
+
+.layout-a .headline-quote {
+  position: relative;
+  padding-left: 24px;
+}
+
+.layout-a .headline-quote::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 14px;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  background: #fff4b6;
+}
+
+.layout-b {
+  background: linear-gradient(160deg, #9a3720 0%, #4b1535 42%, #101b3f 100%);
+}
+
+.layout-b .hero {
+  border-width: 4px;
+  border-color: rgba(255, 193, 112, 0.8);
+  background: linear-gradient(150deg, rgba(18, 12, 36, 0.72), rgba(20, 26, 52, 0.86));
+}
+
+.layout-b .song-badge {
+  width: 150px;
+  height: 150px;
+  font-size: 64px;
+  border-width: 5px;
+  border-color: rgba(255, 218, 120, 0.8);
+  background: linear-gradient(145deg, rgba(255, 194, 87, 0.45), rgba(255, 123, 86, 0.5));
+}
+
+.layout-b .panel {
+  border-color: rgba(255, 193, 112, 0.6);
+  background: rgba(16, 17, 40, 0.68);
+}
+
+.layout-b .tag {
+  border-color: rgba(255, 193, 112, 0.5);
+  background: rgba(131, 57, 37, 0.4);
+}
+
+.layout-c {
+  background: linear-gradient(180deg, #0f2f2f 0%, #11353d 33%, #17335a 68%, #271b4b 100%);
+}
+
+.layout-c .card-grid {
+  grid-template-areas:
+    'movie movie'
+    'tv headline'
+    'mood mood';
+}
+
+.layout-c .panel {
+  border-radius: 14px;
+  border-style: dashed;
+  border-width: 3px;
+  background: rgba(7, 21, 35, 0.66);
+}
+
+.layout-c .movie-panel {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  align-items: start;
+}
+
+.layout-c .movie-panel h3 {
+  grid-column: 1 / -1;
+}
+
+.layout-c .movie-panel p {
+  margin-top: 0;
+}
+
+.layout-c .movie-pool {
+  margin: 0;
+}
+
+.layout-c .song-badge {
+  border-style: dashed;
+}
+
+.layout-c .headline-quote {
+  font-size: 28px;
+}

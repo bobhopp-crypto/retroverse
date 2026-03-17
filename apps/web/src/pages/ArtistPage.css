@@ -1,0 +1,165 @@
+.artist-page {
+  gap: 10px;
+}
+
+.artist-influence-panel-section {
+  margin-top: 0;
+}
+
+.artist-videos-panel-section {
+  margin-top: 4px;
+}
+
+.artist-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.artist-stat-card {
+  border: 1px solid var(--rv-line);
+  border-radius: 10px;
+  padding: 10px;
+  background: var(--rv-surface);
+}
+
+.artist-stat-label {
+  margin: 0;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+
+.artist-stat-value {
+  margin: 6px 0 0;
+  font-size: clamp(1.1rem, 2.6vw, 1.5rem);
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.artist-stat-sub {
+  margin: 4px 0 0;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.artist-source-note {
+  margin: 10px 0 0;
+}
+
+.artist-timeline-wrap {
+  border: 1px solid var(--rv-line);
+  border-radius: 8px;
+  padding: 8px;
+  background: var(--rv-surface);
+}
+
+.artist-timeline-svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.artist-grid-line {
+  stroke: var(--rv-line);
+  stroke-width: 1;
+  stroke-dasharray: 4 4;
+}
+
+.artist-grid-label {
+  font-size: 11px;
+  fill: var(--muted);
+}
+
+.artist-line-path {
+  fill: none;
+  stroke: #e11d48;
+  stroke-width: 2.2;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+
+.artist-line-point {
+  fill: #e11d48;
+  stroke: var(--rv-surface);
+  stroke-width: 1;
+}
+
+.artist-timeline-note {
+  margin: 8px 0 0;
+}
+
+.artist-table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--rv-line);
+  border-radius: 6px;
+}
+
+.artist-week-table-wrap {
+  max-height: 380px;
+  overflow: auto;
+}
+
+.artist-week-songs {
+  min-width: 260px;
+}
+
+.artist-week-songline {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.35;
+}
+
+.artist-video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 10px;
+}
+
+.artist-video-card {
+  border: 1px solid var(--rv-line);
+  border-radius: 10px;
+  padding: 8px;
+  background: var(--rv-surface);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.artist-video-thumb {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 1px solid var(--rv-line);
+}
+
+.artist-video-title {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.3;
+}
+
+.artist-video-meta {
+  margin: 0;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+@media (max-width: 960px) {
+  .artist-summary-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 560px) {
+  .artist-summary-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .artist-week-songs {
+    min-width: 200px;
+  }
+}

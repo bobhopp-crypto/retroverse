@@ -1,0 +1,1734 @@
+{
+  "1978": {
+    "year": 1978,
+    "top_40": [
+      {
+        "rv_rank": 1,
+        "title": "Stayin' Alive",
+        "artist": "Bee Gees",
+        "peak_rank": 1,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 13,
+        "weeks_in_top_40": 20
+      },
+      {
+        "rv_rank": 2,
+        "title": "Shadow Dancing",
+        "artist": "Andy Gibb",
+        "peak_rank": 1,
+        "weeks_on_chart": 25,
+        "weeks_in_top_10": 12,
+        "weeks_in_top_40": 19
+      },
+      {
+        "rv_rank": 3,
+        "title": "Hot Child In The City",
+        "artist": "Nick Gilder",
+        "peak_rank": 1,
+        "weeks_on_chart": 30,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 18
+      },
+      {
+        "rv_rank": 4,
+        "title": "Kiss You All Over",
+        "artist": "Exile",
+        "peak_rank": 1,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 12,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 5,
+        "title": "Night Fever",
+        "artist": "Bee Gees",
+        "peak_rank": 1,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 13,
+        "weeks_in_top_40": 18
+      },
+      {
+        "rv_rank": 6,
+        "title": "Boogie Oogie Oogie",
+        "artist": "A Taste Of Honey",
+        "peak_rank": 1,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 12,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 7,
+        "title": "Lay Down Sally",
+        "artist": "Eric Clapton",
+        "peak_rank": 3,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 11,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 8,
+        "title": "You're The One That I Want",
+        "artist": "John Travolta",
+        "peak_rank": 1,
+        "weeks_on_chart": 24,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 9,
+        "title": "(Love Is) Thicker Than Water",
+        "artist": "Andy Gibb",
+        "peak_rank": 1,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 11,
+        "weeks_in_top_40": 18
+      },
+      {
+        "rv_rank": 10,
+        "title": "I Love The Nightlife (Disco 'round)",
+        "artist": "Alicia Bridges",
+        "peak_rank": 5,
+        "weeks_on_chart": 26,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 11,
+        "title": "You Needed Me",
+        "artist": "Anne Murray",
+        "peak_rank": 1,
+        "weeks_on_chart": 25,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 12,
+        "title": "Three Times A Lady",
+        "artist": "Commodores",
+        "peak_rank": 1,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 11,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 13,
+        "title": "Grease",
+        "artist": "Frankie Valli",
+        "peak_rank": 1,
+        "weeks_on_chart": 22,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 14,
+        "title": "If I Can't Have You",
+        "artist": "Yvonne Elliman",
+        "peak_rank": 1,
+        "weeks_on_chart": 22,
+        "weeks_in_top_10": 10,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 15,
+        "title": "Emotion",
+        "artist": "Samantha Sang",
+        "peak_rank": 3,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 10,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 16,
+        "title": "Can't Smile Without You",
+        "artist": "Barry Manilow",
+        "peak_rank": 3,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 10,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 17,
+        "title": "Feels So Good",
+        "artist": "Chuck Mangione",
+        "peak_rank": 4,
+        "weeks_on_chart": 25,
+        "weeks_in_top_10": 5,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 18,
+        "title": "Miss You",
+        "artist": "The Rolling Stones",
+        "peak_rank": 1,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 19,
+        "title": "Baker Street",
+        "artist": "Gerry Rafferty",
+        "peak_rank": 2,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 20,
+        "title": "It's A Heartache",
+        "artist": "Bonnie Tyler",
+        "peak_rank": 3,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 21,
+        "title": "Love Is Like Oxygen",
+        "artist": "Sweet",
+        "peak_rank": 8,
+        "weeks_on_chart": 25,
+        "weeks_in_top_10": 3,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 22,
+        "title": "MacArthur Park",
+        "artist": "Donna Summer",
+        "peak_rank": 1,
+        "weeks_on_chart": 17,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 23,
+        "title": "Hopelessly Devoted To You",
+        "artist": "Olivia Newton-john",
+        "peak_rank": 3,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 24,
+        "title": "Jack And Jill",
+        "artist": "Raydio",
+        "peak_rank": 8,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 4,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 25,
+        "title": "Take A Chance On Me",
+        "artist": "Abba",
+        "peak_rank": 3,
+        "weeks_on_chart": 18,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 26,
+        "title": "The Closer I Get To You",
+        "artist": "Roberta Flack",
+        "peak_rank": 2,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 27,
+        "title": "Love Is In The Air",
+        "artist": "John Paul Young",
+        "peak_rank": 7,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 5,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 28,
+        "title": "Last Dance",
+        "artist": "Donna Summer",
+        "peak_rank": 3,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 7,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 29,
+        "title": "Hot Blooded",
+        "artist": "Foreigner",
+        "peak_rank": 3,
+        "weeks_on_chart": 17,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 30,
+        "title": "How Deep Is Your Love",
+        "artist": "Bee Gees",
+        "peak_rank": 1,
+        "weeks_on_chart": 18,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 13
+      },
+      {
+        "rv_rank": 31,
+        "title": "How Much I Feel",
+        "artist": "Ambrosia",
+        "peak_rank": 3,
+        "weeks_on_chart": 18,
+        "weeks_in_top_10": 7,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 32,
+        "title": "Dust In The Wind",
+        "artist": "Kansas",
+        "peak_rank": 6,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 7,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 33,
+        "title": "Reminiscing",
+        "artist": "Little River Band",
+        "peak_rank": 3,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 7,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 34,
+        "title": "I Go Crazy",
+        "artist": "Paul Davis",
+        "peak_rank": 7,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 5,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 35,
+        "title": "Whenever I Call You \"Friend\"",
+        "artist": "Kenny Loggins",
+        "peak_rank": 5,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 7,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 36,
+        "title": "Just The Way You Are",
+        "artist": "Billy Joel",
+        "peak_rank": 3,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 37,
+        "title": "Dance With Me",
+        "artist": "Peter Brown",
+        "peak_rank": 8,
+        "weeks_on_chart": 28,
+        "weeks_in_top_10": 4,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 38,
+        "title": "With A Little Luck",
+        "artist": "Wings",
+        "peak_rank": 1,
+        "weeks_on_chart": 18,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 12
+      },
+      {
+        "rv_rank": 39,
+        "title": "Too Much, Too Little, Too Late",
+        "artist": "Johnny Mathis/deniece Williams",
+        "peak_rank": 1,
+        "weeks_on_chart": 18,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 11
+      },
+      {
+        "rv_rank": 40,
+        "title": "You Never Done It Like That",
+        "artist": "Captain",
+        "peak_rank": 10,
+        "weeks_on_chart": 22,
+        "weeks_in_top_10": 2,
+        "weeks_in_top_40": 14
+      }
+    ],
+    "culture": {
+      "films": [
+        "Grease",
+        "Superman",
+        "National Lampoon's Animal House",
+        "Every Which Way But Loose",
+        "Heaven Can Wait",
+        "Hooper",
+        "Jaws 2",
+        "Revenge of the Pink Panther",
+        "The Deer Hunter",
+        "Halloween"
+      ],
+      "tv": [
+        "Laverne & Shirley",
+        "Three's Company",
+        "Mork & Mindy",
+        "Angie",
+        "60 Minutes",
+        "M*A*S*H",
+        "The Ropers",
+        "All in the Family",
+        "ABC",
+        "Eight Is Enough"
+      ],
+      "headlines": [
+        {
+          "event": "January 1 – Air India Flight 855 , a Boeing 747 passenger jet, crashes off the coast of Bombay , killing 213.",
+          "date": "1978-01-01"
+        },
+        {
+          "event": "January 5 – Bülent Ecevit , of CHP , forms the new government of Turkey (42nd government).",
+          "date": "1978-01-05"
+        },
+        {
+          "event": "January 6 – The Holy Crown of Hungary (also known as Stephen of Hungary Crown) is returned to Hungary from the United States, where it was held since World War II .",
+          "date": "1978-01-06"
+        },
+        {
+          "event": "January 10 – Pedro Joaquín Chamorro Cardenal , a critic of the Nicaraguan government, is assassinated; riots erupt against Somoza 's government.",
+          "date": "1978-01-10"
+        },
+        {
+          "event": "January 13 – Former U.S. Vice President Hubert Humphrey , a Democrat, dies of cancer in Waverly, Minnesota , at the age of 66.",
+          "date": "1978-01-13"
+        },
+        {
+          "event": "January 18 – The European Court of Human Rights finds the British government guilty of mistreating prisoners in Northern Ireland , but not guilty of torture.",
+          "date": "1978-01-18"
+        },
+        {
+          "event": "January 22 – Ethiopia declares the ambassador of West Germany persona non grata .",
+          "date": "1978-01-22"
+        },
+        {
+          "event": "Soviet satellite Kosmos 954 burns up in Earth's atmosphere, scattering radioactive debris over Canada's Northwest Territories .",
+          "date": "1978-01-24"
+        },
+        {
+          "event": "Rose Dugdale and Eddie Gallagher become the first convicted prisoners to marry in prison since the establishment of the Republic of Ireland .",
+          "date": "1978-01-24"
+        },
+        {
+          "event": "January 25 – 27 – The Great Blizzard of 1978 strikes the Ohio Valley and Great Lakes , killing 70.",
+          "date": "1978-01-25"
+        }
+      ]
+    }
+  },
+  "1979": {
+    "year": 1979,
+    "top_40": [
+      {
+        "rv_rank": 1,
+        "title": "Sad Eyes",
+        "artist": "Robert John",
+        "peak_rank": 1,
+        "weeks_on_chart": 27,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 19
+      },
+      {
+        "rv_rank": 2,
+        "title": "I Will Survive",
+        "artist": "Gloria Gaynor",
+        "peak_rank": 1,
+        "weeks_on_chart": 24,
+        "weeks_in_top_10": 13,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 3,
+        "title": "Hot Stuff",
+        "artist": "Donna Summer",
+        "peak_rank": 1,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 14,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 4,
+        "title": "I'll Never Love This Way Again",
+        "artist": "Dionne Warwick",
+        "peak_rank": 5,
+        "weeks_on_chart": 24,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 5,
+        "title": "Pop Muzik",
+        "artist": "M",
+        "peak_rank": 1,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 19
+      },
+      {
+        "rv_rank": 6,
+        "title": "My Sharona",
+        "artist": "The Knack",
+        "peak_rank": 1,
+        "weeks_on_chart": 22,
+        "weeks_in_top_10": 12,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 7,
+        "title": "Da Ya Think I'm Sexy?",
+        "artist": "Rod Stewart",
+        "peak_rank": 1,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 12,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 8,
+        "title": "Rise",
+        "artist": "Herb Alpert",
+        "peak_rank": 1,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 9,
+        "title": "Bad Girls",
+        "artist": "Donna Summer",
+        "peak_rank": 1,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 10,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 10,
+        "title": "Reunited",
+        "artist": "Peaches",
+        "peak_rank": 1,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 10,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 11,
+        "title": "Ring My Bell",
+        "artist": "Anita Ward",
+        "peak_rank": 1,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 11,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 12,
+        "title": "Makin' It",
+        "artist": "David Naughton",
+        "peak_rank": 5,
+        "weeks_on_chart": 24,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 13,
+        "title": "When You're In Love With A Beautiful Woman",
+        "artist": "Dr. Hook",
+        "peak_rank": 6,
+        "weeks_on_chart": 25,
+        "weeks_in_top_10": 4,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 14,
+        "title": "Stumblin' In",
+        "artist": "Suzi Quatro",
+        "peak_rank": 4,
+        "weeks_on_chart": 22,
+        "weeks_in_top_10": 7,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 15,
+        "title": "What A Fool Believes",
+        "artist": "The Doobie Brothers",
+        "peak_rank": 1,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 16,
+        "title": "Good Times",
+        "artist": "Chic",
+        "peak_rank": 1,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 17,
+        "title": "Dim All The Lights",
+        "artist": "Donna Summer",
+        "peak_rank": 2,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 18,
+        "title": "Heart Of Glass",
+        "artist": "Blondie",
+        "peak_rank": 1,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 7,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 19,
+        "title": "Lead Me On",
+        "artist": "Maxine Nightingale",
+        "peak_rank": 5,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 5,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 20,
+        "title": "Shake Your Body (Down To The Ground)",
+        "artist": "The Jacksons",
+        "peak_rank": 7,
+        "weeks_on_chart": 22,
+        "weeks_in_top_10": 5,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 21,
+        "title": "Please Don't Go",
+        "artist": "Kc And The Sunshine Band",
+        "peak_rank": 2,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 22,
+        "title": "Knock On Wood",
+        "artist": "Amii Stewart",
+        "peak_rank": 1,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 23,
+        "title": "Heaven Must Have Sent You",
+        "artist": "Bonnie Pointer",
+        "peak_rank": 11,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 0,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 24,
+        "title": "The Logical Song",
+        "artist": "Supertramp",
+        "peak_rank": 6,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 13
+      },
+      {
+        "rv_rank": 25,
+        "title": "After The Love Has Gone",
+        "artist": "Earth, Wind",
+        "peak_rank": 2,
+        "weeks_on_chart": 17,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 13
+      },
+      {
+        "rv_rank": 26,
+        "title": "Just When I Needed You Most",
+        "artist": "Randy Vanwarmer",
+        "peak_rank": 4,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 27,
+        "title": "A Little More Love",
+        "artist": "Olivia Newton-john",
+        "peak_rank": 3,
+        "weeks_on_chart": 14,
+        "weeks_in_top_10": 10,
+        "weeks_in_top_40": 13
+      },
+      {
+        "rv_rank": 28,
+        "title": "Tragedy",
+        "artist": "Bee Gees",
+        "peak_rank": 1,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 13
+      },
+      {
+        "rv_rank": 29,
+        "title": "The Main Event/Fight",
+        "artist": "Barbra Streisand",
+        "peak_rank": 3,
+        "weeks_on_chart": 17,
+        "weeks_in_top_10": 7,
+        "weeks_in_top_40": 13
+      },
+      {
+        "rv_rank": 30,
+        "title": "Don't Stop 'Til You Get Enough",
+        "artist": "Michael Jackson",
+        "peak_rank": 1,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 12
+      },
+      {
+        "rv_rank": 31,
+        "title": "Fire",
+        "artist": "The Pointer Sisters",
+        "peak_rank": 2,
+        "weeks_on_chart": 15,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 13
+      },
+      {
+        "rv_rank": 32,
+        "title": "Le Freak",
+        "artist": "Chic",
+        "peak_rank": 1,
+        "weeks_on_chart": 15,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 12
+      },
+      {
+        "rv_rank": 33,
+        "title": "Lonesome Loser",
+        "artist": "Little River Band",
+        "peak_rank": 6,
+        "weeks_on_chart": 18,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 34,
+        "title": "Still",
+        "artist": "Commodores",
+        "peak_rank": 1,
+        "weeks_on_chart": 14,
+        "weeks_in_top_10": 11,
+        "weeks_in_top_40": 12
+      },
+      {
+        "rv_rank": 35,
+        "title": "Shake Your Groove Thing",
+        "artist": "Peaches",
+        "peak_rank": 5,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 5,
+        "weeks_in_top_40": 13
+      },
+      {
+        "rv_rank": 36,
+        "title": "Y.M.C.A.",
+        "artist": "Village People",
+        "peak_rank": 2,
+        "weeks_on_chart": 15,
+        "weeks_in_top_10": 10,
+        "weeks_in_top_40": 12
+      },
+      {
+        "rv_rank": 37,
+        "title": "You Can't Change That",
+        "artist": "Raydio",
+        "peak_rank": 9,
+        "weeks_on_chart": 22,
+        "weeks_in_top_10": 2,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 38,
+        "title": "I Want You To Want Me",
+        "artist": "Cheap Trick",
+        "peak_rank": 7,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 5,
+        "weeks_in_top_40": 13
+      },
+      {
+        "rv_rank": 39,
+        "title": "Love You Inside Out",
+        "artist": "Bee Gees",
+        "peak_rank": 1,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 5,
+        "weeks_in_top_40": 13
+      },
+      {
+        "rv_rank": 40,
+        "title": "Heaven Knows",
+        "artist": "Donna Summer",
+        "peak_rank": 4,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 5,
+        "weeks_in_top_40": 14
+      }
+    ],
+    "culture": {
+      "films": [
+        "Kramer vs. Kramer",
+        "The Amityville Horror",
+        "Rocky II",
+        "Star Trek: The Motion Picture",
+        "Alien",
+        "Apocalypse Now",
+        "10",
+        "The Jerk",
+        "Moonraker",
+        "The Muppet Movie"
+      ],
+      "tv": [
+        "60 Minutes",
+        "Three's Company",
+        "That's Incredible!",
+        "Alice",
+        "Dallas",
+        "Flo",
+        "The Jeffersons",
+        "The Dukes of Hazzard",
+        "One Day at a Time",
+        "Archie Bunker's Place"
+      ],
+      "headlines": [
+        {
+          "event": "United Nations Secretary-General Kurt Waldheim heralds the start of the International Year of the Child . Many musicians donate to the Music for UNICEF Concert fund, among them ABBA , who write the song Chiquitita to commemorate the event.",
+          "date": "1979-01-01"
+        },
+        {
+          "event": "In 1979, the United States officially severed diplomatic ties with the Republic of China (Taiwan). This decision marked a significant shift in U.S. foreign policy, turning to view the People's Republic of China as the sole legitimate representative of China.",
+          "date": "1979-01-01"
+        },
+        {
+          "event": "The United States and the People's Republic of China establish full diplomatic relations .",
+          "date": "1979-01-01"
+        },
+        {
+          "event": "Following a deal agreed during 1978, French carmaker Peugeot completes a takeover of American manufacturer Chrysler 's European operations , which are based in Britain's former Rootes Group factories, as well as the former Simca factories in France.",
+          "date": "1979-01-01"
+        },
+        {
+          "event": "January 6 – Geylang Bahru family murders : Four children, aged five to ten, are brutally killed in Geylang Bahru , Singapore.",
+          "date": "1979-01-06"
+        },
+        {
+          "event": "January 7 – Cambodian–Vietnamese War : The People's Army of Vietnam and Vietnamese-backed Cambodian insurgents announce the fall of Phnom Penh , Cambodia, and the collapse of the Pol Pot regime. Pol Pot and the Khmer Rouge retreat west to an area along the Thai border, ending large-scale fighting.",
+          "date": "1979-01-07"
+        },
+        {
+          "event": "January 8 – Whiddy Island Disaster : The French tanker Betelgeuse explodes at the Gulf Oil terminal at Bantry , Ireland; 50 people are killed.",
+          "date": "1979-01-08"
+        },
+        {
+          "event": "January 9 – The Music for UNICEF Concert is held at the United Nations General Assembly to raise money for UNICEF and promote the Year of the Child. It is broadcast the following day in the United States and around the world. Hosted by the Bee Gees , other performers include Donna Summer , ABBA , Rod Stewart and Earth, Wind & Fire . A soundtrack album is later released.",
+          "date": "1979-01-09"
+        },
+        {
+          "event": "January 16 – Shah Mohammad Reza Pahlavi flees Iran with his family, relocating to Egypt after a year of turmoil.",
+          "date": "1979-01-16"
+        },
+        {
+          "event": "January 19 – Former U.S. Attorney General John N. Mitchell is released on parole after 19 months at a federal prison in Alabama.",
+          "date": "1979-01-19"
+        }
+      ]
+    }
+  },
+  "1980": {
+    "year": 1980,
+    "top_40": [
+      {
+        "rv_rank": 1,
+        "title": "Call Me",
+        "artist": "Blondie",
+        "peak_rank": 1,
+        "weeks_on_chart": 25,
+        "weeks_in_top_10": 12,
+        "weeks_in_top_40": 19
+      },
+      {
+        "rv_rank": 2,
+        "title": "Upside Down",
+        "artist": "Diana Ross",
+        "peak_rank": 1,
+        "weeks_on_chart": 25,
+        "weeks_in_top_10": 14,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 3,
+        "title": "Another Brick In The Wall (Part II)",
+        "artist": "Pink Floyd",
+        "peak_rank": 1,
+        "weeks_on_chart": 25,
+        "weeks_in_top_10": 12,
+        "weeks_in_top_40": 19
+      },
+      {
+        "rv_rank": 4,
+        "title": "Another One Bites The Dust",
+        "artist": "Queen",
+        "peak_rank": 1,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 15,
+        "weeks_in_top_40": 18
+      },
+      {
+        "rv_rank": 5,
+        "title": "All Out Of Love",
+        "artist": "Air Supply",
+        "peak_rank": 2,
+        "weeks_on_chart": 27,
+        "weeks_in_top_10": 10,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 6,
+        "title": "It's Still Rock And Roll To Me",
+        "artist": "Billy Joel",
+        "peak_rank": 1,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 11,
+        "weeks_in_top_40": 19
+      },
+      {
+        "rv_rank": 7,
+        "title": "Crazy Little Thing Called Love",
+        "artist": "Queen",
+        "peak_rank": 1,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 12,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 8,
+        "title": "Coming Up (Live At Glasgow)",
+        "artist": "Paul Mccartney And Wings",
+        "peak_rank": 1,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 11,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 9,
+        "title": "The Rose",
+        "artist": "Bette Midler",
+        "peak_rank": 3,
+        "weeks_on_chart": 25,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 10,
+        "title": "Little Jeannie",
+        "artist": "Elton John",
+        "peak_rank": 3,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 11,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 11,
+        "title": "Ride Like The Wind",
+        "artist": "Christopher Cross",
+        "peak_rank": 2,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 12,
+        "title": "Magic",
+        "artist": "Olivia Newton-john",
+        "peak_rank": 1,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 13,
+        "title": "Woman In Love",
+        "artist": "Barbra Streisand",
+        "peak_rank": 1,
+        "weeks_on_chart": 17,
+        "weeks_in_top_10": 11,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 14,
+        "title": "Lost In Love",
+        "artist": "Air Supply",
+        "peak_rank": 3,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 15,
+        "title": "Working My Way Back To You/Forgive Me, Girl",
+        "artist": "The Spinners",
+        "peak_rank": 2,
+        "weeks_on_chart": 22,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 16,
+        "title": "He's So Shy",
+        "artist": "The Pointer Sisters",
+        "peak_rank": 3,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 5,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 17,
+        "title": "Cars",
+        "artist": "Gary Numan",
+        "peak_rank": 9,
+        "weeks_on_chart": 25,
+        "weeks_in_top_10": 5,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 18,
+        "title": "Funkytown",
+        "artist": "Lipps, Inc",
+        "peak_rank": 1,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 19,
+        "title": "Drivin' My Life Away",
+        "artist": "Eddie Rabbitt",
+        "peak_rank": 5,
+        "weeks_on_chart": 25,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 20,
+        "title": "Shining Star",
+        "artist": "The Manhattans",
+        "peak_rank": 5,
+        "weeks_on_chart": 25,
+        "weeks_in_top_10": 5,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 21,
+        "title": "Sexy Eyes",
+        "artist": "Dr. Hook",
+        "peak_rank": 5,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 22,
+        "title": "Biggest Part Of Me",
+        "artist": "Ambrosia",
+        "peak_rank": 3,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 23,
+        "title": "With You I'm Born Again",
+        "artist": "Billy Preston",
+        "peak_rank": 4,
+        "weeks_on_chart": 25,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 24,
+        "title": "Steal Away",
+        "artist": "Robbie Dupree",
+        "peak_rank": 6,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 7,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 25,
+        "title": "Never Knew Love Like This Before",
+        "artist": "Stephanie Mills",
+        "peak_rank": 6,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 5,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 26,
+        "title": "Do That To Me One More Time",
+        "artist": "Captain",
+        "peak_rank": 1,
+        "weeks_on_chart": 16,
+        "weeks_in_top_10": 10,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 27,
+        "title": "Give Me The Night",
+        "artist": "George Benson",
+        "peak_rank": 4,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 7,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 28,
+        "title": "Cupid/I've Loved You For A Long Time",
+        "artist": "The Spinners",
+        "peak_rank": 4,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 7,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 29,
+        "title": "Fame",
+        "artist": "Irene Cara",
+        "peak_rank": 4,
+        "weeks_on_chart": 26,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 12
+      },
+      {
+        "rv_rank": 30,
+        "title": "Emotional Rescue",
+        "artist": "The Rolling Stones",
+        "peak_rank": 3,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 31,
+        "title": "Don't Fall In Love With A Dreamer",
+        "artist": "Kenny Rogers",
+        "peak_rank": 4,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 5,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 32,
+        "title": "Take Your Time (Do It Right) Part 1",
+        "artist": "The S.o.s. Band",
+        "peak_rank": 3,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 7,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 33,
+        "title": "Sailing",
+        "artist": "Christopher Cross",
+        "peak_rank": 1,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 7,
+        "weeks_in_top_40": 13
+      },
+      {
+        "rv_rank": 34,
+        "title": "Let's Get Serious",
+        "artist": "Jermaine Jackson",
+        "peak_rank": 9,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 3,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 35,
+        "title": "Longer",
+        "artist": "Dan Fogelberg",
+        "peak_rank": 2,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 7,
+        "weeks_in_top_40": 13
+      },
+      {
+        "rv_rank": 36,
+        "title": "Lady",
+        "artist": "Kenny Rogers",
+        "peak_rank": 1,
+        "weeks_on_chart": 13,
+        "weeks_in_top_10": 10,
+        "weeks_in_top_40": 13
+      },
+      {
+        "rv_rank": 37,
+        "title": "Too Hot",
+        "artist": "Kool",
+        "peak_rank": 5,
+        "weeks_on_chart": 18,
+        "weeks_in_top_10": 5,
+        "weeks_in_top_40": 13
+      },
+      {
+        "rv_rank": 38,
+        "title": "Yes, I'm Ready",
+        "artist": "Teri Desario",
+        "peak_rank": 2,
+        "weeks_on_chart": 16,
+        "weeks_in_top_10": 7,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 39,
+        "title": "Lookin' For Love",
+        "artist": "Johnny Lee",
+        "peak_rank": 5,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 5,
+        "weeks_in_top_40": 13
+      },
+      {
+        "rv_rank": 40,
+        "title": "Rock With You",
+        "artist": "Michael Jackson",
+        "peak_rank": 1,
+        "weeks_on_chart": 15,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 13
+      }
+    ],
+    "culture": {
+      "films": [
+        "Star Wars: Episode V - The Empire Strikes Back",
+        "9 to 5",
+        "Stir Crazy",
+        "Airplane!",
+        "Any Which Way You Can",
+        "Private Benjamin",
+        "Coal Miner's Daughter",
+        "Smokey and the Bandit II",
+        "The Blue Lagoon",
+        "The Blues Brothers"
+      ],
+      "tv": [
+        "Dallas",
+        "The Dukes of Hazzard",
+        "60 Minutes",
+        "M*A*S*H",
+        "The Love Boat",
+        "The Jeffersons",
+        "Alice",
+        "House Calls",
+        "ABC",
+        "Little House on the Prairie"
+      ],
+      "headlines": [
+        {
+          "event": "January 1 – Changes to the succession to the Swedish throne come into effect, introducing absolute primogeniture , thus placing Crown Princess Victoria first in line to the throne ( heir apparent ), ahead of her baby brother. Sweden is the first monarchy to adopt this rule of succession. Members of the royal family may also now marry commoners without losing their place in the succession.",
+          "date": "1980-01-01"
+        },
+        {
+          "event": "January 4 – U.S. President Jimmy Carter proclaims a grain embargo against the USSR with the support of the European Commission .",
+          "date": "1980-01-04"
+        },
+        {
+          "event": "January 6 – Global Positioning System time epoch begins at 00:00 UTC.",
+          "date": "1980-01-06"
+        },
+        {
+          "event": "January 9 – In Saudi Arabia , 63 Islamist insurgents are beheaded for their part in the siege of the Great Mosque in Mecca in November 1979 .",
+          "date": "1980-01-09"
+        },
+        {
+          "event": "January 14 – Indian National Congress party leader Indira Gandhi returns to power as the Prime Minister of India .",
+          "date": "1980-01-14"
+        },
+        {
+          "event": "January 20 – At least 200 people are killed when the Corralejas Bullring collapses at Sincelejo , Colombia.",
+          "date": "1980-01-20"
+        },
+        {
+          "event": "January 21 – The London Gold Fixing hits its highest price ever of $843 per troy ounce ($2,249.50 in 2020 when adjusted for inflation).",
+          "date": "1980-01-21"
+        },
+        {
+          "event": "January 22 – Andrei Sakharov , Soviet scientist and human rights activist, is arrested in Moscow.",
+          "date": "1980-01-22"
+        },
+        {
+          "event": "January 26 – Israel and Egypt establish diplomatic relations.",
+          "date": "1980-01-26"
+        },
+        {
+          "event": "January 27 – Canadian Caper : Six United States diplomats , posing as Canadians, manage to escape from Tehran , Iran , as they board a flight to Zürich , Switzerland, on Swissair .",
+          "date": "1980-01-27"
+        }
+      ]
+    }
+  },
+  "1981": {
+    "year": 1981,
+    "top_40": [
+      {
+        "rv_rank": 1,
+        "title": "Jessie's Girl",
+        "artist": "Rick Springfield",
+        "peak_rank": 1,
+        "weeks_on_chart": 32,
+        "weeks_in_top_10": 12,
+        "weeks_in_top_40": 22
+      },
+      {
+        "rv_rank": 2,
+        "title": "Bette Davis Eyes",
+        "artist": "Kim Carnes",
+        "peak_rank": 1,
+        "weeks_on_chart": 26,
+        "weeks_in_top_10": 14,
+        "weeks_in_top_40": 20
+      },
+      {
+        "rv_rank": 3,
+        "title": "Endless Love",
+        "artist": "Diana Ross",
+        "peak_rank": 1,
+        "weeks_on_chart": 25,
+        "weeks_in_top_10": 13,
+        "weeks_in_top_40": 19
+      },
+      {
+        "rv_rank": 4,
+        "title": "Queen Of Hearts",
+        "artist": "Juice Newton",
+        "peak_rank": 2,
+        "weeks_on_chart": 27,
+        "weeks_in_top_10": 10,
+        "weeks_in_top_40": 19
+      },
+      {
+        "rv_rank": 5,
+        "title": "Theme From \"Greatest American Hero\" (Believe It or Not)",
+        "artist": "Joey Scarbury",
+        "peak_rank": 2,
+        "weeks_on_chart": 26,
+        "weeks_in_top_10": 10,
+        "weeks_in_top_40": 18
+      },
+      {
+        "rv_rank": 6,
+        "title": "Being With You",
+        "artist": "Smokey Robinson",
+        "peak_rank": 2,
+        "weeks_on_chart": 25,
+        "weeks_in_top_10": 10,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 7,
+        "title": "Keep On Loving You",
+        "artist": "Reo Speedwagon",
+        "peak_rank": 1,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 19
+      },
+      {
+        "rv_rank": 8,
+        "title": "Slow Hand",
+        "artist": "The Pointer Sisters",
+        "peak_rank": 2,
+        "weeks_on_chart": 24,
+        "weeks_in_top_10": 11,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 9,
+        "title": "Just The Two Of Us",
+        "artist": "Grover Washington, Jr",
+        "peak_rank": 2,
+        "weeks_on_chart": 24,
+        "weeks_in_top_10": 11,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 10,
+        "title": "Arthur's Theme (Best That You Can Do)",
+        "artist": "Christopher Cross",
+        "peak_rank": 1,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 12,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 11,
+        "title": "Woman",
+        "artist": "John Lennon",
+        "peak_rank": 2,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 12,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 12,
+        "title": "Kiss On My List",
+        "artist": "Daryl Hall undefined John Oates",
+        "peak_rank": 1,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 13,
+        "title": "Start Me Up",
+        "artist": "The Rolling Stones",
+        "peak_rank": 2,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 11,
+        "weeks_in_top_40": 18
+      },
+      {
+        "rv_rank": 14,
+        "title": "9 To 5",
+        "artist": "Dolly Parton",
+        "peak_rank": 1,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 15,
+        "title": "A Woman Needs Love (Just Like You Do)",
+        "artist": "Ray Parker Jr",
+        "peak_rank": 4,
+        "weeks_on_chart": 27,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 16,
+        "title": "Urgent",
+        "artist": "Foreigner",
+        "peak_rank": 4,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 7,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 17,
+        "title": "Sukiyaki",
+        "artist": "A Taste Of Honey",
+        "peak_rank": 3,
+        "weeks_on_chart": 24,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 18,
+        "title": "Celebration",
+        "artist": "Kool",
+        "peak_rank": 1,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 7,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 19,
+        "title": "Stop Draggin' My Heart Around",
+        "artist": "Stevie Nicks",
+        "peak_rank": 3,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 10,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 20,
+        "title": "I Love A Rainy Night",
+        "artist": "Eddie Rabbitt",
+        "peak_rank": 1,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 21,
+        "title": "Angel Of The Morning",
+        "artist": "Juice Newton",
+        "peak_rank": 4,
+        "weeks_on_chart": 22,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 22,
+        "title": "Private Eyes",
+        "artist": "Daryl Hall undefined John Oates",
+        "peak_rank": 1,
+        "weeks_on_chart": 18,
+        "weeks_in_top_10": 9,
+        "weeks_in_top_40": 16
+      },
+      {
+        "rv_rank": 23,
+        "title": "Medley",
+        "artist": "Stars On 45",
+        "peak_rank": 1,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 24,
+        "title": "Step By Step",
+        "artist": "Eddie Rabbitt",
+        "peak_rank": 5,
+        "weeks_on_chart": 22,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 25,
+        "title": "The Best Of Times",
+        "artist": "Styx",
+        "peak_rank": 3,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 10,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 26,
+        "title": "I Love You",
+        "artist": "Climax Blues Band",
+        "peak_rank": 12,
+        "weeks_on_chart": 27,
+        "weeks_in_top_10": 0,
+        "weeks_in_top_40": 17
+      },
+      {
+        "rv_rank": 27,
+        "title": "Morning Train (Nine To Five)",
+        "artist": "Sheena Easton",
+        "peak_rank": 1,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 28,
+        "title": "Who's Crying Now",
+        "artist": "Journey",
+        "peak_rank": 4,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 29,
+        "title": "(There's) No Gettin' Over Me",
+        "artist": "Ronnie Milsap",
+        "peak_rank": 5,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 30,
+        "title": "Rapture",
+        "artist": "Blondie",
+        "peak_rank": 1,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 31,
+        "title": "For Your Eyes Only",
+        "artist": "Sheena Easton",
+        "peak_rank": 4,
+        "weeks_on_chart": 23,
+        "weeks_in_top_10": 5,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 32,
+        "title": "Take It On The Run",
+        "artist": "Reo Speedwagon",
+        "peak_rank": 5,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 33,
+        "title": "Elvira",
+        "artist": "The Oak Ridge Boys",
+        "peak_rank": 5,
+        "weeks_on_chart": 22,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 34,
+        "title": "Lady (You Bring Me Up)",
+        "artist": "Commodores",
+        "peak_rank": 8,
+        "weeks_on_chart": 22,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 35,
+        "title": "The One That You Love",
+        "artist": "Air Supply",
+        "peak_rank": 1,
+        "weeks_on_chart": 19,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 36,
+        "title": "Living Inside Myself",
+        "artist": "Gino Vannelli",
+        "peak_rank": 6,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 7,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 37,
+        "title": "Crying",
+        "artist": "Don Mclean",
+        "peak_rank": 5,
+        "weeks_on_chart": 18,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 38,
+        "title": "The Winner Takes It All",
+        "artist": "Abba",
+        "peak_rank": 8,
+        "weeks_on_chart": 20,
+        "weeks_in_top_10": 4,
+        "weeks_in_top_40": 15
+      },
+      {
+        "rv_rank": 39,
+        "title": "I Don't Need You",
+        "artist": "Kenny Rogers",
+        "peak_rank": 3,
+        "weeks_on_chart": 18,
+        "weeks_in_top_10": 8,
+        "weeks_in_top_40": 14
+      },
+      {
+        "rv_rank": 40,
+        "title": "Boy From New York City",
+        "artist": "The Manhattan Transfer",
+        "peak_rank": 7,
+        "weeks_on_chart": 21,
+        "weeks_in_top_10": 6,
+        "weeks_in_top_40": 13
+      }
+    ],
+    "culture": {
+      "films": [
+        "Raiders of the Lost Ark",
+        "On Golden Pond",
+        "Superman II",
+        "Arthur",
+        "Stripes",
+        "The Cannonball Run",
+        "Chariots of Fire",
+        "For Your Eyes Only",
+        "The Four Seasons",
+        "Time Bandits"
+      ],
+      "tv": [
+        "Dallas",
+        "60 Minutes",
+        "The Jeffersons",
+        "Three's Company",
+        "Alice",
+        "The Dukes of Hazzard",
+        "ABC",
+        "ABC Monday Night Movie",
+        "M*A*S*H",
+        "One Day at a Time"
+      ],
+      "headlines": [
+        {
+          "event": "Greece enters the European Economic Community , predecessor of the European Union .",
+          "date": "1981-01-01"
+        },
+        {
+          "event": "Palau becomes a self-governing territory.",
+          "date": "1981-01-01"
+        },
+        {
+          "event": "January 6 – A funeral service is held in West Germany for Nazi Grand Admiral Karl Doenitz following his death on December 24.",
+          "date": "1981-01-06"
+        },
+        {
+          "event": "January 10 – Salvadoran Civil War : The FMLN launches its first major offensive, gaining control of most of Morazán and Chalatenango departments.",
+          "date": "1981-01-10"
+        },
+        {
+          "event": "January 15 – Pope John Paul II receives a delegation led by Polish Solidarity leader Lech Wałęsa at the Vatican .",
+          "date": "1981-01-15"
+        },
+        {
+          "event": "January 20 – Iran releases the 52 Americans held for 444 days, minutes after Ronald Reagan is sworn in as the 40th President of the United States, ending the Iran hostage crisis .",
+          "date": "1981-01-20"
+        },
+        {
+          "event": "January 21 – The first DeLorean automobile, a stainless steel sports car with gull-wing doors , rolls off the production line in Dunmurry , Northern Ireland .",
+          "date": "1981-01-21"
+        },
+        {
+          "event": "January 24 – An earthquake of M s 6.8 magnitude in Sichuan , China, kills 150 people. Japan suffers a less serious earthquake on the same day.",
+          "date": "1981-01-24"
+        },
+        {
+          "event": "January 25 – In South Africa the largest part of the town Laingsburg is swept away within minutes by one of the strongest floods ever experienced in the Great Karoo .",
+          "date": "1981-01-25"
+        },
+        {
+          "event": "January 27 – The Indonesian passenger ship Tampomas II catches fire and capsizes in the Java Sea , killing 580 people.",
+          "date": "1981-01-27"
+        }
+      ]
+    }
+  }
+}

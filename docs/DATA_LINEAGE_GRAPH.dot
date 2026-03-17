@@ -1,0 +1,110 @@
+digraph data_lineage {
+  graph [rankdir=TB, fontname="Helvetica", fontsize=10, splines=true, overlap=false, nodesep=0.4, ranksep=0.8, newrank=true];
+  node [shape=box, style="rounded,filled", fontname="Helvetica", fontsize=10, color="#475569", fillcolor="#ffffff"];
+  edge [fontname="Helvetica", fontsize=9, color="#4b5563"];
+
+  subgraph cluster_raw {
+    label="Raw Datasets";
+    style="filled,rounded";
+    color="#bfdbfe";
+    fillcolor="#eff6ff";
+    layer_raw [label="", shape=point, width=0, height=0, style=invis];
+    dataset_billboard_200_albums [fillcolor="#dbeafe", color="#60a5fa", label="billboard_200_albums\\ntype: raw\\ndata/raw/charts/billboard-200-albums-charts.db"];
+    dataset_billboard_hot_100 [fillcolor="#dbeafe", color="#60a5fa", label="billboard_hot_100\\ntype: raw\\ndata/raw/charts/billboard-hot-100.db"];
+    dataset_imdb_datasets [fillcolor="#dbeafe", color="#60a5fa", label="imdb_datasets\\ntype: raw\\ndata/raw/imdb/"];
+    dataset_screen_culture_dataset [fillcolor="#dbeafe", color="#60a5fa", label="screen_culture_dataset\\ntype: raw\\ndata/raw/screen-culture/"];
+    dataset_vdj_history [fillcolor="#dbeafe", color="#60a5fa", label="vdj_history\\ntype: raw\\ndata/raw/media/vdj_history_full.json"];
+    { rank=same; layer_raw dataset_billboard_200_albums dataset_billboard_hot_100 dataset_imdb_datasets dataset_screen_culture_dataset dataset_vdj_history; }
+  }
+
+  subgraph cluster_pipelines {
+    label="Pipelines";
+    style="filled,rounded";
+    color="#cbd5e1";
+    fillcolor="#f8fafc";
+    layer_pipelines [label="", shape=point, width=0, height=0, style=invis];
+    system_pipelines_cards_1974 [fillcolor="#e2e8f0", color="#94a3b8", label="pipelines/cards-1974"];
+    system_pipelines_media_index [fillcolor="#e2e8f0", color="#94a3b8", label="pipelines/media-index"];
+    system_pipelines_support_data [fillcolor="#e2e8f0", color="#94a3b8", label="pipelines/support-data"];
+    { rank=same; layer_pipelines system_pipelines_cards_1974 system_pipelines_media_index system_pipelines_support_data; }
+  }
+
+  subgraph cluster_derived {
+    label="Derived Datasets";
+    style="filled,rounded";
+    color="#fde68a";
+    fillcolor="#fffbeb";
+    layer_derived [label="", shape=point, width=0, height=0, style=invis];
+    dataset_cards_1974_dataset [fillcolor="#fef3c7", color="#f59e0b", label="cards_1974_dataset\\ntype: derived\\ndata/derived/cards/1974/"];
+    dataset_culture_derived_dataset [fillcolor="#fef3c7", color="#f59e0b", label="culture_derived_dataset\\ntype: derived\\ndata/derived/culture/"];
+    dataset_media_index [fillcolor="#fef3c7", color="#f59e0b", label="media_index\\ntype: derived\\ndata/derived/media-index/"];
+    dataset_retroverse_support_cultural [fillcolor="#fef3c7", color="#f59e0b", label="retroverse_support_cultural\\ntype: derived\\ndata/support/retroverse/retroverse_support_cultural_1958_2024_top10.csv"];
+    dataset_web_public_cards_1974 [fillcolor="#fef3c7", color="#f59e0b", label="web_public_cards_1974\\ntype: derived\\napps/web/public/cards/1974"];
+    dataset_web_public_data [fillcolor="#fef3c7", color="#f59e0b", label="web_public_data\\ntype: derived\\napps/web/public/data"];
+    dataset_year_master_dataset [fillcolor="#fef3c7", color="#f59e0b", label="year_master_dataset\\ntype: derived\\ndata/derived/year-masters/"];
+    { rank=same; layer_derived dataset_cards_1974_dataset dataset_culture_derived_dataset dataset_media_index dataset_retroverse_support_cultural dataset_web_public_cards_1974 dataset_web_public_data dataset_year_master_dataset; }
+  }
+
+  subgraph cluster_apps {
+    label="Applications";
+    style="filled,rounded";
+    color="#bbf7d0";
+    fillcolor="#f0fdf4";
+    layer_apps [label="", shape=point, width=0, height=0, style=invis];
+    system_apps_magazine [fillcolor="#dcfce7", color="#4ade80", label="apps/magazine"];
+    system_apps_web [fillcolor="#dcfce7", color="#4ade80", label="apps/web"];
+    { rank=same; layer_apps system_apps_magazine system_apps_web; }
+  }
+
+  layer_raw -> layer_pipelines [style=invis, weight=200];
+  layer_pipelines -> layer_derived [style=invis, weight=200];
+  layer_derived -> layer_apps [style=invis, weight=200];
+
+  system_pipelines_support_data -> dataset_billboard_200_albums [label="maintains", style="dashed", color="#2563eb"];
+  dataset_billboard_200_albums -> system_pipelines_support_data [label="consumed by", color="#059669"];
+  system_pipelines_support_data -> dataset_billboard_hot_100 [label="maintains", style="dashed", color="#2563eb"];
+  dataset_billboard_hot_100 -> system_pipelines_cards_1974 [label="consumed by", color="#059669"];
+  dataset_billboard_hot_100 -> system_pipelines_support_data [label="consumed by", color="#059669"];
+  dataset_billboard_hot_100 -> system_apps_web [label="consumed by", color="#059669"];
+  dataset_billboard_hot_100 -> system_apps_magazine [label="consumed by", color="#059669"];
+  system_pipelines_cards_1974 -> dataset_cards_1974_dataset [label="produces", style="solid", color="#2563eb"];
+  dataset_cards_1974_dataset -> system_apps_web [label="consumed by", color="#059669"];
+  dataset_cards_1974_dataset -> system_pipelines_cards_1974 [label="consumed by", color="#059669"];
+  system_pipelines_support_data -> dataset_culture_derived_dataset [label="produces", style="solid", color="#2563eb"];
+  dataset_billboard_hot_100 -> system_pipelines_support_data [label="input", color="#7c3aed"];
+  dataset_culture_derived_dataset -> system_apps_web [label="consumed by", color="#059669"];
+  dataset_culture_derived_dataset -> system_apps_magazine [label="consumed by", color="#059669"];
+  system_apps_magazine -> dataset_imdb_datasets [label="maintains", style="dashed", color="#2563eb"];
+  dataset_imdb_datasets -> system_apps_magazine [label="consumed by", color="#059669"];
+  dataset_imdb_datasets -> system_pipelines_support_data [label="consumed by", color="#059669"];
+  system_pipelines_media_index -> dataset_media_index [label="produces", style="solid", color="#2563eb"];
+  dataset_vdj_history -> system_pipelines_media_index [label="input", color="#7c3aed"];
+  dataset_billboard_hot_100 -> system_pipelines_media_index [label="input", color="#7c3aed"];
+  dataset_media_index -> system_apps_web [label="consumed by", color="#059669"];
+  system_pipelines_support_data -> dataset_retroverse_support_cultural [label="produces", style="solid", color="#2563eb"];
+  dataset_retroverse_support_cultural -> system_pipelines_support_data [label="consumed by", color="#059669"];
+  dataset_retroverse_support_cultural -> system_apps_magazine [label="consumed by", color="#059669"];
+  system_apps_magazine -> dataset_screen_culture_dataset [label="maintains", style="dashed", color="#2563eb"];
+  dataset_screen_culture_dataset -> system_apps_magazine [label="consumed by", color="#059669"];
+  system_pipelines_media_index -> dataset_vdj_history [label="maintains", style="dashed", color="#2563eb"];
+  dataset_vdj_history -> system_pipelines_media_index [label="consumed by", color="#059669"];
+  system_pipelines_cards_1974 -> dataset_web_public_cards_1974 [label="produces", style="solid", color="#2563eb"];
+  dataset_cards_1974_dataset -> system_pipelines_cards_1974 [label="input", color="#7c3aed"];
+  dataset_web_public_cards_1974 -> system_apps_web [label="consumed by", color="#059669"];
+  dataset_web_public_cards_1974 -> system_pipelines_cards_1974 [label="consumed by", color="#059669"];
+  system_apps_web -> dataset_web_public_data [label="produces", style="solid", color="#2563eb"];
+  dataset_media_index -> system_apps_web [label="input", color="#7c3aed"];
+  dataset_cards_1974_dataset -> system_apps_web [label="input", color="#7c3aed"];
+  dataset_billboard_hot_100 -> system_apps_web [label="input", color="#7c3aed"];
+  dataset_billboard_200_albums -> system_apps_web [label="input", color="#7c3aed"];
+  dataset_web_public_data -> system_apps_web [label="consumed by", color="#059669"];
+  dataset_web_public_data -> system_pipelines_media_index [label="consumed by", color="#059669"];
+  dataset_web_public_data -> system_pipelines_cards_1974 [label="consumed by", color="#059669"];
+  dataset_web_public_data -> system_pipelines_support_data [label="consumed by", color="#059669"];
+  system_pipelines_support_data -> dataset_year_master_dataset [label="produces", style="solid", color="#2563eb"];
+  dataset_billboard_hot_100 -> system_pipelines_support_data [label="input", color="#7c3aed"];
+  dataset_retroverse_support_cultural -> system_pipelines_support_data [label="input", color="#7c3aed"];
+  dataset_year_master_dataset -> system_apps_web [label="consumed by", color="#059669"];
+  dataset_year_master_dataset -> system_apps_magazine [label="consumed by", color="#059669"];
+  dataset_year_master_dataset -> system_pipelines_cards_1974 [label="consumed by", color="#059669"];
+}

@@ -1,0 +1,608 @@
+{
+  "year": "1988",
+  "top_songs": [
+    {
+      "artist": "Bon Jovi",
+      "title": "Bad Medicine",
+      "weeks": 15,
+      "peak": 1,
+      "score": 319
+    },
+    {
+      "artist": "Phil Collins",
+      "title": "Groovy Kind Of Love",
+      "weeks": 18,
+      "peak": 1,
+      "score": 298
+    },
+    {
+      "artist": "Chicago",
+      "title": "Look Away",
+      "weeks": 15,
+      "peak": 1,
+      "score": 298
+    },
+    {
+      "artist": "U2",
+      "title": "Desire",
+      "weeks": 14,
+      "peak": 3,
+      "score": 298
+    },
+    {
+      "artist": "Breathe",
+      "title": "How Can I Fall?",
+      "weeks": 17,
+      "peak": 3,
+      "score": 287
+    },
+    {
+      "artist": "Duran Duran",
+      "title": "I Don't Want Your Love",
+      "weeks": 12,
+      "peak": 4,
+      "score": 280
+    },
+    {
+      "artist": "Steve Winwood",
+      "title": "Roll With It",
+      "weeks": 18,
+      "peak": 1,
+      "score": 269
+    },
+    {
+      "artist": "The Escape Club",
+      "title": "Wild, Wild West",
+      "weeks": 20,
+      "peak": 1,
+      "score": 265
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Man In The Mirror",
+      "weeks": 17,
+      "peak": 1,
+      "score": 260
+    },
+    {
+      "artist": "George Michael",
+      "title": "One More Try",
+      "weeks": 18,
+      "peak": 1,
+      "score": 250
+    },
+    {
+      "artist": "George Michael",
+      "title": "Father Figure",
+      "weeks": 17,
+      "peak": 1,
+      "score": 247
+    },
+    {
+      "artist": "Pet Shop Boys",
+      "title": "What Have I Done To Deserve This?",
+      "weeks": 15,
+      "peak": 2,
+      "score": 240
+    },
+    {
+      "artist": "Tiffany",
+      "title": "Could've Been",
+      "weeks": 15,
+      "peak": 1,
+      "score": 236
+    },
+    {
+      "artist": "Expose",
+      "title": "Seasons Change",
+      "weeks": 15,
+      "peak": 1,
+      "score": 236
+    },
+    {
+      "artist": "Belinda Carlisle",
+      "title": "I Get Weak",
+      "weeks": 16,
+      "peak": 2,
+      "score": 236
+    },
+    {
+      "artist": "George Michael",
+      "title": "Monkey",
+      "weeks": 16,
+      "peak": 1,
+      "score": 235
+    },
+    {
+      "artist": "Elton John",
+      "title": "I Don't Wanna Go On With You Like That",
+      "weeks": 18,
+      "peak": 2,
+      "score": 232
+    },
+    {
+      "artist": "Huey Lewis",
+      "title": "Perfect World",
+      "weeks": 15,
+      "peak": 3,
+      "score": 231
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Dirty Diana",
+      "weeks": 14,
+      "peak": 1,
+      "score": 230
+    },
+    {
+      "artist": "Anita Baker",
+      "title": "Giving You The Best That I Got",
+      "weeks": 15,
+      "peak": 3,
+      "score": 229
+    },
+    {
+      "artist": "Robert Palmer",
+      "title": "Simply Irresistible",
+      "weeks": 20,
+      "peak": 2,
+      "score": 228
+    },
+    {
+      "artist": "Patrick Swayze",
+      "title": "She's Like The Wind",
+      "weeks": 19,
+      "peak": 3,
+      "score": 227
+    },
+    {
+      "artist": "Will To Power",
+      "title": "Baby, I Love Your Way/Freebird Medley",
+      "weeks": 17,
+      "peak": 1,
+      "score": 226
+    },
+    {
+      "artist": "Eric Carmen",
+      "title": "Hungry Eyes (From \"Dirty Dancing\")",
+      "weeks": 17,
+      "peak": 4,
+      "score": 223
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "Kokomo (From\"Cocktail\" )",
+      "weeks": 18,
+      "peak": 1,
+      "score": 223
+    },
+    {
+      "artist": "Eric Carmen",
+      "title": "Make Me Lose Control",
+      "weeks": 20,
+      "peak": 3,
+      "score": 221
+    },
+    {
+      "artist": "Kylie Minogue",
+      "title": "The Loco-Motion",
+      "weeks": 19,
+      "peak": 3,
+      "score": 221
+    },
+    {
+      "artist": "Johnny Hates Jazz",
+      "title": "Shattered Dreams",
+      "weeks": 19,
+      "peak": 2,
+      "score": 220
+    },
+    {
+      "artist": "Debbie Gibson",
+      "title": "Out Of The Blue",
+      "weeks": 17,
+      "peak": 3,
+      "score": 219
+    },
+    {
+      "artist": "Richard Marx",
+      "title": "Hold On To The Nights",
+      "weeks": 21,
+      "peak": 1,
+      "score": 219
+    },
+    {
+      "artist": "Inxs",
+      "title": "Need You Tonight",
+      "weeks": 15,
+      "peak": 1,
+      "score": 218
+    },
+    {
+      "artist": "Guns N' Roses",
+      "title": "Welcome To The Jungle",
+      "weeks": 11,
+      "peak": 7,
+      "score": 217
+    },
+    {
+      "artist": "Poison",
+      "title": "Every Rose Has Its Thorn",
+      "weeks": 10,
+      "peak": 1,
+      "score": 217
+    },
+    {
+      "artist": "Rick Astley",
+      "title": "Never Gonna Give You Up",
+      "weeks": 22,
+      "peak": 1,
+      "score": 215
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "Where Do Broken Hearts Go",
+      "weeks": 18,
+      "peak": 1,
+      "score": 211
+    },
+    {
+      "artist": "Eddie Money",
+      "title": "Walk On Water",
+      "weeks": 14,
+      "peak": 9,
+      "score": 210
+    },
+    {
+      "artist": "Billy Ocean",
+      "title": "Get Outta My Dreams, Get Into My Car",
+      "weeks": 20,
+      "peak": 1,
+      "score": 207
+    },
+    {
+      "artist": "Inxs",
+      "title": "Devil Inside",
+      "weeks": 17,
+      "peak": 2,
+      "score": 203
+    },
+    {
+      "artist": "George Michael",
+      "title": "Kissing A Fool",
+      "weeks": 13,
+      "peak": 5,
+      "score": 188
+    },
+    {
+      "artist": "Boy Meets Girl",
+      "title": "Waiting For A Star To Fall",
+      "weeks": 17,
+      "peak": 5,
+      "score": 187
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Michael Jackson",
+      "hits": 2
+    },
+    {
+      "artist": "George Michael",
+      "hits": 4
+    },
+    {
+      "artist": "Eric Carmen",
+      "hits": 2
+    },
+    {
+      "artist": "Inxs",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Taylor Dayne",
+      "title": "I'll Always Love You",
+      "weeks": 30,
+      "peak": 3,
+      "score": -39
+    },
+    {
+      "artist": "Breathe",
+      "title": "Hands To Heaven",
+      "weeks": 29,
+      "peak": 2,
+      "score": 4
+    },
+    {
+      "artist": "New Kids On The Block",
+      "title": "Please Don't Go Girl",
+      "weeks": 28,
+      "peak": 10,
+      "score": -285
+    },
+    {
+      "artist": "Cheap Trick",
+      "title": "The Flame",
+      "weeks": 27,
+      "peak": 1,
+      "score": 15
+    },
+    {
+      "artist": "Samantha Fox",
+      "title": "Naughty Girls (Need Love Too)",
+      "weeks": 27,
+      "peak": 3,
+      "score": 4
+    },
+    {
+      "artist": "Brenda K. Starr",
+      "title": "I Still Believe",
+      "weeks": 26,
+      "peak": 13,
+      "score": -91
+    },
+    {
+      "artist": "Joan Jett",
+      "title": "I Hate Myself For Loving You",
+      "weeks": 26,
+      "peak": 8,
+      "score": -185
+    },
+    {
+      "artist": "Terence Trent D'arby",
+      "title": "Wishing Well",
+      "weeks": 25,
+      "peak": 1,
+      "score": 162
+    },
+    {
+      "artist": "Aerosmith",
+      "title": "Angel",
+      "weeks": 25,
+      "peak": 3,
+      "score": 113
+    },
+    {
+      "artist": "Information Society",
+      "title": "What's On Your Mind (Pure Energy)",
+      "weeks": 25,
+      "peak": 3,
+      "score": -44
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Bon Jovi",
+      "title": "Bad Medicine",
+      "weeks": 15,
+      "peak": 1,
+      "score": 319
+    },
+    {
+      "artist": "Phil Collins",
+      "title": "Groovy Kind Of Love",
+      "weeks": 18,
+      "peak": 1,
+      "score": 298
+    },
+    {
+      "artist": "Chicago",
+      "title": "Look Away",
+      "weeks": 15,
+      "peak": 1,
+      "score": 298
+    },
+    {
+      "artist": "Steve Winwood",
+      "title": "Roll With It",
+      "weeks": 18,
+      "peak": 1,
+      "score": 269
+    },
+    {
+      "artist": "The Escape Club",
+      "title": "Wild, Wild West",
+      "weeks": 20,
+      "peak": 1,
+      "score": 265
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Man In The Mirror",
+      "weeks": 17,
+      "peak": 1,
+      "score": 260
+    },
+    {
+      "artist": "George Michael",
+      "title": "One More Try",
+      "weeks": 18,
+      "peak": 1,
+      "score": 250
+    },
+    {
+      "artist": "George Michael",
+      "title": "Father Figure",
+      "weeks": 17,
+      "peak": 1,
+      "score": 247
+    },
+    {
+      "artist": "Tiffany",
+      "title": "Could've Been",
+      "weeks": 15,
+      "peak": 1,
+      "score": 236
+    },
+    {
+      "artist": "Expose",
+      "title": "Seasons Change",
+      "weeks": 15,
+      "peak": 1,
+      "score": 236
+    },
+    {
+      "artist": "George Michael",
+      "title": "Monkey",
+      "weeks": 16,
+      "peak": 1,
+      "score": 235
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Dirty Diana",
+      "weeks": 14,
+      "peak": 1,
+      "score": 230
+    },
+    {
+      "artist": "Will To Power",
+      "title": "Baby, I Love Your Way/Freebird Medley",
+      "weeks": 17,
+      "peak": 1,
+      "score": 226
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "Kokomo (From\"Cocktail\" )",
+      "weeks": 18,
+      "peak": 1,
+      "score": 223
+    },
+    {
+      "artist": "Richard Marx",
+      "title": "Hold On To The Nights",
+      "weeks": 21,
+      "peak": 1,
+      "score": 219
+    },
+    {
+      "artist": "Inxs",
+      "title": "Need You Tonight",
+      "weeks": 15,
+      "peak": 1,
+      "score": 218
+    },
+    {
+      "artist": "Poison",
+      "title": "Every Rose Has Its Thorn",
+      "weeks": 10,
+      "peak": 1,
+      "score": 217
+    },
+    {
+      "artist": "Rick Astley",
+      "title": "Never Gonna Give You Up",
+      "weeks": 22,
+      "peak": 1,
+      "score": 215
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "Where Do Broken Hearts Go",
+      "weeks": 18,
+      "peak": 1,
+      "score": 211
+    },
+    {
+      "artist": "Billy Ocean",
+      "title": "Get Outta My Dreams, Get Into My Car",
+      "weeks": 20,
+      "peak": 1,
+      "score": 207
+    },
+    {
+      "artist": "Debbie Gibson",
+      "title": "Foolish Beat",
+      "weeks": 20,
+      "peak": 1,
+      "score": 179
+    },
+    {
+      "artist": "Rick Astley",
+      "title": "Together Forever",
+      "weeks": 18,
+      "peak": 1,
+      "score": 176
+    },
+    {
+      "artist": "Gloria Estefan",
+      "title": "Anything For You",
+      "weeks": 23,
+      "peak": 1,
+      "score": 164
+    },
+    {
+      "artist": "Terence Trent D'arby",
+      "title": "Wishing Well",
+      "weeks": 25,
+      "peak": 1,
+      "score": 162
+    },
+    {
+      "artist": "Ub40",
+      "title": "Red Red Wine",
+      "weeks": 21,
+      "peak": 1,
+      "score": 125
+    },
+    {
+      "artist": "Guns N' Roses",
+      "title": "Sweet Child O' Mine",
+      "weeks": 24,
+      "peak": 1,
+      "score": 122
+    },
+    {
+      "artist": "Def Leppard",
+      "title": "Love Bites",
+      "weeks": 21,
+      "peak": 1,
+      "score": 110
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "The Way You Make Me Feel",
+      "weeks": 12,
+      "peak": 1,
+      "score": 89
+    },
+    {
+      "artist": "George Harrison",
+      "title": "Got My Mind Set On You",
+      "weeks": 12,
+      "peak": 1,
+      "score": 87
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "So Emotional",
+      "weeks": 10,
+      "peak": 1,
+      "score": 69
+    },
+    {
+      "artist": "Bobby Mcferrin",
+      "title": "Don't Worry, Be Happy (From \"Cocktail\")",
+      "weeks": 23,
+      "peak": 1,
+      "score": 56
+    },
+    {
+      "artist": "George Michael",
+      "title": "Faith",
+      "weeks": 10,
+      "peak": 1,
+      "score": 35
+    },
+    {
+      "artist": "Cheap Trick",
+      "title": "The Flame",
+      "weeks": 27,
+      "peak": 1,
+      "score": 15
+    }
+  ]
+}

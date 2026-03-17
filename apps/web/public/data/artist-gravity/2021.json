@@ -1,0 +1,222 @@
+[
+  {
+    "artist": "Drake",
+    "score": 1431.3
+  },
+  {
+    "artist": "Olivia Rodrigo",
+    "score": 486.5
+  },
+  {
+    "artist": "Justin Bieber",
+    "score": 384
+  },
+  {
+    "artist": "J. Cole",
+    "score": 373.5
+  },
+  {
+    "artist": "Kanye West",
+    "score": 363
+  },
+  {
+    "artist": "The Weeknd",
+    "score": 300.1
+  },
+  {
+    "artist": "Bts",
+    "score": 297.2
+  },
+  {
+    "artist": "Lil Nas X",
+    "score": 294.8
+  },
+  {
+    "artist": "Doja Cat",
+    "score": 286.8
+  },
+  {
+    "artist": "Billie Eilish",
+    "score": 271.7
+  },
+  {
+    "artist": "Ariana Grande",
+    "score": 200.2
+  },
+  {
+    "artist": "Silk Sonic",
+    "score": 198.4
+  },
+  {
+    "artist": "Ed Sheeran",
+    "score": 196.9
+  },
+  {
+    "artist": "The Kid Laroi",
+    "score": 196.9
+  },
+  {
+    "artist": "Adele",
+    "score": 195.4
+  },
+  {
+    "artist": "Taylor Swift",
+    "score": 188.7
+  },
+  {
+    "artist": "Sza",
+    "score": 186.2
+  },
+  {
+    "artist": "Pop Smoke",
+    "score": 184.6
+  },
+  {
+    "artist": "Dua Lipa",
+    "score": 102.9
+  },
+  {
+    "artist": "24kgoldn",
+    "score": 102.3
+  },
+  {
+    "artist": "Cardi B",
+    "score": 101
+  },
+  {
+    "artist": "Polo G",
+    "score": 101
+  },
+  {
+    "artist": "Coldplay X Bts",
+    "score": 100.2
+  },
+  {
+    "artist": "Mariah Carey",
+    "score": 99.7
+  },
+  {
+    "artist": "Walker Hayes",
+    "score": 99.6
+  },
+  {
+    "artist": "J. Cole, 21 Savage",
+    "score": 99.4
+  },
+  {
+    "artist": "Lil Tjay",
+    "score": 99.2
+  },
+  {
+    "artist": "Chris Brown",
+    "score": 99
+  },
+  {
+    "artist": "Brenda Lee",
+    "score": 98.6
+  },
+  {
+    "artist": "Glass Animals",
+    "score": 97.8
+  },
+  {
+    "artist": "Bobby Helms",
+    "score": 97.6
+  },
+  {
+    "artist": "Masked Wolf",
+    "score": 96.8
+  },
+  {
+    "artist": "Lizzo",
+    "score": 96.7
+  },
+  {
+    "artist": "Burl Ives",
+    "score": 96.6
+  },
+  {
+    "artist": "Andy Williams",
+    "score": 95.6
+  },
+  {
+    "artist": "Post Malone",
+    "score": 94.6
+  },
+  {
+    "artist": "Jose Feliciano",
+    "score": 94.5
+  },
+  {
+    "artist": "Wizkid",
+    "score": 93.4
+  },
+  {
+    "artist": "Ajr",
+    "score": 93.1
+  },
+  {
+    "artist": "Gabby Barrett",
+    "score": 93.1
+  },
+  {
+    "artist": "Morgan Wallen",
+    "score": 92.9
+  },
+  {
+    "artist": "Dean Martin",
+    "score": 92.5
+  },
+  {
+    "artist": "Bad Bunny",
+    "score": 92
+  },
+  {
+    "artist": "Luke Combs",
+    "score": 91.7
+  },
+  {
+    "artist": "Cj",
+    "score": 91.6
+  },
+  {
+    "artist": "Wham!",
+    "score": 91.5
+  },
+  {
+    "artist": "Rod Wave",
+    "score": 91.2
+  },
+  {
+    "artist": "Chuck Berry",
+    "score": 90.5
+  },
+  {
+    "artist": "Elton John",
+    "score": 90.5
+  },
+  {
+    "artist": "Trippie Redd",
+    "score": 90.1
+  },
+  {
+    "artist": "Nat \"king\" Cole",
+    "score": 89.5
+  },
+  {
+    "artist": "Travis Scott",
+    "score": 89.3
+  },
+  {
+    "artist": "Internet Money",
+    "score": 89.1
+  },
+  {
+    "artist": "Kelly Clarkson",
+    "score": 88.5
+  },
+  {
+    "artist": "Nicki Minaj, Drake",
+    "score": 88.4
+  }
+]

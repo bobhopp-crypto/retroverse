@@ -1,0 +1,5 @@
+week_number,date_range_start,date_range_end,chart_date,number_1_song,status
+29,1974-07-22,1974-07-28,1974-07-27,"Annie's Song – John Denver",DRAFT
+30,1974-07-29,1974-08-04,1974-08-03,"Annie's Song – John Denver",ACTIVE_PROTOTYPE
+31,1974-08-05,1974-08-11,1974-08-10,"Feel Like Makin' Love – Roberta Flack",DRAFT
+32,1974-08-12,1974-08-18,1974-08-17,"The Night Chicago Died – Paper Lace",DRAFT

@@ -1,0 +1,365 @@
+{
+  "year": 1978,
+  "top_40": [
+    {
+      "rv_rank": 1,
+      "title": "Stayin' Alive",
+      "artist": "Bee Gees",
+      "peak_rank": 1,
+      "weeks_on_chart": 23,
+      "weeks_in_top_10": 13,
+      "weeks_in_top_40": 20
+    },
+    {
+      "rv_rank": 2,
+      "title": "Shadow Dancing",
+      "artist": "Andy Gibb",
+      "peak_rank": 1,
+      "weeks_on_chart": 25,
+      "weeks_in_top_10": 12,
+      "weeks_in_top_40": 19
+    },
+    {
+      "rv_rank": 3,
+      "title": "Hot Child In The City",
+      "artist": "Nick Gilder",
+      "peak_rank": 1,
+      "weeks_on_chart": 30,
+      "weeks_in_top_10": 9,
+      "weeks_in_top_40": 18
+    },
+    {
+      "rv_rank": 4,
+      "title": "Kiss You All Over",
+      "artist": "Exile",
+      "peak_rank": 1,
+      "weeks_on_chart": 23,
+      "weeks_in_top_10": 12,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 5,
+      "title": "Night Fever",
+      "artist": "Bee Gees",
+      "peak_rank": 1,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 13,
+      "weeks_in_top_40": 18
+    },
+    {
+      "rv_rank": 6,
+      "title": "Boogie Oogie Oogie",
+      "artist": "A Taste Of Honey",
+      "peak_rank": 1,
+      "weeks_on_chart": 23,
+      "weeks_in_top_10": 12,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 7,
+      "title": "Lay Down Sally",
+      "artist": "Eric Clapton",
+      "peak_rank": 3,
+      "weeks_on_chart": 23,
+      "weeks_in_top_10": 11,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 8,
+      "title": "You're The One That I Want",
+      "artist": "John Travolta",
+      "peak_rank": 1,
+      "weeks_on_chart": 24,
+      "weeks_in_top_10": 9,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 9,
+      "title": "(Love Is) Thicker Than Water",
+      "artist": "Andy Gibb",
+      "peak_rank": 1,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 11,
+      "weeks_in_top_40": 18
+    },
+    {
+      "rv_rank": 10,
+      "title": "I Love The Nightlife (Disco 'round)",
+      "artist": "Alicia Bridges",
+      "peak_rank": 5,
+      "weeks_on_chart": 26,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 11,
+      "title": "You Needed Me",
+      "artist": "Anne Murray",
+      "peak_rank": 1,
+      "weeks_on_chart": 25,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 12,
+      "title": "Three Times A Lady",
+      "artist": "Commodores",
+      "peak_rank": 1,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 11,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 13,
+      "title": "Grease",
+      "artist": "Frankie Valli",
+      "peak_rank": 1,
+      "weeks_on_chart": 22,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 14,
+      "title": "If I Can't Have You",
+      "artist": "Yvonne Elliman",
+      "peak_rank": 1,
+      "weeks_on_chart": 22,
+      "weeks_in_top_10": 10,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 15,
+      "title": "Emotion",
+      "artist": "Samantha Sang",
+      "peak_rank": 3,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 10,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 16,
+      "title": "Can't Smile Without You",
+      "artist": "Barry Manilow",
+      "peak_rank": 3,
+      "weeks_on_chart": 19,
+      "weeks_in_top_10": 10,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 17,
+      "title": "Feels So Good",
+      "artist": "Chuck Mangione",
+      "peak_rank": 4,
+      "weeks_on_chart": 25,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 18,
+      "title": "Miss You",
+      "artist": "The Rolling Stones",
+      "peak_rank": 1,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 9,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 19,
+      "title": "Baker Street",
+      "artist": "Gerry Rafferty",
+      "peak_rank": 2,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 9,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 20,
+      "title": "It's A Heartache",
+      "artist": "Bonnie Tyler",
+      "peak_rank": 3,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 21,
+      "title": "Love Is Like Oxygen",
+      "artist": "Sweet",
+      "peak_rank": 8,
+      "weeks_on_chart": 25,
+      "weeks_in_top_10": 3,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 22,
+      "title": "MacArthur Park",
+      "artist": "Donna Summer",
+      "peak_rank": 1,
+      "weeks_on_chart": 17,
+      "weeks_in_top_10": 9,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 23,
+      "title": "Hopelessly Devoted To You",
+      "artist": "Olivia Newton-john",
+      "peak_rank": 3,
+      "weeks_on_chart": 19,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 24,
+      "title": "Jack And Jill",
+      "artist": "Raydio",
+      "peak_rank": 8,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 4,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 25,
+      "title": "Take A Chance On Me",
+      "artist": "Abba",
+      "peak_rank": 3,
+      "weeks_on_chart": 18,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 26,
+      "title": "The Closer I Get To You",
+      "artist": "Roberta Flack",
+      "peak_rank": 2,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 27,
+      "title": "Love Is In The Air",
+      "artist": "John Paul Young",
+      "peak_rank": 7,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 28,
+      "title": "Last Dance",
+      "artist": "Donna Summer",
+      "peak_rank": 3,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 29,
+      "title": "Hot Blooded",
+      "artist": "Foreigner",
+      "peak_rank": 3,
+      "weeks_on_chart": 17,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 30,
+      "title": "How Deep Is Your Love",
+      "artist": "Bee Gees",
+      "peak_rank": 1,
+      "weeks_on_chart": 18,
+      "weeks_in_top_10": 9,
+      "weeks_in_top_40": 13
+    },
+    {
+      "rv_rank": 31,
+      "title": "How Much I Feel",
+      "artist": "Ambrosia",
+      "peak_rank": 3,
+      "weeks_on_chart": 18,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 32,
+      "title": "Dust In The Wind",
+      "artist": "Kansas",
+      "peak_rank": 6,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 33,
+      "title": "Reminiscing",
+      "artist": "Little River Band",
+      "peak_rank": 3,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 34,
+      "title": "I Go Crazy",
+      "artist": "Paul Davis",
+      "peak_rank": 7,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 35,
+      "title": "Whenever I Call You \"Friend\"",
+      "artist": "Kenny Loggins",
+      "peak_rank": 5,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 36,
+      "title": "Just The Way You Are",
+      "artist": "Billy Joel",
+      "peak_rank": 3,
+      "weeks_on_chart": 19,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 37,
+      "title": "Dance With Me",
+      "artist": "Peter Brown",
+      "peak_rank": 8,
+      "weeks_on_chart": 28,
+      "weeks_in_top_10": 4,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 38,
+      "title": "With A Little Luck",
+      "artist": "Wings",
+      "peak_rank": 1,
+      "weeks_on_chart": 18,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 12
+    },
+    {
+      "rv_rank": 39,
+      "title": "Too Much, Too Little, Too Late",
+      "artist": "Johnny Mathis/deniece Williams",
+      "peak_rank": 1,
+      "weeks_on_chart": 18,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 11
+    },
+    {
+      "rv_rank": 40,
+      "title": "You Never Done It Like That",
+      "artist": "Captain",
+      "peak_rank": 10,
+      "weeks_on_chart": 22,
+      "weeks_in_top_10": 2,
+      "weeks_in_top_40": 14
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+Create a vertical 1080x1920 collectible 1974 Billboard Hot 100 chart card.
+Style: high-detail illustrated print poster from 1974, worn paper grain, subtle ink imperfections, ornate border, period-accurate 1970s typography.
+Do NOT use any real person's likeness or recognizable face.
+
+Top banner text: "Billboard Hot 100 - Week Ending 1974-08-03".
+Large rank display: "#3".
+Title: "Feel Like Makin' Love".
+Artist: "Roberta Flack".
+Include small fact blocks: "Weeks on Chart: 7" and "Peak Position: 3".
+
+Artwork: symbolic / atmospheric illustration inspired by the song's mood, not literal portraits.
+Composition should feel like a real printed artifact from 1974.
+
+No modern UI, no neon glow boxes, no geometric template panels.

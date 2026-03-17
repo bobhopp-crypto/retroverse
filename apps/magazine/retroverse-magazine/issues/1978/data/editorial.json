@@ -1,0 +1,66 @@
+{
+  "feature_story": {
+    "headline": "1978 in Motion: Dance Floors, Marquees, and Living Rooms",
+    "deck": "A short field report on how music, movies, and television are shaping one shared year.",
+    "byline": "By A.J. Hunter",
+    "paragraphs": [
+      "1978 feels like a hinge year, where radio hits such as Night Fever carry club energy into everyday streets, cabs, and corner stores.",
+      "Artists including Bee Gees and Donna Summer are proving that polished production can still feel immediate, social, and physical.",
+      "At the multiplex, Grease and Superman confirm that theatrical scale matters, even as Mork and Mindy keeps families tied to weekly television habits.",
+      "The result is a culture that moves on multiple tracks at once: dance floor urgency, screen-sized spectacle, and living-room ritual."
+    ],
+    "sidebar_facts": [
+      "Radio momentum: Night Fever, Hot Stuff, Le Freak",
+      "Box office pressure: Grease, Superman, Animal House",
+      "TV watch-list: Mork and Mindy, WKRP in Cincinnati"
+    ],
+    "quote": "1978 is less a conclusion than a high-speed midpoint."
+  },
+  "collage": {
+    "tiles": [
+      "Record-store listening booth card for Night Fever",
+      "Movie ticket stub: late show for Grease",
+      "Subway token and folded transit map corner",
+      "Arcade score sheet tucked into jacket pocket",
+      "TV listing clipping with Mork and Mindy circled in pen",
+      "Neon diner receipt with coffee refill marks",
+      "Department-store fashion swatch and disco shoe sketch",
+      "FM station request slip from a weekend countdown",
+      "Polaroid-style street snapshot outside a cinema queue"
+    ]
+  },
+  "comic": {
+    "panels": [
+      {
+        "title": "Panel 1",
+        "scene": "Friday night starts at the record counter as friends compare new 45s.",
+        "caption": "The plan forms before sunset."
+      },
+      {
+        "title": "Panel 2",
+        "scene": "The DJ drops Hot Stuff and the room locks into tempo.",
+        "caption": "One song can reset the whole mood."
+      },
+      {
+        "title": "Panel 3",
+        "scene": "By midnight, the line wraps around the block for Superman.",
+        "caption": "Cinema becomes a group event."
+      },
+      {
+        "title": "Panel 4",
+        "scene": "Saturday afternoon drifts toward the arcade and a pocket of quarters.",
+        "caption": "Competition is neighborhood theater."
+      },
+      {
+        "title": "Panel 5",
+        "scene": "At home, everyone argues playfully over whether to watch WKRP in Cincinnati.",
+        "caption": "TV still sets the weekly rhythm."
+      },
+      {
+        "title": "Panel 6",
+        "scene": "Sunday closes with notes, flyers, and tickets spread on a kitchen table.",
+        "caption": "A year gets archived one weekend at a time."
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "story_id": "story_012",
+  "headline": "Sonic Fingerprint Card Set",
+  "byline": "By A.J. Hunter",
+  "writer": "A.J. Hunter",
+  "writer_profile": {
+    "name": "A.J. Hunter",
+    "beat": "music",
+    "voice": "music historian and era analyst",
+    "tone": "historical and interpretive",
+    "data_focus": "album eras, artist trajectories, sonic profile context"
+  },
+  "story_type": "data card set",
+  "layout_type": "multi-card set",
+  "page_count_estimate": null,
+  "word_count": 467,
+  "target_word_count": 510,
+  "target_word_range": {
+    "min": 459,
+    "max": 561,
+    "raw": "50-120 per card",
+    "mode": "per_card"
+  },
+  "sections": {
+    "lede": "A.J. Hunter positions \"Sonic Fingerprint Card Set\" in lineage, reading the year as a bridge between chart moments and era memory. In 1978, sonic fingerprint card set becomes a measurable editorial claim. The sonic profile reads danceability 0.64, energy 0.67, and valence 0.57, with 49% of tracked songs crossing the danceable threshold.",
+    "analysis": "Planning rationale: Audio-feature aggregates and extremes produce durable sidebars for print and digital reuse. Historical framing is paired with concrete measurements so nostalgia never replaces evidence. The sonic_extremes signal is referenced in planning, but no direct values were available in the current context payload.\n\nThe context_sources signal is referenced in planning, but no direct values were available in the current context payload. The chart_summary signal is referenced in planning, but no direct values were available in the current context payload. The album_dynamics source contributes 2 structured fields for this story build.\n\nThe chart_dynamics source contributes 6 structured fields for this story build. The screen_culture_warehouse movie layer contributes 10 tracked films for 1978, including Grease, Superman, Animal House.",
+    "data_context": "- Card 1: sonic_profile: aggregate danceability/energy/valence and danceable share.\n- Card 2: sonic_extremes: not found in context.\n- Card 3: context_sources: not found in context.\n- Card 4: chart_summary: not found in context.\n- Card 5: album_dynamics: 2 fields.\n- Card 6: chart_dynamics: 6 fields.\n- Card 7: movies: 10 titles in year context.\n- This point is pulled directly from sonic_profile in the year context build.\n- The production file keeps sonic_extremes as an explicit source path for this section.\n- Context provenance note: context_sources remains attached to this claim.\n- This point is pulled directly from chart_summary in the year context build.\n- The production file keeps album_dynamics as an explicit source path for this section.",
+    "cultural_significance": "Era analysis connects album behavior, singles behavior, and scene identity as one continuum. The cultural clock starts at January 1, 1978, when January 1 – Air India Flight 855 , a Boeing 747 passenger jet, crashes off the coast of Bombay , killing 213. Across the shared data spine, the 1978 frame combines ? Hot 100 weeks, ? Billboard 200 weeks, sonic danceability at 0.64, and screen-culture inventories of 10 films and 5 TV entries.\n\nAssignment framing line: Sonic Fingerprint Card Set. Culturally, sonic_profile widens the frame beyond one chart moment. In the year narrative, sonic_extremes helps connect audience behavior across mediums.\n\nThe broader context reads differently once context_sources is included. Culturally, chart_summary widens the frame beyond one chart moment.",
+    "closing": "What lasts is not a slogan but a measurable pattern that repeats across the year's catalog. Generation rule check: Articles must use real historical data. This final prose draft is sized for the 50-120 per card production target and remains grounded in internal RetroVerse datasets."
+  },
+  "datasets_used": [
+    "sonic_profile",
+    "Billboard Hot 100 data",
+    "album_dynamics",
+    "Billboard 200 album data",
+    "chart_dynamics",
+    "screen_culture_warehouse"
+  ],
+  "data_references": [
+    "sonic_profile: aggregate danceability/energy/valence and danceable share",
+    "sonic_extremes: not found in context",
+    "context_sources: not found in context",
+    "chart_summary: not found in context",
+    "album_dynamics: 2 fields",
+    "chart_dynamics: 6 fields",
+    "movies: 10 titles in year context"
+  ],
+  "source_files": [
+    "PROJECT_STATE.md",
+    "issues/context/1978_context.json",
+    "issues/plans/1978_narrative_plan.json",
+    "issues/1978/articles/story_012.json",
+    "issues/1978/layout/1978_production_targets.json"
+  ]
+}

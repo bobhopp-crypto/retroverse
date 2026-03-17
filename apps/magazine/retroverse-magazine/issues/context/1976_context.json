@@ -1,0 +1,551 @@
+{
+  "year": "1976",
+  "top_songs": [
+    {
+      "artist": "The Miracles",
+      "title": "Love Machine (Part 1)",
+      "weeks": 18,
+      "peak": 1,
+      "score": 392
+    },
+    {
+      "artist": "Walter Murphy",
+      "title": "A Fifth Of Beethoven",
+      "weeks": 28,
+      "peak": 1,
+      "score": 389
+    },
+    {
+      "artist": "Wings",
+      "title": "Silly Love Songs",
+      "weeks": 19,
+      "peak": 1,
+      "score": 373
+    },
+    {
+      "artist": "Rick Dees",
+      "title": "Disco Duck (Part I)",
+      "weeks": 20,
+      "peak": 1,
+      "score": 368
+    },
+    {
+      "artist": "Chicago",
+      "title": "If You Leave Me Now",
+      "weeks": 20,
+      "peak": 1,
+      "score": 363
+    },
+    {
+      "artist": "Hot Chocolate",
+      "title": "You Sexy Thing",
+      "weeks": 12,
+      "peak": 3,
+      "score": 351
+    },
+    {
+      "artist": "Kc And The Sunshine Band",
+      "title": "(Shake, Shake, Shake) Shake Your Booty",
+      "weeks": 21,
+      "peak": 1,
+      "score": 345
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "Love So Right",
+      "weeks": 15,
+      "peak": 3,
+      "score": 334
+    },
+    {
+      "artist": "Captain",
+      "title": "Muskrat Love",
+      "weeks": 14,
+      "peak": 4,
+      "score": 327
+    },
+    {
+      "artist": "Eric Carmen",
+      "title": "All By Myself",
+      "weeks": 17,
+      "peak": 2,
+      "score": 320
+    },
+    {
+      "artist": "Paul Simon",
+      "title": "50 Ways To Leave Your Lover",
+      "weeks": 15,
+      "peak": 1,
+      "score": 308
+    },
+    {
+      "artist": "Nazareth",
+      "title": "Love Hurts",
+      "weeks": 17,
+      "peak": 8,
+      "score": 291
+    },
+    {
+      "artist": "Maxine Nightingale",
+      "title": "Right Back Where We Started From",
+      "weeks": 20,
+      "peak": 2,
+      "score": 289
+    },
+    {
+      "artist": "John Sebastian",
+      "title": "Welcome Back",
+      "weeks": 14,
+      "peak": 1,
+      "score": 286
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Golden Years",
+      "weeks": 18,
+      "peak": 10,
+      "score": 285
+    },
+    {
+      "artist": "Dorothy Moore",
+      "title": "Misty Blue",
+      "weeks": 22,
+      "peak": 3,
+      "score": 283
+    },
+    {
+      "artist": "Donna Summer",
+      "title": "Love To Love You Baby",
+      "weeks": 14,
+      "peak": 2,
+      "score": 277
+    },
+    {
+      "artist": "Gordon Lightfoot",
+      "title": "The Wreck Of The Edmund Fitzgerald",
+      "weeks": 18,
+      "peak": 2,
+      "score": 276
+    },
+    {
+      "artist": "Kiss",
+      "title": "Beth/Detroit Rock City",
+      "weeks": 17,
+      "peak": 7,
+      "score": 269
+    },
+    {
+      "artist": "Rod Stewart",
+      "title": "Tonight's The Night (Gonna Be Alright)",
+      "weeks": 13,
+      "peak": 1,
+      "score": 267
+    },
+    {
+      "artist": "Boz Scaggs",
+      "title": "Lowdown",
+      "weeks": 22,
+      "peak": 3,
+      "score": 263
+    },
+    {
+      "artist": "The Spinners",
+      "title": "The Rubberband Man",
+      "weeks": 16,
+      "peak": 2,
+      "score": 263
+    },
+    {
+      "artist": "Wild Cherry",
+      "title": "Play That Funky Music",
+      "weeks": 25,
+      "peak": 1,
+      "score": 261
+    },
+    {
+      "artist": "Elton John",
+      "title": "Don't Go Breaking My Heart",
+      "weeks": 20,
+      "peak": 1,
+      "score": 257
+    },
+    {
+      "artist": "Barry Manilow",
+      "title": "I Write The Songs",
+      "weeks": 13,
+      "peak": 1,
+      "score": 254
+    },
+    {
+      "artist": "Captain",
+      "title": "Lonely Night (angel Face)",
+      "weeks": 19,
+      "peak": 3,
+      "score": 253
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Love Hangover",
+      "weeks": 18,
+      "peak": 1,
+      "score": 253
+    },
+    {
+      "artist": "Silver Convention",
+      "title": "Get Up And Boogie (That's Right)",
+      "weeks": 21,
+      "peak": 2,
+      "score": 252
+    },
+    {
+      "artist": "Gary Wright",
+      "title": "Love Is Alive",
+      "weeks": 27,
+      "peak": 2,
+      "score": 251
+    },
+    {
+      "artist": "Ohio Players",
+      "title": "Love Rollercoaster",
+      "weeks": 9,
+      "peak": 1,
+      "score": 250
+    },
+    {
+      "artist": "Captain",
+      "title": "Shop Around",
+      "weeks": 16,
+      "peak": 4,
+      "score": 246
+    },
+    {
+      "artist": "Steve Miller",
+      "title": "Rock'n Me",
+      "weeks": 18,
+      "peak": 1,
+      "score": 240
+    },
+    {
+      "artist": "The Sylvers",
+      "title": "Boogie Fever",
+      "weeks": 21,
+      "peak": 1,
+      "score": 237
+    },
+    {
+      "artist": "Neil Sedaka",
+      "title": "Breaking Up Is Hard To Do",
+      "weeks": 11,
+      "peak": 8,
+      "score": 236
+    },
+    {
+      "artist": "England Dan",
+      "title": "I'd Really Love To See You Tonight",
+      "weeks": 24,
+      "peak": 2,
+      "score": 235
+    },
+    {
+      "artist": "Elvin Bishop",
+      "title": "Fooled Around And Fell In Love",
+      "weeks": 17,
+      "peak": 3,
+      "score": 227
+    },
+    {
+      "artist": "Wings",
+      "title": "Let 'em In",
+      "weeks": 16,
+      "peak": 3,
+      "score": 227
+    },
+    {
+      "artist": "Electric Light Orchestra",
+      "title": "Evil Woman",
+      "weeks": 10,
+      "peak": 10,
+      "score": 224
+    },
+    {
+      "artist": "Johnnie Taylor",
+      "title": "Disco Lady",
+      "weeks": 19,
+      "peak": 1,
+      "score": 224
+    },
+    {
+      "artist": "Peter Frampton",
+      "title": "Show Me The Way",
+      "weeks": 18,
+      "peak": 6,
+      "score": 223
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Wings",
+      "hits": 2
+    },
+    {
+      "artist": "Captain",
+      "hits": 3
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Walter Murphy",
+      "title": "A Fifth Of Beethoven",
+      "weeks": 28,
+      "peak": 1,
+      "score": 389
+    },
+    {
+      "artist": "Daryl Hall undefined John Oates",
+      "title": "Sara Smile",
+      "weeks": 28,
+      "peak": 4,
+      "score": 60
+    },
+    {
+      "artist": "Gary Wright",
+      "title": "Love Is Alive",
+      "weeks": 27,
+      "peak": 2,
+      "score": 251
+    },
+    {
+      "artist": "The Manhattans",
+      "title": "Kiss And Say Goodbye",
+      "weeks": 26,
+      "peak": 1,
+      "score": 167
+    },
+    {
+      "artist": "The 4 Seasons",
+      "title": "December, 1963 (Oh, What a Night)",
+      "weeks": 26,
+      "peak": 1,
+      "score": 85
+    },
+    {
+      "artist": "Seals",
+      "title": "Get Closer",
+      "weeks": 26,
+      "peak": 6,
+      "score": 61
+    },
+    {
+      "artist": "Wild Cherry",
+      "title": "Play That Funky Music",
+      "weeks": 25,
+      "peak": 1,
+      "score": 261
+    },
+    {
+      "artist": "Andrea True Connection",
+      "title": "More, More, More Pt. 1",
+      "weeks": 25,
+      "peak": 4,
+      "score": 108
+    },
+    {
+      "artist": "Vicki Sue Robinson",
+      "title": "Turn The Beat Around",
+      "weeks": 25,
+      "peak": 10,
+      "score": -97
+    },
+    {
+      "artist": "England Dan",
+      "title": "I'd Really Love To See You Tonight",
+      "weeks": 24,
+      "peak": 2,
+      "score": 235
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "The Miracles",
+      "title": "Love Machine (Part 1)",
+      "weeks": 18,
+      "peak": 1,
+      "score": 392
+    },
+    {
+      "artist": "Walter Murphy",
+      "title": "A Fifth Of Beethoven",
+      "weeks": 28,
+      "peak": 1,
+      "score": 389
+    },
+    {
+      "artist": "Wings",
+      "title": "Silly Love Songs",
+      "weeks": 19,
+      "peak": 1,
+      "score": 373
+    },
+    {
+      "artist": "Rick Dees",
+      "title": "Disco Duck (Part I)",
+      "weeks": 20,
+      "peak": 1,
+      "score": 368
+    },
+    {
+      "artist": "Chicago",
+      "title": "If You Leave Me Now",
+      "weeks": 20,
+      "peak": 1,
+      "score": 363
+    },
+    {
+      "artist": "Kc And The Sunshine Band",
+      "title": "(Shake, Shake, Shake) Shake Your Booty",
+      "weeks": 21,
+      "peak": 1,
+      "score": 345
+    },
+    {
+      "artist": "Paul Simon",
+      "title": "50 Ways To Leave Your Lover",
+      "weeks": 15,
+      "peak": 1,
+      "score": 308
+    },
+    {
+      "artist": "John Sebastian",
+      "title": "Welcome Back",
+      "weeks": 14,
+      "peak": 1,
+      "score": 286
+    },
+    {
+      "artist": "Rod Stewart",
+      "title": "Tonight's The Night (Gonna Be Alright)",
+      "weeks": 13,
+      "peak": 1,
+      "score": 267
+    },
+    {
+      "artist": "Wild Cherry",
+      "title": "Play That Funky Music",
+      "weeks": 25,
+      "peak": 1,
+      "score": 261
+    },
+    {
+      "artist": "Elton John",
+      "title": "Don't Go Breaking My Heart",
+      "weeks": 20,
+      "peak": 1,
+      "score": 257
+    },
+    {
+      "artist": "Barry Manilow",
+      "title": "I Write The Songs",
+      "weeks": 13,
+      "peak": 1,
+      "score": 254
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Love Hangover",
+      "weeks": 18,
+      "peak": 1,
+      "score": 253
+    },
+    {
+      "artist": "Ohio Players",
+      "title": "Love Rollercoaster",
+      "weeks": 9,
+      "peak": 1,
+      "score": 250
+    },
+    {
+      "artist": "Steve Miller",
+      "title": "Rock'n Me",
+      "weeks": 18,
+      "peak": 1,
+      "score": 240
+    },
+    {
+      "artist": "The Sylvers",
+      "title": "Boogie Fever",
+      "weeks": 21,
+      "peak": 1,
+      "score": 237
+    },
+    {
+      "artist": "Johnnie Taylor",
+      "title": "Disco Lady",
+      "weeks": 19,
+      "peak": 1,
+      "score": 224
+    },
+    {
+      "artist": "Rhythm Heritage",
+      "title": "Theme From S.W.A.T.",
+      "weeks": 17,
+      "peak": 1,
+      "score": 221
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "You Should Be Dancing",
+      "weeks": 20,
+      "peak": 1,
+      "score": 211
+    },
+    {
+      "artist": "Starland Vocal Band",
+      "title": "Afternoon Delight",
+      "weeks": 20,
+      "peak": 1,
+      "score": 209
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Theme From Mahogany (Do You Know Where You're Going To)",
+      "weeks": 8,
+      "peak": 1,
+      "score": 205
+    },
+    {
+      "artist": "The Bellamy Brothers",
+      "title": "Let Your Love Flow",
+      "weeks": 19,
+      "peak": 1,
+      "score": 177
+    },
+    {
+      "artist": "The Manhattans",
+      "title": "Kiss And Say Goodbye",
+      "weeks": 26,
+      "peak": 1,
+      "score": 167
+    },
+    {
+      "artist": "C.w. Mccall",
+      "title": "Convoy",
+      "weeks": 12,
+      "peak": 1,
+      "score": 138
+    },
+    {
+      "artist": "Bay City Rollers",
+      "title": "Saturday Night",
+      "weeks": 5,
+      "peak": 1,
+      "score": 106
+    },
+    {
+      "artist": "The 4 Seasons",
+      "title": "December, 1963 (Oh, What a Night)",
+      "weeks": 26,
+      "peak": 1,
+      "score": 85
+    }
+  ]
+}

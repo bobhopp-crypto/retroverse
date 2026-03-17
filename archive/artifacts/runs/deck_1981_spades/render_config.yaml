@@ -1,0 +1,12 @@
+run_id: deck_1981_spades
+runs_root: runs
+image:
+  width: 1024
+  height: 1536
+render:
+  provider: openai
+  model: gpt-image-1
+  concurrency: 2
+  timeout_seconds: 240
+resume:
+  skip_if_image_exists: true

@@ -1,0 +1,151 @@
+# Retro Verse 1974 Weekly Data
+
+## Movies
+- The Towering Inferno
+- Chinatown
+- Blazing Saddles
+- Young Frankenstein
+- The Godfather Part II
+- The Conversation
+- The Great Gatsby
+- The Taking of Pelham One Two Three
+- Murder on the Orient Express
+- Earthquake
+- The Texas Chain Saw Massacre
+- Phantom of the Paradise
+- The Parallax View
+- The Trial of Billy Jack
+- A Woman Under the Influence
+- Bring Me the Head of Alfredo Garcia
+- The Longest Yard
+- The Gambler
+- Lenny
+- Thunderbolt and Lightfoot
+- The Three Musketeers
+- Harry and Tonto
+- California Split
+- The Lords of Flatbush
+- Foxy Brown
+- Claudine
+- Black Christmas
+- Death Wish
+- Airport 1975
+- That's Entertainment!
+- The Front Page
+- The Odessa File
+- Golden Needles
+- Juggernaut
+- The Apprenticeship of Duddy Kravitz
+- The Man with the Golden Gun
+- Herbie Rides Again
+- Sugarland Express
+- The Midnight Man
+- Freebie and the Bean
+
+## Cultural Textures
+- Bubble-letter zaps and ink splatter gags
+- Tarot sunburst filigree and corner sigils
+- Halftone newsprint dots in neon gradients
+- Sticker-bomb collage edges and torn tape
+- Airbrushed van mural stripes and chrome flares
+- Analog VU meter glow with cigarette haze
+- Comic speed lines on matte black stock
+- Faux-leather binder emboss and foil stars
+- Carnival midway typography and hand-painted arrows
+- Psychedelic pinstriping in warm enamel tones
+- Velvet flock pattern with glitter dust accents
+- Polaroid border layering and marker scribbles
+- Cracked lacquer patina with brass rivets
+- Silkscreen registration drift and overprint shadows
+- Cereal-box puzzle panel with bold outlines
+- Retro arcade bezel lines and phosphor glow
+- Glitter-laminate trading card sheen
+- Threadbare denim texture with stitched patches
+- Monochrome photocopy grain and toner bloom
+- Postmark stamps and passport edge perforations
+- Sun-faded billboard paint and paste-up seams
+- Carnival ticket strips and punch-hole tabs
+- Old magazine masthead bands and crop marks
+- Fluorescent paint-marker drips and doodles
+- Felt-tip starbursts with hand-cut shadows
+- Vinyl sleeve ringwear and crease memory
+- Stage curtain folds in oxblood velvet
+- Chrome trim pinwheel with lens flares
+- Woodgrain contact paper and cassette labels
+- Day-glo ransom-note typography blocks
+- Matchbook ad border ornaments
+- Ticket booth marquee bulb frames
+- Rusted tin sign scratches and enamel chips
+- Offset print rosette noise and rich blacks
+- Comic speech-cloud bursts and jagged tails
+- Prism foil confetti and diagonal gloss streaks
+- Tarot moon phases and celestial line art
+- Poster wheatpaste wrinkles and staple dimples
+- Psychedelic smoke plumes and radial rays
+- Retro game-show chevrons and spotlight beams
+
+## Mood Tags
+- swagger
+- bittersweet
+- chrome-night
+- summer-crush
+- velvet-drama
+- midnight-disco
+- restless
+- playful-chaos
+- romantic-static
+- confidence
+- noir-humor
+- electric
+- wistful
+- bold
+- funky-heat
+- dreamy
+- punchy
+- reflective
+- riotous
+- cool-headed
+
+## TV References
+- The Tonight Show Starring Johnny Carson
+- The Carol Burnett Show
+- M*A*S*H
+- Happy Days
+- The Mary Tyler Moore Show
+- Good Times
+- Sanford and Son
+- Kojak
+- The Rockford Files
+- Soul Train
+- The Price Is Right
+- Match Game '74
+- The Young and the Restless
+- As the World Turns
+- Sesame Street
+- The Electric Company
+- NOVA
+- The Six Million Dollar Man
+- Little House on the Prairie
+- The Midnight Special
+
+## Headline Tones
+- Watergate reckoning
+- energy crunch anxiety
+- inflation squeeze
+- détente optimism
+- labor tension
+- cultural reset
+- urban urgency
+- investigative fervor
+- pop spectacle
+- civic fatigue
+- youth rebellion
+- cosmic curiosity
+- sports fever
+- scandal heat
+- cautious hope
+- restless momentum
+- late-night satire
+- tabloid frenzy
+- reform push
+- hard-earned resilience

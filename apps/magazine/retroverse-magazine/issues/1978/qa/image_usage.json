@@ -1,0 +1,372 @@
+{
+  "year": 1978,
+  "generated_at": "2026-03-14T20:58:57-05:00",
+  "image_directory": "issues/1978/art/pages",
+  "layout_directory": "issues/1978/layout",
+  "total_image_files": 30,
+  "total_page_references": 30,
+  "total_raw_img_references": 43,
+  "images": [
+    {
+      "image_file": "page_01.png",
+      "image_path": "issues/1978/art/pages/page_01.png",
+      "page_files": [
+        "page_01_cover.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_01_cover.html": 1
+      }
+    },
+    {
+      "image_file": "page_02.png",
+      "image_path": "issues/1978/art/pages/page_02.png",
+      "page_files": [
+        "page_02_masthead.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_02_masthead.html": 1
+      }
+    },
+    {
+      "image_file": "page_03.png",
+      "image_path": "issues/1978/art/pages/page_03.png",
+      "page_files": [
+        "page_03_editor_letter.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_03_editor_letter.html": 1
+      }
+    },
+    {
+      "image_file": "page_04.png",
+      "image_path": "issues/1978/art/pages/page_04.png",
+      "page_files": [
+        "page_04_year_snapshot.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_04_year_snapshot.html": 1
+      }
+    },
+    {
+      "image_file": "page_05.png",
+      "image_path": "issues/1978/art/pages/page_05.png",
+      "page_files": [
+        "page_05_charts_overview.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_05_charts_overview.html": 1
+      }
+    },
+    {
+      "image_file": "page_06.png",
+      "image_path": "issues/1978/art/pages/page_06.png",
+      "page_files": [
+        "page_06_top_song_1.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_06_top_song_1.html": 1
+      }
+    },
+    {
+      "image_file": "page_07.png",
+      "image_path": "issues/1978/art/pages/page_07.png",
+      "page_files": [
+        "page_07_top_song_2.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_07_top_song_2.html": 1
+      }
+    },
+    {
+      "image_file": "page_08.png",
+      "image_path": "issues/1978/art/pages/page_08.png",
+      "page_files": [
+        "page_08_top_song_3.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_08_top_song_3.html": 1
+      }
+    },
+    {
+      "image_file": "page_09.png",
+      "image_path": "issues/1978/art/pages/page_09.png",
+      "page_files": [
+        "page_09_top_song_4.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_09_top_song_4.html": 1
+      }
+    },
+    {
+      "image_file": "page_10.png",
+      "image_path": "issues/1978/art/pages/page_10.png",
+      "page_files": [
+        "page_10_top_song_5.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_10_top_song_5.html": 1
+      }
+    },
+    {
+      "image_file": "page_11.png",
+      "image_path": "issues/1978/art/pages/page_11.png",
+      "page_files": [
+        "page_11_top_song_6.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_11_top_song_6.html": 1
+      }
+    },
+    {
+      "image_file": "page_12.png",
+      "image_path": "issues/1978/art/pages/page_12.png",
+      "page_files": [
+        "page_12_top_song_7.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_12_top_song_7.html": 1
+      }
+    },
+    {
+      "image_file": "page_13.png",
+      "image_path": "issues/1978/art/pages/page_13.png",
+      "page_files": [
+        "page_13_top_song_8.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_13_top_song_8.html": 1
+      }
+    },
+    {
+      "image_file": "page_14.png",
+      "image_path": "issues/1978/art/pages/page_14.png",
+      "page_files": [
+        "page_14_top_song_9.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_14_top_song_9.html": 1
+      }
+    },
+    {
+      "image_file": "page_15.png",
+      "image_path": "issues/1978/art/pages/page_15.png",
+      "page_files": [
+        "page_15_top_song_10.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_15_top_song_10.html": 1
+      }
+    },
+    {
+      "image_file": "page_16.png",
+      "image_path": "issues/1978/art/pages/page_16.png",
+      "page_files": [
+        "page_16_movies.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_16_movies.html": 1
+      }
+    },
+    {
+      "image_file": "page_17.png",
+      "image_path": "issues/1978/art/pages/page_17.png",
+      "page_files": [
+        "page_17_television.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_17_television.html": 1
+      }
+    },
+    {
+      "image_file": "page_18.png",
+      "image_path": "issues/1978/art/pages/page_18.png",
+      "page_files": [
+        "page_18_culture.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_18_culture.html": 1
+      }
+    },
+    {
+      "image_file": "page_19.png",
+      "image_path": "issues/1978/art/pages/page_19.png",
+      "page_files": [
+        "page_19_arcade.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_19_arcade.html": 1
+      }
+    },
+    {
+      "image_file": "page_20.png",
+      "image_path": "issues/1978/art/pages/page_20.png",
+      "page_files": [
+        "page_20_retro_ad.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_20_retro_ad.html": 1
+      }
+    },
+    {
+      "image_file": "page_21.png",
+      "image_path": "issues/1978/art/pages/page_21.png",
+      "page_files": [
+        "page_21_comic.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 6,
+      "page_reference_counts": {
+        "page_21_comic.html": 6
+      }
+    },
+    {
+      "image_file": "page_22.png",
+      "image_path": "issues/1978/art/pages/page_22.png",
+      "page_files": [
+        "page_22_puzzle.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_22_puzzle.html": 1
+      }
+    },
+    {
+      "image_file": "page_23.png",
+      "image_path": "issues/1978/art/pages/page_23.png",
+      "page_files": [
+        "page_23_letters.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_23_letters.html": 1
+      }
+    },
+    {
+      "image_file": "page_24.png",
+      "image_path": "issues/1978/art/pages/page_24.png",
+      "page_files": [
+        "page_24_forgotten_hit.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_24_forgotten_hit.html": 1
+      }
+    },
+    {
+      "image_file": "page_25.png",
+      "image_path": "issues/1978/art/pages/page_25.png",
+      "page_files": [
+        "page_25_one_hit_wonder.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_25_one_hit_wonder.html": 1
+      }
+    },
+    {
+      "image_file": "page_26.png",
+      "image_path": "issues/1978/art/pages/page_26.png",
+      "page_files": [
+        "page_26_album_spotlight.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_26_album_spotlight.html": 1
+      }
+    },
+    {
+      "image_file": "page_27.png",
+      "image_path": "issues/1978/art/pages/page_27.png",
+      "page_files": [
+        "page_27_year_timeline.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_27_year_timeline.html": 1
+      }
+    },
+    {
+      "image_file": "page_28.png",
+      "image_path": "issues/1978/art/pages/page_28.png",
+      "page_files": [
+        "page_28_culture_collage.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 9,
+      "page_reference_counts": {
+        "page_28_culture_collage.html": 9
+      }
+    },
+    {
+      "image_file": "page_29.png",
+      "image_path": "issues/1978/art/pages/page_29.png",
+      "page_files": [
+        "page_29_retro_ads_page.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_29_retro_ads_page.html": 1
+      }
+    },
+    {
+      "image_file": "page_30.png",
+      "image_path": "issues/1978/art/pages/page_30.png",
+      "page_files": [
+        "page_30_chart_top23.html"
+      ],
+      "page_count": 1,
+      "raw_reference_count": 1,
+      "page_reference_counts": {
+        "page_30_chart_top23.html": 1
+      }
+    }
+  ],
+  "duplicate_image_warnings": []
+}

@@ -1,0 +1,182 @@
+{
+  "year": 1984,
+  "page_type": "top_song reserve page",
+  "page_slug": "top_song_5",
+  "title": "Top Song 5",
+  "subtitle": "Top Song #5",
+  "writer": {
+    "name": "RetroVerse Production Desk",
+    "byline": "RetroVerse Production Desk"
+  },
+  "source_files": [
+    "PROJECT_STATE.md",
+    "issues/context/1984_context.json",
+    "issues/1984/layout/1984_production_targets.json",
+    "issues/1984/layout/1984_issue_map.json",
+    "issues/1984/chart_top23.md"
+  ],
+  "page_purpose": "Present Top Song 5 as a complete RetroVerse 1984 top_song reserve page page, with page-aware artwork under real typography and no text baked into the illustration layer for `top_song_5`.",
+  "story_summary": "Top Song 5 Top Song #5 This page slot is part of the canonical RetroVerse issue structure. The top_song_5 section is wired into the build pipeline and currently holds a reserve editorial slot for 1984. Production Note Keep this slot in the issue order. Replace this reserve slot when year-specific editorial content is approved.",
+  "verified_facts": [
+    {
+      "claim": "Page 10 is assigned to `top_song_5` in the canonical issue structure.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The page title is 'Top Song 5'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The page subtitle is 'Top Song #5'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The intended layout type is 'top_song reserve page'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "Keep this slot in the issue order.",
+      "source_file": "issues/1984/chart_top23.md"
+    },
+    {
+      "claim": "Replace this reserve slot when year-specific editorial content is approved.",
+      "source_file": "issues/1984/chart_top23.md"
+    }
+  ],
+  "text_blocks": [
+    {
+      "id": "page_title",
+      "role": "title",
+      "content": "Top Song 5",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_subtitle",
+      "role": "subtitle",
+      "content": "Top Song #5",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_byline",
+      "role": "byline",
+      "content": "RetroVerse Production Desk",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_deck",
+      "role": "deck",
+      "content": "Top Song 5 Top Song #5 This page slot is part of the canonical RetroVerse issue structure. The top_song_5 section is wired into the build pipeline and currently holds a reserve editorial slot for 1984. Production Note Keep this slot in the issue order. Replace this reserve slot when year-specific editorial content is approved.",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "body_01",
+      "role": "body",
+      "content": "This page slot is part of the canonical RetroVerse issue structure. The top_song_5 section is wired into the build pipeline and currently holds a reserve editorial slot for 1984. Production Note Keep this slot in the issue order. Replace this reserve slot when year-specific editorial content is approved.",
+      "source_file": "issues/1984/chart_top23.md",
+      "intended_zone": "body_zone"
+    }
+  ],
+  "sidebar_blocks": [
+    {
+      "id": "top_song_5_data",
+      "title": "Data References",
+      "items": [
+        {
+          "label": "Keep this slot in the issue order.",
+          "value": "Structured reference"
+        },
+        {
+          "label": "Replace this reserve slot when year-specific editorial content is approved.",
+          "value": "Structured reference"
+        }
+      ]
+    }
+  ],
+  "qa_notes": [
+    "Story and page text are defined before illustration prompt generation.",
+    "Art direction reads the entire page intent, not a floating insert concept.",
+    "All final production typography is reserved for the layout engine."
+  ],
+  "layout_requirements": {
+    "page_number": 10,
+    "orientation": "portrait",
+    "filename": "page_10_top_song_5.html",
+    "structure": "top_song reserve page",
+    "hero_asset": "assets/placeholder.png",
+    "collage_assets": [],
+    "layout_output": "issues/1984/layout/page_10_top_song_5.html"
+  },
+  "art_direction": {
+    "concept": "A chart-room or radio-control environment for 1984, with directional graphic rhythm and clean statistic zones.",
+    "page_readback": "Present Top Song 5 as a complete RetroVerse 1984 top_song reserve page page, with page-aware artwork under real typography and no text baked into the illustration layer for `top_song_5`.",
+    "mood": "editorial and period-aware",
+    "palette": "warm paper stock, halftone black, amber, teal, and late-70s saturated accent colors",
+    "visual_hierarchy": [
+      "Primary focal area supports Top Song 5.",
+      "Secondary props reinforce `top_song_5` without competing with text zones.",
+      "Negative space stays calm inside title, body, sidebar, and footer zones."
+    ]
+  },
+  "text_safe_zones": [
+    {
+      "id": "title_zone",
+      "x": 7,
+      "y": 6,
+      "width": 54,
+      "height": 14,
+      "unit": "percent"
+    },
+    {
+      "id": "body_zone",
+      "x": 7,
+      "y": 24,
+      "width": 55,
+      "height": 60,
+      "unit": "percent"
+    },
+    {
+      "id": "sidebar_zone",
+      "x": 65,
+      "y": 24,
+      "width": 24,
+      "height": 56,
+      "unit": "percent"
+    },
+    {
+      "id": "footer_zone",
+      "x": 7,
+      "y": 93,
+      "width": 86,
+      "height": 3,
+      "unit": "percent"
+    }
+  ],
+  "must_include": [
+    "Top Song 5",
+    "Top Song #5",
+    "RetroVerse Production Desk",
+    "Page 10",
+    "Layout overlays the real editorial text after illustration approval."
+  ],
+  "must_not_render_in_art": [
+    "article body text",
+    "charts/tables",
+    "exact production typography",
+    "magazine headlines",
+    "page titles",
+    "pull quotes",
+    "sidebars",
+    "chart tables",
+    "magazine layout elements"
+  ],
+  "style_notes": [
+    "RetroVerse pages use scene artwork as background assets beneath real typography.",
+    "Page artwork must preserve negative space inside all declared safe zones.",
+    "Environmental lettering may appear only if natural, minimal, and not production-critical."
+  ],
+  "easter_egg_rule": "Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography."
+}

@@ -1,0 +1,465 @@
+{
+  "year": "1995",
+  "top_songs": [
+    {
+      "artist": "Tlc",
+      "title": "Waterfalls",
+      "weeks": 30,
+      "peak": 1,
+      "score": 820
+    },
+    {
+      "artist": "Seal",
+      "title": "Kiss From A Rose",
+      "weeks": 28,
+      "peak": 1,
+      "score": 766
+    },
+    {
+      "artist": "Madonna",
+      "title": "Take A Bow",
+      "weeks": 27,
+      "peak": 1,
+      "score": 760
+    },
+    {
+      "artist": "All-4-one",
+      "title": "I Can Love You Like That",
+      "weeks": 29,
+      "peak": 5,
+      "score": 754
+    },
+    {
+      "artist": "Coolio",
+      "title": "Gangsta's Paradise (From \"Dangerous Minds\")",
+      "weeks": 20,
+      "peak": 1,
+      "score": 739
+    },
+    {
+      "artist": "Adina Howard",
+      "title": "Freak Like Me",
+      "weeks": 30,
+      "peak": 2,
+      "score": 695
+    },
+    {
+      "artist": "Monica",
+      "title": "Don't Take It Personal (Just One Of Dem Days)",
+      "weeks": 29,
+      "peak": 2,
+      "score": 679
+    },
+    {
+      "artist": "Boyz Ii Men",
+      "title": "Water Runs Dry",
+      "weeks": 28,
+      "peak": 2,
+      "score": 673
+    },
+    {
+      "artist": "Tlc",
+      "title": "Creep",
+      "weeks": 24,
+      "peak": 1,
+      "score": 661
+    },
+    {
+      "artist": "Dionne Farris",
+      "title": "I Know",
+      "weeks": 38,
+      "peak": 4,
+      "score": 652
+    },
+    {
+      "artist": "Blues Traveler",
+      "title": "Run-Around",
+      "weeks": 41,
+      "peak": 8,
+      "score": 639
+    },
+    {
+      "artist": "Hootie",
+      "title": "Only Wanna Be With You",
+      "weeks": 22,
+      "peak": 6,
+      "score": 610
+    },
+    {
+      "artist": "Montell Jordan",
+      "title": "This Is How We Do It",
+      "weeks": 29,
+      "peak": 1,
+      "score": 594
+    },
+    {
+      "artist": "Hootie",
+      "title": "Hold My Hand",
+      "weeks": 31,
+      "peak": 10,
+      "score": 586
+    },
+    {
+      "artist": "Soul For Real",
+      "title": "Candy Rain",
+      "weeks": 25,
+      "peak": 2,
+      "score": 582
+    },
+    {
+      "artist": "Des'ree",
+      "title": "You Gotta Be",
+      "weeks": 26,
+      "peak": 5,
+      "score": 577
+    },
+    {
+      "artist": "Bryan Adams",
+      "title": "Have You Ever Really Loved A Woman?",
+      "weeks": 24,
+      "peak": 1,
+      "score": 566
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "Runaway",
+      "weeks": 16,
+      "peak": 3,
+      "score": 558
+    },
+    {
+      "artist": "Real Mccoy",
+      "title": "Another Night",
+      "weeks": 26,
+      "peak": 3,
+      "score": 544
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Fantasy",
+      "weeks": 14,
+      "peak": 1,
+      "score": 541
+    },
+    {
+      "artist": "Tlc",
+      "title": "Red Light Special",
+      "weeks": 22,
+      "peak": 2,
+      "score": 537
+    },
+    {
+      "artist": "Boyz Ii Men",
+      "title": "On Bended Knee",
+      "weeks": 20,
+      "peak": 1,
+      "score": 517
+    },
+    {
+      "artist": "Shaggy",
+      "title": "Boombastic/In The Summertime",
+      "weeks": 29,
+      "peak": 3,
+      "score": 480
+    },
+    {
+      "artist": "Sheryl Crow",
+      "title": "Strong Enough",
+      "weeks": 25,
+      "peak": 5,
+      "score": 473
+    },
+    {
+      "artist": "Brownstone",
+      "title": "If You Love Me",
+      "weeks": 23,
+      "peak": 8,
+      "score": 470
+    },
+    {
+      "artist": "Real Mccoy",
+      "title": "Run Away",
+      "weeks": 20,
+      "peak": 3,
+      "score": 458
+    },
+    {
+      "artist": "The Notorious B.i.g",
+      "title": "One More Chance/Stay With Me",
+      "weeks": 20,
+      "peak": 2,
+      "score": 450
+    },
+    {
+      "artist": "Brandy",
+      "title": "Baby",
+      "weeks": 20,
+      "peak": 4,
+      "score": 449
+    },
+    {
+      "artist": "The Notorious B.i.g",
+      "title": "Big Poppa/Warning",
+      "weeks": 24,
+      "peak": 6,
+      "score": 429
+    },
+    {
+      "artist": "Vanessa Williams",
+      "title": "Colors Of The Wind (From \"Pocahontas\")",
+      "weeks": 23,
+      "peak": 4,
+      "score": 428
+    },
+    {
+      "artist": "Bon Jovi",
+      "title": "Always",
+      "weeks": 18,
+      "peak": 4,
+      "score": 424
+    },
+    {
+      "artist": "Nicki French",
+      "title": "Total Eclipse Of The Heart",
+      "weeks": 27,
+      "peak": 2,
+      "score": 411
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "You Are Not Alone",
+      "weeks": 18,
+      "peak": 1,
+      "score": 404
+    },
+    {
+      "artist": "Take That",
+      "title": "Back For Good",
+      "weeks": 21,
+      "peak": 7,
+      "score": 403
+    },
+    {
+      "artist": "Blessid Union Of Souls",
+      "title": "I Believe",
+      "weeks": 31,
+      "peak": 8,
+      "score": 392
+    },
+    {
+      "artist": "Natalie Merchant",
+      "title": "Carnival",
+      "weeks": 22,
+      "peak": 10,
+      "score": 389
+    },
+    {
+      "artist": "Groove Theory",
+      "title": "Tell Me",
+      "weeks": 19,
+      "peak": 5,
+      "score": 381
+    },
+    {
+      "artist": "4pm",
+      "title": "Sukiyaki",
+      "weeks": 16,
+      "peak": 8,
+      "score": 378
+    },
+    {
+      "artist": "Jon B",
+      "title": "Someone To Love",
+      "weeks": 30,
+      "peak": 10,
+      "score": 378
+    },
+    {
+      "artist": "Collective Soul",
+      "title": "December",
+      "weeks": 34,
+      "peak": 20,
+      "score": 374
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Tlc",
+      "hits": 3
+    },
+    {
+      "artist": "Boyz Ii Men",
+      "hits": 2
+    },
+    {
+      "artist": "Hootie",
+      "hits": 2
+    },
+    {
+      "artist": "Real Mccoy",
+      "hits": 2
+    },
+    {
+      "artist": "The Notorious B.i.g",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Blues Traveler",
+      "title": "Run-Around",
+      "weeks": 41,
+      "peak": 8,
+      "score": 639
+    },
+    {
+      "artist": "Dionne Farris",
+      "title": "I Know",
+      "weeks": 38,
+      "peak": 4,
+      "score": 652
+    },
+    {
+      "artist": "Hootie",
+      "title": "Let Her Cry",
+      "weeks": 35,
+      "peak": 9,
+      "score": 342
+    },
+    {
+      "artist": "Collective Soul",
+      "title": "December",
+      "weeks": 34,
+      "peak": 20,
+      "score": 374
+    },
+    {
+      "artist": "Martin Page",
+      "title": "In The House Of Stone And Light",
+      "weeks": 32,
+      "peak": 14,
+      "score": 331
+    },
+    {
+      "artist": "Hootie",
+      "title": "Hold My Hand",
+      "weeks": 31,
+      "peak": 10,
+      "score": 586
+    },
+    {
+      "artist": "Blessid Union Of Souls",
+      "title": "I Believe",
+      "weeks": 31,
+      "peak": 8,
+      "score": 392
+    },
+    {
+      "artist": "Sophie B. Hawkins",
+      "title": "As I Lay Me Down",
+      "weeks": 31,
+      "peak": 6,
+      "score": 142
+    },
+    {
+      "artist": "Tlc",
+      "title": "Waterfalls",
+      "weeks": 30,
+      "peak": 1,
+      "score": 820
+    },
+    {
+      "artist": "Adina Howard",
+      "title": "Freak Like Me",
+      "weeks": 30,
+      "peak": 2,
+      "score": 695
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Tlc",
+      "title": "Waterfalls",
+      "weeks": 30,
+      "peak": 1,
+      "score": 820
+    },
+    {
+      "artist": "Seal",
+      "title": "Kiss From A Rose",
+      "weeks": 28,
+      "peak": 1,
+      "score": 766
+    },
+    {
+      "artist": "Madonna",
+      "title": "Take A Bow",
+      "weeks": 27,
+      "peak": 1,
+      "score": 760
+    },
+    {
+      "artist": "Coolio",
+      "title": "Gangsta's Paradise (From \"Dangerous Minds\")",
+      "weeks": 20,
+      "peak": 1,
+      "score": 739
+    },
+    {
+      "artist": "Tlc",
+      "title": "Creep",
+      "weeks": 24,
+      "peak": 1,
+      "score": 661
+    },
+    {
+      "artist": "Montell Jordan",
+      "title": "This Is How We Do It",
+      "weeks": 29,
+      "peak": 1,
+      "score": 594
+    },
+    {
+      "artist": "Bryan Adams",
+      "title": "Have You Ever Really Loved A Woman?",
+      "weeks": 24,
+      "peak": 1,
+      "score": 566
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Fantasy",
+      "weeks": 14,
+      "peak": 1,
+      "score": 541
+    },
+    {
+      "artist": "Boyz Ii Men",
+      "title": "On Bended Knee",
+      "weeks": 20,
+      "peak": 1,
+      "score": 517
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "You Are Not Alone",
+      "weeks": 18,
+      "peak": 1,
+      "score": 404
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "Exhale (Shoop Shoop) (From \"Waiting To Exhale\")",
+      "weeks": 6,
+      "peak": 1,
+      "score": 235
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "One Sweet Day",
+      "weeks": 5,
+      "peak": 1,
+      "score": 200
+    }
+  ]
+}

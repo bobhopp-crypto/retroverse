@@ -1,0 +1,570 @@
+{
+  "year": "1965",
+  "top_songs": [
+    {
+      "artist": "The Righteous Brothers",
+      "title": "You've Lost That Lovin' Feelin'",
+      "weeks": 13,
+      "peak": 1,
+      "score": 422
+    },
+    {
+      "artist": "Petula Clark",
+      "title": "Downtown",
+      "weeks": 13,
+      "peak": 1,
+      "score": 411
+    },
+    {
+      "artist": "Four Tops",
+      "title": "I Can't Help Myself (Sugar Pie Honey Bunch)",
+      "weeks": 14,
+      "peak": 1,
+      "score": 386
+    },
+    {
+      "artist": "Herman's Hermits",
+      "title": "Mrs. Brown You've Got A Lovely Daughter",
+      "weeks": 11,
+      "peak": 1,
+      "score": 374
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "(I Can't Get No) Satisfaction",
+      "weeks": 14,
+      "peak": 1,
+      "score": 373
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Help!",
+      "weeks": 13,
+      "peak": 1,
+      "score": 356
+    },
+    {
+      "artist": "Gary Lewis And The Playboys",
+      "title": "This Diamond Ring",
+      "weeks": 12,
+      "peak": 1,
+      "score": 330
+    },
+    {
+      "artist": "The Temptations",
+      "title": "My Girl",
+      "weeks": 13,
+      "peak": 1,
+      "score": 324
+    },
+    {
+      "artist": "Sam The Sham And The Pharaohs",
+      "title": "Wooly Bully",
+      "weeks": 18,
+      "peak": 2,
+      "score": 319
+    },
+    {
+      "artist": "Roger Miller",
+      "title": "King Of The Road",
+      "weeks": 13,
+      "peak": 4,
+      "score": 314
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Get Off Of My Cloud",
+      "weeks": 12,
+      "peak": 1,
+      "score": 313
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Stop! In The Name Of Love",
+      "weeks": 12,
+      "peak": 1,
+      "score": 302
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Yesterday",
+      "weeks": 11,
+      "peak": 1,
+      "score": 301
+    },
+    {
+      "artist": "We Five",
+      "title": "You Were On My Mind",
+      "weeks": 15,
+      "peak": 3,
+      "score": 293
+    },
+    {
+      "artist": "Barry Mcguire",
+      "title": "Eve Of Destruction",
+      "weeks": 11,
+      "peak": 1,
+      "score": 286
+    },
+    {
+      "artist": "The Supremes",
+      "title": "I Hear A Symphony",
+      "weeks": 9,
+      "peak": 1,
+      "score": 282
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Ticket To Ride",
+      "weeks": 11,
+      "peak": 1,
+      "score": 273
+    },
+    {
+      "artist": "The Searchers",
+      "title": "Love Potion Number Nine",
+      "weeks": 9,
+      "peak": 3,
+      "score": 271
+    },
+    {
+      "artist": "Herman's Hermits",
+      "title": "I'm Henry VIII, I Am",
+      "weeks": 10,
+      "peak": 1,
+      "score": 271
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "Crying In The Chapel",
+      "weeks": 14,
+      "peak": 3,
+      "score": 268
+    },
+    {
+      "artist": "Shirley Ellis",
+      "title": "The Name Game",
+      "weeks": 11,
+      "peak": 3,
+      "score": 259
+    },
+    {
+      "artist": "Wayne Fontana",
+      "title": "Game Of Love",
+      "weeks": 11,
+      "peak": 1,
+      "score": 256
+    },
+    {
+      "artist": "The 4 Seasons",
+      "title": "Let's Hang On!",
+      "weeks": 12,
+      "peak": 3,
+      "score": 256
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Eight Days A Week",
+      "weeks": 10,
+      "peak": 1,
+      "score": 254
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "Help Me, Rhonda",
+      "weeks": 14,
+      "peak": 1,
+      "score": 253
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Back In My Arms Again",
+      "weeks": 11,
+      "peak": 1,
+      "score": 249
+    },
+    {
+      "artist": "The Mccoys",
+      "title": "Hang On Sloopy",
+      "weeks": 14,
+      "peak": 1,
+      "score": 245
+    },
+    {
+      "artist": "The Righteous Brothers",
+      "title": "Unchained Melody",
+      "weeks": 13,
+      "peak": 4,
+      "score": 240
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Come See About Me",
+      "weeks": 7,
+      "peak": 1,
+      "score": 234
+    },
+    {
+      "artist": "Tom Jones",
+      "title": "What's New Pussycat?",
+      "weeks": 12,
+      "peak": 3,
+      "score": 234
+    },
+    {
+      "artist": "Herman's Hermits",
+      "title": "Silhouettes",
+      "weeks": 13,
+      "peak": 5,
+      "score": 232
+    },
+    {
+      "artist": "Jay",
+      "title": "Cara, Mia",
+      "weeks": 13,
+      "peak": 4,
+      "score": 232
+    },
+    {
+      "artist": "Jewel Akens",
+      "title": "The Birds And The Bees",
+      "weeks": 14,
+      "peak": 3,
+      "score": 230
+    },
+    {
+      "artist": "Herman's Hermits",
+      "title": "Can't You Hear My Heartbeat",
+      "weeks": 15,
+      "peak": 2,
+      "score": 229
+    },
+    {
+      "artist": "The Seekers",
+      "title": "I'll Never Find Another You",
+      "weeks": 13,
+      "peak": 4,
+      "score": 225
+    },
+    {
+      "artist": "Jr. Walker",
+      "title": "Shotgun",
+      "weeks": 14,
+      "peak": 4,
+      "score": 222
+    },
+    {
+      "artist": "Herman's Hermits",
+      "title": "Wonderful World",
+      "weeks": 10,
+      "peak": 4,
+      "score": 222
+    },
+    {
+      "artist": "Freddie And The Dreamers",
+      "title": "I'm Telling You Now",
+      "weeks": 11,
+      "peak": 1,
+      "score": 218
+    },
+    {
+      "artist": "The Byrds",
+      "title": "Mr. Tambourine Man",
+      "weeks": 13,
+      "peak": 1,
+      "score": 218
+    },
+    {
+      "artist": "Gerry And The Pacemakers",
+      "title": "Ferry Cross The Mersey",
+      "weeks": 11,
+      "peak": 6,
+      "score": 217
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "The Righteous Brothers",
+      "hits": 2
+    },
+    {
+      "artist": "Herman's Hermits",
+      "hits": 5
+    },
+    {
+      "artist": "The Rolling Stones",
+      "hits": 2
+    },
+    {
+      "artist": "The Beatles",
+      "hits": 4
+    },
+    {
+      "artist": "The Supremes",
+      "hits": 4
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Sam The Sham And The Pharaohs",
+      "title": "Wooly Bully",
+      "weeks": 18,
+      "peak": 2,
+      "score": 319
+    },
+    {
+      "artist": "Ramsey Lewis Trio",
+      "title": "The \"In\" Crowd",
+      "weeks": 16,
+      "peak": 5,
+      "score": 207
+    },
+    {
+      "artist": "We Five",
+      "title": "You Were On My Mind",
+      "weeks": 15,
+      "peak": 3,
+      "score": 293
+    },
+    {
+      "artist": "Herman's Hermits",
+      "title": "Can't You Hear My Heartbeat",
+      "weeks": 15,
+      "peak": 2,
+      "score": 229
+    },
+    {
+      "artist": "Mel Carter",
+      "title": "Hold Me, Thrill Me, Kiss Me",
+      "weeks": 15,
+      "peak": 8,
+      "score": 167
+    },
+    {
+      "artist": "The Toys",
+      "title": "A Lover's Concerto",
+      "weeks": 15,
+      "peak": 2,
+      "score": 162
+    },
+    {
+      "artist": "Four Tops",
+      "title": "I Can't Help Myself (Sugar Pie Honey Bunch)",
+      "weeks": 14,
+      "peak": 1,
+      "score": 386
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "(I Can't Get No) Satisfaction",
+      "weeks": 14,
+      "peak": 1,
+      "score": 373
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "Crying In The Chapel",
+      "weeks": 14,
+      "peak": 3,
+      "score": 268
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "Help Me, Rhonda",
+      "weeks": 14,
+      "peak": 1,
+      "score": 253
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "The Righteous Brothers",
+      "title": "You've Lost That Lovin' Feelin'",
+      "weeks": 13,
+      "peak": 1,
+      "score": 422
+    },
+    {
+      "artist": "Petula Clark",
+      "title": "Downtown",
+      "weeks": 13,
+      "peak": 1,
+      "score": 411
+    },
+    {
+      "artist": "Four Tops",
+      "title": "I Can't Help Myself (Sugar Pie Honey Bunch)",
+      "weeks": 14,
+      "peak": 1,
+      "score": 386
+    },
+    {
+      "artist": "Herman's Hermits",
+      "title": "Mrs. Brown You've Got A Lovely Daughter",
+      "weeks": 11,
+      "peak": 1,
+      "score": 374
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "(I Can't Get No) Satisfaction",
+      "weeks": 14,
+      "peak": 1,
+      "score": 373
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Help!",
+      "weeks": 13,
+      "peak": 1,
+      "score": 356
+    },
+    {
+      "artist": "Gary Lewis And The Playboys",
+      "title": "This Diamond Ring",
+      "weeks": 12,
+      "peak": 1,
+      "score": 330
+    },
+    {
+      "artist": "The Temptations",
+      "title": "My Girl",
+      "weeks": 13,
+      "peak": 1,
+      "score": 324
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Get Off Of My Cloud",
+      "weeks": 12,
+      "peak": 1,
+      "score": 313
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Stop! In The Name Of Love",
+      "weeks": 12,
+      "peak": 1,
+      "score": 302
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Yesterday",
+      "weeks": 11,
+      "peak": 1,
+      "score": 301
+    },
+    {
+      "artist": "Barry Mcguire",
+      "title": "Eve Of Destruction",
+      "weeks": 11,
+      "peak": 1,
+      "score": 286
+    },
+    {
+      "artist": "The Supremes",
+      "title": "I Hear A Symphony",
+      "weeks": 9,
+      "peak": 1,
+      "score": 282
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Ticket To Ride",
+      "weeks": 11,
+      "peak": 1,
+      "score": 273
+    },
+    {
+      "artist": "Herman's Hermits",
+      "title": "I'm Henry VIII, I Am",
+      "weeks": 10,
+      "peak": 1,
+      "score": 271
+    },
+    {
+      "artist": "Wayne Fontana",
+      "title": "Game Of Love",
+      "weeks": 11,
+      "peak": 1,
+      "score": 256
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Eight Days A Week",
+      "weeks": 10,
+      "peak": 1,
+      "score": 254
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "Help Me, Rhonda",
+      "weeks": 14,
+      "peak": 1,
+      "score": 253
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Back In My Arms Again",
+      "weeks": 11,
+      "peak": 1,
+      "score": 249
+    },
+    {
+      "artist": "The Mccoys",
+      "title": "Hang On Sloopy",
+      "weeks": 14,
+      "peak": 1,
+      "score": 245
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Come See About Me",
+      "weeks": 7,
+      "peak": 1,
+      "score": 234
+    },
+    {
+      "artist": "Freddie And The Dreamers",
+      "title": "I'm Telling You Now",
+      "weeks": 11,
+      "peak": 1,
+      "score": 218
+    },
+    {
+      "artist": "The Byrds",
+      "title": "Mr. Tambourine Man",
+      "weeks": 13,
+      "peak": 1,
+      "score": 218
+    },
+    {
+      "artist": "Sonny",
+      "title": "I Got You Babe",
+      "weeks": 14,
+      "peak": 1,
+      "score": 217
+    },
+    {
+      "artist": "The Byrds",
+      "title": "Turn! Turn! Turn! (To Everything There Is A Season)",
+      "weeks": 10,
+      "peak": 1,
+      "score": 213
+    },
+    {
+      "artist": "The Beatles",
+      "title": "I Feel Fine",
+      "weeks": 7,
+      "peak": 1,
+      "score": 206
+    },
+    {
+      "artist": "The Dave Clark Five",
+      "title": "Over And Over",
+      "weeks": 7,
+      "peak": 1,
+      "score": 152
+    }
+  ]
+}

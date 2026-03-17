@@ -1,0 +1,276 @@
+{
+  "year": 1978,
+  "source": "scripts.magazine_pipeline.build_issue_pages(1978)",
+  "pages": [
+    {
+      "page_number": 1,
+      "page_slug": "cover",
+      "page_type": "cover",
+      "visual_concept": "midnight_cultural_montage",
+      "scene_description": "1978 city-at-night collage with dance floor glow, theater marquees, radio gear, arcade lights, and record-store windows fused into one cover scene.",
+      "camera_style": "elevated cinematic overview",
+      "lighting_style": "neon bloom with warm tungsten highlights"
+    },
+    {
+      "page_number": 2,
+      "page_slug": "masthead",
+      "page_type": "department masthead",
+      "visual_concept": "editorial_desk_still_life",
+      "scene_description": "Paste-up boards, wax pencils, scissors, coffee, and marked galley pages arranged across a late-1970s editorial desk.",
+      "camera_style": "top-down tabletop composition",
+      "lighting_style": "soft office lamp glow"
+    },
+    {
+      "page_number": 3,
+      "page_slug": "editor_letter",
+      "page_type": "department letter",
+      "visual_concept": "editor_corner_reflection",
+      "scene_description": "An editor's corner with stacked magazines, handwritten notes, and a window view onto a moving 1978 street.",
+      "camera_style": "three-quarter desk perspective",
+      "lighting_style": "late-afternoon window light with amber desk lamp"
+    },
+    {
+      "page_number": 4,
+      "page_slug": "year_snapshot",
+      "page_type": "snapshot page",
+      "visual_concept": "city_night_establishing_shot",
+      "scene_description": "Downtown 1978 nightlife with cinema marquee glow, taxis, storefront reflections, and pedestrians moving between music and movie culture.",
+      "camera_style": "wide street perspective",
+      "lighting_style": "neon reflections and warm theater lights"
+    },
+    {
+      "page_number": 5,
+      "page_slug": "charts_overview",
+      "page_type": "chart overview",
+      "visual_concept": "radio_chart_control_room",
+      "scene_description": "A radio-programming room filled with wall charts, pinned playlists, call logs, and turntable equipment suggesting weekly chart movement.",
+      "camera_style": "angled room overview",
+      "lighting_style": "fluorescent newsroom wash with red indicator lights"
+    },
+    {
+      "page_number": 6,
+      "page_slug": "top_song_1",
+      "page_type": "top song page",
+      "visual_concept": "subway_stride_pulse",
+      "scene_description": "A fast-moving nighttime city scene with confident pedestrians, subway stairs, and rhythmic urban motion echoing chart dominance.",
+      "camera_style": "low-angle forward motion shot",
+      "lighting_style": "cool streetlight edges with saturated sign glow"
+    },
+    {
+      "page_number": 7,
+      "page_slug": "top_song_2",
+      "page_type": "top song page",
+      "visual_concept": "fever_dancefloor_closeup",
+      "scene_description": "Packed disco floor with mirrored panels, raised arms, and tightly framed crowd energy built around shared movement.",
+      "camera_style": "compressed medium crowd shot",
+      "lighting_style": "hot magenta and gold dancefloor beams"
+    },
+    {
+      "page_number": 8,
+      "page_slug": "top_song_3",
+      "page_type": "top song page",
+      "visual_concept": "marina_sunset_romance",
+      "scene_description": "A breezy marina promenade at dusk with sailboats, pastel sky, and a couple framed against calm water and summer glamour.",
+      "camera_style": "wide romantic horizon shot",
+      "lighting_style": "soft sunset gradients with reflective water shimmer"
+    },
+    {
+      "page_number": 9,
+      "page_slug": "top_song_4",
+      "page_type": "top song page",
+      "visual_concept": "yacht_gala_ballroom",
+      "scene_description": "Formal evening scene aboard a luxury yacht with elegant guests, champagne, and smooth late-70s sophistication.",
+      "camera_style": "gliding ballroom perspective",
+      "lighting_style": "gold chandelier glow with moonlit accents"
+    },
+    {
+      "page_number": 10,
+      "page_slug": "top_song_5",
+      "page_type": "top song page",
+      "visual_concept": "roadside_motel_glow",
+      "scene_description": "Neon motel sign, parked coupe, and quiet roadside tension suggesting midnight romance and small-town drama.",
+      "camera_style": "wide roadside tableau",
+      "lighting_style": "neon pink against humid night shadows"
+    },
+    {
+      "page_number": 11,
+      "page_slug": "top_song_6",
+      "page_type": "top song page",
+      "visual_concept": "bus_stop_longing",
+      "scene_description": "A city bus shelter scene with rain-slick pavement, waiting figures, and a bittersweet romantic pause.",
+      "camera_style": "medium telephoto street vignette",
+      "lighting_style": "soft storefront spill with wet-street reflections"
+    },
+    {
+      "page_number": 12,
+      "page_slug": "top_song_7",
+      "page_type": "top song page",
+      "visual_concept": "rain_swept_urban_disco",
+      "scene_description": "A dramatic urban parkway under rain with disco bravado, wind, and storm-lit movement pushing the scene toward spectacle.",
+      "camera_style": "dynamic diagonal action frame",
+      "lighting_style": "stormy backlight with sodium-vapor highlights"
+    },
+    {
+      "page_number": 13,
+      "page_slug": "top_song_8",
+      "page_type": "top song page",
+      "visual_concept": "desert_convertible_cruise",
+      "scene_description": "Open-road Southwest drive with dusty roadside signage, convertible silhouette, and relaxed late-day motion.",
+      "camera_style": "wide roadside tracking shot",
+      "lighting_style": "dry golden-hour sunlight"
+    },
+    {
+      "page_number": 14,
+      "page_slug": "top_song_9",
+      "page_type": "top song page",
+      "visual_concept": "mirrored_studio_silhouette",
+      "scene_description": "A choreographed studio-dance environment with reflective floors and layered silhouettes implying polished pop movement.",
+      "camera_style": "centered stage perspective",
+      "lighting_style": "spotlit silhouettes with indigo shadows"
+    },
+    {
+      "page_number": 15,
+      "page_slug": "top_song_10",
+      "page_type": "top song page",
+      "visual_concept": "roller_rink_funk_burst",
+      "scene_description": "Crowded roller rink with striped socks, bright wheels, and communal funk energy rolling in every direction.",
+      "camera_style": "swooping rinkside view",
+      "lighting_style": "playful colored rink lights with chrome sparkle"
+    },
+    {
+      "page_number": 16,
+      "page_slug": "movies",
+      "page_type": "screen feature",
+      "visual_concept": "cinema_marquee_corridor",
+      "scene_description": "A bustling multiplex corridor with poster cases, concession glow, and moviegoers converging under marquee lights.",
+      "camera_style": "deep-perspective lobby shot",
+      "lighting_style": "projector gold with red velvet warmth"
+    },
+    {
+      "page_number": 17,
+      "page_slug": "television",
+      "page_type": "screen feature",
+      "visual_concept": "living_room_prime_time",
+      "scene_description": "A wood-paneled living room with glowing CRT, family seating, TV trays, and broadcast-night ritual.",
+      "camera_style": "wide domestic interior",
+      "lighting_style": "blue CRT glow with warm lamp pools"
+    },
+    {
+      "page_number": 18,
+      "page_slug": "culture",
+      "page_type": "department feature",
+      "visual_concept": "neighborhood_street_collage",
+      "scene_description": "Busy neighborhood block with posters, salon windows, record bags, denim, and everyday style markers of 1978.",
+      "camera_style": "street-level documentary angle",
+      "lighting_style": "bright overcast daylight with storefront color pops"
+    },
+    {
+      "page_number": 19,
+      "page_slug": "arcade",
+      "page_type": "department feature",
+      "visual_concept": "mall_arcade_neon_row",
+      "scene_description": "Shopping-mall arcade lined with glowing cabinets, reflective tile, clustered teens, and blinking score screens.",
+      "camera_style": "receding aisle perspective",
+      "lighting_style": "electric cabinet glow over dim ambient light"
+    },
+    {
+      "page_number": 20,
+      "page_slug": "retro_ad",
+      "page_type": "ad page",
+      "visual_concept": "catalog_product_stage",
+      "scene_description": "A staged pseudo-advertising scene built around a hero consumer product with props, chrome accents, and aspirational styling.",
+      "camera_style": "centered studio showcase",
+      "lighting_style": "clean studio pools with glossy specular highlights"
+    },
+    {
+      "page_number": 21,
+      "page_slug": "comic",
+      "page_type": "comic page",
+      "visual_concept": "back_alley_panel_world",
+      "scene_description": "An expressive urban back alley with exaggerated props and strong silhouettes designed to support comic panel overlays.",
+      "camera_style": "panel-friendly medium wide shot",
+      "lighting_style": "graphic noir contrast with colored edge light"
+    },
+    {
+      "page_number": 22,
+      "page_slug": "puzzle",
+      "page_type": "puzzle page",
+      "visual_concept": "tabletop_brainteaser_scene",
+      "scene_description": "Kitchen table with pencils, clue cards, coffee mugs, and period ephemera arranged for an evening puzzle session.",
+      "camera_style": "top-down tabletop view",
+      "lighting_style": "soft domestic overhead light"
+    },
+    {
+      "page_number": 23,
+      "page_slug": "letters",
+      "page_type": "department letters",
+      "visual_concept": "mailroom_after_hours",
+      "scene_description": "A stack of opened reader letters, envelopes, and editorial scribbles in a quiet after-hours mail-sorting room.",
+      "camera_style": "desk-height close perspective",
+      "lighting_style": "warm tungsten pools with soft paper shadows"
+    },
+    {
+      "page_number": 24,
+      "page_slug": "forgotten_hit",
+      "page_type": "feature story",
+      "visual_concept": "lonely_jukebox_memory",
+      "scene_description": "A half-empty bar with jukebox glow, scattered glasses, and a song lingering after the crowd has faded.",
+      "camera_style": "moody interior wide shot",
+      "lighting_style": "amber jukebox glow with deep surrounding shadow"
+    },
+    {
+      "page_number": 25,
+      "page_slug": "one_hit_wonder",
+      "page_type": "one_hit_wonder reserve page",
+      "visual_concept": "one_night_stage_flash",
+      "scene_description": "A single spotlight on a small club stage after an electrifying moment, suggesting fame that burned bright and brief.",
+      "camera_style": "frontal stage shot",
+      "lighting_style": "isolated spotlight with smoky darkness"
+    },
+    {
+      "page_number": 26,
+      "page_slug": "album_spotlight",
+      "page_type": "feature story",
+      "visual_concept": "record_store_orbit",
+      "scene_description": "A record-store interior orbiting around a dominant soundtrack display with browsers, bins, and star-making retail gravity.",
+      "camera_style": "circular aisle perspective",
+      "lighting_style": "warm retail fluorescents with reflective vinyl sheen"
+    },
+    {
+      "page_number": 27,
+      "page_slug": "year_timeline",
+      "page_type": "timeline page",
+      "visual_concept": "bulletin_board_time_ribbon",
+      "scene_description": "A layered bulletin board of dated clippings, tickets, snapshots, and arrows forming a visual ribbon through the year.",
+      "camera_style": "flat archival wall view",
+      "lighting_style": "neutral museum-style illumination"
+    },
+    {
+      "page_number": 28,
+      "page_slug": "culture_collage",
+      "page_type": "collage page",
+      "visual_concept": "scrapbook_object_explosion",
+      "scene_description": "A dense but organized burst of objects, fashion fragments, media ephemera, and icon-level cultural details from 1978.",
+      "camera_style": "flattened collage board composition",
+      "lighting_style": "even print-studio light with vivid color separation"
+    },
+    {
+      "page_number": 29,
+      "page_slug": "retro_ads_page",
+      "page_type": "ad roundup",
+      "visual_concept": "mail_order_showcase_grid",
+      "scene_description": "A playful showroom of mail-order bundles, coupons, promo inserts, and consumer temptations arranged like a late-book ad spread.",
+      "camera_style": "structured multi-object display view",
+      "lighting_style": "bright catalog lighting with crisp product highlights"
+    },
+    {
+      "page_number": 30,
+      "page_slug": "chart_top23",
+      "page_type": "chart page",
+      "visual_concept": "spotlight_countdown_tower",
+      "scene_description": "A dramatic ranking-stage environment with stacked platforms, signal-light rhythm, and room for a final top-23 countdown.",
+      "camera_style": "symmetrical forward-facing composition",
+      "lighting_style": "concert-spot beams with restrained scoreboard glow"
+    }
+  ]
+}

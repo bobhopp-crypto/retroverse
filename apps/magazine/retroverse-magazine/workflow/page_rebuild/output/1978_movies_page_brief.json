@@ -1,0 +1,297 @@
+{
+  "year": 1978,
+  "page_type": "screen feature",
+  "page_slug": "movies",
+  "title": "1978 Movies of the Year",
+  "subtitle": "Screen-Year Pulse: Grease",
+  "writer": {
+    "name": "Lola Vance",
+    "role": "Film & Television Critic",
+    "byline": "By Lola Vance",
+    "authority_note": "This controlled rebuild uses the mapped final story asset `story_008` as the text authority. The legacy canonical page credits By Martin Hale, Film Editor, but the rebuild follows the story-first production target where final prose exists before art direction."
+  },
+  "source_files": [
+    "issues/1978/movies.md",
+    "issues/1978/layout/page_16_movies.html",
+    "issues/final/1978/story_008.json",
+    "issues/final/1978/story_008.md",
+    "issues/articles/1978/story_008.json",
+    "issues/1978/data/movies.json",
+    "issues/context/1978_context.json",
+    "issues/layout/1978_production_targets.json",
+    "issues/plans/1978_narrative_plan.json",
+    "issues/layout/1978_issue_map.json"
+  ],
+  "page_purpose": "Rebuild page 16 as a single portrait editorial movie feature that uses the finalized `Screen-Year Pulse: Grease` story as the primary text layer, grounds the page in verified 1978 movie rankings and soundtrack crossover facts, and reserves clean overlay zones so illustration can remain text-free until layout.",
+  "story_summary": "The page treats Grease as the clearest symbol of 1978 moviegoing momentum while framing the year's screen mood as a broader pattern of repeat audience attention. Superman and Animal House support that larger picture, and the soundtrack crossover facts from the legacy page explain why movie culture kept echoing back through radio and everyday conversation. Final title, body copy, sidebar facts, and page number will be overlaid after illustration delivery.",
+  "verified_facts": [
+    {
+      "claim": "The 1978 movie dataset contains ten ranked film entries for the page.",
+      "source_file": "issues/1978/data/movies.json",
+      "evidence": "10 ranked films are present in the `films` array.",
+      "kind": "dataset_inventory"
+    },
+    {
+      "claim": "Grease is ranked #1 in the 1978 movie dataset.",
+      "source_file": "issues/1978/data/movies.json",
+      "evidence": "Musical blockbuster with broad repeat attendance.",
+      "kind": "movie_rank"
+    },
+    {
+      "claim": "Superman is ranked #2 in the 1978 movie dataset.",
+      "source_file": "issues/1978/data/movies.json",
+      "evidence": "Holiday-season event release with major theatrical draw.",
+      "kind": "movie_rank"
+    },
+    {
+      "claim": "Animal House is ranked #3 in the 1978 movie dataset.",
+      "source_file": "issues/1978/data/movies.json",
+      "evidence": "Campus comedy breakout with durable audience momentum.",
+      "kind": "movie_rank"
+    },
+    {
+      "claim": "The production target for the movies page requires final prose before art.",
+      "source_file": "issues/layout/1978_production_targets.json",
+      "evidence": "`story_008` is marked `illustration_required: true` and `final_prose_required_before_art: true`.",
+      "kind": "process_guardrail"
+    },
+    {
+      "claim": "\"You're The One That I Want\" is a verified soundtrack crossover signal in the 1978 context data.",
+      "source_file": "issues/context/1978_context.json",
+      "evidence": "Rank 15, 24 weeks, peak #1, score 318.",
+      "kind": "soundtrack_crossover"
+    },
+    {
+      "claim": "\"Grease\" by Frankie Valli is another verified soundtrack crossover signal in the 1978 context data.",
+      "source_file": "issues/context/1978_context.json",
+      "evidence": "Rank 20, 22 weeks, peak #1, score 279.",
+      "kind": "soundtrack_crossover"
+    }
+  ],
+  "text_blocks": [
+    {
+      "id": "page_title",
+      "role": "title",
+      "label": "Page title",
+      "content": "1978 Movies of the Year",
+      "source_file": "issues/1978/movies.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_subtitle",
+      "role": "subtitle",
+      "label": "Story subtitle",
+      "content": "Screen-Year Pulse: Grease",
+      "source_file": "issues/final/1978/story_008.json",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_byline",
+      "role": "byline",
+      "label": "Byline",
+      "content": "By Lola Vance",
+      "source_file": "issues/final/1978/story_008.json",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_deck",
+      "role": "deck",
+      "label": "Deck",
+      "content": "A critic's screen-year read on how Grease, Superman, and Animal House concentrated 1978 moviegoing energy while soundtrack crossover kept the page tied to the rest of the issue.",
+      "source_file": "issues/plans/1978_narrative_plan.json",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "body_lede",
+      "role": "body",
+      "label": "Body paragraph 1",
+      "content": "Lola Vance approaches \"Screen-Year Pulse: Grease\" like a critic's notebook: audience attention, narrative pull, and repeat viewing/listening. In 1978, screen-year pulse: grease becomes a measurable editorial claim. The screen_culture_warehouse movie layer contributes 10 tracked films for 1978, including Grease, Superman, National Lampoon's Animal House.",
+      "source_file": "issues/final/1978/story_008.json",
+      "intended_zone": "body_zone"
+    },
+    {
+      "id": "body_analysis",
+      "role": "body",
+      "label": "Body paragraph 2",
+      "content": "Planning rationale: Film list plus event timeline supports a concise screen-culture readout tied to the same year context. Screen signals are treated as evidence of what audiences kept returning to, not just what premiered. The yearline opens on January 1, 1978: January 1 \u2013 Air India Flight 855 , a Boeing 747 passenger jet, crashes off the coast of Bombay , killing 213. The chart_summary source contributes 8 structured fields for this story build. Billboard 200 coverage spans 52 weeks and 769 distinct albums, with \"Saturday Night Fever\" holding the longest No. 1 run at 24 weeks. Hot 100 movement tracking spans 52 weekly charts and 535 distinct songs, with the longest-running No. 1 listed as \"Night Fever\" for 8 weeks.",
+      "source_file": "issues/final/1978/story_008.json",
+      "intended_zone": "body_zone"
+    },
+    {
+      "id": "body_significance",
+      "role": "body",
+      "label": "Body paragraph 3",
+      "content": "The critical frame links chart presence and screen presence without collapsing them into one metric. The cultural clock starts at January 1, 1978, when January 1 \u2013 Air India Flight 855 , a Boeing 747 passenger jet, crashes off the coast of Bombay , killing 213. Across the shared data spine, the 1978 frame combines 52 Hot 100 weeks, 52 Billboard 200 weeks, sonic danceability at 0.545, and screen-culture inventories of 10 films and 10 TV entries. Assignment framing line: Screen-Year Pulse: Grease. Culturally, movies widens the frame beyond one chart moment.",
+      "source_file": "issues/final/1978/story_008.json",
+      "intended_zone": "body_zone"
+    },
+    {
+      "id": "body_closing",
+      "role": "body",
+      "label": "Body paragraph 4",
+      "content": "The final read is about reception: what endured once first-week excitement wore off. Generation rule check: Articles must use real historical data. This final prose draft is sized for the 300-450 production target and remains grounded in internal RetroVerse datasets.",
+      "source_file": "issues/final/1978/story_008.json",
+      "intended_zone": "body_zone"
+    }
+  ],
+  "sidebar_blocks": [
+    {
+      "id": "movie_leaders",
+      "title": "1978 Movie Leaders",
+      "intended_zone": "sidebar_zone",
+      "items": [
+        {
+          "label": "#1 Grease",
+          "value": "Musical blockbuster with broad repeat attendance.",
+          "source_file": "issues/1978/data/movies.json"
+        },
+        {
+          "label": "#2 Superman",
+          "value": "Holiday-season event release with major theatrical draw.",
+          "source_file": "issues/1978/data/movies.json"
+        },
+        {
+          "label": "#3 Animal House",
+          "value": "Campus comedy breakout with durable audience momentum.",
+          "source_file": "issues/1978/data/movies.json"
+        }
+      ]
+    },
+    {
+      "id": "soundtrack_crossover",
+      "title": "Soundtrack Crossover",
+      "intended_zone": "sidebar_zone",
+      "items": [
+        {
+          "label": "\"You're The One That I Want\"",
+          "value": "24 weeks, peak #1, score 318",
+          "source_file": "issues/context/1978_context.json"
+        },
+        {
+          "label": "\"Grease\"",
+          "value": "22 weeks, peak #1, score 279",
+          "source_file": "issues/context/1978_context.json"
+        }
+      ]
+    }
+  ],
+  "qa_notes": [
+    "Final story asset exists before art direction and is treated as the authoritative text layer for the rebuild.",
+    "Legacy page copy in `issues/1978/movies.md` is retained as source context only; the controlled rebuild uses the mapped story_008 package because the issue map places the movies page in the feature well.",
+    "Text-safe zones are normalized to a 900x1200 portrait page and must remain open during illustration.",
+    "Artwork must be delivered as page-aware background art with no production headline, body, or stat typography baked in."
+  ],
+  "layout_requirements": {
+    "page_number": 16,
+    "orientation": "portrait",
+    "page_dimensions": {
+      "width_px": 900,
+      "height_px": 1200,
+      "unit": "px"
+    },
+    "structure": "Full-page background illustration with a calm upper-left title block, a two-column body region across the lower-left and center, a compact right-rail sidebar/stat box, and a small footer page number.",
+    "overlay_order": [
+      "background/page art first",
+      "title, subtitle, byline, and deck",
+      "body text",
+      "sidebar/stat box",
+      "page number"
+    ],
+    "art_placement": {
+      "mode": "full-page background with right-heavy focal scene",
+      "focal_scene_note": "Concentrate marquee, crowd, and strongest contrast on the upper/right half so the title and body zones stay readable.",
+      "final_art_inserted_later": true
+    }
+  },
+  "art_direction": {
+    "page_readback": "Read this as a whole page, not a spot illustration: page 16 is a single-page movie feature whose text is already written and whose art must support the Grease-led 1978 screen mood without taking over the title/body/sidebar zones.",
+    "concept": "Build a rainy 1978 theater-district editorial scene with a marquee glow, queueing moviegoers, ticket-booth details, and supporting hints of Grease, Superman, and Animal House, while holding the left half and lower text fields open.",
+    "focus_objects": [
+      "theater marquee glow",
+      "moviegoer crowd line",
+      "ticket booth or ticket stub detail",
+      "wet sidewalk reflections",
+      "poster cases or film-reel ephemera kept secondary"
+    ],
+    "negative_space_strategy": "Keep the title zone bright and low-clutter, keep the two-column body zone mostly low-contrast, and avoid bright bulbs, faces, or hard edges in the sidebar and footer zones.",
+    "text_rendering_rule": "Illustration supplies image and atmosphere only. Final production text is overlaid later by layout."
+  },
+  "text_safe_zones": [
+    {
+      "id": "title_zone",
+      "label": "Title Block",
+      "x": 7,
+      "y": 6,
+      "width": 54,
+      "height": 14,
+      "unit": "percent",
+      "purpose": "Title, subtitle, byline, and deck overlay area."
+    },
+    {
+      "id": "body_zone",
+      "label": "Body Copy",
+      "x": 7,
+      "y": 24,
+      "width": 58,
+      "height": 62,
+      "unit": "percent",
+      "purpose": "Two-column article body overlay area."
+    },
+    {
+      "id": "sidebar_zone",
+      "label": "Sidebar / Stat Box",
+      "x": 68,
+      "y": 49,
+      "width": 23,
+      "height": 28,
+      "unit": "percent",
+      "purpose": "Verified facts and ranking sidebar overlay area."
+    },
+    {
+      "id": "footer_zone",
+      "label": "Footer",
+      "x": 7,
+      "y": 93,
+      "width": 86,
+      "height": 3,
+      "unit": "percent",
+      "purpose": "Page number and issue footer overlay area."
+    }
+  ],
+  "must_include": [
+    "1978 Movies of the Year",
+    "Screen-Year Pulse: Grease",
+    "By Lola Vance",
+    "Final body copy sourced from `issues/final/1978/story_008.json`",
+    "Verified movie ranking sidebar/stat box",
+    "Page number 16",
+    "Full-page page-aware illustration background inserted later"
+  ],
+  "must_not_render_in_art": [
+    "article body text",
+    "charts/tables",
+    "exact production typography",
+    "page title and subtitle",
+    "byline text",
+    "sidebar labels and stat text",
+    "page number"
+  ],
+  "style_notes": [
+    "Late-1970s editorial print look with analog grain and restrained halftone texture.",
+    "Cinematic red, projector gold, and CRT teal accents over warm paper tones.",
+    "Treat the page as one integrated composition, not an isolated insert illustration.",
+    "Preserve declared safe zones with calmer contrast and simpler texture.",
+    "Environmental lettering may appear only if tiny, natural, and subordinate to layout typography."
+  ],
+  "easter_egg_rule": "Optional and subtle: hide the word 'RetroVerse' only as a tiny environmental Easter egg. It must never behave like headline copy, body text, or page furniture.",
+  "reference_notes": {
+    "legacy_canonical_title": "Movies of the Year",
+    "legacy_canonical_byline": "By Martin Hale, Film Editor",
+    "mapped_story_id": "story_008",
+    "mapped_story_rationale": "Film list plus event timeline supports a concise screen-culture readout tied to the same year context.",
+    "design_assignment": "screen feature",
+    "visual_brief_name": "Screen-Year Pulse Visual",
+    "visual_goal": "Blend film and television context into one editorial scene.",
+    "production_layout_type": "screen feature spread"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "year": 1984,
+  "page_slug": "year_snapshot",
+  "page_number": 4,
+  "page_title": "Year Snapshot: 1984 in Motion",
+  "story_subtitle": "The year at a glance",
+  "page_purpose": "Present Year Snapshot: 1984 in Motion as a complete RetroVerse 1984 snapshot page page, with page-aware artwork under real typography and no text baked into the illustration layer for `year_snapshot`.",
+  "page_intent_readback": "Present Year Snapshot: 1984 in Motion as a complete RetroVerse 1984 snapshot page page, with page-aware artwork under real typography and no text baked into the illustration layer for `year_snapshot`.",
+  "composition_type": "information-forward full-page background with modular overlay zones",
+  "page_orientation": "portrait",
+  "art_zone_dimensions": [
+    {
+      "id": "full_page_background",
+      "x": 0,
+      "y": 0,
+      "width": 100,
+      "height": 100,
+      "unit": "percent",
+      "purpose": "Background illustration layer beneath final layout typography."
+    }
+  ],
+  "text_safe_zones": [
+    {
+      "id": "title_zone",
+      "x": 7,
+      "y": 6,
+      "width": 54,
+      "height": 14,
+      "unit": "percent"
+    },
+    {
+      "id": "body_zone",
+      "x": 7,
+      "y": 24,
+      "width": 55,
+      "height": 60,
+      "unit": "percent"
+    },
+    {
+      "id": "sidebar_zone",
+      "x": 65,
+      "y": 24,
+      "width": 24,
+      "height": 56,
+      "unit": "percent"
+    },
+    {
+      "id": "footer_zone",
+      "x": 7,
+      "y": 93,
+      "width": 86,
+      "height": 3,
+      "unit": "percent"
+    }
+  ],
+  "mood": "editorial and period-aware",
+  "color_palette": "CRT teal, cream paper, black ink, and restrained signal red",
+  "scene_description": "A data-aware overview of 1984, using restrained print-era motifs and low-contrast backdrop shapes.",
+  "visual_hierarchy": [
+    "Primary focal area supports Year Snapshot: 1984 in Motion.",
+    "Secondary props reinforce `year_snapshot` without competing with text zones.",
+    "Negative space stays calm inside title, body, sidebar, and footer zones.",
+    "Background shapes should guide the eye without competing with charts, stat boxes, or data overlays."
+  ],
+  "optional_easter_egg_guidance": "Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography.",
+  "page_aware_design": true,
+  "illustrator_role": "INFOGRAPHIC_ARTIST",
+  "studio_role_responsibility": "Build restrained background structures for chart, stat, snapshot, and timeline pages without replacing the real data overlay.",
+  "studio_style_rules": [
+    "Support numeric storytelling with graphic rhythm, framing, and icon-level cues rather than finished charts.",
+    "Keep backgrounds quieter and more modular than feature-scene artwork.",
+    "Never render legible data labels, axes, tables, or ranking text into the art layer."
+  ],
+  "text_rendering_instruction": "DO NOT RENDER FINAL TEXT INTO THE ARTWORK",
+  "artwork_text_rule": "no readable text inside artwork",
+  "forbidden_rendering": [
+    "article body text",
+    "charts/tables",
+    "exact production typography",
+    "magazine headlines",
+    "page titles",
+    "pull quotes",
+    "sidebars",
+    "chart tables",
+    "magazine layout elements"
+  ]
+}

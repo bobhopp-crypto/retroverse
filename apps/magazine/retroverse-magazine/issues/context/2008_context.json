@@ -1,0 +1,483 @@
+{
+  "year": "2008",
+  "top_songs": [
+    {
+      "artist": "Leona Lewis",
+      "title": "Bleeding Love",
+      "weeks": 39,
+      "peak": 1,
+      "score": 867
+    },
+    {
+      "artist": "Coldplay",
+      "title": "Viva La Vida",
+      "weeks": 32,
+      "peak": 1,
+      "score": 843
+    },
+    {
+      "artist": "Flo Rida",
+      "title": "Low",
+      "weeks": 32,
+      "peak": 1,
+      "score": 840
+    },
+    {
+      "artist": "Sara Bareilles",
+      "title": "Love Song",
+      "weeks": 34,
+      "peak": 4,
+      "score": 831
+    },
+    {
+      "artist": "Chris Brown",
+      "title": "Forever",
+      "weeks": 33,
+      "peak": 2,
+      "score": 825
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Disturbia",
+      "weeks": 26,
+      "peak": 1,
+      "score": 820
+    },
+    {
+      "artist": "Chris Brown",
+      "title": "With You",
+      "weeks": 26,
+      "peak": 2,
+      "score": 751
+    },
+    {
+      "artist": "Lil Wayne",
+      "title": "Lollipop",
+      "weeks": 28,
+      "peak": 1,
+      "score": 747
+    },
+    {
+      "artist": "Timbaland",
+      "title": "Apologize",
+      "weeks": 27,
+      "peak": 3,
+      "score": 693
+    },
+    {
+      "artist": "Jordin Sparks Duet",
+      "title": "No Air",
+      "weeks": 35,
+      "peak": 3,
+      "score": 647
+    },
+    {
+      "artist": "Alicia Keys",
+      "title": "No One",
+      "weeks": 24,
+      "peak": 2,
+      "score": 635
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Don't Stop The Music",
+      "weeks": 26,
+      "peak": 3,
+      "score": 629
+    },
+    {
+      "artist": "Usher",
+      "title": "Love In This Club",
+      "weeks": 25,
+      "peak": 1,
+      "score": 626
+    },
+    {
+      "artist": "Ray J",
+      "title": "Sexy Can I",
+      "weeks": 26,
+      "peak": 3,
+      "score": 611
+    },
+    {
+      "artist": "P!nk",
+      "title": "So What",
+      "weeks": 17,
+      "peak": 1,
+      "score": 604
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "I Kissed A Girl",
+      "weeks": 23,
+      "peak": 1,
+      "score": 593
+    },
+    {
+      "artist": "Jesse Mccartney",
+      "title": "Leavin'",
+      "weeks": 24,
+      "peak": 10,
+      "score": 576
+    },
+    {
+      "artist": "T.i",
+      "title": "Whatever You Like",
+      "weeks": 19,
+      "peak": 1,
+      "score": 572
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Take A Bow",
+      "weeks": 27,
+      "peak": 1,
+      "score": 554
+    },
+    {
+      "artist": "T-pain",
+      "title": "Can't Believe It",
+      "weeks": 20,
+      "peak": 7,
+      "score": 504
+    },
+    {
+      "artist": "Ne-yo",
+      "title": "Closer",
+      "weeks": 35,
+      "peak": 7,
+      "score": 477
+    },
+    {
+      "artist": "M.i.a",
+      "title": "Paper Planes",
+      "weeks": 20,
+      "peak": 4,
+      "score": 455
+    },
+    {
+      "artist": "Miley Cyrus",
+      "title": "See You Again",
+      "weeks": 25,
+      "peak": 10,
+      "score": 436
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Touch My Body",
+      "weeks": 20,
+      "peak": 1,
+      "score": 431
+    },
+    {
+      "artist": "Danity Kane",
+      "title": "Damaged",
+      "weeks": 22,
+      "peak": 10,
+      "score": 424
+    },
+    {
+      "artist": "Sean Kingston",
+      "title": "Take You There",
+      "weeks": 18,
+      "peak": 7,
+      "score": 418
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Hot N Cold",
+      "weeks": 20,
+      "peak": 3,
+      "score": 410
+    },
+    {
+      "artist": "Plies",
+      "title": "Bust It Baby Part 2",
+      "weeks": 22,
+      "peak": 7,
+      "score": 408
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Love Lockdown",
+      "weeks": 13,
+      "peak": 3,
+      "score": 403
+    },
+    {
+      "artist": "Buckcherry",
+      "title": "Sorry",
+      "weeks": 22,
+      "peak": 9,
+      "score": 395
+    },
+    {
+      "artist": "T.i",
+      "title": "Live Your Life",
+      "weeks": 12,
+      "peak": 1,
+      "score": 395
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Love Story",
+      "weeks": 14,
+      "peak": 5,
+      "score": 391
+    },
+    {
+      "artist": "Ne-yo",
+      "title": "Miss Independent",
+      "weeks": 17,
+      "peak": 7,
+      "score": 390
+    },
+    {
+      "artist": "Lil Wayne",
+      "title": "A Milli",
+      "weeks": 23,
+      "peak": 6,
+      "score": 387
+    },
+    {
+      "artist": "Fergie",
+      "title": "Clumsy",
+      "weeks": 15,
+      "peak": 5,
+      "score": 373
+    },
+    {
+      "artist": "Kardinal Offishall",
+      "title": "Dangerous",
+      "weeks": 27,
+      "peak": 5,
+      "score": 371
+    },
+    {
+      "artist": "Colbie Caillat",
+      "title": "Bubbly",
+      "weeks": 22,
+      "peak": 6,
+      "score": 370
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "title": "Pocketful Of Sunshine",
+      "weeks": 35,
+      "peak": 5,
+      "score": 366
+    },
+    {
+      "artist": "Jordin Sparks",
+      "title": "Tattoo",
+      "weeks": 19,
+      "peak": 8,
+      "score": 363
+    },
+    {
+      "artist": "Lil Wayne",
+      "title": "Got Money",
+      "weeks": 27,
+      "peak": 10,
+      "score": 362
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Chris Brown",
+      "hits": 2
+    },
+    {
+      "artist": "Rihanna",
+      "hits": 3
+    },
+    {
+      "artist": "Lil Wayne",
+      "hits": 3
+    },
+    {
+      "artist": "Katy Perry",
+      "hits": 2
+    },
+    {
+      "artist": "T.i",
+      "hits": 2
+    },
+    {
+      "artist": "Ne-yo",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Leona Lewis",
+      "title": "Bleeding Love",
+      "weeks": 39,
+      "peak": 1,
+      "score": 867
+    },
+    {
+      "artist": "Jordin Sparks Duet",
+      "title": "No Air",
+      "weeks": 35,
+      "peak": 3,
+      "score": 647
+    },
+    {
+      "artist": "Ne-yo",
+      "title": "Closer",
+      "weeks": 35,
+      "peak": 7,
+      "score": 477
+    },
+    {
+      "artist": "Natasha Bedingfield",
+      "title": "Pocketful Of Sunshine",
+      "weeks": 35,
+      "peak": 5,
+      "score": 366
+    },
+    {
+      "artist": "Jason Mraz",
+      "title": "I'm Yours",
+      "weeks": 35,
+      "peak": 6,
+      "score": 225
+    },
+    {
+      "artist": "Sara Bareilles",
+      "title": "Love Song",
+      "weeks": 34,
+      "peak": 4,
+      "score": 831
+    },
+    {
+      "artist": "Chris Brown",
+      "title": "Forever",
+      "weeks": 33,
+      "peak": 2,
+      "score": 825
+    },
+    {
+      "artist": "Coldplay",
+      "title": "Viva La Vida",
+      "weeks": 32,
+      "peak": 1,
+      "score": 843
+    },
+    {
+      "artist": "Flo Rida",
+      "title": "Low",
+      "weeks": 32,
+      "peak": 1,
+      "score": 840
+    },
+    {
+      "artist": "Onerepublic",
+      "title": "Stop And Stare",
+      "weeks": 30,
+      "peak": 12,
+      "score": 293
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Leona Lewis",
+      "title": "Bleeding Love",
+      "weeks": 39,
+      "peak": 1,
+      "score": 867
+    },
+    {
+      "artist": "Coldplay",
+      "title": "Viva La Vida",
+      "weeks": 32,
+      "peak": 1,
+      "score": 843
+    },
+    {
+      "artist": "Flo Rida",
+      "title": "Low",
+      "weeks": 32,
+      "peak": 1,
+      "score": 840
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Disturbia",
+      "weeks": 26,
+      "peak": 1,
+      "score": 820
+    },
+    {
+      "artist": "Lil Wayne",
+      "title": "Lollipop",
+      "weeks": 28,
+      "peak": 1,
+      "score": 747
+    },
+    {
+      "artist": "Usher",
+      "title": "Love In This Club",
+      "weeks": 25,
+      "peak": 1,
+      "score": 626
+    },
+    {
+      "artist": "P!nk",
+      "title": "So What",
+      "weeks": 17,
+      "peak": 1,
+      "score": 604
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "I Kissed A Girl",
+      "weeks": 23,
+      "peak": 1,
+      "score": 593
+    },
+    {
+      "artist": "T.i",
+      "title": "Whatever You Like",
+      "weeks": 19,
+      "peak": 1,
+      "score": 572
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Take A Bow",
+      "weeks": 27,
+      "peak": 1,
+      "score": 554
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Touch My Body",
+      "weeks": 20,
+      "peak": 1,
+      "score": 431
+    },
+    {
+      "artist": "T.i",
+      "title": "Live Your Life",
+      "weeks": 12,
+      "peak": 1,
+      "score": 395
+    },
+    {
+      "artist": "Britney Spears",
+      "title": "Womanizer",
+      "weeks": 11,
+      "peak": 1,
+      "score": 288
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Single Ladies (Put A Ring On It)",
+      "weeks": 9,
+      "peak": 1,
+      "score": 124
+    }
+  ]
+}

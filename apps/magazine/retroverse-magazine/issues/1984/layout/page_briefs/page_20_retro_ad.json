@@ -1,0 +1,182 @@
+{
+  "year": 1984,
+  "page_type": "retro_ad reserve page",
+  "page_slug": "retro_ad",
+  "title": "Retro Ad",
+  "subtitle": "House Advertisement",
+  "writer": {
+    "name": "RetroVerse Production Desk",
+    "byline": "RetroVerse Production Desk"
+  },
+  "source_files": [
+    "PROJECT_STATE.md",
+    "issues/context/1984_context.json",
+    "issues/1984/layout/1984_production_targets.json",
+    "issues/1984/layout/1984_issue_map.json",
+    "issues/1984/ads.md"
+  ],
+  "page_purpose": "Present Retro Ad as a complete RetroVerse 1984 retro_ad reserve page page, with page-aware artwork under real typography and no text baked into the illustration layer for `retro_ad`.",
+  "story_summary": "Retro Ad House Advertisement This page slot is part of the canonical RetroVerse issue structure. The retro_ad section is wired into the build pipeline and currently holds a reserve editorial slot for 1984. Production Note Keep this slot in the issue order. Replace this reserve slot when year-specific editorial content is approved.",
+  "verified_facts": [
+    {
+      "claim": "Page 20 is assigned to `retro_ad` in the canonical issue structure.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The page title is 'Retro Ad'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The page subtitle is 'House Advertisement'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The intended layout type is 'retro_ad reserve page'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "Keep this slot in the issue order.",
+      "source_file": "issues/1984/ads.md"
+    },
+    {
+      "claim": "Replace this reserve slot when year-specific editorial content is approved.",
+      "source_file": "issues/1984/ads.md"
+    }
+  ],
+  "text_blocks": [
+    {
+      "id": "page_title",
+      "role": "title",
+      "content": "Retro Ad",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_subtitle",
+      "role": "subtitle",
+      "content": "House Advertisement",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_byline",
+      "role": "byline",
+      "content": "RetroVerse Production Desk",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_deck",
+      "role": "deck",
+      "content": "Retro Ad House Advertisement This page slot is part of the canonical RetroVerse issue structure. The retro_ad section is wired into the build pipeline and currently holds a reserve editorial slot for 1984. Production Note Keep this slot in the issue order. Replace this reserve slot when year-specific editorial content is approved.",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "body_01",
+      "role": "body",
+      "content": "This page slot is part of the canonical RetroVerse issue structure. The retro_ad section is wired into the build pipeline and currently holds a reserve editorial slot for 1984. Production Note Keep this slot in the issue order. Replace this reserve slot when year-specific editorial content is approved.",
+      "source_file": "issues/1984/ads.md",
+      "intended_zone": "body_zone"
+    }
+  ],
+  "sidebar_blocks": [
+    {
+      "id": "retro_ad_data",
+      "title": "Data References",
+      "items": [
+        {
+          "label": "Keep this slot in the issue order.",
+          "value": "Structured reference"
+        },
+        {
+          "label": "Replace this reserve slot when year-specific editorial content is approved.",
+          "value": "Structured reference"
+        }
+      ]
+    }
+  ],
+  "qa_notes": [
+    "Story and page text are defined before illustration prompt generation.",
+    "Art direction reads the entire page intent, not a floating insert concept.",
+    "All final production typography is reserved for the layout engine."
+  ],
+  "layout_requirements": {
+    "page_number": 20,
+    "orientation": "portrait",
+    "filename": "page_20_retro_ad.html",
+    "structure": "retro_ad reserve page",
+    "hero_asset": null,
+    "collage_assets": [],
+    "layout_output": "issues/1984/layout/page_20_retro_ad.html"
+  },
+  "art_direction": {
+    "concept": "A single faux-product tableau from 1984, styled as scene artwork rather than a full magazine ad layout.",
+    "page_readback": "Present Retro Ad as a complete RetroVerse 1984 retro_ad reserve page page, with page-aware artwork under real typography and no text baked into the illustration layer for `retro_ad`.",
+    "mood": "editorial and period-aware",
+    "palette": "cinema red, projector gold, chrome, and warm paper stock",
+    "visual_hierarchy": [
+      "Primary focal area supports Retro Ad.",
+      "Secondary props reinforce `retro_ad` without competing with text zones.",
+      "Negative space stays calm inside title, body, sidebar, and footer zones."
+    ]
+  },
+  "text_safe_zones": [
+    {
+      "id": "title_zone",
+      "x": 7,
+      "y": 6,
+      "width": 50,
+      "height": 12,
+      "unit": "percent"
+    },
+    {
+      "id": "body_zone",
+      "x": 7,
+      "y": 22,
+      "width": 48,
+      "height": 62,
+      "unit": "percent"
+    },
+    {
+      "id": "sidebar_zone",
+      "x": 60,
+      "y": 22,
+      "width": 29,
+      "height": 60,
+      "unit": "percent"
+    },
+    {
+      "id": "footer_zone",
+      "x": 7,
+      "y": 93,
+      "width": 86,
+      "height": 3,
+      "unit": "percent"
+    }
+  ],
+  "must_include": [
+    "Retro Ad",
+    "House Advertisement",
+    "RetroVerse Production Desk",
+    "Page 20",
+    "Layout overlays the real editorial text after illustration approval."
+  ],
+  "must_not_render_in_art": [
+    "article body text",
+    "charts/tables",
+    "exact production typography",
+    "magazine headlines",
+    "page titles",
+    "pull quotes",
+    "sidebars",
+    "chart tables",
+    "magazine layout elements"
+  ],
+  "style_notes": [
+    "RetroVerse pages use scene artwork as background assets beneath real typography.",
+    "Page artwork must preserve negative space inside all declared safe zones.",
+    "Environmental lettering may appear only if natural, minimal, and not production-critical."
+  ],
+  "easter_egg_rule": "Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography."
+}

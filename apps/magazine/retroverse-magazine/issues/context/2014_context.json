@@ -1,0 +1,443 @@
+{
+  "year": "2014",
+  "top_songs": [
+    {
+      "artist": "Katy Perry",
+      "title": "Dark Horse",
+      "weeks": 44,
+      "peak": 1,
+      "score": 1176
+    },
+    {
+      "artist": "John Legend",
+      "title": "All Of Me",
+      "weeks": 49,
+      "peak": 1,
+      "score": 1129
+    },
+    {
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "weeks": 47,
+      "peak": 1,
+      "score": 1078
+    },
+    {
+      "artist": "Onerepublic",
+      "title": "Counting Stars",
+      "weeks": 42,
+      "peak": 2,
+      "score": 853
+    },
+    {
+      "artist": "Bastille",
+      "title": "Pompeii",
+      "weeks": 35,
+      "peak": 5,
+      "score": 831
+    },
+    {
+      "artist": "Magic!",
+      "title": "Rude",
+      "weeks": 34,
+      "peak": 1,
+      "score": 772
+    },
+    {
+      "artist": "Jason Derulo",
+      "title": "Talk Dirty",
+      "weeks": 33,
+      "peak": 3,
+      "score": 754
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "Problem",
+      "weeks": 25,
+      "peak": 2,
+      "score": 738
+    },
+    {
+      "artist": "Sam Smith",
+      "title": "Stay With Me",
+      "weeks": 36,
+      "peak": 2,
+      "score": 735
+    },
+    {
+      "artist": "Meghan Trainor",
+      "title": "All About That Bass",
+      "weeks": 23,
+      "peak": 1,
+      "score": 730
+    },
+    {
+      "artist": "Nico",
+      "title": "Am I Wrong",
+      "weeks": 31,
+      "peak": 4,
+      "score": 704
+    },
+    {
+      "artist": "Dj Snake",
+      "title": "Turn Down For What",
+      "weeks": 37,
+      "peak": 4,
+      "score": 701
+    },
+    {
+      "artist": "Lorde",
+      "title": "Team",
+      "weeks": 26,
+      "peak": 6,
+      "score": 673
+    },
+    {
+      "artist": "Jessie J, Ariana Grande",
+      "title": "Bang Bang",
+      "weeks": 20,
+      "peak": 3,
+      "score": 667
+    },
+    {
+      "artist": "Pitbull",
+      "title": "Timber",
+      "weeks": 29,
+      "peak": 1,
+      "score": 663
+    },
+    {
+      "artist": "Iggy Azalea",
+      "title": "Fancy",
+      "weeks": 39,
+      "peak": 1,
+      "score": 653
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "weeks": 17,
+      "peak": 1,
+      "score": 649
+    },
+    {
+      "artist": "Idina Menzel",
+      "title": "Let It Go",
+      "weeks": 30,
+      "peak": 5,
+      "score": 639
+    },
+    {
+      "artist": "Sia",
+      "title": "Chandelier",
+      "weeks": 32,
+      "peak": 8,
+      "score": 574
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "Maps",
+      "weeks": 22,
+      "peak": 6,
+      "score": 551
+    },
+    {
+      "artist": "A Great Big World",
+      "title": "Say Something",
+      "weeks": 20,
+      "peak": 4,
+      "score": 535
+    },
+    {
+      "artist": "Passenger",
+      "title": "Let Her Go",
+      "weeks": 23,
+      "peak": 5,
+      "score": 533
+    },
+    {
+      "artist": "Iggy Azalea",
+      "title": "Black Widow",
+      "weeks": 24,
+      "peak": 3,
+      "score": 522
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "Break Free",
+      "weeks": 22,
+      "peak": 4,
+      "score": 510
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Drunk In Love",
+      "weeks": 20,
+      "peak": 2,
+      "score": 498
+    },
+    {
+      "artist": "One Direction",
+      "title": "Story Of My Life",
+      "weeks": 25,
+      "peak": 9,
+      "score": 483
+    },
+    {
+      "artist": "Charli Xcx",
+      "title": "Boom Clap",
+      "weeks": 25,
+      "peak": 8,
+      "score": 474
+    },
+    {
+      "artist": "Eminem",
+      "title": "The Monster",
+      "weeks": 22,
+      "peak": 1,
+      "score": 451
+    },
+    {
+      "artist": "American Authors",
+      "title": "Best Day Of My Life",
+      "weeks": 31,
+      "peak": 11,
+      "score": 435
+    },
+    {
+      "artist": "Avicii",
+      "title": "Wake Me Up!",
+      "weeks": 28,
+      "peak": 8,
+      "score": 431
+    },
+    {
+      "artist": "Lorde",
+      "title": "Royals",
+      "weeks": 20,
+      "peak": 4,
+      "score": 421
+    },
+    {
+      "artist": "Ellie Goulding",
+      "title": "Burn",
+      "weeks": 21,
+      "peak": 13,
+      "score": 420
+    },
+    {
+      "artist": "Aloe Blacc",
+      "title": "The Man",
+      "weeks": 19,
+      "peak": 8,
+      "score": 412
+    },
+    {
+      "artist": "Kid Ink",
+      "title": "Show Me",
+      "weeks": 25,
+      "peak": 13,
+      "score": 404
+    },
+    {
+      "artist": "Imagine Dragons",
+      "title": "Demons",
+      "weeks": 27,
+      "peak": 6,
+      "score": 402
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "Not A Bad Thing",
+      "weeks": 22,
+      "peak": 8,
+      "score": 390
+    },
+    {
+      "artist": "Tove Lo",
+      "title": "Habits (Stay High)",
+      "weeks": 29,
+      "peak": 3,
+      "score": 385
+    },
+    {
+      "artist": "Clean Bandit",
+      "title": "Rather Be",
+      "weeks": 27,
+      "peak": 10,
+      "score": 385
+    },
+    {
+      "artist": "Calvin Harris",
+      "title": "Summer",
+      "weeks": 26,
+      "peak": 7,
+      "score": 377
+    },
+    {
+      "artist": "Jeremih",
+      "title": "Don't Tell 'Em",
+      "weeks": 25,
+      "peak": 6,
+      "score": 377
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Ariana Grande",
+      "hits": 2
+    },
+    {
+      "artist": "Lorde",
+      "hits": 2
+    },
+    {
+      "artist": "Iggy Azalea",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "John Legend",
+      "title": "All Of Me",
+      "weeks": 49,
+      "peak": 1,
+      "score": 1129
+    },
+    {
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "weeks": 47,
+      "peak": 1,
+      "score": 1078
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "Dark Horse",
+      "weeks": 44,
+      "peak": 1,
+      "score": 1176
+    },
+    {
+      "artist": "Onerepublic",
+      "title": "Counting Stars",
+      "weeks": 42,
+      "peak": 2,
+      "score": 853
+    },
+    {
+      "artist": "Iggy Azalea",
+      "title": "Fancy",
+      "weeks": 39,
+      "peak": 1,
+      "score": 653
+    },
+    {
+      "artist": "Dj Snake",
+      "title": "Turn Down For What",
+      "weeks": 37,
+      "peak": 4,
+      "score": 701
+    },
+    {
+      "artist": "Sam Smith",
+      "title": "Stay With Me",
+      "weeks": 36,
+      "peak": 2,
+      "score": 735
+    },
+    {
+      "artist": "Chris Brown",
+      "title": "Loyal",
+      "weeks": 36,
+      "peak": 9,
+      "score": 286
+    },
+    {
+      "artist": "Bastille",
+      "title": "Pompeii",
+      "weeks": 35,
+      "peak": 5,
+      "score": 831
+    },
+    {
+      "artist": "Magic!",
+      "title": "Rude",
+      "weeks": 34,
+      "peak": 1,
+      "score": 772
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Katy Perry",
+      "title": "Dark Horse",
+      "weeks": 44,
+      "peak": 1,
+      "score": 1176
+    },
+    {
+      "artist": "John Legend",
+      "title": "All Of Me",
+      "weeks": 49,
+      "peak": 1,
+      "score": 1129
+    },
+    {
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "weeks": 47,
+      "peak": 1,
+      "score": 1078
+    },
+    {
+      "artist": "Magic!",
+      "title": "Rude",
+      "weeks": 34,
+      "peak": 1,
+      "score": 772
+    },
+    {
+      "artist": "Meghan Trainor",
+      "title": "All About That Bass",
+      "weeks": 23,
+      "peak": 1,
+      "score": 730
+    },
+    {
+      "artist": "Pitbull",
+      "title": "Timber",
+      "weeks": 29,
+      "peak": 1,
+      "score": 663
+    },
+    {
+      "artist": "Iggy Azalea",
+      "title": "Fancy",
+      "weeks": 39,
+      "peak": 1,
+      "score": 653
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "weeks": 17,
+      "peak": 1,
+      "score": 649
+    },
+    {
+      "artist": "Eminem",
+      "title": "The Monster",
+      "weeks": 22,
+      "peak": 1,
+      "score": 451
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Blank Space",
+      "weeks": 7,
+      "peak": 1,
+      "score": 251
+    }
+  ]
+}

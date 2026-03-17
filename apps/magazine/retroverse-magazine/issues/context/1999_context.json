@@ -1,0 +1,486 @@
+{
+  "year": "1999",
+  "top_songs": [
+    {
+      "artist": "702",
+      "title": "Where My Girls At?",
+      "weeks": 35,
+      "peak": 4,
+      "score": 924
+    },
+    {
+      "artist": "Tlc",
+      "title": "No Scrubs",
+      "weeks": 28,
+      "peak": 1,
+      "score": 775
+    },
+    {
+      "artist": "Goo Goo Dolls",
+      "title": "Slide",
+      "weeks": 31,
+      "peak": 8,
+      "score": 768
+    },
+    {
+      "artist": "Cher",
+      "title": "Believe",
+      "weeks": 29,
+      "peak": 1,
+      "score": 727
+    },
+    {
+      "artist": "Sixpence None The Richer",
+      "title": "Kiss Me",
+      "weeks": 32,
+      "peak": 2,
+      "score": 708
+    },
+    {
+      "artist": "Christina Aguilera",
+      "title": "Genie In A Bottle",
+      "weeks": 25,
+      "peak": 1,
+      "score": 702
+    },
+    {
+      "artist": "Backstreet Boys",
+      "title": "I Want It That Way",
+      "weeks": 31,
+      "peak": 6,
+      "score": 691
+    },
+    {
+      "artist": "Monica",
+      "title": "Angel Of Mine",
+      "weeks": 26,
+      "peak": 1,
+      "score": 668
+    },
+    {
+      "artist": "Sugar Ray",
+      "title": "Every Morning",
+      "weeks": 31,
+      "peak": 3,
+      "score": 660
+    },
+    {
+      "artist": "Smash Mouth",
+      "title": "All Star",
+      "weeks": 30,
+      "peak": 4,
+      "score": 648
+    },
+    {
+      "artist": "Britney Spears",
+      "title": "...Baby One More Time",
+      "weeks": 26,
+      "peak": 1,
+      "score": 632
+    },
+    {
+      "artist": "Santana",
+      "title": "Smooth",
+      "weeks": 22,
+      "peak": 1,
+      "score": 598
+    },
+    {
+      "artist": "Sarah Mclachlan",
+      "title": "Angel",
+      "weeks": 24,
+      "peak": 4,
+      "score": 573
+    },
+    {
+      "artist": "Jennifer Lopez",
+      "title": "If You Had My Love",
+      "weeks": 25,
+      "peak": 1,
+      "score": 571
+    },
+    {
+      "artist": "Sugar Ray",
+      "title": "Someday",
+      "weeks": 26,
+      "peak": 7,
+      "score": 556
+    },
+    {
+      "artist": "Ricky Martin",
+      "title": "Livin' La Vida Loca",
+      "weeks": 20,
+      "peak": 1,
+      "score": 551
+    },
+    {
+      "artist": "Lou Bega",
+      "title": "Mambo No. 5 (A Little Bit Of...)",
+      "weeks": 18,
+      "peak": 3,
+      "score": 528
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "Heartbreak Hotel",
+      "weeks": 27,
+      "peak": 2,
+      "score": 515
+    },
+    {
+      "artist": "Deborah Cox",
+      "title": "Nobody's Supposed To Be Here",
+      "weeks": 16,
+      "peak": 2,
+      "score": 481
+    },
+    {
+      "artist": "Brandy",
+      "title": "Have You Ever?",
+      "weeks": 18,
+      "peak": 1,
+      "score": 476
+    },
+    {
+      "artist": "Backstreet Boys",
+      "title": "All I Have To Give",
+      "weeks": 21,
+      "peak": 5,
+      "score": 452
+    },
+    {
+      "artist": "Tlc",
+      "title": "Unpretty",
+      "weeks": 27,
+      "peak": 1,
+      "score": 450
+    },
+    {
+      "artist": "Maxwell",
+      "title": "Fortunate",
+      "weeks": 25,
+      "peak": 4,
+      "score": 422
+    },
+    {
+      "artist": "Destiny's Child",
+      "title": "Bills, Bills, Bills",
+      "weeks": 20,
+      "peak": 1,
+      "score": 420
+    },
+    {
+      "artist": "Eagle-eye Cherry",
+      "title": "Save Tonight",
+      "weeks": 24,
+      "peak": 5,
+      "score": 419
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "My Love Is Your Love",
+      "weeks": 17,
+      "peak": 5,
+      "score": 395
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Heartbreaker",
+      "weeks": 17,
+      "peak": 1,
+      "score": 391
+    },
+    {
+      "artist": "Pearl Jam",
+      "title": "Last Kiss",
+      "weeks": 21,
+      "peak": 2,
+      "score": 385
+    },
+    {
+      "artist": "Marc Anthony",
+      "title": "I Need To Know",
+      "weeks": 16,
+      "peak": 3,
+      "score": 374
+    },
+    {
+      "artist": "Brian Mcknight",
+      "title": "Back At One",
+      "weeks": 18,
+      "peak": 2,
+      "score": 370
+    },
+    {
+      "artist": "Enrique Iglesias",
+      "title": "Bailamos",
+      "weeks": 20,
+      "peak": 1,
+      "score": 358
+    },
+    {
+      "artist": "Len",
+      "title": "Steal My Sunshine",
+      "weeks": 20,
+      "peak": 9,
+      "score": 340
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "title": "Scar Tissue",
+      "weeks": 29,
+      "peak": 9,
+      "score": 331
+    },
+    {
+      "artist": "98 Degrees",
+      "title": "The Hardest Thing",
+      "weeks": 24,
+      "peak": 5,
+      "score": 327
+    },
+    {
+      "artist": "R. Kelly",
+      "title": "I'm Your Angel",
+      "weeks": 14,
+      "peak": 1,
+      "score": 323
+    },
+    {
+      "artist": "Will Smith",
+      "title": "Wild Wild West",
+      "weeks": 17,
+      "peak": 1,
+      "score": 323
+    },
+    {
+      "artist": "Third Eye Blind",
+      "title": "Jumper",
+      "weeks": 16,
+      "peak": 5,
+      "score": 319
+    },
+    {
+      "artist": "*nsync",
+      "title": "(God Must Have Spent) A Little More Time On You",
+      "weeks": 18,
+      "peak": 8,
+      "score": 292
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "It's Not Right But It's Okay",
+      "weeks": 20,
+      "peak": 4,
+      "score": 290
+    },
+    {
+      "artist": "98 Degrees",
+      "title": "I Do (Cherish You)",
+      "weeks": 20,
+      "peak": 13,
+      "score": 278
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Tlc",
+      "hits": 2
+    },
+    {
+      "artist": "Backstreet Boys",
+      "hits": 2
+    },
+    {
+      "artist": "Sugar Ray",
+      "hits": 2
+    },
+    {
+      "artist": "Whitney Houston",
+      "hits": 3
+    },
+    {
+      "artist": "98 Degrees",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "702",
+      "title": "Where My Girls At?",
+      "weeks": 35,
+      "peak": 4,
+      "score": 924
+    },
+    {
+      "artist": "Sixpence None The Richer",
+      "title": "Kiss Me",
+      "weeks": 32,
+      "peak": 2,
+      "score": 708
+    },
+    {
+      "artist": "Goo Goo Dolls",
+      "title": "Slide",
+      "weeks": 31,
+      "peak": 8,
+      "score": 768
+    },
+    {
+      "artist": "Backstreet Boys",
+      "title": "I Want It That Way",
+      "weeks": 31,
+      "peak": 6,
+      "score": 691
+    },
+    {
+      "artist": "Sugar Ray",
+      "title": "Every Morning",
+      "weeks": 31,
+      "peak": 3,
+      "score": 660
+    },
+    {
+      "artist": "Everlast",
+      "title": "What It's Like",
+      "weeks": 31,
+      "peak": 13,
+      "score": 132
+    },
+    {
+      "artist": "Smash Mouth",
+      "title": "All Star",
+      "weeks": 30,
+      "peak": 4,
+      "score": 648
+    },
+    {
+      "artist": "Cher",
+      "title": "Believe",
+      "weeks": 29,
+      "peak": 1,
+      "score": 727
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "title": "Scar Tissue",
+      "weeks": 29,
+      "peak": 9,
+      "score": 331
+    },
+    {
+      "artist": "Tlc",
+      "title": "No Scrubs",
+      "weeks": 28,
+      "peak": 1,
+      "score": 775
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Tlc",
+      "title": "No Scrubs",
+      "weeks": 28,
+      "peak": 1,
+      "score": 775
+    },
+    {
+      "artist": "Cher",
+      "title": "Believe",
+      "weeks": 29,
+      "peak": 1,
+      "score": 727
+    },
+    {
+      "artist": "Christina Aguilera",
+      "title": "Genie In A Bottle",
+      "weeks": 25,
+      "peak": 1,
+      "score": 702
+    },
+    {
+      "artist": "Monica",
+      "title": "Angel Of Mine",
+      "weeks": 26,
+      "peak": 1,
+      "score": 668
+    },
+    {
+      "artist": "Britney Spears",
+      "title": "...Baby One More Time",
+      "weeks": 26,
+      "peak": 1,
+      "score": 632
+    },
+    {
+      "artist": "Santana",
+      "title": "Smooth",
+      "weeks": 22,
+      "peak": 1,
+      "score": 598
+    },
+    {
+      "artist": "Jennifer Lopez",
+      "title": "If You Had My Love",
+      "weeks": 25,
+      "peak": 1,
+      "score": 571
+    },
+    {
+      "artist": "Ricky Martin",
+      "title": "Livin' La Vida Loca",
+      "weeks": 20,
+      "peak": 1,
+      "score": 551
+    },
+    {
+      "artist": "Brandy",
+      "title": "Have You Ever?",
+      "weeks": 18,
+      "peak": 1,
+      "score": 476
+    },
+    {
+      "artist": "Tlc",
+      "title": "Unpretty",
+      "weeks": 27,
+      "peak": 1,
+      "score": 450
+    },
+    {
+      "artist": "Destiny's Child",
+      "title": "Bills, Bills, Bills",
+      "weeks": 20,
+      "peak": 1,
+      "score": 420
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Heartbreaker",
+      "weeks": 17,
+      "peak": 1,
+      "score": 391
+    },
+    {
+      "artist": "Enrique Iglesias",
+      "title": "Bailamos",
+      "weeks": 20,
+      "peak": 1,
+      "score": 358
+    },
+    {
+      "artist": "R. Kelly",
+      "title": "I'm Your Angel",
+      "weeks": 14,
+      "peak": 1,
+      "score": 323
+    },
+    {
+      "artist": "Will Smith",
+      "title": "Wild Wild West",
+      "weeks": 17,
+      "peak": 1,
+      "score": 323
+    }
+  ]
+}

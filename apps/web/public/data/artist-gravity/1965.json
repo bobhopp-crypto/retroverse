@@ -1,0 +1,394 @@
+[
+  {
+    "artist": "The Beatles",
+    "score": 1184.5
+  },
+  {
+    "artist": "Herman's Hermits",
+    "score": 885.3
+  },
+  {
+    "artist": "The Supremes",
+    "score": 687.7
+  },
+  {
+    "artist": "Soundtrack",
+    "score": 601.8
+  },
+  {
+    "artist": "The Beach Boys",
+    "score": 595.5
+  },
+  {
+    "artist": "The Rolling Stones",
+    "score": 593.2
+  },
+  {
+    "artist": "The Righteous Brothers",
+    "score": 571.7
+  },
+  {
+    "artist": "Roger Miller",
+    "score": 556.7
+  },
+  {
+    "artist": "Gary Lewis And The Playboys",
+    "score": 479
+  },
+  {
+    "artist": "The Dave Clark Five",
+    "score": 474
+  },
+  {
+    "artist": "Dean Martin",
+    "score": 449.5
+  },
+  {
+    "artist": "Bob Dylan",
+    "score": 388.9
+  },
+  {
+    "artist": "Elvis Presley",
+    "score": 376.2
+  },
+  {
+    "artist": "Barbra Streisand",
+    "score": 297.2
+  },
+  {
+    "artist": "The Byrds",
+    "score": 297
+  },
+  {
+    "artist": "Marvin Gaye",
+    "score": 281.2
+  },
+  {
+    "artist": "The Kinks",
+    "score": 279.1
+  },
+  {
+    "artist": "Bobby Vinton",
+    "score": 271.4
+  },
+  {
+    "artist": "Nancy Wilson",
+    "score": 265.3
+  },
+  {
+    "artist": "Frank Sinatra",
+    "score": 265.1
+  },
+  {
+    "artist": "Petula Clark",
+    "score": 198.5
+  },
+  {
+    "artist": "Nat King Cole",
+    "score": 197
+  },
+  {
+    "artist": "Ramsey Lewis Trio",
+    "score": 196.6
+  },
+  {
+    "artist": "Four Tops",
+    "score": 196.3
+  },
+  {
+    "artist": "The Mccoys",
+    "score": 194.1
+  },
+  {
+    "artist": "Sonny",
+    "score": 193.6
+  },
+  {
+    "artist": "James Brown And The Famous Flames",
+    "score": 191
+  },
+  {
+    "artist": "Shirley Ellis",
+    "score": 191
+  },
+  {
+    "artist": "Andy Williams",
+    "score": 190.7
+  },
+  {
+    "artist": "Various Artists",
+    "score": 190
+  },
+  {
+    "artist": "Original Cast",
+    "score": 189.7
+  },
+  {
+    "artist": "The Zombies",
+    "score": 188.5
+  },
+  {
+    "artist": "Peter, Paul & Mary",
+    "score": 185.7
+  },
+  {
+    "artist": "Joan Baez",
+    "score": 184.2
+  },
+  {
+    "artist": "Gerry And The Pacemakers",
+    "score": 184.1
+  },
+  {
+    "artist": "Eddy Arnold",
+    "score": 183.2
+  },
+  {
+    "artist": "Freddie And The Dreamers",
+    "score": 183
+  },
+  {
+    "artist": "The Impressions",
+    "score": 179.8
+  },
+  {
+    "artist": "John Gary",
+    "score": 177.6
+  },
+  {
+    "artist": "Jimmy Smith",
+    "score": 171.2
+  },
+  {
+    "artist": "Herb Alpert's Tijuana Brass",
+    "score": 102.3
+  },
+  {
+    "artist": "The Temptations",
+    "score": 100.3
+  },
+  {
+    "artist": "Barry Mcguire",
+    "score": 100.1
+  },
+  {
+    "artist": "Wayne Fontana",
+    "score": 100.1
+  },
+  {
+    "artist": "Bert Kaempfert And His Orchestra",
+    "score": 99.9
+  },
+  {
+    "artist": "Sonny & Cher",
+    "score": 99.9
+  },
+  {
+    "artist": "Sam The Sham And The Pharaohs",
+    "score": 99.8
+  },
+  {
+    "artist": "The Toys",
+    "score": 99.5
+  },
+  {
+    "artist": "Len Barry",
+    "score": 99.4
+  },
+  {
+    "artist": "Roy Head And The Traits",
+    "score": 99.1
+  },
+  {
+    "artist": "We Five",
+    "score": 98.5
+  },
+  {
+    "artist": "Jewel Akens",
+    "score": 98.4
+  },
+  {
+    "artist": "The 4 Seasons",
+    "score": 98.2
+  },
+  {
+    "artist": "Tom Jones",
+    "score": 98.2
+  },
+  {
+    "artist": "The Searchers",
+    "score": 97.9
+  },
+  {
+    "artist": "Robert Goulet",
+    "score": 97.8
+  },
+  {
+    "artist": "Jr. Walker",
+    "score": 97.4
+  },
+  {
+    "artist": "Fontella Bass",
+    "score": 97.3
+  },
+  {
+    "artist": "Jay",
+    "score": 97.3
+  },
+  {
+    "artist": "The Gentrys",
+    "score": 97.3
+  },
+  {
+    "artist": "The Seekers",
+    "score": 97.3
+  },
+  {
+    "artist": "The Kingsmen",
+    "score": 97.2
+  },
+  {
+    "artist": "The Vogues",
+    "score": 97.2
+  },
+  {
+    "artist": "Herb Alpert & The Tijuana Brass",
+    "score": 97.1
+  },
+  {
+    "artist": "Barbara Mason",
+    "score": 96.4
+  },
+  {
+    "artist": "Joe Tex",
+    "score": 95.9
+  },
+  {
+    "artist": "Simon",
+    "score": 95.6
+  },
+  {
+    "artist": "The Yardbirds",
+    "score": 95.2
+  },
+  {
+    "artist": "The Shangri-las",
+    "score": 94.8
+  },
+  {
+    "artist": "Little Anthony And The Imperials",
+    "score": 94.6
+  },
+  {
+    "artist": "Herb Alpert",
+    "score": 94.4
+  },
+  {
+    "artist": "Jackie Deshannon",
+    "score": 94.3
+  },
+  {
+    "artist": "Johnny Rivers",
+    "score": 94.1
+  },
+  {
+    "artist": "Sam Cooke",
+    "score": 94.1
+  },
+  {
+    "artist": "The Fortunes",
+    "score": 94.1
+  },
+  {
+    "artist": "The Larks",
+    "score": 93.6
+  },
+  {
+    "artist": "Mel Carter",
+    "score": 93.5
+  },
+  {
+    "artist": "Patti Page",
+    "score": 93.4
+  },
+  {
+    "artist": "Ian Whitcomb And Bluesville",
+    "score": 93.3
+  },
+  {
+    "artist": "Shirley Bassey",
+    "score": 93.3
+  },
+  {
+    "artist": "Martha",
+    "score": 93.1
+  },
+  {
+    "artist": "Patty Duke",
+    "score": 93.1
+  },
+  {
+    "artist": "The Ad Libs",
+    "score": 93
+  },
+  {
+    "artist": "Sounds Orchestral",
+    "score": 91.8
+  },
+  {
+    "artist": "Henry Mancini",
+    "score": 91.5
+  },
+  {
+    "artist": "Jack Jones",
+    "score": 91.5
+  },
+  {
+    "artist": "Al Hirt",
+    "score": 91.3
+  },
+  {
+    "artist": "Marianne Faithfull",
+    "score": 91
+  },
+  {
+    "artist": "Vic Dana",
+    "score": 89.1
+  },
+  {
+    "artist": "The Lettermen",
+    "score": 88.9
+  },
+  {
+    "artist": "Stan Getz And Joao Gilberto Featuring Antonio Carlos Jobim",
+    "score": 88.2
+  },
+  {
+    "artist": "Hank Williams Jr.",
+    "score": 87.7
+  },
+  {
+    "artist": "Cher",
+    "score": 85.5
+  },
+  {
+    "artist": "The Ventures",
+    "score": 85.4
+  },
+  {
+    "artist": "Horst Jankowski",
+    "score": 85.1
+  },
+  {
+    "artist": "Wayne Newton",
+    "score": 85
+  },
+  {
+    "artist": "Billy Vaughn And His Orchestra",
+    "score": 84.9
+  },
+  {
+    "artist": "Trini Lopez",
+    "score": 84.3
+  }
+]

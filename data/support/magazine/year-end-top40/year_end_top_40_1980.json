@@ -1,0 +1,365 @@
+{
+  "year": 1980,
+  "top_40": [
+    {
+      "rv_rank": 1,
+      "title": "Call Me",
+      "artist": "Blondie",
+      "peak_rank": 1,
+      "weeks_on_chart": 25,
+      "weeks_in_top_10": 12,
+      "weeks_in_top_40": 19
+    },
+    {
+      "rv_rank": 2,
+      "title": "Upside Down",
+      "artist": "Diana Ross",
+      "peak_rank": 1,
+      "weeks_on_chart": 25,
+      "weeks_in_top_10": 14,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 3,
+      "title": "Another Brick In The Wall (Part II)",
+      "artist": "Pink Floyd",
+      "peak_rank": 1,
+      "weeks_on_chart": 25,
+      "weeks_in_top_10": 12,
+      "weeks_in_top_40": 19
+    },
+    {
+      "rv_rank": 4,
+      "title": "Another One Bites The Dust",
+      "artist": "Queen",
+      "peak_rank": 1,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 15,
+      "weeks_in_top_40": 18
+    },
+    {
+      "rv_rank": 5,
+      "title": "All Out Of Love",
+      "artist": "Air Supply",
+      "peak_rank": 2,
+      "weeks_on_chart": 27,
+      "weeks_in_top_10": 10,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 6,
+      "title": "It's Still Rock And Roll To Me",
+      "artist": "Billy Joel",
+      "peak_rank": 1,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 11,
+      "weeks_in_top_40": 19
+    },
+    {
+      "rv_rank": 7,
+      "title": "Crazy Little Thing Called Love",
+      "artist": "Queen",
+      "peak_rank": 1,
+      "weeks_on_chart": 20,
+      "weeks_in_top_10": 12,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 8,
+      "title": "Coming Up (Live At Glasgow)",
+      "artist": "Paul Mccartney And Wings",
+      "peak_rank": 1,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 11,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 9,
+      "title": "The Rose",
+      "artist": "Bette Midler",
+      "peak_rank": 3,
+      "weeks_on_chart": 25,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 10,
+      "title": "Little Jeannie",
+      "artist": "Elton John",
+      "peak_rank": 3,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 11,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 11,
+      "title": "Ride Like The Wind",
+      "artist": "Christopher Cross",
+      "peak_rank": 2,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 9,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 12,
+      "title": "Magic",
+      "artist": "Olivia Newton-john",
+      "peak_rank": 1,
+      "weeks_on_chart": 23,
+      "weeks_in_top_10": 9,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 13,
+      "title": "Woman In Love",
+      "artist": "Barbra Streisand",
+      "peak_rank": 1,
+      "weeks_on_chart": 17,
+      "weeks_in_top_10": 11,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 14,
+      "title": "Lost In Love",
+      "artist": "Air Supply",
+      "peak_rank": 3,
+      "weeks_on_chart": 23,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 15,
+      "title": "Working My Way Back To You/Forgive Me, Girl",
+      "artist": "The Spinners",
+      "peak_rank": 2,
+      "weeks_on_chart": 22,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 16,
+      "title": "He's So Shy",
+      "artist": "The Pointer Sisters",
+      "peak_rank": 3,
+      "weeks_on_chart": 23,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 17,
+      "title": "Cars",
+      "artist": "Gary Numan",
+      "peak_rank": 9,
+      "weeks_on_chart": 25,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 17
+    },
+    {
+      "rv_rank": 18,
+      "title": "Funkytown",
+      "artist": "Lipps, Inc",
+      "peak_rank": 1,
+      "weeks_on_chart": 23,
+      "weeks_in_top_10": 9,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 19,
+      "title": "Drivin' My Life Away",
+      "artist": "Eddie Rabbitt",
+      "peak_rank": 5,
+      "weeks_on_chart": 25,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 20,
+      "title": "Shining Star",
+      "artist": "The Manhattans",
+      "peak_rank": 5,
+      "weeks_on_chart": 25,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 21,
+      "title": "Sexy Eyes",
+      "artist": "Dr. Hook",
+      "peak_rank": 5,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 22,
+      "title": "Biggest Part Of Me",
+      "artist": "Ambrosia",
+      "peak_rank": 3,
+      "weeks_on_chart": 19,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 23,
+      "title": "With You I'm Born Again",
+      "artist": "Billy Preston",
+      "peak_rank": 4,
+      "weeks_on_chart": 25,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 24,
+      "title": "Steal Away",
+      "artist": "Robbie Dupree",
+      "peak_rank": 6,
+      "weeks_on_chart": 23,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 15
+    },
+    {
+      "rv_rank": 25,
+      "title": "Never Knew Love Like This Before",
+      "artist": "Stephanie Mills",
+      "peak_rank": 6,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 16
+    },
+    {
+      "rv_rank": 26,
+      "title": "Do That To Me One More Time",
+      "artist": "Captain",
+      "peak_rank": 1,
+      "weeks_on_chart": 16,
+      "weeks_in_top_10": 10,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 27,
+      "title": "Give Me The Night",
+      "artist": "George Benson",
+      "peak_rank": 4,
+      "weeks_on_chart": 23,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 28,
+      "title": "Cupid/I've Loved You For A Long Time",
+      "artist": "The Spinners",
+      "peak_rank": 4,
+      "weeks_on_chart": 19,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 29,
+      "title": "Fame",
+      "artist": "Irene Cara",
+      "peak_rank": 4,
+      "weeks_on_chart": 26,
+      "weeks_in_top_10": 6,
+      "weeks_in_top_40": 12
+    },
+    {
+      "rv_rank": 30,
+      "title": "Emotional Rescue",
+      "artist": "The Rolling Stones",
+      "peak_rank": 3,
+      "weeks_on_chart": 19,
+      "weeks_in_top_10": 8,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 31,
+      "title": "Don't Fall In Love With A Dreamer",
+      "artist": "Kenny Rogers",
+      "peak_rank": 4,
+      "weeks_on_chart": 19,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 32,
+      "title": "Take Your Time (Do It Right) Part 1",
+      "artist": "The S.o.s. Band",
+      "peak_rank": 3,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 33,
+      "title": "Sailing",
+      "artist": "Christopher Cross",
+      "peak_rank": 1,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 13
+    },
+    {
+      "rv_rank": 34,
+      "title": "Let's Get Serious",
+      "artist": "Jermaine Jackson",
+      "peak_rank": 9,
+      "weeks_on_chart": 23,
+      "weeks_in_top_10": 3,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 35,
+      "title": "Longer",
+      "artist": "Dan Fogelberg",
+      "peak_rank": 2,
+      "weeks_on_chart": 19,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 13
+    },
+    {
+      "rv_rank": 36,
+      "title": "Lady",
+      "artist": "Kenny Rogers",
+      "peak_rank": 1,
+      "weeks_on_chart": 13,
+      "weeks_in_top_10": 10,
+      "weeks_in_top_40": 13
+    },
+    {
+      "rv_rank": 37,
+      "title": "Too Hot",
+      "artist": "Kool",
+      "peak_rank": 5,
+      "weeks_on_chart": 18,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 13
+    },
+    {
+      "rv_rank": 38,
+      "title": "Yes, I'm Ready",
+      "artist": "Teri Desario",
+      "peak_rank": 2,
+      "weeks_on_chart": 16,
+      "weeks_in_top_10": 7,
+      "weeks_in_top_40": 14
+    },
+    {
+      "rv_rank": 39,
+      "title": "Lookin' For Love",
+      "artist": "Johnny Lee",
+      "peak_rank": 5,
+      "weeks_on_chart": 21,
+      "weeks_in_top_10": 5,
+      "weeks_in_top_40": 13
+    },
+    {
+      "rv_rank": 40,
+      "title": "Rock With You",
+      "artist": "Michael Jackson",
+      "peak_rank": 1,
+      "weeks_on_chart": 15,
+      "weeks_in_top_10": 9,
+      "weeks_in_top_40": 13
+    }
+  ]
+}

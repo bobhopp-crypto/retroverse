@@ -1,0 +1,454 @@
+{
+  "year": "1993",
+  "top_songs": [
+    {
+      "artist": "Tag Team",
+      "title": "Whoomp! (There It Is)",
+      "weeks": 31,
+      "peak": 2,
+      "score": 971
+    },
+    {
+      "artist": "Silk",
+      "title": "Freak Me",
+      "weeks": 24,
+      "peak": 1,
+      "score": 703
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Dreamlover",
+      "weeks": 21,
+      "peak": 1,
+      "score": 674
+    },
+    {
+      "artist": "Swv",
+      "title": "Weak",
+      "weeks": 26,
+      "peak": 1,
+      "score": 665
+    },
+    {
+      "artist": "Dr. Dre",
+      "title": "Nuthin' But A \"G\" Thang",
+      "weeks": 27,
+      "peak": 2,
+      "score": 646
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "That's The Way Love Goes",
+      "weeks": 23,
+      "peak": 1,
+      "score": 637
+    },
+    {
+      "artist": "Jade",
+      "title": "Don't Walk Away",
+      "weeks": 33,
+      "peak": 4,
+      "score": 631
+    },
+    {
+      "artist": "Ub40",
+      "title": "Can't Help Falling In Love (From \"Sliver\")",
+      "weeks": 29,
+      "peak": 1,
+      "score": 606
+    },
+    {
+      "artist": "Jodeci",
+      "title": "Lately",
+      "weeks": 24,
+      "peak": 4,
+      "score": 556
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "I Will Always Love You",
+      "weeks": 19,
+      "peak": 1,
+      "score": 538
+    },
+    {
+      "artist": "Peabo Bryson",
+      "title": "A Whole New World (Aladdin's Theme)",
+      "weeks": 21,
+      "peak": 1,
+      "score": 526
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "If",
+      "weeks": 23,
+      "peak": 4,
+      "score": 524
+    },
+    {
+      "artist": "Billy Joel",
+      "title": "The River Of Dreams",
+      "weeks": 22,
+      "peak": 3,
+      "score": 508
+    },
+    {
+      "artist": "Snow",
+      "title": "Informer",
+      "weeks": 25,
+      "peak": 1,
+      "score": 502
+    },
+    {
+      "artist": "Swv",
+      "title": "Right Here (Human Nature)/Downtown",
+      "weeks": 22,
+      "peak": 2,
+      "score": 498
+    },
+    {
+      "artist": "Arrested Development",
+      "title": "Mr. Wendal",
+      "weeks": 22,
+      "peak": 6,
+      "score": 497
+    },
+    {
+      "artist": "H-town",
+      "title": "Knockin' Da Boots",
+      "weeks": 25,
+      "peak": 3,
+      "score": 495
+    },
+    {
+      "artist": "Paperboy",
+      "title": "Ditty",
+      "weeks": 28,
+      "peak": 10,
+      "score": 488
+    },
+    {
+      "artist": "P.m. Dawn",
+      "title": "Looking Through Patient Eyes",
+      "weeks": 21,
+      "peak": 6,
+      "score": 469
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "I Have Nothing",
+      "weeks": 20,
+      "peak": 4,
+      "score": 460
+    },
+    {
+      "artist": "Meat Loaf",
+      "title": "I'd Do Anything For Love (But I Won't Do That)",
+      "weeks": 15,
+      "peak": 1,
+      "score": 439
+    },
+    {
+      "artist": "Duran Duran",
+      "title": "Ordinary World",
+      "weeks": 22,
+      "peak": 3,
+      "score": 433
+    },
+    {
+      "artist": "Naughty By Nature",
+      "title": "Hip Hop Hooray",
+      "weeks": 22,
+      "peak": 8,
+      "score": 413
+    },
+    {
+      "artist": "Swv",
+      "title": "I'm So Into You",
+      "weeks": 27,
+      "peak": 6,
+      "score": 403
+    },
+    {
+      "artist": "Robin S",
+      "title": "Show Me Love",
+      "weeks": 28,
+      "peak": 5,
+      "score": 399
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "I'm Every Woman (From \"The Bodyguard\")",
+      "weeks": 23,
+      "peak": 4,
+      "score": 394
+    },
+    {
+      "artist": "Shai",
+      "title": "If I Ever Fall In Love",
+      "weeks": 16,
+      "peak": 2,
+      "score": 387
+    },
+    {
+      "artist": "Prince And The New Power Generation",
+      "title": "7",
+      "weeks": 18,
+      "peak": 7,
+      "score": 378
+    },
+    {
+      "artist": "Spin Doctors",
+      "title": "Two Princes",
+      "weeks": 29,
+      "peak": 7,
+      "score": 374
+    },
+    {
+      "artist": "Shanice",
+      "title": "Saving Forever For You (From \"Beverly Hills, 90210\")",
+      "weeks": 14,
+      "peak": 4,
+      "score": 369
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "Again",
+      "weeks": 10,
+      "peak": 1,
+      "score": 369
+    },
+    {
+      "artist": "Shai",
+      "title": "Comforter",
+      "weeks": 24,
+      "peak": 10,
+      "score": 367
+    },
+    {
+      "artist": "Soul Asylum",
+      "title": "Runaway Train",
+      "weeks": 26,
+      "peak": 5,
+      "score": 364
+    },
+    {
+      "artist": "Ace Of Base",
+      "title": "All That She Wants",
+      "weeks": 15,
+      "peak": 2,
+      "score": 356
+    },
+    {
+      "artist": "Rod Stewart",
+      "title": "Have I Told You Lately",
+      "weeks": 22,
+      "peak": 5,
+      "score": 355
+    },
+    {
+      "artist": "Tony! Toni! Tone!",
+      "title": "If I Had No Loot",
+      "weeks": 21,
+      "peak": 7,
+      "score": 354
+    },
+    {
+      "artist": "Xscape",
+      "title": "Just Kickin' It",
+      "weeks": 15,
+      "peak": 2,
+      "score": 343
+    },
+    {
+      "artist": "Vanessa Williams/brian Mcknight",
+      "title": "Love Is (From \"Beverly Hills, 90210\")",
+      "weeks": 28,
+      "peak": 3,
+      "score": 342
+    },
+    {
+      "artist": "The Proclaimers",
+      "title": "I'm Gonna Be (500 Miles)",
+      "weeks": 20,
+      "peak": 3,
+      "score": 334
+    },
+    {
+      "artist": "Portrait",
+      "title": "Here We Go Again!",
+      "weeks": 16,
+      "peak": 11,
+      "score": 331
+    }
+  ],
+  "artists_with_multiple_hits": [
+    {
+      "artist": "Swv",
+      "hits": 3
+    },
+    {
+      "artist": "Janet Jackson",
+      "hits": 3
+    },
+    {
+      "artist": "Whitney Houston",
+      "hits": 3
+    },
+    {
+      "artist": "Shai",
+      "hits": 2
+    }
+  ],
+  "longest_chart_runs": [
+    {
+      "artist": "Duice",
+      "title": "Dazzey Duks",
+      "weeks": 40,
+      "peak": 12,
+      "score": 181
+    },
+    {
+      "artist": "Jade",
+      "title": "Don't Walk Away",
+      "weeks": 33,
+      "peak": 4,
+      "score": 631
+    },
+    {
+      "artist": "Tag Team",
+      "title": "Whoomp! (There It Is)",
+      "weeks": 31,
+      "peak": 2,
+      "score": 971
+    },
+    {
+      "artist": "Ub40",
+      "title": "Can't Help Falling In Love (From \"Sliver\")",
+      "weeks": 29,
+      "peak": 1,
+      "score": 606
+    },
+    {
+      "artist": "Spin Doctors",
+      "title": "Two Princes",
+      "weeks": 29,
+      "peak": 7,
+      "score": 374
+    },
+    {
+      "artist": "Expose",
+      "title": "I'll Never Get Over You (Getting Over Me)",
+      "weeks": 29,
+      "peak": 8,
+      "score": 231
+    },
+    {
+      "artist": "Paperboy",
+      "title": "Ditty",
+      "weeks": 28,
+      "peak": 10,
+      "score": 488
+    },
+    {
+      "artist": "Robin S",
+      "title": "Show Me Love",
+      "weeks": 28,
+      "peak": 5,
+      "score": 399
+    },
+    {
+      "artist": "Vanessa Williams/brian Mcknight",
+      "title": "Love Is (From \"Beverly Hills, 90210\")",
+      "weeks": 28,
+      "peak": 3,
+      "score": 342
+    },
+    {
+      "artist": "Dr. Dre",
+      "title": "Nuthin' But A \"G\" Thang",
+      "weeks": 27,
+      "peak": 2,
+      "score": 646
+    }
+  ],
+  "number_one_hits": [
+    {
+      "artist": "Silk",
+      "title": "Freak Me",
+      "weeks": 24,
+      "peak": 1,
+      "score": 703
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Dreamlover",
+      "weeks": 21,
+      "peak": 1,
+      "score": 674
+    },
+    {
+      "artist": "Swv",
+      "title": "Weak",
+      "weeks": 26,
+      "peak": 1,
+      "score": 665
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "That's The Way Love Goes",
+      "weeks": 23,
+      "peak": 1,
+      "score": 637
+    },
+    {
+      "artist": "Ub40",
+      "title": "Can't Help Falling In Love (From \"Sliver\")",
+      "weeks": 29,
+      "peak": 1,
+      "score": 606
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "I Will Always Love You",
+      "weeks": 19,
+      "peak": 1,
+      "score": 538
+    },
+    {
+      "artist": "Peabo Bryson",
+      "title": "A Whole New World (Aladdin's Theme)",
+      "weeks": 21,
+      "peak": 1,
+      "score": 526
+    },
+    {
+      "artist": "Snow",
+      "title": "Informer",
+      "weeks": 25,
+      "peak": 1,
+      "score": 502
+    },
+    {
+      "artist": "Meat Loaf",
+      "title": "I'd Do Anything For Love (But I Won't Do That)",
+      "weeks": 15,
+      "peak": 1,
+      "score": 439
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "Again",
+      "weeks": 10,
+      "peak": 1,
+      "score": 369
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Hero",
+      "weeks": 10,
+      "peak": 1,
+      "score": 232
+    }
+  ]
+}

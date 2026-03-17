@@ -1,0 +1,564 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>RetroVerse 1974 · Week 30</title>
+    <style>
+      :root {
+        --bg: #0b1225;
+        --bg-soft: #111f3d;
+        --panel: #1a2d56;
+        --ink: #f5f8ff;
+        --ink-soft: #b8c7ea;
+        --accent: #ffd67a;
+        --line: rgba(255, 255, 255, 0.16);
+        --hero: #284f8f;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family: 'Trebuchet MS', 'Gill Sans', 'Verdana', sans-serif;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at 18% 7%, #294a83 0%, transparent 34%),
+          radial-gradient(circle at 78% 0%, #5a2f5b 0%, transparent 36%),
+          linear-gradient(180deg, #111a35 0%, var(--bg) 46%, #090d1b 100%);
+      }
+
+      .page {
+        width: min(920px, 100%);
+        margin: 0 auto;
+        padding: 18px 14px 30px;
+        display: grid;
+        gap: 16px;
+      }
+
+      .header {
+        border: 1px solid var(--line);
+        border-radius: 18px;
+        background: rgba(13, 24, 47, 0.78);
+        padding: 16px;
+        display: grid;
+        gap: 14px;
+      }
+
+      .eyebrow {
+        margin: 0;
+        color: var(--ink-soft);
+        font-size: 13px;
+        letter-spacing: 1.1px;
+        text-transform: uppercase;
+      }
+
+      .chart-date {
+        margin: 0;
+        font-size: clamp(24px, 7vw, 40px);
+        line-height: 1.1;
+      }
+
+      .number-one {
+        border: 1px solid var(--line);
+        border-radius: 16px;
+        padding: 12px;
+        background: linear-gradient(165deg, rgba(53, 93, 166, 0.8), rgba(22, 41, 77, 0.9));
+        display: grid;
+        gap: 7px;
+      }
+
+      .number-one-rank {
+        margin: 0;
+        font-size: 14px;
+        color: var(--accent);
+        letter-spacing: 0.9px;
+        text-transform: uppercase;
+      }
+
+      .number-one-title {
+        margin: 0;
+        font-size: clamp(26px, 8.2vw, 46px);
+        line-height: 1.04;
+      }
+
+      .number-one-artist {
+        margin: 0;
+        font-size: clamp(19px, 5vw, 30px);
+        color: #ffecb7;
+      }
+
+      .meta-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+
+      .meta-pill {
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        padding: 5px 10px;
+        font-size: 12px;
+        color: var(--ink-soft);
+        background: rgba(8, 18, 35, 0.45);
+      }
+
+      .context {
+        border: 1px solid var(--line);
+        border-radius: 14px;
+        background: rgba(17, 31, 61, 0.62);
+        padding: 11px;
+        display: grid;
+        gap: 10px;
+      }
+
+      .context-title {
+        margin: 0;
+        font-size: 14px;
+        letter-spacing: 0.9px;
+        text-transform: uppercase;
+        color: var(--ink-soft);
+      }
+
+      .context-group {
+        display: grid;
+        gap: 4px;
+      }
+
+      .context-group h3 {
+        margin: 0;
+        font-size: 14px;
+        color: var(--accent);
+      }
+
+      .context-list {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: grid;
+        gap: 3px;
+      }
+
+      .context-list li {
+        font-size: 14px;
+        line-height: 1.3;
+      }
+
+      .stack {
+        border: 1px solid var(--line);
+        border-radius: 16px;
+        padding: 12px;
+        background: rgba(12, 23, 46, 0.82);
+        display: grid;
+        gap: 12px;
+      }
+
+      .stack h2 {
+        margin: 0;
+        font-size: 15px;
+        letter-spacing: 0.8px;
+        text-transform: uppercase;
+        color: var(--ink-soft);
+      }
+
+      .hero-card {
+        border: 1px solid rgba(255, 214, 122, 0.45);
+        border-radius: 15px;
+        background: linear-gradient(168deg, rgba(45, 83, 146, 0.92), rgba(24, 44, 82, 0.94));
+        padding: 12px;
+        display: grid;
+        gap: 7px;
+      }
+
+      .hero-head {
+        display: flex;
+        align-items: baseline;
+        gap: 8px;
+      }
+
+      .rank-chip {
+        font-size: 13px;
+        color: var(--accent);
+        letter-spacing: 0.7px;
+        text-transform: uppercase;
+      }
+
+      .hero-card h3 {
+        margin: 0;
+        font-size: clamp(22px, 6.8vw, 34px);
+        line-height: 1.05;
+      }
+
+      .hero-card p {
+        margin: 0;
+        font-size: clamp(17px, 4.9vw, 24px);
+        color: #ffecb7;
+      }
+
+      .medium-grid {
+        display: grid;
+        gap: 8px;
+      }
+
+      .medium-card {
+        border: 1px solid var(--line);
+        border-radius: 13px;
+        background: rgba(20, 37, 71, 0.76);
+        padding: 10px;
+        display: grid;
+        gap: 6px;
+      }
+
+      .medium-card h3 {
+        margin: 0;
+        font-size: 19px;
+        line-height: 1.15;
+      }
+
+      .medium-card p {
+        margin: 0;
+        font-size: 15px;
+        color: #d8e6ff;
+      }
+
+      .compact-list {
+        display: grid;
+        gap: 6px;
+      }
+
+      .compact-card {
+        border: 1px solid var(--line);
+        border-radius: 11px;
+        background: rgba(16, 29, 57, 0.68);
+        padding: 8px 10px;
+        display: grid;
+        gap: 4px;
+      }
+
+      .compact-top {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        gap: 8px;
+        align-items: baseline;
+      }
+
+      .compact-rank {
+        min-width: 28px;
+        color: var(--accent);
+        font-size: 15px;
+        font-weight: 700;
+      }
+
+      .compact-title {
+        margin: 0;
+        font-size: 15px;
+        line-height: 1.2;
+      }
+
+      .compact-artist {
+        margin: 0;
+        font-size: 13px;
+        color: var(--ink-soft);
+      }
+
+      .compact-meta {
+        margin: 0;
+        font-size: 12px;
+        color: #d8e6ff;
+      }
+
+      .error {
+        border: 1px solid #d64646;
+        border-radius: 12px;
+        background: rgba(96, 22, 22, 0.4);
+        padding: 14px;
+        font-size: 14px;
+      }
+
+      @media (min-width: 760px) {
+        .page {
+          padding: 28px 24px 40px;
+          gap: 18px;
+        }
+
+        .header,
+        .stack {
+          padding: 16px;
+        }
+
+        .medium-grid {
+          grid-template-columns: repeat(3, minmax(0, 1fr));
+          gap: 10px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <section class="header" id="header"></section>
+      <section class="stack">
+        <h2>Rank 1</h2>
+        <div id="hero-slot"></div>
+      </section>
+      <section class="stack">
+        <h2>Ranks 2-10</h2>
+        <div id="medium-slot" class="medium-grid"></div>
+      </section>
+      <section class="stack">
+        <h2>Ranks 11-40</h2>
+        <div id="compact-slot" class="compact-list"></div>
+      </section>
+    </main>
+
+    <script>
+      const MASTER_URL = '../data/1974_master.json'
+      const WEEK_KEY = '30'
+
+      const header = document.getElementById('header')
+      const heroSlot = document.getElementById('hero-slot')
+      const mediumSlot = document.getElementById('medium-slot')
+      const compactSlot = document.getElementById('compact-slot')
+
+      const formatDate = (isoDate) => {
+        const date = new Date(`${isoDate}T00:00:00`)
+        if (Number.isNaN(date.getTime())) return isoDate
+        return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })
+      }
+
+      const createMetaRow = (entry) => {
+        const row = document.createElement('div')
+        row.className = 'meta-row'
+
+        const weeks = document.createElement('span')
+        weeks.className = 'meta-pill'
+        weeks.textContent = `Weeks on chart: ${entry.weeks_on_chart}`
+        row.appendChild(weeks)
+
+        const peak = document.createElement('span')
+        peak.className = 'meta-pill'
+        peak.textContent = `Peak position: ${entry.peak_position}`
+        row.appendChild(peak)
+
+        return row
+      }
+
+      const getContext = (week) => {
+        const contextSource = typeof week.context === 'object' && week.context ? week.context : week
+
+        const movies = []
+        if (contextSource.movie_anchor_title) {
+          const genre = contextSource.movie_anchor_genre ? ` (${contextSource.movie_anchor_genre})` : ''
+          movies.push(`${contextSource.movie_anchor_title}${genre}`)
+        }
+        if (Array.isArray(contextSource.movie_pool_titles)) {
+          contextSource.movie_pool_titles.filter(Boolean).forEach((title) => movies.push(title))
+        }
+
+        const tv = [contextSource.tv_anchor, contextSource.tv_daytime, contextSource.tv_pbs].filter(Boolean)
+        const headline = typeof contextSource.headline === 'string' ? contextSource.headline.trim() : ''
+        const mood = Array.isArray(contextSource.mood_tags) ? contextSource.mood_tags.filter(Boolean) : []
+
+        return { movies, tv, headline, mood }
+      }
+
+      const renderHeader = (week, topOne) => {
+        const context = getContext(week)
+
+        header.innerHTML = ''
+
+        const eyebrow = document.createElement('p')
+        eyebrow.className = 'eyebrow'
+        eyebrow.textContent = `Billboard Hot 100 · Week 30 · ${week.date_range}`
+        header.appendChild(eyebrow)
+
+        const chartDate = document.createElement('h1')
+        chartDate.className = 'chart-date'
+        chartDate.textContent = `Chart Date: ${formatDate(week.chart_date)}`
+        header.appendChild(chartDate)
+
+        const numberOne = document.createElement('article')
+        numberOne.className = 'number-one'
+
+        const rank = document.createElement('p')
+        rank.className = 'number-one-rank'
+        rank.textContent = `#${topOne.rank}`
+        numberOne.appendChild(rank)
+
+        const title = document.createElement('h2')
+        title.className = 'number-one-title'
+        title.textContent = topOne.title
+        numberOne.appendChild(title)
+
+        const artist = document.createElement('p')
+        artist.className = 'number-one-artist'
+        artist.textContent = topOne.artist
+        numberOne.appendChild(artist)
+
+        numberOne.appendChild(createMetaRow(topOne))
+        header.appendChild(numberOne)
+
+        const contextWrap = document.createElement('section')
+        contextWrap.className = 'context'
+
+        const contextTitle = document.createElement('h2')
+        contextTitle.className = 'context-title'
+        contextTitle.textContent = 'Context'
+        contextWrap.appendChild(contextTitle)
+
+        const appendGroup = (label, values) => {
+          if (!values || values.length === 0) return
+          const group = document.createElement('div')
+          group.className = 'context-group'
+
+          const heading = document.createElement('h3')
+          heading.textContent = label
+          group.appendChild(heading)
+
+          const list = document.createElement('ul')
+          list.className = 'context-list'
+          values.forEach((value) => {
+            const item = document.createElement('li')
+            item.textContent = value
+            list.appendChild(item)
+          })
+          group.appendChild(list)
+          contextWrap.appendChild(group)
+        }
+
+        appendGroup('Movies', context.movies)
+        appendGroup('TV', context.tv)
+        if (context.headline) appendGroup('Headline', [context.headline])
+        appendGroup('Mood', context.mood)
+
+        header.appendChild(contextWrap)
+      }
+
+      const renderHeroCard = (entry) => {
+        const card = document.createElement('article')
+        card.className = 'hero-card'
+
+        const head = document.createElement('div')
+        head.className = 'hero-head'
+
+        const rank = document.createElement('span')
+        rank.className = 'rank-chip'
+        rank.textContent = `Rank ${entry.rank}`
+        head.appendChild(rank)
+
+        card.appendChild(head)
+
+        const title = document.createElement('h3')
+        title.textContent = entry.title
+        card.appendChild(title)
+
+        const artist = document.createElement('p')
+        artist.textContent = entry.artist
+        card.appendChild(artist)
+
+        card.appendChild(createMetaRow(entry))
+        heroSlot.appendChild(card)
+      }
+
+      const renderMediumCard = (entry) => {
+        const card = document.createElement('article')
+        card.className = 'medium-card'
+
+        const rank = document.createElement('span')
+        rank.className = 'rank-chip'
+        rank.textContent = `Rank ${entry.rank}`
+        card.appendChild(rank)
+
+        const title = document.createElement('h3')
+        title.textContent = entry.title
+        card.appendChild(title)
+
+        const artist = document.createElement('p')
+        artist.textContent = entry.artist
+        card.appendChild(artist)
+
+        card.appendChild(createMetaRow(entry))
+        mediumSlot.appendChild(card)
+      }
+
+      const renderCompactCard = (entry) => {
+        const card = document.createElement('article')
+        card.className = 'compact-card'
+
+        const top = document.createElement('div')
+        top.className = 'compact-top'
+
+        const rank = document.createElement('div')
+        rank.className = 'compact-rank'
+        rank.textContent = String(entry.rank)
+        top.appendChild(rank)
+
+        const textBlock = document.createElement('div')
+
+        const title = document.createElement('p')
+        title.className = 'compact-title'
+        title.textContent = entry.title
+        textBlock.appendChild(title)
+
+        const artist = document.createElement('p')
+        artist.className = 'compact-artist'
+        artist.textContent = entry.artist
+        textBlock.appendChild(artist)
+
+        top.appendChild(textBlock)
+        card.appendChild(top)
+
+        const meta = document.createElement('p')
+        meta.className = 'compact-meta'
+        meta.textContent = `Weeks on chart: ${entry.weeks_on_chart} · Peak position: ${entry.peak_position}`
+        card.appendChild(meta)
+
+        compactSlot.appendChild(card)
+      }
+
+      const renderWeek = (week) => {
+        const ranked = [...week.top_40].sort((a, b) => a.rank - b.rank)
+        const rankOne = ranked.find((entry) => entry.rank === 1)
+
+        if (!rankOne) {
+          throw new Error('Rank 1 entry is missing for week 30')
+        }
+
+        renderHeader(week, rankOne)
+        renderHeroCard(rankOne)
+
+        ranked.filter((entry) => entry.rank >= 2 && entry.rank <= 10).forEach(renderMediumCard)
+        ranked.filter((entry) => entry.rank >= 11 && entry.rank <= 40).forEach(renderCompactCard)
+      }
+
+      const renderError = (message) => {
+        document.body.innerHTML = `<main class="page"><section class="error">${message}</section></main>`
+      }
+
+      const init = async () => {
+        try {
+          const response = await fetch(MASTER_URL)
+          if (!response.ok) {
+            throw new Error(`Failed to load ${MASTER_URL} (HTTP ${response.status})`)
+          }
+
+          const master = await response.json()
+          const week = master && master.weeks ? master.weeks[WEEK_KEY] : null
+
+          if (!week || !Array.isArray(week.top_40) || week.top_40.length === 0) {
+            throw new Error('Week 30 data is missing or invalid in 1974_master.json')
+          }
+
+          renderWeek(week)
+        } catch (error) {
+          console.error(error)
+          renderError(error instanceof Error ? error.message : String(error))
+        }
+      }
+
+      init()
+    </script>
+  </body>
+</html>

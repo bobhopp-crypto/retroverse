@@ -1,0 +1,430 @@
+[
+  {
+    "artist": "The Beatles",
+    "score": 1596.9
+  },
+  {
+    "artist": "The Beach Boys",
+    "score": 862.3
+  },
+  {
+    "artist": "The Dave Clark Five",
+    "score": 675.5
+  },
+  {
+    "artist": "Barbra Streisand",
+    "score": 591.5
+  },
+  {
+    "artist": "Soundtrack",
+    "score": 572.7
+  },
+  {
+    "artist": "The 4 Seasons",
+    "score": 485.1
+  },
+  {
+    "artist": "Dean Martin",
+    "score": 474.1
+  },
+  {
+    "artist": "Peter, Paul & Mary",
+    "score": 400.3
+  },
+  {
+    "artist": "The Supremes",
+    "score": 396.9
+  },
+  {
+    "artist": "Bobby Vinton",
+    "score": 386.4
+  },
+  {
+    "artist": "Andy Williams",
+    "score": 376.1
+  },
+  {
+    "artist": "Elvis Presley",
+    "score": 294.6
+  },
+  {
+    "artist": "Al Hirt",
+    "score": 292.3
+  },
+  {
+    "artist": "Nancy Wilson",
+    "score": 290.9
+  },
+  {
+    "artist": "The Rolling Stones",
+    "score": 284.5
+  },
+  {
+    "artist": "Johnny Rivers",
+    "score": 281.9
+  },
+  {
+    "artist": "Henry Mancini",
+    "score": 280.8
+  },
+  {
+    "artist": "Joan Baez",
+    "score": 278
+  },
+  {
+    "artist": "John Fitzgerald Kennedy",
+    "score": 272.6
+  },
+  {
+    "artist": "The Shangri-las",
+    "score": 196.3
+  },
+  {
+    "artist": "The Animals",
+    "score": 194.8
+  },
+  {
+    "artist": "Martha",
+    "score": 192
+  },
+  {
+    "artist": "Betty Everett",
+    "score": 191.6
+  },
+  {
+    "artist": "Jan",
+    "score": 191.5
+  },
+  {
+    "artist": "Trini Lopez",
+    "score": 190.7
+  },
+  {
+    "artist": "Gerry And The Pacemakers",
+    "score": 189.3
+  },
+  {
+    "artist": "Dionne Warwick",
+    "score": 188.3
+  },
+  {
+    "artist": "The Serendipity Singers",
+    "score": 187.3
+  },
+  {
+    "artist": "Gene Pitney",
+    "score": 186.6
+  },
+  {
+    "artist": "Billy J. Kramer",
+    "score": 186.5
+  },
+  {
+    "artist": "Roger Miller",
+    "score": 186.4
+  },
+  {
+    "artist": "The Kingsmen",
+    "score": 185.2
+  },
+  {
+    "artist": "Rick Nelson",
+    "score": 183.2
+  },
+  {
+    "artist": "Al Martino",
+    "score": 181.9
+  },
+  {
+    "artist": "Ray Charles",
+    "score": 181.1
+  },
+  {
+    "artist": "The Ventures",
+    "score": 177.3
+  },
+  {
+    "artist": "Jimmy Smith",
+    "score": 176.6
+  },
+  {
+    "artist": "Original Cast",
+    "score": 103.5
+  },
+  {
+    "artist": "Louis Armstrong",
+    "score": 102.3
+  },
+  {
+    "artist": "The Singing Nun (Soeur Sourire)",
+    "score": 102.1
+  },
+  {
+    "artist": "Louis Armstrong And The All Stars",
+    "score": 101.2
+  },
+  {
+    "artist": "Stan Getz And Joao Gilberto Featuring Antonio Carlos Jobim",
+    "score": 101
+  },
+  {
+    "artist": "Mary Wells",
+    "score": 100.5
+  },
+  {
+    "artist": "Roy Orbison And The Candy Men",
+    "score": 100.5
+  },
+  {
+    "artist": "Manfred Mann",
+    "score": 100.3
+  },
+  {
+    "artist": "The Dixie Cups",
+    "score": 100.3
+  },
+  {
+    "artist": "Peter And Gordon",
+    "score": 100.2
+  },
+  {
+    "artist": "Lorne Greene",
+    "score": 99.9
+  },
+  {
+    "artist": "J. Frank Wilson And The Cavaliers",
+    "score": 99.5
+  },
+  {
+    "artist": "Lesley Gore",
+    "score": 99.2
+  },
+  {
+    "artist": "Millie Small",
+    "score": 99.2
+  },
+  {
+    "artist": "The Newbeats",
+    "score": 99.2
+  },
+  {
+    "artist": "The Zombies",
+    "score": 99.1
+  },
+  {
+    "artist": "Jay",
+    "score": 98.5
+  },
+  {
+    "artist": "Terry Stafford",
+    "score": 98.5
+  },
+  {
+    "artist": "The Ray Charles Singers",
+    "score": 98.5
+  },
+  {
+    "artist": "The Marketts",
+    "score": 98
+  },
+  {
+    "artist": "The Murmaids",
+    "score": 97.8
+  },
+  {
+    "artist": "Gale Garnett",
+    "score": 97.7
+  },
+  {
+    "artist": "Al undefined Hirt",
+    "score": 97.6
+  },
+  {
+    "artist": "The Singing Nun",
+    "score": 97.5
+  },
+  {
+    "artist": "The Drifters",
+    "score": 97.4
+  },
+  {
+    "artist": "Ronny And The Daytonas",
+    "score": 97.3
+  },
+  {
+    "artist": "The Rip Chords",
+    "score": 97.1
+  },
+  {
+    "artist": "The Trashmen",
+    "score": 96.9
+  },
+  {
+    "artist": "Bobby Rydell",
+    "score": 96.8
+  },
+  {
+    "artist": "Lenny Welch",
+    "score": 96.6
+  },
+  {
+    "artist": "The Honeycombs",
+    "score": 96.3
+  },
+  {
+    "artist": "Bobby Freeman",
+    "score": 96.2
+  },
+  {
+    "artist": "Stan Getz/astrud Gilberto",
+    "score": 96.2
+  },
+  {
+    "artist": "Major Lance",
+    "score": 96.1
+  },
+  {
+    "artist": "The Rivieras",
+    "score": 96
+  },
+  {
+    "artist": "Los Indios Tabajaras",
+    "score": 95.4
+  },
+  {
+    "artist": "Dusty Springfield",
+    "score": 95.3
+  },
+  {
+    "artist": "Diane Renay",
+    "score": 95.2
+  },
+  {
+    "artist": "The Reflections",
+    "score": 95.2
+  },
+  {
+    "artist": "Little Anthony And The Imperials",
+    "score": 94.8
+  },
+  {
+    "artist": "Chad",
+    "score": 94.4
+  },
+  {
+    "artist": "The Kinks",
+    "score": 94.4
+  },
+  {
+    "artist": "The New Christy Minstrels",
+    "score": 94.4
+  },
+  {
+    "artist": "The Impressions",
+    "score": 94.1
+  },
+  {
+    "artist": "Johnny Tillotson",
+    "score": 93.5
+  },
+  {
+    "artist": "Jim Reeves",
+    "score": 93.1
+  },
+  {
+    "artist": "Dale",
+    "score": 92.9
+  },
+  {
+    "artist": "Shirley Ellis",
+    "score": 92.7
+  },
+  {
+    "artist": "Danny Williams",
+    "score": 92.4
+  },
+  {
+    "artist": "Frank Sinatra",
+    "score": 92.4
+  },
+  {
+    "artist": "Bobby Goldsboro",
+    "score": 92.3
+  },
+  {
+    "artist": "Ray Charles Singers",
+    "score": 92.3
+  },
+  {
+    "artist": "James Brown",
+    "score": 92.2
+  },
+  {
+    "artist": "Roy Orbison",
+    "score": 92.1
+  },
+  {
+    "artist": "Swingle Singers",
+    "score": 90.2
+  },
+  {
+    "artist": "The Village Stompers",
+    "score": 90.1
+  },
+  {
+    "artist": "The Smothers Brothers",
+    "score": 90
+  },
+  {
+    "artist": "Johnny Mathis",
+    "score": 89.8
+  },
+  {
+    "artist": "Frank Sinatra & Count Basie",
+    "score": 88.9
+  },
+  {
+    "artist": "John Gary",
+    "score": 88.5
+  },
+  {
+    "artist": "Tony Bennett",
+    "score": 88.2
+  },
+  {
+    "artist": "Various Artists",
+    "score": 88.1
+  },
+  {
+    "artist": "The Chipmunks",
+    "score": 87.7
+  },
+  {
+    "artist": "The Hollyridge Strings",
+    "score": 87.5
+  },
+  {
+    "artist": "Jack Jones",
+    "score": 87.2
+  },
+  {
+    "artist": "Allan Sherman",
+    "score": 86.2
+  },
+  {
+    "artist": "Robert Maxwell His Harp And Orchestra",
+    "score": 85.4
+  },
+  {
+    "artist": "Mark Wills",
+    "score": 85.1
+  },
+  {
+    "artist": "Harry Belafonte",
+    "score": 85
+  },
+  {
+    "artist": "Boston Pops Orchestra",
+    "score": 83.4
+  }
+]
