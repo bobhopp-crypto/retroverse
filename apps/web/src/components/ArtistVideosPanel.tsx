@@ -6,6 +6,7 @@ import './ArtistVideosPanel.css'
 type ArtistVideosPanelProps = {
   artistName: string
   decadeHints?: string[]
+  requireDecadeHints?: boolean
 }
 
 type VideoEntry = {
@@ -25,7 +26,7 @@ const toVideoEntry = (row: VideoRecord): VideoEntry | null => {
   }
 }
 
-export default function ArtistVideosPanel({ artistName, decadeHints = [] }: ArtistVideosPanelProps) {
+export default function ArtistVideosPanel({ artistName, decadeHints = [], requireDecadeHints = false }: ArtistVideosPanelProps) {
   const [rows, setRows] = useState<VideoEntry[]>([])
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
@@ -36,6 +37,14 @@ export default function ArtistVideosPanel({ artistName, decadeHints = [] }: Arti
     setError(null)
 
     const decades = [...new Set(decadeHints.map((entry) => entry.trim()).filter((entry) => entry.length > 0))]
+    if (requireDecadeHints && decades.length === 0) {
+      setRows([])
+      setLoading(false)
+      return () => {
+        cancelled = true
+      }
+    }
+
     const loadPromise =
       decades.length > 0 ? Promise.all(decades.map((decade) => loadVideoIndex(decade))).then((chunks) => chunks.flat()) : loadVideoIndex()
 
@@ -60,7 +69,7 @@ export default function ArtistVideosPanel({ artistName, decadeHints = [] }: Arti
     return () => {
       cancelled = true
     }
-  }, [decadeHints])
+  }, [decadeHints, requireDecadeHints])
 
   const normalizedTarget = useMemo(() => normalizeArtist(artistName), [artistName])
 
