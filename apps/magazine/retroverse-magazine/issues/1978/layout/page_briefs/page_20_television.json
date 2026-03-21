@@ -1,0 +1,178 @@
+{
+  "year": 1978,
+  "page_type": "television grid page",
+  "page_slug": "television",
+  "title": "Television Grid",
+  "subtitle": "Dense editorial notes on the shows shaping the week",
+  "writer": {
+    "name": "RetroVerse Television Desk",
+    "byline": "RetroVerse Television Desk"
+  },
+  "source_files": [
+    "PROJECT_STATE.md",
+    "issues/context/1978_context_enriched.json",
+    "issues/1978/layout/1978_production_targets.json",
+    "issues/1978/layout/1978_issue_map.json",
+    "issues/1978/television.md"
+  ],
+  "page_purpose": "Present Television Grid as a complete RetroVerse 1978 television grid page page, with page-aware artwork under real typography and no text baked into the illustration layer for `television`.",
+  "story_summary": "Television Grid Dense editorial notes on the shows shaping the week Television Grid The Shows Keeping the Week in Sync Hooks, premises, and the reason each title kept returning to the conversation. Shows13 Comedy Load4 Networks3 #01ABC Laverne & Shirley Working-girl comedy with elbow room. Physical gags, factory-floor rhythm, and a friendship sturdy enough to carry every scene change. Why it mattered It kept blue-collar sitcom energy bright without sanding off the grit that made it pop. #01ABC Mork & Mindy Alien velocity in an otherwise normal room. One performer turns manic improvisation into a full network event the second he enters frame. Why it mattered It showed how fast a single comic",
+  "verified_facts": [
+    {
+      "claim": "Page 20 is assigned to `television` in the canonical issue structure.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The page title is 'Television Grid'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The page subtitle is 'Dense editorial notes on the shows shaping the week'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The intended layout type is 'television grid page'.",
+      "source_file": "PROJECT_STATE.md"
+    }
+  ],
+  "text_blocks": [
+    {
+      "id": "page_title",
+      "role": "title",
+      "content": "Television Grid",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_subtitle",
+      "role": "subtitle",
+      "content": "Dense editorial notes on the shows shaping the week",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_byline",
+      "role": "byline",
+      "content": "RetroVerse Television Desk",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_deck",
+      "role": "deck",
+      "content": "Television Grid Dense editorial notes on the shows shaping the week Television Grid The Shows Keeping the Week in Sync Hooks, premises, and the reason each title kept returning to the conversation. Shows13 Comedy Load4 Networks3 #01ABC Laverne & Shirley Working-girl comedy with elbow room. Physical gags, factory-floor rhythm, and a friendship sturdy enough to carry every scene change. Why it mattered It kept blue-collar sitcom energy bright without sanding off the grit that made it pop. #01ABC Mork & Mindy Alien velocity in an otherwise normal room. One performer turns manic improvisation into a full network event the second he enters frame. Why it mattered It showed how fast a single comic",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "body_01",
+      "role": "body",
+      "content": "Television Grid The Shows Keeping the Week in Sync Hooks, premises, and the reason each title kept returning to the conversation. Shows13 Comedy Load4 Networks3 #01ABC Laverne & Shirley Working-girl comedy with elbow room. Physical gags, factory-floor rhythm, and a friendship sturdy enough to carry every scene change. Why it mattered It kept blue-collar sitcom energy bright without sanding off the grit that made it pop. #01ABC Mork & Mindy Alien velocity in an otherwise normal room. One performer turns manic improvisation into a full network event the second he enters frame. Why it mattered It showed how fast a single comic voice could take over the schedule when the timing was right. #02ABC Three's Company Misunderstanding as a weekly athletic event. A roommate farce where the premise stays simple and the timing does the heavy lifting. Why it mattered Its breezy pace made network comedy feel easy, even when every beat depended on precision. #02CBS WKRP in Cincinnati Radio panic, finally written by people who understand the booth. A workplace comedy where DJs, sales headaches, and on-air disasters all move at music-industry speed. Why it mattered It translated radio-era cool into television form without losing the workplace friction. #03ABC Taxi Night-shift melancholy with punch lines attached. A dispatch office full of bruised dreamers, every one of them funnier than their circumstances. Why it mattered It proved character comedy could stay intimate and still feel instantly essential. #04ABC Angie Romance with city grit still on the shoes. Blue-collar charm and glossy aspiration squeeze into the same half hour. Why it mattered Its rise showed viewers still wanted warmth, but not without a little class tension in the room. #04CBS Dallas Oil, money, and a grin you should not trust. Prime-time melodrama turns family dinner into a property dispute with better tailoring. Why it mattered It announced the appetite for glossy, serialized trouble before the decade was even finished. #05CBS 60 Minutes The stopwatch still feels like a starting gun. A newsmagazine that turned Sunday-night seriousness into appointment television. Why it mattered It made hard reporting feel like mass-viewing ritual instead of niche homework. #05NBC Diff'rent Strokes A catchphrase with network velocity. Fish-out-of-water family comedy built to land quick laughs and instant recognition. Why it mattered It arrived already sounding quotable, which is half the battle on television. #06CBS M*A*S*H Sharp wit, steady pulse, no wasted line. An ensemble that pivots from sarcasm to ache so quickly it barely looks like a pivot at all. Why it mattered It remained the standard for television that could be funny, sad, and exact in the same breath. #07ABC The Ropers Domestic side-eye in spin-off form. Neighborhood comedy powered by suspicion, impatience, and two people never fully sharing the same mood. Why it mattered It captured television's confidence that a recognizable pair could carry a whole new lane on attitude alone. #08CBS All in the Family Argument as prime-time engine. A living-room battleground where every small remark lands like a weeklong debate starter. Why it mattered It proved sitcom form could stay broad and still keep the national conversation uncomfortably close. #10ABC Eight Is Enough Domestic sprawl, handled at full network width. Family drama where the household is big enough to carry comedy, conflict, and sentiment at once. Why it mattered It kept the warm, ensemble side of the schedule alive while flashier shows grabbed headlines.",
+      "source_file": "issues/1978/television.md",
+      "intended_zone": "body_zone"
+    }
+  ],
+  "sidebar_blocks": [
+    {
+      "id": "television_metadata",
+      "title": "Page Facts",
+      "items": [
+        {
+          "label": "Page",
+          "value": "20"
+        },
+        {
+          "label": "Section",
+          "value": "television"
+        },
+        {
+          "label": "Role",
+          "value": "Editorial page"
+        }
+      ]
+    }
+  ],
+  "qa_notes": [
+    "Story and page text are defined before illustration prompt generation.",
+    "Art direction reads the entire page intent, not a floating insert concept.",
+    "All final production typography is reserved for the layout engine."
+  ],
+  "layout_requirements": {
+    "page_number": 20,
+    "orientation": "portrait",
+    "filename": "page_20_television.html",
+    "structure": "television grid page",
+    "hero_asset": null,
+    "collage_assets": [],
+    "layout_output": "issues/1978/layout/page_20_television.html"
+  },
+  "art_direction": {
+    "concept": "A lived-in 1978 living room with CRT glow, broadcast-night atmosphere, and clear negative space for layout.",
+    "page_readback": "Present Television Grid as a complete RetroVerse 1978 television grid page page, with page-aware artwork under real typography and no text baked into the illustration layer for `television`.",
+    "mood": "editorial and period-aware",
+    "palette": "CRT teal, cream paper, black ink, and restrained signal red",
+    "visual_hierarchy": [
+      "Primary focal area supports Television Grid.",
+      "Secondary props reinforce `television` without competing with text zones.",
+      "Negative space stays calm inside title, body, sidebar, and footer zones."
+    ]
+  },
+  "text_safe_zones": [
+    {
+      "id": "title_zone",
+      "x": 7,
+      "y": 6,
+      "width": 54,
+      "height": 14,
+      "unit": "percent"
+    },
+    {
+      "id": "body_zone",
+      "x": 7,
+      "y": 24,
+      "width": 55,
+      "height": 60,
+      "unit": "percent"
+    },
+    {
+      "id": "sidebar_zone",
+      "x": 65,
+      "y": 24,
+      "width": 24,
+      "height": 56,
+      "unit": "percent"
+    },
+    {
+      "id": "footer_zone",
+      "x": 7,
+      "y": 93,
+      "width": 86,
+      "height": 3,
+      "unit": "percent"
+    }
+  ],
+  "must_include": [
+    "Television Grid",
+    "Dense editorial notes on the shows shaping the week",
+    "RetroVerse Television Desk",
+    "Page 20",
+    "Layout overlays the real editorial text after illustration approval."
+  ],
+  "must_not_render_in_art": [
+    "article body text",
+    "charts/tables",
+    "exact production typography",
+    "magazine headlines",
+    "page titles",
+    "pull quotes",
+    "sidebars",
+    "chart tables",
+    "magazine layout elements"
+  ],
+  "style_notes": [
+    "RetroVerse pages use scene artwork as background assets beneath real typography.",
+    "Page artwork must preserve negative space inside all declared safe zones.",
+    "Environmental lettering may appear only if natural, minimal, and not production-critical."
+  ],
+  "easter_egg_rule": "Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography."
+}

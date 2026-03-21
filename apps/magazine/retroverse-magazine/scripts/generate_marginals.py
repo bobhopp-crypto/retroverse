@@ -14,9 +14,11 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 
-ROOT_ENV_PATH = Path(__file__).resolve().parents[2] / ".env"
-load_dotenv(dotenv_path=ROOT_ENV_PATH)
 load_dotenv()
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+REPO_ENV_PATH = Path(__file__).resolve().parents[4] / ".env"
+if REPO_ENV_PATH.exists():
+    load_dotenv(dotenv_path=REPO_ENV_PATH, override=False)
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 MAX_RETRIES = 3
 WATCHDOG_SECONDS = 90
@@ -36,7 +38,8 @@ def parse_args() -> argparse.Namespace:
 
 def create_client() -> OpenAI:
     if not OPENAI_API_KEY:
-        raise MarginalError("Missing OPENAI_API_KEY in .env")
+        print("ERROR: OPENAI_API_KEY not found. Check .env file.", file=sys.stderr)
+        raise MarginalError("OPENAI_API_KEY not found")
     return OpenAI(api_key=OPENAI_API_KEY, timeout=60)
 
 
@@ -85,14 +88,12 @@ def generate_png_bytes(client: OpenAI, model: str, prompt: str) -> bytes:
 
 def main() -> int:
     args = parse_args()
-    root = Path(__file__).resolve().parents[1]
-    output_dir = root / "issues" / str(args.year) / "art" / "marginals"
+    output_dir = PROJECT_ROOT / "issues" / str(args.year) / "art" / "marginals"
     output_dir.mkdir(parents=True, exist_ok=True)
 
     try:
         client = create_client()
-    except MarginalError as exc:
-        print(f"ERROR: {exc}", file=sys.stderr)
+    except MarginalError:
         return 1
 
     generated = 0

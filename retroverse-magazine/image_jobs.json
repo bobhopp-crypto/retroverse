@@ -1,0 +1,452 @@
+[
+  {
+    "artist": "Celia Marsh",
+    "type": "self_portrait",
+    "prompt": "RetroVerse art department staff portrait of Celia Marsh, painted in her own glamorous cover-illustration style, waist-up at a drafting table in a 1978 magazine office, lacquered hair, satin blouse, marker comps and acetate overlays nearby, airbrushed glow, chrome desk lamp reflections, editorial staff portrait not a random photo headshot, clean background space, no readable typography, no watermark. Editorial illustrator self-portrait, waist-up at a drawing desk, artist studio environment, sketchbooks, brushes or pens visible, personality reflected in the workspace, stylized illustration not photorealistic, vintage magazine illustration aesthetic, consistent framing. Hint at these style traits: airbrushed glow, chrome reflections, glamour portraiture, bold focal figure."
+  },
+  {
+    "artist": "Celia Marsh",
+    "type": "reference_1",
+    "prompt": "A glamorous 1978 magazine-cover concept set outside a neon movie palace and record store, one commanding figure in the foreground, chrome taxis and humid city light, airbrushed editorial illustration, masthead breathing room, no readable text."
+  },
+  {
+    "artist": "Celia Marsh",
+    "type": "reference_2",
+    "prompt": "An opening-spread illustration of a disco-era nightlife corridor, mirrored walls, velvet rope, camera flashes, and a fashion-forward central subject, glossy painterly cover-art treatment, no readable typography."
+  },
+  {
+    "artist": "Celia Marsh",
+    "type": "reference_3",
+    "prompt": "A poster-like summer rooftop party scene with skyline haze, sequined fashion, and saturated sunset light, one strong focal figure, elegant retro editorial illustration, no text."
+  },
+  {
+    "artist": "Celia Marsh",
+    "type": "reference_4",
+    "prompt": "A cinematic magazine feature image of a backstage dressing room before a photo shoot, bulbs, garment bags, cosmetics, and cool-warm contrast, polished gouache and airbrush, no readable lettering."
+  },
+  {
+    "artist": "Celia Marsh",
+    "type": "reference_5",
+    "prompt": "A year-defining cultural tableau with magazine racks, chrome diner reflections, and an iconic central pose, cover-ready composition, controlled glamour, no readable text."
+  },
+  {
+    "artist": "Lennox Vale",
+    "type": "self_portrait",
+    "prompt": "RetroVerse editorial staff portrait of Lennox Vale in his own cinematic editorial-painting style, seated near stacked magazines and gouache boards in a softly lit 1978 office, half-length portrait, intelligent tired eyes, practical shirt sleeves, painterly brushwork and atmospheric interior, staff portrait for a magazine masthead page, no readable typography. Editorial illustrator self-portrait, waist-up at a drawing desk, artist studio environment, sketchbooks, brushes or pens visible, personality reflected in the workspace, stylized illustration not photorealistic, vintage magazine illustration aesthetic, consistent framing. Hint at these style traits: cinematic brushwork, subtle facial storytelling, atmospheric interiors, editorial realism."
+  },
+  {
+    "artist": "Lennox Vale",
+    "type": "reference_1",
+    "prompt": "A serious magazine-feature illustration of a writer alone in a smoke-soft newsroom after deadline, lamps glowing over paste-up boards, painterly cinematic realism, no readable text."
+  },
+  {
+    "artist": "Lennox Vale",
+    "type": "reference_2",
+    "prompt": "A film-essay opener set in a rain-dark city block outside a repertory cinema, umbrella reflections and layered window light, elegant editorial brushwork, no typography."
+  },
+  {
+    "artist": "Lennox Vale",
+    "type": "reference_3",
+    "prompt": "An intimate profile image of a late-night radio control booth, dials, coffee cups, and one thoughtful operator, restrained color, narrative editorial painting, no readable lettering."
+  },
+  {
+    "artist": "Lennox Vale",
+    "type": "reference_4",
+    "prompt": "A culture feature on train-platform fatigue and city movement, commuters lit by sodium vapor and billboard glow, painterly realism, no text."
+  },
+  {
+    "artist": "Lennox Vale",
+    "type": "reference_5",
+    "prompt": "A magazine spread illustration of a record producer listening back in a dim studio, reels, wood paneling, and quiet tension, atmospheric editorial painting, no readable words."
+  },
+  {
+    "artist": "Marina Quo",
+    "type": "self_portrait",
+    "prompt": "RetroVerse art department staff portrait of Marina Quo, rendered in her own dreamy music-portrait editorial style, three-quarter seated pose in a 1978 studio office, portfolio sleeves, records, and a mirror bulb strip nearby, lush color, velvet shadows, stylish but clearly an editorial staff portrait, no readable typography. Editorial illustrator self-portrait, waist-up at a drawing desk, artist studio environment, sketchbooks, brushes or pens visible, personality reflected in the workspace, stylized illustration not photorealistic, vintage magazine illustration aesthetic, consistent framing. Hint at these style traits: soft glamour, music-icon portraiture, velvet shadows, saturated skin tones."
+  },
+  {
+    "artist": "Marina Quo",
+    "type": "reference_1",
+    "prompt": "A lush portrait-led magazine feature of a singer in rehearsal between takes, microphone stand, velvet curtain, and reflective stage light, dreamy editorial painting, no readable text."
+  },
+  {
+    "artist": "Marina Quo",
+    "type": "reference_2",
+    "prompt": "A close-up celebrity profile outside a limousine after a premiere, flashbulb haze and tinted windshield reflections, romantic magazine illustration, no lettering."
+  },
+  {
+    "artist": "Marina Quo",
+    "type": "reference_3",
+    "prompt": "A music-feature scene in a recording booth with headphones, lyric sheets turned away, and red low light, intimate glamour illustration, no readable words."
+  },
+  {
+    "artist": "Marina Quo",
+    "type": "reference_4",
+    "prompt": "A backstage corridor portrait with garment bags and anxious stillness before a concert, soft-focus editorial treatment, no typography."
+  },
+  {
+    "artist": "Marina Quo",
+    "type": "reference_5",
+    "prompt": "A poolside afternoon editorial portrait for a style spread, bright white concrete, sunglasses, and warm reflected light, fashion-forward but painterly, no text."
+  },
+  {
+    "artist": "Otto Voss",
+    "type": "self_portrait",
+    "prompt": "RetroVerse editorial staff portrait of Otto Voss in his own graphically disciplined illustration style, seated at a clean drafting station with rulers, translucent overlays, circles and grid sketches around him, 1978 magazine office, composed half-length portrait, elegant flat-color shapes, editorial staff portrait, no readable typography. Editorial illustrator self-portrait, waist-up at a drawing desk, artist studio environment, sketchbooks, brushes or pens visible, personality reflected in the workspace, stylized illustration not photorealistic, vintage magazine illustration aesthetic, consistent framing. Hint at these style traits: modular forms, diagrammatic backgrounds, flat-color systems, measured spacing."
+  },
+  {
+    "artist": "Otto Voss",
+    "type": "reference_1",
+    "prompt": "A restrained infographic background for a magazine page about chart momentum, modular circles, staircase rhythms, and record grooves abstracted into a clean editorial composition, no readable text."
+  },
+  {
+    "artist": "Otto Voss",
+    "type": "reference_2",
+    "prompt": "A timeline-page illustration using architectural color blocks, transit-map logic, and era-coded motion cues, supportive graphic background only, no labels or typography."
+  },
+  {
+    "artist": "Otto Voss",
+    "type": "reference_3",
+    "prompt": "A card-illustration concept with clean geometric framing, broadcast-console shapes, and balanced negative space, editorial systems art, no readable lettering."
+  },
+  {
+    "artist": "Otto Voss",
+    "type": "reference_4",
+    "prompt": "A magazine-feature support image built from stacked bar-like forms, cassette silhouettes, and diagrammatic motion paths, calm and precise, no text."
+  },
+  {
+    "artist": "Otto Voss",
+    "type": "reference_5",
+    "prompt": "A documentary information page on city nightlife flows, abstract crowd movement translated into elegant colored modules and pathways, no typography."
+  },
+  {
+    "artist": "Darla Quill",
+    "type": "self_portrait",
+    "prompt": "RetroVerse art department staff portrait of Darla Quill, illustrated in her own witty ink-and-wash editorial spot style, leaning over a cluttered desk with fountain pen, scraps, pinned notes, and coffee ring textures, compact half-length staff portrait, clever minimal linework, no readable typography. Editorial illustrator self-portrait, waist-up at a drawing desk, artist studio environment, sketchbooks, brushes or pens visible, personality reflected in the workspace, stylized illustration not photorealistic, vintage magazine illustration aesthetic, consistent framing. Hint at these style traits: ink wit, minimal line economy, smart vignettes, paper texture."
+  },
+  {
+    "artist": "Darla Quill",
+    "type": "reference_1",
+    "prompt": "A department-page vignette of office gossip passing across cubicles by paper airplane, ink-and-wash editorial spot illustration, compact and witty, no readable text."
+  },
+  {
+    "artist": "Darla Quill",
+    "type": "reference_2",
+    "prompt": "A letters-page support image of a stack of envelopes turning into city windows at dusk, minimal line economy and paper texture, no typography."
+  },
+  {
+    "artist": "Darla Quill",
+    "type": "reference_3",
+    "prompt": "A small service-journalism illustration about dating advice at a disco booth, one bright gesture and a few key props, no lettering."
+  },
+  {
+    "artist": "Darla Quill",
+    "type": "reference_4",
+    "prompt": "A compact card illustration of a radio alarm clock, spilled eyeliner, and ticket stub arranged as a personality sketch, witty editorial spot art, no text."
+  },
+  {
+    "artist": "Darla Quill",
+    "type": "reference_5",
+    "prompt": "A culture sidebar on waiting in arcade lines rendered as a playful knot of shoes, cords, and body language, spare ink drawing, no readable words."
+  },
+  {
+    "artist": "Nico Bolt",
+    "type": "self_portrait",
+    "prompt": "RetroVerse editorial staff portrait of Nico Bolt in his own gritty sequential-comics style, seated on a stool beside pinned storyboard panels and Bristol board, waist-up portrait, ink-rich shadows, energetic linework, clearly an editorial staff portrait in a studio office, no readable dialogue or typography. Editorial illustrator self-portrait, waist-up at a drawing desk, artist studio environment, sketchbooks, brushes or pens visible, personality reflected in the workspace, stylized illustration not photorealistic, vintage magazine illustration aesthetic, consistent framing. Hint at these style traits: sequential acting, bold silhouettes, kinetic staging, ink-heavy shadow."
+  },
+  {
+    "artist": "Nico Bolt",
+    "type": "reference_1",
+    "prompt": "A comic-panel action scene of a midnight print shop rush, page boards flying, rollers turning, and one hero editor lunging for the final proof, kinetic editorial comics art, no lettering."
+  },
+  {
+    "artist": "Nico Bolt",
+    "type": "reference_2",
+    "prompt": "A sequential-style arcade showdown with reflected cabinet light, dramatic poses, and strong silhouette staging, panel-ready but without word balloons, no readable text."
+  },
+  {
+    "artist": "Nico Bolt",
+    "type": "reference_3",
+    "prompt": "A satirical city-bus scene where music fans carry oversized records through rain and neon, expressive acting and ink-heavy shadow, no typography."
+  },
+  {
+    "artist": "Nico Bolt",
+    "type": "reference_4",
+    "prompt": "A four-corner poster concept about gossip spreading through a newsroom, character comedy and diagonal motion, no words in the image."
+  },
+  {
+    "artist": "Nico Bolt",
+    "type": "reference_5",
+    "prompt": "A character-driven magazine feature scene of two musicians arguing in a studio hallway, dynamic staging and expressive hands, no lettering."
+  },
+  {
+    "artist": "Iris Luxe",
+    "type": "self_portrait",
+    "prompt": "RetroVerse art department staff portrait of Iris Luxe, rendered in her own high-fashion editorial illustration style, standing beside dress forms and pinned color tear sheets in a 1978 art office, elegant pose, expressive brush lines, warm skin tones, magazine staff portrait not a runway photo, no readable typography. Editorial illustrator self-portrait, waist-up at a drawing desk, artist studio environment, sketchbooks, brushes or pens visible, personality reflected in the workspace, stylized illustration not photorealistic, vintage magazine illustration aesthetic, consistent framing. Hint at these style traits: fashion gesture, runway motion, beauty-editorial polish, warm skin color."
+  },
+  {
+    "artist": "Iris Luxe",
+    "type": "reference_1",
+    "prompt": "A glamorous magazine feature of a department-store fashion floor at golden hour, mirrored columns, rich fabrics, and one decisive model-like figure, loose editorial illustration, no readable text."
+  },
+  {
+    "artist": "Iris Luxe",
+    "type": "reference_2",
+    "prompt": "A beauty package opener set in a backstage powder room, compacts, bulbs, and silk garments in motion, fashion illustration with painterly confidence, no lettering."
+  },
+  {
+    "artist": "Iris Luxe",
+    "type": "reference_3",
+    "prompt": "A poster-style city sidewalk scene with windblown trench coats and reflected storefront light, chic and fluid, no typography."
+  },
+  {
+    "artist": "Iris Luxe",
+    "type": "reference_4",
+    "prompt": "A magazine cover concept built around a dramatic seated pose, lacquered table surface, cigarette smoke curl, and magazine-ready glamour, no readable words."
+  },
+  {
+    "artist": "Iris Luxe",
+    "type": "reference_5",
+    "prompt": "A style spread featuring dressing-room chaos before a nightclub opening, vivid accessories and gestural fashion drawing, no text."
+  },
+  {
+    "artist": "Sol Kestrel",
+    "type": "self_portrait",
+    "prompt": "RetroVerse editorial staff portrait of Sol Kestrel in his own psychedelic poster-illustration style, seated cross-legged on a studio stool in a 1970s art office, paint jars, incense haze, pinned color studies, symbolic decorative framing, editorial staff portrait rather than a random fantasy character, no readable text. Editorial illustrator self-portrait, waist-up at a drawing desk, artist studio environment, sketchbooks, brushes or pens visible, personality reflected in the workspace, stylized illustration not photorealistic, vintage magazine illustration aesthetic, consistent framing. Hint at these style traits: psychedelic color, symbolic figures, ornamental surrealism, poster energy."
+  },
+  {
+    "artist": "Sol Kestrel",
+    "type": "reference_1",
+    "prompt": "A psychedelic poster-like culture feature about a city after midnight, moons, signage glow, mirrored streets, and symbolic figures, richly colored editorial illustration, no readable typography."
+  },
+  {
+    "artist": "Sol Kestrel",
+    "type": "reference_2",
+    "prompt": "A surreal cover-art concept where records become planets over a dance floor skyline, ornamental shapes and radiant color, no text."
+  },
+  {
+    "artist": "Sol Kestrel",
+    "type": "reference_3",
+    "prompt": "A dream-sequence magazine feature set inside a mirrored elevator with impossible reflections and floating accessories, psychedelic editorial art, no lettering."
+  },
+  {
+    "artist": "Sol Kestrel",
+    "type": "reference_4",
+    "prompt": "A card-illustration concept of headphones, subway rails, and haloed faces folding into one symbolic composition, no readable words."
+  },
+  {
+    "artist": "Sol Kestrel",
+    "type": "reference_5",
+    "prompt": "A poster image for a late-night broadcast special, layered clouds, towers, and chromatic halos, no text."
+  },
+  {
+    "artist": "June Orbit",
+    "type": "self_portrait",
+    "prompt": "RetroVerse art department staff portrait of June Orbit in her own mixed-media collage style, surrounded by torn magazine paper, scissors, wax pencil marks, and pinned source scraps in a 1978 editorial art room, half-length portrait, layered textures and painterly fragments, no readable typography. Editorial illustrator self-portrait, waist-up at a drawing desk, artist studio environment, sketchbooks, brushes or pens visible, personality reflected in the workspace, stylized illustration not photorealistic, vintage magazine illustration aesthetic, consistent framing. Hint at these style traits: mixed media, paper collage, photo-illustration fragments, graphic layering."
+  },
+  {
+    "artist": "June Orbit",
+    "type": "reference_1",
+    "prompt": "A cultural-collage magazine spread combining arcade lights, movie stubs, lipstick prints, cassette inserts, and city windows into one editorial montage, rich mixed media, no readable text."
+  },
+  {
+    "artist": "June Orbit",
+    "type": "reference_2",
+    "prompt": "A poster-style feature about a summer weekend made from torn paper skies, photographic fragments, painted nightlife reflections, and hand-cut silhouettes, no typography."
+  },
+  {
+    "artist": "June Orbit",
+    "type": "reference_3",
+    "prompt": "A cover experiment built from magazine kiosks, subway maps, theater marquees abstracted beyond legibility, and layered portrait fragments, no readable words."
+  },
+  {
+    "artist": "June Orbit",
+    "type": "reference_4",
+    "prompt": "A media-saturation culture page with televisions, record sleeves, shopping bags, and crowd texture collaged into one composition, no text."
+  },
+  {
+    "artist": "June Orbit",
+    "type": "reference_5",
+    "prompt": "A year-in-review mood board with hand-cut stars, calendars, snapshots, and colored acetate overlays, editorial collage, no lettering."
+  },
+  {
+    "artist": "Rex Banner",
+    "type": "self_portrait",
+    "prompt": "RetroVerse editorial staff portrait of Rex Banner in his own satirical advertising-illustration style, standing in a studio office beside mock product boards and spray mount scraps, bright graphic staging, playful expression, clearly an editorial staff portrait, no readable slogans or typography. Editorial illustrator self-portrait, waist-up at a drawing desk, artist studio environment, sketchbooks, brushes or pens visible, personality reflected in the workspace, stylized illustration not photorealistic, vintage magazine illustration aesthetic, consistent framing. Hint at these style traits: satirical caricature, ad-poster punch, bold graphic silhouettes, commercial parody."
+  },
+  {
+    "artist": "Rex Banner",
+    "type": "reference_1",
+    "prompt": "A fake 1978 gadget advertisement with a chrome miracle appliance, exaggerated product confidence, and theatrical product lighting, satirical editorial illustration, no readable text."
+  },
+  {
+    "artist": "Rex Banner",
+    "type": "reference_2",
+    "prompt": "A playful poster concept for a magazine service page about nightlife excess, smiling caricatured figures and too-perfect packaging, bright ad-art parody, no typography."
+  },
+  {
+    "artist": "Rex Banner",
+    "type": "reference_3",
+    "prompt": "A cover stunt built around a glamorous but absurd product launch on a rotating pedestal, commercial punch and comic timing, no readable words."
+  },
+  {
+    "artist": "Rex Banner",
+    "type": "reference_4",
+    "prompt": "A satirical city-shopping feature with department-store bags, escalators, and exaggerated poses, bold graphic ad illustration, no text."
+  },
+  {
+    "artist": "Rex Banner",
+    "type": "reference_5",
+    "prompt": "A card-illustration concept where a radio, soda cup, and ticket stub are staged like luxury goods, playful commercial parody, no lettering."
+  },
+  {
+    "artist": "Paloma Rivet",
+    "type": "self_portrait",
+    "prompt": "RetroVerse editorial staff portrait of Paloma Rivet in her own humane documentary-illustration style, seated near a window in a 1978 newsroom-art office with transit sketches, notebooks, and a city map turned away from the camera, textured brushwork, thoughtful staff portrait, no readable typography. Editorial illustrator self-portrait, waist-up at a drawing desk, artist studio environment, sketchbooks, brushes or pens visible, personality reflected in the workspace, stylized illustration not photorealistic, vintage magazine illustration aesthetic, consistent framing. Hint at these style traits: urban reportage, social observation, textured brushwork, crowd behavior."
+  },
+  {
+    "artist": "Paloma Rivet",
+    "type": "reference_1",
+    "prompt": "A documentary magazine feature on late-evening subway riders, soft fluorescent light, shopping bags, and layered body language, humane editorial painting, no readable text."
+  },
+  {
+    "artist": "Paloma Rivet",
+    "type": "reference_2",
+    "prompt": "A city-culture illustration of people waiting outside an arcade and corner record shop in summer heat, observed social detail and textured brushwork, no typography."
+  },
+  {
+    "artist": "Paloma Rivet",
+    "type": "reference_3",
+    "prompt": "A reportage feature on street vendors at dusk with transistor radios, paper cups, and bus-stop glow, no readable words."
+  },
+  {
+    "artist": "Paloma Rivet",
+    "type": "reference_4",
+    "prompt": "A documentary poster-like scene of cinema lines wrapping around a block after work, mixed ages and clothing details, warm urban observation, no text."
+  },
+  {
+    "artist": "Paloma Rivet",
+    "type": "reference_5",
+    "prompt": "A magazine feature about domestic routine around a living-room television, family posture and room detail doing the storytelling, no typography."
+  },
+  {
+    "artist": "Tony Halide",
+    "type": "self_portrait",
+    "prompt": "RetroVerse art department staff portrait of Tony Halide in his own painted film-promo editorial style, half-length portrait in a 1978 studio art office with pinned one-sheet comps, slide transparencies, and projector glow, staff portrait not a movie character, atmospheric cinema light, no readable typography. Editorial illustrator self-portrait, waist-up at a drawing desk, artist studio environment, sketchbooks, brushes or pens visible, personality reflected in the workspace, stylized illustration not photorealistic, vintage magazine illustration aesthetic, consistent framing. Hint at these style traits: cinema lighting, promotional composition, screen-magic atmosphere, painted montage."
+  },
+  {
+    "artist": "Tony Halide",
+    "type": "reference_1",
+    "prompt": "A movie-feature opener outside a crowded cinema marquee in wet pavement reflection, painterly screen-promo atmosphere, editorial rather than literal poster art, no readable text."
+  },
+  {
+    "artist": "Tony Halide",
+    "type": "reference_2",
+    "prompt": "A television package illustration set in a warm living room lit by cathode glow, family silhouettes and set design details, cinematic editorial painting, no lettering."
+  },
+  {
+    "artist": "Tony Halide",
+    "type": "reference_3",
+    "prompt": "A backstage awards-night corridor with gowns, tuxedos, and tungsten spill, polished entertainment-feature illustration, no readable words."
+  },
+  {
+    "artist": "Tony Halide",
+    "type": "reference_4",
+    "prompt": "A poster-like feature for a thriller review page with city rooftops, projector flare, and genre-coded tension, no typography."
+  },
+  {
+    "artist": "Tony Halide",
+    "type": "reference_5",
+    "prompt": "A screen-culture montage of concession counters, ticket stubs, and projected dust in the beam of light, painterly and nostalgic, no text."
+  },
+  {
+    "artist": "Vera Kern",
+    "type": "self_portrait",
+    "prompt": "A refined editorial lettering department sample portrait card for Vera Kern, implied through tools, swashes, tracing paper, and sophisticated typographic atmosphere, not a literal photographic headshot, no readable production text. Editorial illustrator self-portrait, waist-up at a drawing desk, artist studio environment, sketchbooks, brushes or pens visible, personality reflected in the workspace, stylized illustration not photorealistic, vintage magazine illustration aesthetic, consistent framing. Hint at these style traits: elegant display type, ligatures, fashion-editorial spacing, high-contrast scripts. This should still be a literal waist-up portrait of the artist, not just a tool card or abstract specimen."
+  },
+  {
+    "artist": "Vera Kern",
+    "type": "reference_1",
+    "prompt": "A future masthead study with graceful vertical contrast, cosmetic glamour, and magazine authority, no readable words."
+  },
+  {
+    "artist": "Vera Kern",
+    "type": "reference_2",
+    "prompt": "A feature-opener lettering sample built from elegant scripts, ligature energy, and editorial negative space, no actual text."
+  },
+  {
+    "artist": "Vera Kern",
+    "type": "reference_3",
+    "prompt": "A title-card concept for a glamorous interview feature, ornamental but restrained, no readable lettering."
+  },
+  {
+    "artist": "Vera Kern",
+    "type": "reference_4",
+    "prompt": "A glamorous lettering sample for cover typography, designed as a cover-package study using elegant display type, ligatures, and fashion-editorial spacing, she pulls drama from spacing first and ornament second, no readable words."
+  },
+  {
+    "artist": "Vera Kern",
+    "type": "reference_5",
+    "prompt": "A period-correct title-treatment concept for a feature-opener, balancing serious energy with ligatures, elegant display type, and clear magazine hierarchy, built for feature openers, no actual text."
+  },
+  {
+    "artist": "Mitch Capstan",
+    "type": "self_portrait",
+    "prompt": "A utility-lettering department sample portrait card for Mitch Capstan using stat-board elements, marker comps, rubylith, and industrial display-type atmosphere instead of a literal portrait, no readable production text. Editorial illustrator self-portrait, waist-up at a drawing desk, artist studio environment, sketchbooks, brushes or pens visible, personality reflected in the workspace, stylized illustration not photorealistic, vintage magazine illustration aesthetic, consistent framing. Hint at these style traits: block display lettering, broadcast utility, score-box rhythm, stat packaging. This should still be a literal waist-up portrait of the artist, not just a tool card or abstract specimen."
+  },
+  {
+    "artist": "Mitch Capstan",
+    "type": "reference_1",
+    "prompt": "A future chart-package lettering sample with score-box pacing and clean block display forms, no readable words."
+  },
+  {
+    "artist": "Mitch Capstan",
+    "type": "reference_2",
+    "prompt": "A title-bar concept for an infographic spread, industrial but period-correct, no actual text."
+  },
+  {
+    "artist": "Mitch Capstan",
+    "type": "reference_3",
+    "prompt": "A card-system lettering sample using modular labels, separators, and strong hierarchy without readable content."
+  },
+  {
+    "artist": "Mitch Capstan",
+    "type": "reference_4",
+    "prompt": "A serious lettering sample for infographics, designed as an infographic-spread study using block display lettering, broadcast utility, and score-box rhythm, he wants lettering to hit like a cue light: instant, clean, impossible to miss, no readable words."
+  },
+  {
+    "artist": "Mitch Capstan",
+    "type": "reference_5",
+    "prompt": "A period-correct title-treatment concept for a card-system, balancing playful energy with broadcast utility, block display lettering, and clear magazine hierarchy, built for chart packages, no actual text."
+  },
+  {
+    "artist": "Sonia Rubylith",
+    "type": "self_portrait",
+    "prompt": "A psychedelic lettering department sample portrait card for Sonia Rubylith built from curved counters, tracing paper, pens, color overlays, and poster-shop atmosphere, not a literal headshot, no readable production text. Editorial illustrator self-portrait, waist-up at a drawing desk, artist studio environment, sketchbooks, brushes or pens visible, personality reflected in the workspace, stylized illustration not photorealistic, vintage magazine illustration aesthetic, consistent framing. Hint at these style traits: psychedelic lettering, curved counters, poster swash energy, festival color. This should still be a literal waist-up portrait of the artist, not just a tool card or abstract specimen."
+  },
+  {
+    "artist": "Sonia Rubylith",
+    "type": "reference_1",
+    "prompt": "A future nightlife title treatment with psychedelic curves and controlled poster energy, no readable words."
+  },
+  {
+    "artist": "Sonia Rubylith",
+    "type": "reference_2",
+    "prompt": "A cover-opener lettering sample for a youth-culture feature, vibrant color and ornamental shapes, no actual text."
+  },
+  {
+    "artist": "Sonia Rubylith",
+    "type": "reference_3",
+    "prompt": "A playful display-type concept balancing late-1960s swirl forms with editorial discipline, no readable lettering."
+  },
+  {
+    "artist": "Sonia Rubylith",
+    "type": "reference_4",
+    "prompt": "A psychedelic lettering sample for posters, designed as a poster study using psychedelic lettering, curved counters, and poster swash energy, she keeps the weirdness on a leash just long enough for the page to stay readable, no readable words."
+  },
+  {
+    "artist": "Sonia Rubylith",
+    "type": "reference_5",
+    "prompt": "A period-correct title-treatment concept for a cover-package, balancing playful energy with curved counters, psychedelic lettering, and clear magazine hierarchy, built for cover openers, no actual text."
+  }
+]

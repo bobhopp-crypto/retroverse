@@ -1,0 +1,190 @@
+{
+  "year": 1978,
+  "page_type": "grouped top songs page",
+  "page_slug": "top_songs_group",
+  "title": "Top Songs #3-#6",
+  "subtitle": "Short Takes From the Year's Biggest Singles",
+  "writer": {
+    "name": "Bob Jones, Music Features Editor",
+    "byline": "By Bob Jones, Music Features Editor"
+  },
+  "source_files": [
+    "PROJECT_STATE.md",
+    "issues/context/1978_context_enriched.json",
+    "issues/1978/layout/1978_production_targets.json",
+    "issues/1978/layout/1978_issue_map.json",
+    "issues/1978/chart_top23.md"
+  ],
+  "page_purpose": "Present Top Songs #3-#6 as a complete RetroVerse 1978 grouped top songs page page, with page-aware artwork under real typography and no text baked into the illustration layer for `top_songs_group`.",
+  "story_summary": "Top Songs #3-#6 Short Takes From the Year's Biggest Singles After the Bee Gees set the pace at the top, the chart widens into slow-dance records, ballroom declarations, and the kind of FM favorites that follow people from the club door to the ride home. Soft lights, slow turns, and hooks built to linger.No. 03 (Love Is) Thicker Than Water Andy Gibb • 20 weeks • peak #1 Andy Gibb's \"(Love Is) Thicker Than Water\" arrives like the lights dropping a little lower. You hear it in the slow-dance pocket at clubs, on car radios after the last exit, and in living rooms where the night is winding down without losing its glow. The record feels warm rather than forceful, carried by a vocal that leans in",
+  "verified_facts": [
+    {
+      "claim": "Page 8 is assigned to `top_songs_group` in the canonical issue structure.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The page title is 'Top Songs #3-#6'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The page subtitle is 'Short Takes From the Year's Biggest Singles'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The intended layout type is 'grouped top songs page'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "No. 3: (Love Is) Thicker Than Water — Andy Gibb (20 weeks, peak #1). Andy Gibb places 3 songs in the RetroVerse Top 40 for 1978, and this track is part of that larger year-long presence.",
+      "source_file": "issues/1978/chart_top23.md"
+    },
+    {
+      "claim": "No. 4: Three Times A Lady — Commodores (20 weeks, peak #1). It reached No. 1 and stayed on the chart for 20 weeks, giving it both headline status and shelf life.",
+      "source_file": "issues/1978/chart_top23.md"
+    }
+  ],
+  "text_blocks": [
+    {
+      "id": "page_title",
+      "role": "title",
+      "content": "Top Songs #3-#6",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_subtitle",
+      "role": "subtitle",
+      "content": "Short Takes From the Year's Biggest Singles",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_byline",
+      "role": "byline",
+      "content": "By Bob Jones, Music Features Editor",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_deck",
+      "role": "deck",
+      "content": "Top Songs #3-#6 Short Takes From the Year's Biggest Singles After the Bee Gees set the pace at the top, the chart widens into slow-dance records, ballroom declarations, and the kind of FM favorites that follow people from the club door to the ride home. Soft lights, slow turns, and hooks built to linger.No. 03 (Love Is) Thicker Than Water Andy Gibb • 20 weeks • peak #1 Andy Gibb's \"(Love Is) Thicker Than Water\" arrives like the lights dropping a little lower. You hear it in the slow-dance pocket at clubs, on car radios after the last exit, and in living rooms where the night is winding down without losing its glow. The record feels warm rather than forceful, carried by a vocal that leans in",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "body_01",
+      "role": "body",
+      "content": "After the Bee Gees set the pace at the top, the chart widens into slow-dance records, ballroom declarations, and the kind of FM favorites that follow people from the club door to the ride home. Soft lights, slow turns, and hooks built to linger.No. 03 (Love Is) Thicker Than Water Andy Gibb • 20 weeks • peak #1 Andy Gibb's \"(Love Is) Thicker Than Water\" arrives like the lights dropping a little lower. You hear it in the slow-dance pocket at clubs, on car radios after the last exit, and in living rooms where the night is winding down without losing its glow. The record feels warm rather than forceful, carried by a vocal that leans in instead of reaching out. In a year full of hard pulses and mirror-ball urgency, it stands out by trusting softness. It makes intimacy feel chart-sized, and that is a rarer trick than people admit. No. 04 Three Times A Lady Commodores • 20 weeks • peak #1 \"Three Times A Lady\" belongs to banquet rooms, wedding floors, hotel ballrooms, and the middle of the dial where a formal song can suddenly stop conversation cold. The Commodores play it with enough grace to make every step feel measured, and Lionel Richie sings it like the room should rise with him. Physically, it is a sway record: shoulders back, hands together, no rush anywhere in sight. That is exactly why it stands apart in 1978. Where other hits chase the moment, this one slows it down and makes the sentiment feel expensive. No. 05 Kiss You All Over Exile • 23 weeks • peak #1 \"Kiss You All Over\" works best in places with low light and nowhere to be in a hurry: bar booths, parked cars, FM radio after dark, the dance floor after the crowd has thinned to couples. Exile gives the song a close-range pressure; it slides forward instead of striking, and that makes it feel more persuasive than loud. You feel it in the way the groove keeps narrowing the space between the singer and the listener. In a chart year crowded with polished hooks, this one stands out for sheer nerve. It knows exactly what it wants, and it never disguises it. No. 06 Can't Smile Without You Barry Manilow • 19 weeks • peak #3 \"Can't Smile Without You\" is heard where people are listening more carefully than they pretend: kitchen radios before dawn, car speakers after a date, and soft-lit lounges where the crowd has gone quieter. Barry Manilow sells the song through directness. There is no mystery in the lyric, and that is the point; the feeling lands immediately, with a melody that stays light on its feet even while the sentiment turns heavy. Physically, it feels like an exhale. In 1978, that plainspoken tenderness stands out against records built for spectacle. This one wins by sounding personal in public.",
+      "source_file": "issues/1978/chart_top23.md",
+      "intended_zone": "body_zone"
+    }
+  ],
+  "sidebar_blocks": [
+    {
+      "id": "top_songs_group_data",
+      "title": "Data References",
+      "items": [
+        {
+          "label": "No. 3: (Love Is) Thicker Than Water — Andy Gibb (20 weeks, peak #1). Andy Gibb places 3 songs in the RetroVerse Top 40 for 1978, and this track is part of that larger year-long presence.",
+          "value": "Structured reference"
+        },
+        {
+          "label": "No. 4: Three Times A Lady — Commodores (20 weeks, peak #1). It reached No. 1 and stayed on the chart for 20 weeks, giving it both headline status and shelf life.",
+          "value": "Structured reference"
+        },
+        {
+          "label": "No. 5: Kiss You All Over — Exile (23 weeks, peak #1). Its 23-week run puts it among the sturdier chart stays in the year context, which explains why the title still reads as familiar rather than fleeting.",
+          "value": "Structured reference"
+        },
+        {
+          "label": "No. 6: Can't Smile Without You — Barry Manilow (19 weeks, peak #3). It peaked at No. 3 but still held the chart for 19 weeks, which makes it feel durable rather than momentary.",
+          "value": "Structured reference"
+        }
+      ]
+    }
+  ],
+  "qa_notes": [
+    "Story and page text are defined before illustration prompt generation.",
+    "Art direction reads the entire page intent, not a floating insert concept.",
+    "All final production typography is reserved for the layout engine."
+  ],
+  "layout_requirements": {
+    "page_number": 8,
+    "orientation": "portrait",
+    "filename": "page_08_top_songs_group.html",
+    "structure": "grouped top songs page",
+    "hero_asset": "pages/page_08.png",
+    "collage_assets": [],
+    "layout_output": "issues/1978/layout/page_08_top_songs_group.html"
+  },
+  "art_direction": {
+    "concept": "A chart-room or radio-control environment for 1978, with directional graphic rhythm and clean statistic zones.",
+    "page_readback": "Present Top Songs #3-#6 as a complete RetroVerse 1978 grouped top songs page page, with page-aware artwork under real typography and no text baked into the illustration layer for `top_songs_group`.",
+    "mood": "editorial and period-aware",
+    "palette": "warm paper stock, halftone black, amber, teal, and late-70s saturated accent colors",
+    "visual_hierarchy": [
+      "Primary focal area supports Top Songs #3-#6.",
+      "Secondary props reinforce `top_songs_group` without competing with text zones.",
+      "Negative space stays calm inside title, body, sidebar, and footer zones."
+    ]
+  },
+  "text_safe_zones": [
+    {
+      "id": "title_zone",
+      "x": 7,
+      "y": 6,
+      "width": 54,
+      "height": 14,
+      "unit": "percent"
+    },
+    {
+      "id": "body_zone",
+      "x": 7,
+      "y": 24,
+      "width": 55,
+      "height": 60,
+      "unit": "percent"
+    },
+    {
+      "id": "sidebar_zone",
+      "x": 65,
+      "y": 24,
+      "width": 24,
+      "height": 56,
+      "unit": "percent"
+    },
+    {
+      "id": "footer_zone",
+      "x": 7,
+      "y": 93,
+      "width": 86,
+      "height": 3,
+      "unit": "percent"
+    }
+  ],
+  "must_include": [
+    "Top Songs #3-#6",
+    "Short Takes From the Year's Biggest Singles",
+    "By Bob Jones, Music Features Editor",
+    "Page 08",
+    "Layout overlays the real editorial text after illustration approval."
+  ],
+  "must_not_render_in_art": [
+    "article body text",
+    "charts/tables",
+    "exact production typography",
+    "magazine headlines",
+    "page titles",
+    "pull quotes",
+    "sidebars",
+    "chart tables",
+    "magazine layout elements"
+  ],
+  "style_notes": [
+    "RetroVerse pages use scene artwork as background assets beneath real typography.",
+    "Page artwork must preserve negative space inside all declared safe zones.",
+    "Environmental lettering may appear only if natural, minimal, and not production-critical."
+  ],
+  "easter_egg_rule": "Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography."
+}

@@ -1,0 +1,85 @@
+{
+  "year": 1978,
+  "image": "chart_page_1978_full.png",
+  "image_spec": {
+    "width_px": 2850,
+    "height_px": 3600,
+    "orientation": "portrait",
+    "print_size": "9.5in x 12in",
+    "dpi": 300
+  },
+  "text_placement": {
+    "title_zone": {
+      "region": "top",
+      "bounds_percent": { "x": 5, "y": 2, "w": 90, "h": 12 },
+      "content": {
+        "main_title": "RetroVerse Top Songs of 1978",
+        "subtitle": "The records that ruled the year"
+      }
+    },
+    "chart_rows": {
+      "region": "left",
+      "bounds_percent": { "x": 5, "y": 18, "w": 58, "h": 72 },
+      "header": { "columns": ["#", "Title", "Artist", "Wks", "Pk"] },
+      "rows": [
+        { "rank": 1, "title": "Stayin' Alive", "artist": "Bee Gees", "weeks": 23, "peak": 1 },
+        { "rank": 2, "title": "Night Fever", "artist": "Bee Gees", "weeks": 20, "peak": 1 },
+        { "rank": 3, "title": "(Love Is) Thicker Than Water", "artist": "Andy Gibb", "weeks": 20, "peak": 1 },
+        { "rank": 4, "title": "Three Times A Lady", "artist": "Commodores", "weeks": 20, "peak": 1 },
+        { "rank": 5, "title": "Kiss You All Over", "artist": "Exile", "weeks": 23, "peak": 1 },
+        { "rank": 6, "title": "Can't Smile Without You", "artist": "Barry Manilow", "weeks": 19, "peak": 3 },
+        { "rank": 7, "title": "MacArthur Park", "artist": "Donna Summer", "weeks": 17, "peak": 1 },
+        { "rank": 8, "title": "Lay Down Sally", "artist": "Eric Clapton", "weeks": 23, "peak": 3 },
+        { "rank": 9, "title": "Shadow Dancing", "artist": "Andy Gibb", "weeks": 25, "peak": 1 },
+        { "rank": 10, "title": "Boogie Oogie Oogie", "artist": "A Taste Of Honey", "weeks": 23, "peak": 1 },
+        { "rank": 11, "title": "Emotion", "artist": "Samantha Sang", "weeks": 20, "peak": 3 },
+        { "rank": 12, "title": "Hot Blooded", "artist": "Foreigner", "weeks": 17, "peak": 3 },
+        { "rank": 13, "title": "Take A Chance On Me", "artist": "Abba", "weeks": 18, "peak": 3 },
+        { "rank": 14, "title": "Miss You", "artist": "The Rolling Stones", "weeks": 20, "peak": 1 },
+        { "rank": 15, "title": "You're The One That I Want", "artist": "John Travolta", "weeks": 24, "peak": 1 },
+        { "rank": 16, "title": "How Deep Is Your Love", "artist": "Bee Gees", "weeks": 18, "peak": 1 },
+        { "rank": 17, "title": "You Don't Bring Me Flowers", "artist": "Barbra Streisand", "weeks": 10, "peak": 1 },
+        { "rank": 18, "title": "Sometimes When We Touch", "artist": "Dan Hill", "weeks": 16, "peak": 3 },
+        { "rank": 19, "title": "How Much I Feel", "artist": "Ambrosia", "weeks": 18, "peak": 3 },
+        { "rank": 20, "title": "Grease", "artist": "Frankie Valli", "weeks": 22, "peak": 1 },
+        { "rank": 21, "title": "Double Vision", "artist": "Foreigner", "weeks": 15, "peak": 2 },
+        { "rank": 22, "title": "Hopelessly Devoted To You", "artist": "Olivia Newton-John", "weeks": 19, "peak": 3 },
+        { "rank": 23, "title": "Baker Street", "artist": "Gerry Rafferty", "weeks": 20, "peak": 2 }
+      ]
+    },
+    "panel_albums": {
+      "region": "right",
+      "bounds_percent": { "x": 65, "y": 18, "w": 30, "h": 22 },
+      "header": "Biggest Albums",
+      "items": [
+        { "album": "Saturday Night Fever", "artist": "Soundtrack", "detail": "52 weeks" },
+        { "album": "Rumours", "artist": "Fleetwood Mac", "detail": "52 weeks" },
+        { "album": "The Stranger", "artist": "Billy Joel", "detail": "52 weeks" },
+        { "album": "Feels So Good", "artist": "Chuck Mangione", "detail": "52 weeks" },
+        { "album": "Running On Empty", "artist": "Jackson Browne", "detail": "52 weeks" }
+      ]
+    },
+    "panel_new_artists": {
+      "region": "right",
+      "bounds_percent": { "x": 65, "y": 42, "w": 30, "h": 22 },
+      "header": "New Artists",
+      "items": [
+        { "artist": "Exile", "song": "Kiss You All Over", "rank": 5 },
+        { "artist": "A Taste Of Honey", "song": "Boogie Oogie Oogie", "rank": 10 },
+        { "artist": "Samantha Sang", "song": "Emotion", "rank": 11 },
+        { "artist": "Gerry Rafferty", "song": "Baker Street", "rank": 23 }
+      ]
+    },
+    "panel_risers": {
+      "region": "right",
+      "bounds_percent": { "x": 65, "y": 66, "w": 30, "h": 22 },
+      "header": "Fastest Risers",
+      "placeholder": "TBD — pending chart data"
+    },
+    "footer_zone": {
+      "region": "bottom",
+      "bounds_percent": { "x": 5, "y": 92, "w": 90, "h": 6 },
+      "content": "1978 belonged to disco — the Bee Gees dominated the charts while new voices pushed pop toward a brighter, dance-driven sound."
+    }
+  }
+}

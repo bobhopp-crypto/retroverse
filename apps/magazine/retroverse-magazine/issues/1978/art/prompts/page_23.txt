@@ -1,8 +1,8 @@
 Retro magazine illustration for page 23 of a 1978 pop culture magazine.
 
 Prompt source: visual_concept
-Page slug: letters
-Page title: Letters
+Page slug: retro_ad
+Page title: Retro Ad
 Visual concept: mailroom_after_hours
 
 Article topic:
@@ -12,6 +12,9 @@ Visual direction from page brief:
 Scene description: A stack of opened reader letters, envelopes, and editorial scribbles in a quiet after-hours mail-sorting room.
 Camera style: desk-height close perspective
 Lighting style: warm tungsten pools with soft paper shadows
+
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
 
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.

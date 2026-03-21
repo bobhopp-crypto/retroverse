@@ -1,8 +1,8 @@
 Retro magazine illustration for page 27 of a 1978 pop culture magazine.
 
 Prompt source: visual_concept
-Page slug: year_timeline
-Page title: The Week-by-Week Yearline
+Page slug: forgotten_hit
+Page title: Almost Hits: Can't Smile Without You — Barry Manilow
 Visual concept: bulletin_board_time_ribbon
 
 Article topic:
@@ -12,6 +12,9 @@ Visual direction from page brief:
 Scene description: A layered bulletin board of dated clippings, tickets, snapshots, and arrows forming a visual ribbon through the year.
 Camera style: flat archival wall view
 Lighting style: neutral museum-style illumination
+
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
 
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.

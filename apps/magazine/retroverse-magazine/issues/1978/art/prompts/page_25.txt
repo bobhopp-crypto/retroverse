@@ -1,8 +1,8 @@
 Retro magazine illustration for page 25 of a 1978 pop culture magazine.
 
 Prompt source: visual_concept
-Page slug: one_hit_wonder
-Page title: One Hit Wonder
+Page slug: puzzle
+Page title: Puzzle 1
 Visual concept: one_night_stage_flash
 
 Article topic:
@@ -12,6 +12,9 @@ Visual direction from page brief:
 Scene description: A single spotlight on a small club stage after an electrifying moment, suggesting fame that burned bright and brief.
 Camera style: frontal stage shot
 Lighting style: isolated spotlight with smoky darkness
+
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
 
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.

@@ -1,8 +1,8 @@
 Retro magazine illustration for page 9 of a 1978 pop culture magazine.
 
 Prompt source: visual_concept
-Page slug: top_song_4
-Page title: 04. Three Times A Lady — Commodores
+Page slug: top_songs_group
+Page title: Top Songs #7-#10
 Visual concept: yacht_gala_ballroom
 
 Article topic:
@@ -12,6 +12,9 @@ Visual direction from page brief:
 Scene description: Formal evening scene aboard a luxury yacht with elegant guests, champagne, and smooth late-70s sophistication.
 Camera style: gliding ballroom perspective
 Lighting style: gold chandelier glow with moonlit accents
+
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
 
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.

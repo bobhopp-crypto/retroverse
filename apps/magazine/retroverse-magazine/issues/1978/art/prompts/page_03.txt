@@ -13,6 +13,9 @@ Scene description: An editor's corner with stacked magazines, handwritten notes,
 Camera style: three-quarter desk perspective
 Lighting style: late-afternoon window light with amber desk lamp
 
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
+
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.
 MAD Magazine caricature influence.

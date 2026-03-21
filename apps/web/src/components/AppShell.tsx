@@ -83,6 +83,15 @@ export default function AppShell({ children }: PropsWithChildren) {
       <div className="rv-frame">
         <header className="topbar">
           <div className="brand">RetroVerse</div>
+          <nav className="nav nav--charts-magazine" aria-label="Charts and Magazine">
+            <NavLink to="/" className={({ isActive }) => ['nav-link', isActive ? 'nav-link--active' : ''].join(' ')}>
+              Charts
+            </NavLink>
+            <span className="nav-sep" aria-hidden>|</span>
+            <NavLink to="/magazine" className={({ isActive }) => ['nav-link', isActive ? 'nav-link--active' : ''].join(' ')}>
+              Magazine
+            </NavLink>
+          </nav>
           <nav className="nav">
             {desktopNavItems.map((item) => (
               <NavLink

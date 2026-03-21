@@ -1,8 +1,8 @@
 Retro magazine illustration for page 8 of a 1978 pop culture magazine.
 
 Prompt source: visual_concept
-Page slug: top_song_3
-Page title: 03. (Love Is) Thicker Than Water — Andy Gibb
+Page slug: top_songs_group
+Page title: Top Songs #3-#6
 Visual concept: marina_sunset_romance
 
 Article topic:
@@ -12,6 +12,9 @@ Visual direction from page brief:
 Scene description: A breezy marina promenade at dusk with sailboats, pastel sky, and a couple framed against calm water and summer glamour.
 Camera style: wide romantic horizon shot
 Lighting style: soft sunset gradients with reflective water shimmer
+
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
 
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.

@@ -1,0 +1,35 @@
+/* RetroVerse Magazine - v0 static bundle */
+.magazine-home {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: system-ui, sans-serif;
+}
+.magazine-home header {
+  margin-bottom: 2rem;
+}
+.magazine-home h1 {
+  font-size: 2rem;
+  color: #1a1a1a;
+}
+.year-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  gap: 0.75rem;
+}
+.year-card {
+  display: block;
+  padding: 1rem;
+  background: #f5f5f5;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  text-align: center;
+  text-decoration: none;
+  color: #1a1a1a;
+  font-weight: 600;
+  transition: background 0.2s, border-color 0.2s;
+}
+.year-card:hover {
+  background: #eee;
+  border-color: #c0c0c0;
+}

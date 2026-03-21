@@ -10,13 +10,13 @@
   },
   "source_files": [
     "PROJECT_STATE.md",
-    "issues/context/1978_context.json",
+    "issues/context/1978_context_enriched.json",
     "issues/1978/layout/1978_production_targets.json",
     "issues/1978/layout/1978_issue_map.json",
     "issues/1978/chart_top23.md"
   ],
   "page_purpose": "Present 01. Stayin' Alive — Bee Gees as a complete RetroVerse 1978 top song page page, with page-aware artwork under real typography and no text baked into the illustration layer for `top_song_1`.",
-  "story_summary": "01. Stayin' Alive — Bee Gees Top Song #1 The opening pulse on \"Stayin' Alive\" still feels like a signal flare for the whole year. In this context file, it lands at the top with a score of 503, a #1 peak, and 23 total weeks on chart. That is not just a hit. That is a season-long presence. What makes it memorable is how confidently it arrives. The groove is immediate, the vocal line is unmistakable, and the title itself becomes a cultural phrase. You hear it once and you already know where the record wants to take the room. This is the kind of song that explains 1978 in one spin: rhythm-first, high-visibility, and built for repeat listens. Data Snapshot Artist: Bee Gees Weeks on chart: 23 Peak",
+  "story_summary": "01. Stayin' Alive — Bee Gees Top Song #1 The opening pulse of \"Stayin' Alive\" doesn't wait for permission — it takes over the room. That tight, relentless rhythm hits first, locking everything into motion before a single word is sung. By the time the vocal comes in, the floor is already moving. “The rhythm hits first — and it never lets go.” It's impossible to separate the song from the scene around it. With Saturday Night Fever driving it into every theater and every club, the record has become the sound of the dance floor itself. You hear it in packed rooms under mirrored balls, in car radios with the windows down, in bars where nobody's sitting still for long. What makes it work isn't jus",
   "verified_facts": [
     {
       "claim": "Page 6 is assigned to `top_song_1` in the canonical issue structure.",
@@ -68,14 +68,14 @@
     {
       "id": "page_deck",
       "role": "deck",
-      "content": "01. Stayin' Alive — Bee Gees Top Song #1 The opening pulse on \"Stayin' Alive\" still feels like a signal flare for the whole year. In this context file, it lands at the top with a score of 503, a #1 peak, and 23 total weeks on chart. That is not just a hit. That is a season-long presence. What makes it memorable is how confidently it arrives. The groove is immediate, the vocal line is unmistakable, and the title itself becomes a cultural phrase. You hear it once and you already know where the record wants to take the room. This is the kind of song that explains 1978 in one spin: rhythm-first, high-visibility, and built for repeat listens. Data Snapshot Artist: Bee Gees Weeks on chart: 23 Peak",
+      "content": "01. Stayin' Alive — Bee Gees Top Song #1 The opening pulse of \"Stayin' Alive\" doesn't wait for permission — it takes over the room. That tight, relentless rhythm hits first, locking everything into motion before a single word is sung. By the time the vocal comes in, the floor is already moving. “The rhythm hits first — and it never lets go.” It's impossible to separate the song from the scene around it. With Saturday Night Fever driving it into every theater and every club, the record has become the sound of the dance floor itself. You hear it in packed rooms under mirrored balls, in car radios with the windows down, in bars where nobody's sitting still for long. What makes it work isn't jus",
       "source_file": "PROJECT_STATE.md",
       "intended_zone": "title_zone"
     },
     {
       "id": "body_01",
       "role": "body",
-      "content": "The opening pulse on \"Stayin' Alive\" still feels like a signal flare for the whole year. In this context file, it lands at the top with a score of 503, a #1 peak, and 23 total weeks on chart. That is not just a hit. That is a season-long presence. What makes it memorable is how confidently it arrives. The groove is immediate, the vocal line is unmistakable, and the title itself becomes a cultural phrase. You hear it once and you already know where the record wants to take the room. This is the kind of song that explains 1978 in one spin: rhythm-first, high-visibility, and built for repeat listens. Data Snapshot Artist: Bee Gees Weeks on chart: 23 Peak position: #1 RetroVerse yearly score: 503",
+      "content": "The opening pulse of \"Stayin' Alive\" doesn't wait for permission — it takes over the room. That tight, relentless rhythm hits first, locking everything into motion before a single word is sung. By the time the vocal comes in, the floor is already moving. “The rhythm hits first — and it never lets go.” It's impossible to separate the song from the scene around it. With Saturday Night Fever driving it into every theater and every club, the record has become the sound of the dance floor itself. You hear it in packed rooms under mirrored balls, in car radios with the windows down, in bars where nobody's sitting still for long. What makes it work isn't just the beat — it's the precision. The falsetto cuts clean through the track, riding that groove without ever slipping. Every part feels engineered for movement: tight, controlled, and built to keep people on their feet. And once it starts, it doesn't fade into the background. This isn't music you ignore. It's music that fills the room and demands attention. You don't talk over it — you move with it. The title says everything. \"Stayin' Alive\" isn't just a lyric — it's the energy of the year. In a moment defined by nightlife, momentum, and motion, this is the record that captures all of it in three and a half minutes. It doesn't just sit at the top of the chart — it defines what being there sounds like in 1978. Data Snapshot Artist: Bee Gees Weeks on chart: 23 Peak position: #1 RetroVerse yearly score: 503",
       "source_file": "issues/1978/chart_top23.md",
       "intended_zone": "body_zone"
     }
@@ -114,7 +114,7 @@
     "orientation": "portrait",
     "filename": "page_06_top_song_1.html",
     "structure": "top song page",
-    "hero_asset": "assets/placeholder.png",
+    "hero_asset": "pages/page_06.png",
     "collage_assets": [],
     "layout_output": "issues/1978/layout/page_06_top_song_1.html"
   },
@@ -186,5 +186,11 @@
     "Page artwork must preserve negative space inside all declared safe zones.",
     "Environmental lettering may appear only if natural, minimal, and not production-critical."
   ],
-  "easter_egg_rule": "Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography."
+  "easter_egg_rule": "Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography.",
+  "editorial_enrichment": {
+    "cultural_context": "As the No. 1 song of 1978 with 23 chart weeks and a No. 1 peak, it reads like a public-facing night record, the kind of song that spills from dance floors into taxis, sidewalks, and storefront speakers.",
+    "sound_description": "The title suggests a clipped, relentless pulse with enough polish to feel mechanical and human at the same time.",
+    "notable_fact": "Bee Gees places 3 songs in the RetroVerse Top 40 for 1978, and this track is part of that larger year-long presence.",
+    "scene_use": "Use it for downtown stride, subway stairs, mirrored rooms, or any scene where the city and the beat feel locked together."
+  }
 }

@@ -1,8 +1,8 @@
 Retro magazine illustration for page 22 of a 1978 pop culture magazine.
 
 Prompt source: visual_concept
-Page slug: puzzle
-Page title: Puzzle 1
+Page slug: arcade
+Page title: Arcade / Technology
 Visual concept: tabletop_brainteaser_scene
 
 Article topic:
@@ -12,6 +12,9 @@ Visual direction from page brief:
 Scene description: Kitchen table with pencils, clue cards, coffee mugs, and period ephemera arranged for an evening puzzle session.
 Camera style: top-down tabletop view
 Lighting style: soft domestic overhead light
+
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
 
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.

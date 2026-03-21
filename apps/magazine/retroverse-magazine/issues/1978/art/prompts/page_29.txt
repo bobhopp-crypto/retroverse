@@ -1,8 +1,8 @@
 Retro magazine illustration for page 29 of a 1978 pop culture magazine.
 
 Prompt source: visual_concept
-Page slug: retro_ads_page
-Page title: Retro Ads Page
+Page slug: album_spotlight
+Page title: Album Gravity: Saturday Night Fever — Soundtrack
 Visual concept: mail_order_showcase_grid
 
 Article topic:
@@ -12,6 +12,9 @@ Visual direction from page brief:
 Scene description: A playful showroom of mail-order bundles, coupons, promo inserts, and consumer temptations arranged like a late-book ad spread.
 Camera style: structured multi-object display view
 Lighting style: bright catalog lighting with crisp product highlights
+
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
 
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.

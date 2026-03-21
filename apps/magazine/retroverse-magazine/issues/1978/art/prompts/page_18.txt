@@ -1,8 +1,8 @@
 Retro magazine illustration for page 18 of a 1978 pop culture magazine.
 
 Prompt source: visual_concept
-Page slug: culture
-Page title: Culture Feature: Everyday 1978
+Page slug: projection_booth
+Page title: From the Projection Booth
 Visual concept: neighborhood_street_collage
 
 Article topic:
@@ -12,6 +12,9 @@ Visual direction from page brief:
 Scene description: Busy neighborhood block with posters, salon windows, record bags, denim, and everyday style markers of 1978.
 Camera style: street-level documentary angle
 Lighting style: bright overcast daylight with storefront color pops
+
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
 
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.

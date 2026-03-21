@@ -13,6 +13,9 @@ Scene description: Downtown 1978 nightlife with cinema marquee glow, taxis, stor
 Camera style: wide street perspective
 Lighting style: neon reflections and warm theater lights
 
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
+
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.
 MAD Magazine caricature influence.

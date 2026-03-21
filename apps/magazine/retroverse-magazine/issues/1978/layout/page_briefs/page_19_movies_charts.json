@@ -1,0 +1,178 @@
+{
+  "year": 1978,
+  "page_type": "movies charts page",
+  "page_slug": "movies_charts",
+  "title": "Movies & Awards",
+  "subtitle": "Top 10, Academy Awards, and more",
+  "writer": {
+    "name": "RetroVerse Film Desk",
+    "byline": "RetroVerse Film Desk"
+  },
+  "source_files": [
+    "PROJECT_STATE.md",
+    "issues/context/1978_context_enriched.json",
+    "issues/1978/layout/1978_production_targets.json",
+    "issues/1978/layout/1978_issue_map.json",
+    "issues/1978/movies_charts.md"
+  ],
+  "page_purpose": "Present Movies & Awards as a complete RetroVerse 1978 movies charts page page, with page-aware artwork under real typography and no text baked into the illustration layer for `movies_charts`.",
+  "story_summary": "Movies & Awards Top 10, Academy Awards, and more Top 10 Movies 1Grease2Superman3Heaven Can Wait4The Deer Hunter5Jaws 26Animal House7Every Which Way but Loose8Halloween9Hooper10The WizAcademy Awards Best PictureThe Deer HunterBest DirectorMichael CiminoBest ActorJon VoightBest ActressJane FondaNominees['The Deer Hunter', 'Coming Home', 'Heaven Can Wait', 'Midnight Express', 'An Unmarried Woman']Also Playing Coming Home Midnight Express An Unmarried Woman The Driver Days of Heaven",
+  "verified_facts": [
+    {
+      "claim": "Page 19 is assigned to `movies_charts` in the canonical issue structure.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The page title is 'Movies & Awards'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The page subtitle is 'Top 10, Academy Awards, and more'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The intended layout type is 'movies charts page'.",
+      "source_file": "PROJECT_STATE.md"
+    }
+  ],
+  "text_blocks": [
+    {
+      "id": "page_title",
+      "role": "title",
+      "content": "Movies & Awards",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_subtitle",
+      "role": "subtitle",
+      "content": "Top 10, Academy Awards, and more",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_byline",
+      "role": "byline",
+      "content": "RetroVerse Film Desk",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_deck",
+      "role": "deck",
+      "content": "Movies & Awards Top 10, Academy Awards, and more Top 10 Movies 1Grease2Superman3Heaven Can Wait4The Deer Hunter5Jaws 26Animal House7Every Which Way but Loose8Halloween9Hooper10The WizAcademy Awards Best PictureThe Deer HunterBest DirectorMichael CiminoBest ActorJon VoightBest ActressJane FondaNominees['The Deer Hunter', 'Coming Home', 'Heaven Can Wait', 'Midnight Express', 'An Unmarried Woman']Also Playing Coming Home Midnight Express An Unmarried Woman The Driver Days of Heaven",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "body_01",
+      "role": "body",
+      "content": "Top 10 Movies 1Grease2Superman3Heaven Can Wait4The Deer Hunter5Jaws 26Animal House7Every Which Way but Loose8Halloween9Hooper10The WizAcademy Awards Best PictureThe Deer HunterBest DirectorMichael CiminoBest ActorJon VoightBest ActressJane FondaNominees['The Deer Hunter', 'Coming Home', 'Heaven Can Wait', 'Midnight Express', 'An Unmarried Woman']Also Playing Coming Home Midnight Express An Unmarried Woman The Driver Days of Heaven",
+      "source_file": "issues/1978/movies_charts.md",
+      "intended_zone": "body_zone"
+    }
+  ],
+  "sidebar_blocks": [
+    {
+      "id": "movies_charts_metadata",
+      "title": "Page Facts",
+      "items": [
+        {
+          "label": "Page",
+          "value": "19"
+        },
+        {
+          "label": "Section",
+          "value": "movies_charts"
+        },
+        {
+          "label": "Role",
+          "value": "Editorial page"
+        }
+      ]
+    }
+  ],
+  "qa_notes": [
+    "Story and page text are defined before illustration prompt generation.",
+    "Art direction reads the entire page intent, not a floating insert concept.",
+    "All final production typography is reserved for the layout engine."
+  ],
+  "layout_requirements": {
+    "page_number": 19,
+    "orientation": "portrait",
+    "filename": "page_19_movies_charts.html",
+    "structure": "movies charts page",
+    "hero_asset": null,
+    "collage_assets": [],
+    "layout_output": "issues/1978/layout/page_19_movies_charts.html"
+  },
+  "art_direction": {
+    "concept": "A 1978 editorial scene for Movies & Awards: Top 10, Academy Awards, and more",
+    "page_readback": "Present Movies & Awards as a complete RetroVerse 1978 movies charts page page, with page-aware artwork under real typography and no text baked into the illustration layer for `movies_charts`.",
+    "mood": "controlled and legible",
+    "palette": "cream paper base with black ink, muted cyan, and mustard accents",
+    "visual_hierarchy": [
+      "Primary focal area supports Movies & Awards.",
+      "Secondary props reinforce `movies_charts` without competing with text zones.",
+      "Negative space stays calm inside title, body, sidebar, and footer zones."
+    ]
+  },
+  "text_safe_zones": [
+    {
+      "id": "title_zone",
+      "x": 7,
+      "y": 6,
+      "width": 52,
+      "height": 12,
+      "unit": "percent"
+    },
+    {
+      "id": "body_zone",
+      "x": 7,
+      "y": 22,
+      "width": 52,
+      "height": 64,
+      "unit": "percent"
+    },
+    {
+      "id": "sidebar_zone",
+      "x": 63,
+      "y": 22,
+      "width": 26,
+      "height": 60,
+      "unit": "percent"
+    },
+    {
+      "id": "footer_zone",
+      "x": 7,
+      "y": 93,
+      "width": 86,
+      "height": 3,
+      "unit": "percent"
+    }
+  ],
+  "must_include": [
+    "Movies & Awards",
+    "Top 10, Academy Awards, and more",
+    "RetroVerse Film Desk",
+    "Page 19",
+    "Layout overlays the real editorial text after illustration approval."
+  ],
+  "must_not_render_in_art": [
+    "article body text",
+    "charts/tables",
+    "exact production typography",
+    "magazine headlines",
+    "page titles",
+    "pull quotes",
+    "sidebars",
+    "chart tables",
+    "magazine layout elements"
+  ],
+  "style_notes": [
+    "RetroVerse pages use scene artwork as background assets beneath real typography.",
+    "Page artwork must preserve negative space inside all declared safe zones.",
+    "Environmental lettering may appear only if natural, minimal, and not production-critical."
+  ],
+  "easter_egg_rule": "Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography."
+}

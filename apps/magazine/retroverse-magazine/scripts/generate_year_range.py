@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import subprocess
 import sys
@@ -22,7 +23,8 @@ LOGS_DIR = PROJECT_ROOT / "logs"
 LOG_PATH = LOGS_DIR / "year_generation_log.json"
 SUMMARY_PATH = LOGS_DIR / "year_generation_summary.md"
 
-WAREHOUSE_ROOT = Path("/Users/bobhopp/Sites/retroverse/data/raw/screen-culture/warehouse")
+_REPO_ROOT = Path(os.environ["RETROVERSE_ROOT"]) if os.environ.get("RETROVERSE_ROOT") else Path(__file__).resolve().parents[4]
+WAREHOUSE_ROOT = _REPO_ROOT / "data" / "raw" / "screen-culture" / "screen-culture" / "warehouse"
 MOVIES_BY_YEAR_PATH = WAREHOUSE_ROOT / "movies_by_year.json"
 TELEVISION_BY_YEAR_PATH = WAREHOUSE_ROOT / "television_by_year.json"
 

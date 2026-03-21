@@ -1,37 +1,37 @@
 {
   "year": 1978,
-  "page_type": "screen feature",
+  "page_type": "movie parody spread",
   "page_slug": "movies",
-  "title": "Movies of the Year",
-  "subtitle": "Movies of the Year",
+  "title": "Movies Parody Spread",
+  "subtitle": "Famous lines, bent just enough to catch the decade",
   "writer": {
-    "name": "Martin Hale, Film Editor",
-    "byline": "By Martin Hale, Film Editor"
+    "name": "RetroVerse Film Desk",
+    "byline": "RetroVerse Film Desk"
   },
   "source_files": [
     "PROJECT_STATE.md",
-    "issues/context/1978_context.json",
+    "issues/context/1978_context_enriched.json",
     "issues/1978/layout/1978_production_targets.json",
     "issues/1978/layout/1978_issue_map.json",
     "issues/1978/movies.md"
   ],
-  "page_purpose": "Present Movies of the Year as a complete RetroVerse 1978 screen feature page, with page-aware artwork under real typography and no text baked into the illustration layer for `movies`.",
-  "story_summary": "Movies of the Year Movies of the Year If you want to feel moviegoing energy in this 1978 context build, start with the crossover songs. \"You're The One That I Want\" (John Travolta) appears at rank 15 in the top songs set with 24 chart weeks, peak #1, and score 318. \"Grease\" (Frankie Valli) is right there at rank 20 with 22 weeks, peak #1, and score 279. That pairing tells a familiar story from the theater line: screen moments did not stay on screen. They traveled into radio rotation and then right back into conversation. When music from film keeps that kind of chart visibility, it usually means the audience experience was collective and repeatable. I like to think of 1978 as a year when peop",
+  "page_purpose": "Present Movies Parody Spread as a complete RetroVerse 1978 movie parody spread page, with page-aware artwork under real typography and no text baked into the illustration layer for `movies`.",
+  "story_summary": "Movies Parody Spread Famous lines, bent just enough to catch the decade LINES THE YEAR COULDN'T SHAKE Five box-office favorites per page, reduced to one big line and one clean visual beat. #1 Grease CARTell me about it, satin. #2 Superman CAPEYou'll believe a man can beat the popcorn line.Snack-bar heroics. #3 Animal House KEGWas it over when the keg ran dry? Not remotely.Chaos gets tenure. #4 Heaven Can Wait HALOEven the afterlife has a waiting list. #5 Every Which Way But Loose APERight turn, Clyde. The valet is glaring.",
   "verified_facts": [
     {
       "claim": "Page 16 is assigned to `movies` in the canonical issue structure.",
       "source_file": "PROJECT_STATE.md"
     },
     {
-      "claim": "The page title is 'Movies of the Year'.",
+      "claim": "The page title is 'Movies Parody Spread'.",
       "source_file": "PROJECT_STATE.md"
     },
     {
-      "claim": "The page subtitle is 'Movies of the Year'.",
+      "claim": "The page subtitle is 'Famous lines, bent just enough to catch the decade'.",
       "source_file": "PROJECT_STATE.md"
     },
     {
-      "claim": "The intended layout type is 'screen feature'.",
+      "claim": "The intended layout type is 'movie parody spread'.",
       "source_file": "PROJECT_STATE.md"
     }
   ],
@@ -39,35 +39,35 @@
     {
       "id": "page_title",
       "role": "title",
-      "content": "Movies of the Year",
+      "content": "Movies Parody Spread",
       "source_file": "PROJECT_STATE.md",
       "intended_zone": "title_zone"
     },
     {
       "id": "page_subtitle",
       "role": "subtitle",
-      "content": "Movies of the Year",
+      "content": "Famous lines, bent just enough to catch the decade",
       "source_file": "PROJECT_STATE.md",
       "intended_zone": "title_zone"
     },
     {
       "id": "page_byline",
       "role": "byline",
-      "content": "By Martin Hale, Film Editor",
+      "content": "RetroVerse Film Desk",
       "source_file": "PROJECT_STATE.md",
       "intended_zone": "title_zone"
     },
     {
       "id": "page_deck",
       "role": "deck",
-      "content": "Movies of the Year Movies of the Year If you want to feel moviegoing energy in this 1978 context build, start with the crossover songs. \"You're The One That I Want\" (John Travolta) appears at rank 15 in the top songs set with 24 chart weeks, peak #1, and score 318. \"Grease\" (Frankie Valli) is right there at rank 20 with 22 weeks, peak #1, and score 279. That pairing tells a familiar story from the theater line: screen moments did not stay on screen. They traveled into radio rotation and then right back into conversation. When music from film keeps that kind of chart visibility, it usually means the audience experience was collective and repeatable. I like to think of 1978 as a year when peop",
+      "content": "Movies Parody Spread Famous lines, bent just enough to catch the decade LINES THE YEAR COULDN'T SHAKE Five box-office favorites per page, reduced to one big line and one clean visual beat. #1 Grease CARTell me about it, satin. #2 Superman CAPEYou'll believe a man can beat the popcorn line.Snack-bar heroics. #3 Animal House KEGWas it over when the keg ran dry? Not remotely.Chaos gets tenure. #4 Heaven Can Wait HALOEven the afterlife has a waiting list. #5 Every Which Way But Loose APERight turn, Clyde. The valet is glaring.",
       "source_file": "PROJECT_STATE.md",
       "intended_zone": "title_zone"
     },
     {
       "id": "body_01",
       "role": "body",
-      "content": "If you want to feel moviegoing energy in this 1978 context build, start with the crossover songs. \"You're The One That I Want\" (John Travolta) appears at rank 15 in the top songs set with 24 chart weeks, peak #1, and score 318. \"Grease\" (Frankie Valli) is right there at rank 20 with 22 weeks, peak #1, and score 279. That pairing tells a familiar story from the theater line: screen moments did not stay on screen. They traveled into radio rotation and then right back into conversation. When music from film keeps that kind of chart visibility, it usually means the audience experience was collective and repeatable. I like to think of 1978 as a year when people did not just watch a movie and move on. They carried pieces of it home, replayed them, quoted them, and sang them. You can hear that behavior in the chart traces themselves. Context Notes Source file used: issues/context/1978_context.json Film-linked chart signals used in this page: \"You're The One That I Want\" — 24 weeks, peak #1, score 318 \"Grease\" — 22 weeks, peak #1, score 279",
+      "content": "LINES THE YEAR COULDN'T SHAKE Five box-office favorites per page, reduced to one big line and one clean visual beat. #1 Grease CARTell me about it, satin. #2 Superman CAPEYou'll believe a man can beat the popcorn line.Snack-bar heroics. #3 Animal House KEGWas it over when the keg ran dry? Not remotely.Chaos gets tenure. #4 Heaven Can Wait HALOEven the afterlife has a waiting list. #5 Every Which Way But Loose APERight turn, Clyde. The valet is glaring.",
       "source_file": "issues/1978/movies.md",
       "intended_zone": "body_zone"
     }
@@ -101,18 +101,18 @@
     "page_number": 16,
     "orientation": "portrait",
     "filename": "page_16_movies.html",
-    "structure": "screen feature",
-    "hero_asset": "assets/placeholder.png",
+    "structure": "movie parody spread",
+    "hero_asset": null,
     "collage_assets": [],
     "layout_output": "issues/1978/layout/page_16_movies.html"
   },
   "art_direction": {
     "concept": "A crowded 1978 theater district with marquee glow, ticket-booth detail, and moviegoing energy that leaves space for overlay text.",
-    "page_readback": "Present Movies of the Year as a complete RetroVerse 1978 screen feature page, with page-aware artwork under real typography and no text baked into the illustration layer for `movies`.",
+    "page_readback": "Present Movies Parody Spread as a complete RetroVerse 1978 movie parody spread page, with page-aware artwork under real typography and no text baked into the illustration layer for `movies`.",
     "mood": "kinetic and high-attention",
     "palette": "cinema red, projector gold, chrome, and warm paper stock",
     "visual_hierarchy": [
-      "Primary focal area supports Movies of the Year.",
+      "Primary focal area supports Movies Parody Spread.",
       "Secondary props reinforce `movies` without competing with text zones.",
       "Negative space stays calm inside title, body, sidebar, and footer zones."
     ]
@@ -122,24 +122,24 @@
       "id": "title_zone",
       "x": 7,
       "y": 6,
-      "width": 54,
-      "height": 14,
+      "width": 50,
+      "height": 12,
       "unit": "percent"
     },
     {
       "id": "body_zone",
       "x": 7,
-      "y": 24,
-      "width": 55,
-      "height": 60,
+      "y": 22,
+      "width": 48,
+      "height": 62,
       "unit": "percent"
     },
     {
       "id": "sidebar_zone",
-      "x": 65,
-      "y": 24,
-      "width": 24,
-      "height": 56,
+      "x": 60,
+      "y": 22,
+      "width": 29,
+      "height": 60,
       "unit": "percent"
     },
     {
@@ -152,9 +152,9 @@
     }
   ],
   "must_include": [
-    "Movies of the Year",
-    "Movies of the Year",
-    "By Martin Hale, Film Editor",
+    "Movies Parody Spread",
+    "Famous lines, bent just enough to catch the decade",
+    "RetroVerse Film Desk",
     "Page 16",
     "Layout overlays the real editorial text after illustration approval."
   ],

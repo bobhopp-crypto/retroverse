@@ -26,6 +26,12 @@
   status = 200
   force = true
 
+# Static magazine bundle at /magazine/
+[[redirects]]
+  from = "/magazine"
+  to = "/magazine/"
+  status = 301
+
 [[redirects]]
   from = "/magazine/:year"
   to = "/index.html"

@@ -1,0 +1,190 @@
+{
+  "year": 1978,
+  "page_type": "grouped top songs page",
+  "page_slug": "top_songs_group",
+  "title": "Top Songs #7-#10",
+  "subtitle": "Four More Records That Keep 1978 Moving",
+  "writer": {
+    "name": "Bob Jones, Music Features Editor",
+    "byline": "By Bob Jones, Music Features Editor"
+  },
+  "source_files": [
+    "PROJECT_STATE.md",
+    "issues/context/1978_context_enriched.json",
+    "issues/1978/layout/1978_production_targets.json",
+    "issues/1978/layout/1978_issue_map.json",
+    "issues/1978/chart_top23.md"
+  ],
+  "page_purpose": "Present Top Songs #7-#10 as a complete RetroVerse 1978 grouped top songs page page, with page-aware artwork under real typography and no text baked into the illustration layer for `top_songs_group`.",
+  "story_summary": "Top Songs #7-#10 Four More Records That Keep 1978 Moving The lower half of the Top 10 is no afterthought. These are the records that stretch the year from theatrical disco sweep to easygoing groove and bass-first commands built to turn a room. By this point in the Top 10, rhythm is running the room.No. 07 MacArthur Park Donna Summer • 17 weeks • peak #1 \"MacArthur Park\" does not enter a room so much as sweep across it. You hear it under club lights, in car radios cruising boulevards, and anywhere a DJ wants to turn a single into full-scale drama. Donna Summer gives the record height, but the real thrill is the motion underneath: strings lifting, rhythm driving, the whole arrangement pushing",
+  "verified_facts": [
+    {
+      "claim": "Page 9 is assigned to `top_songs_group` in the canonical issue structure.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The page title is 'Top Songs #7-#10'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The page subtitle is 'Four More Records That Keep 1978 Moving'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "The intended layout type is 'grouped top songs page'.",
+      "source_file": "PROJECT_STATE.md"
+    },
+    {
+      "claim": "No. 7: MacArthur Park — Donna Summer (17 weeks, peak #1). It reached No. 1 and stayed on the chart for 17 weeks, giving it both headline status and shelf life.",
+      "source_file": "issues/1978/chart_top23.md"
+    },
+    {
+      "claim": "No. 8: Lay Down Sally — Eric Clapton (23 weeks, peak #3). It peaked at No. 3 but still held the chart for 23 weeks, which makes it feel durable rather than momentary.",
+      "source_file": "issues/1978/chart_top23.md"
+    }
+  ],
+  "text_blocks": [
+    {
+      "id": "page_title",
+      "role": "title",
+      "content": "Top Songs #7-#10",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_subtitle",
+      "role": "subtitle",
+      "content": "Four More Records That Keep 1978 Moving",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_byline",
+      "role": "byline",
+      "content": "By Bob Jones, Music Features Editor",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "page_deck",
+      "role": "deck",
+      "content": "Top Songs #7-#10 Four More Records That Keep 1978 Moving The lower half of the Top 10 is no afterthought. These are the records that stretch the year from theatrical disco sweep to easygoing groove and bass-first commands built to turn a room. By this point in the Top 10, rhythm is running the room.No. 07 MacArthur Park Donna Summer • 17 weeks • peak #1 \"MacArthur Park\" does not enter a room so much as sweep across it. You hear it under club lights, in car radios cruising boulevards, and anywhere a DJ wants to turn a single into full-scale drama. Donna Summer gives the record height, but the real thrill is the motion underneath: strings lifting, rhythm driving, the whole arrangement pushing",
+      "source_file": "PROJECT_STATE.md",
+      "intended_zone": "title_zone"
+    },
+    {
+      "id": "body_01",
+      "role": "body",
+      "content": "The lower half of the Top 10 is no afterthought. These are the records that stretch the year from theatrical disco sweep to easygoing groove and bass-first commands built to turn a room. By this point in the Top 10, rhythm is running the room.No. 07 MacArthur Park Donna Summer • 17 weeks • peak #1 \"MacArthur Park\" does not enter a room so much as sweep across it. You hear it under club lights, in car radios cruising boulevards, and anywhere a DJ wants to turn a single into full-scale drama. Donna Summer gives the record height, but the real thrill is the motion underneath: strings lifting, rhythm driving, the whole arrangement pushing forward like weather over a city. You feel it in the chest before you sort out the story. That is why it stands apart this year. Most hits capture a mood; this one builds an entire horizon and then dances across it. No. 08 Lay Down Sally Eric Clapton • 23 weeks • peak #3 \"Lay Down Sally\" sounds like open windows, roadside bars, convertible radios, and the hour before the night decides what kind of night it will be. Eric Clapton keeps the groove loose, almost conversational, and that easy roll is the song's advantage. You feel it in the hips more than the feet, a relaxed sway instead of a club command. Set against 1978's glossy dance records and oversized declarations, it stands out by refusing strain. Nothing is overplayed, nothing forced. The whole track moves like it knows charm works better when it looks effortless. No. 09 Shadow Dancing Andy Gibb • 25 weeks • peak #1 \"Shadow Dancing\" belongs under mirrored lights, at roller rinks, and on late-night FM when the city outside the windshield looks like streaks of color. Andy Gibb gives it a sleek, gliding vocal, but the real sensation is the rhythm tracing bodies through the room. It feels side-lit and satin-smooth, the kind of record that makes movement look easier than it is. That separates it from plenty of louder hits in 1978. \"Shadow Dancing\" does not need to shout to control the floor; it lets shape, glide, and atmosphere do the work. No. 10 Boogie Oogie Oogie A Taste Of Honey • 23 weeks • peak #1 \"Boogie Oogie Oogie\" announces itself like a DJ dropping the needle at exactly the right second. It is heard in packed clubs, roller rinks, neighborhood parties, and through open car windows where the bass arrives before the rest of the song. A Taste Of Honey builds the whole thing from that irresistible forward pull, and physically it lands in the knees right away. People do not debate this record; they answer it. That is why it stands out in a crowded year. The hook is not merely memorable, it is functional. It tells a room what to do and gets immediate results.",
+      "source_file": "issues/1978/chart_top23.md",
+      "intended_zone": "body_zone"
+    }
+  ],
+  "sidebar_blocks": [
+    {
+      "id": "top_songs_group_data",
+      "title": "Data References",
+      "items": [
+        {
+          "label": "No. 7: MacArthur Park — Donna Summer (17 weeks, peak #1). It reached No. 1 and stayed on the chart for 17 weeks, giving it both headline status and shelf life.",
+          "value": "Structured reference"
+        },
+        {
+          "label": "No. 8: Lay Down Sally — Eric Clapton (23 weeks, peak #3). It peaked at No. 3 but still held the chart for 23 weeks, which makes it feel durable rather than momentary.",
+          "value": "Structured reference"
+        },
+        {
+          "label": "No. 9: Shadow Dancing — Andy Gibb (25 weeks, peak #1). Andy Gibb places 3 songs in the RetroVerse Top 40 for 1978, and this track is part of that larger year-long presence.",
+          "value": "Structured reference"
+        },
+        {
+          "label": "No. 10: Boogie Oogie Oogie — A Taste Of Honey (23 weeks, peak #1). It reached No. 1 and stayed on the chart for 23 weeks, giving it both headline status and shelf life.",
+          "value": "Structured reference"
+        }
+      ]
+    }
+  ],
+  "qa_notes": [
+    "Story and page text are defined before illustration prompt generation.",
+    "Art direction reads the entire page intent, not a floating insert concept.",
+    "All final production typography is reserved for the layout engine."
+  ],
+  "layout_requirements": {
+    "page_number": 9,
+    "orientation": "portrait",
+    "filename": "page_09_top_songs_group.html",
+    "structure": "grouped top songs page",
+    "hero_asset": "pages/page_09.png",
+    "collage_assets": [],
+    "layout_output": "issues/1978/layout/page_09_top_songs_group.html"
+  },
+  "art_direction": {
+    "concept": "A chart-room or radio-control environment for 1978, with directional graphic rhythm and clean statistic zones.",
+    "page_readback": "Present Top Songs #7-#10 as a complete RetroVerse 1978 grouped top songs page page, with page-aware artwork under real typography and no text baked into the illustration layer for `top_songs_group`.",
+    "mood": "editorial and period-aware",
+    "palette": "warm paper stock, halftone black, amber, teal, and late-70s saturated accent colors",
+    "visual_hierarchy": [
+      "Primary focal area supports Top Songs #7-#10.",
+      "Secondary props reinforce `top_songs_group` without competing with text zones.",
+      "Negative space stays calm inside title, body, sidebar, and footer zones."
+    ]
+  },
+  "text_safe_zones": [
+    {
+      "id": "title_zone",
+      "x": 7,
+      "y": 6,
+      "width": 54,
+      "height": 14,
+      "unit": "percent"
+    },
+    {
+      "id": "body_zone",
+      "x": 7,
+      "y": 24,
+      "width": 55,
+      "height": 60,
+      "unit": "percent"
+    },
+    {
+      "id": "sidebar_zone",
+      "x": 65,
+      "y": 24,
+      "width": 24,
+      "height": 56,
+      "unit": "percent"
+    },
+    {
+      "id": "footer_zone",
+      "x": 7,
+      "y": 93,
+      "width": 86,
+      "height": 3,
+      "unit": "percent"
+    }
+  ],
+  "must_include": [
+    "Top Songs #7-#10",
+    "Four More Records That Keep 1978 Moving",
+    "By Bob Jones, Music Features Editor",
+    "Page 09",
+    "Layout overlays the real editorial text after illustration approval."
+  ],
+  "must_not_render_in_art": [
+    "article body text",
+    "charts/tables",
+    "exact production typography",
+    "magazine headlines",
+    "page titles",
+    "pull quotes",
+    "sidebars",
+    "chart tables",
+    "magazine layout elements"
+  ],
+  "style_notes": [
+    "RetroVerse pages use scene artwork as background assets beneath real typography.",
+    "Page artwork must preserve negative space inside all declared safe zones.",
+    "Environmental lettering may appear only if natural, minimal, and not production-critical."
+  ],
+  "easter_egg_rule": "Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography."
+}

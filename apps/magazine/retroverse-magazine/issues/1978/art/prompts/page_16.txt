@@ -2,7 +2,7 @@ Retro magazine illustration for page 16 of a 1978 pop culture magazine.
 
 Prompt source: visual_concept
 Page slug: movies
-Page title: Movies of the Year
+Page title: Movies Parody Spread
 Visual concept: cinema_marquee_corridor
 
 Article topic:
@@ -12,6 +12,9 @@ Visual direction from page brief:
 Scene description: A bustling multiplex corridor with poster cases, concession glow, and moviegoers converging under marquee lights.
 Camera style: deep-perspective lobby shot
 Lighting style: projector gold with red velvet warmth
+
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
 
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.

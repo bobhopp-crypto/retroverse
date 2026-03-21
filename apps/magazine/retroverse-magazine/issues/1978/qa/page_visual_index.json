@@ -1,7 +1,7 @@
 {
   "year": 1978,
-  "generated_at": "2026-03-14T20:39:40-05:00",
-  "page_count": 30,
+  "generated_at": "2026-03-19T19:07:45-05:00",
+  "page_count": 33,
   "qa_reports": [
     {
       "report": "1978_art_direction_QA.md",
@@ -100,23 +100,61 @@
     {
       "page_number": 4,
       "page_slug": "year_snapshot",
-      "image_path": "issues/1978/art/pages/page_04.png",
+      "image_path": "assets/placeholder.png",
       "layout_path": "issues/1978/layout/page_04_year_snapshot.html",
-      "image_href": "../art/pages/page_04.png",
+      "image_href": "../../../assets/placeholder.png",
       "layout_href": "../layout/page_04_year_snapshot.html",
       "badges": [
         {
+          "label": "duplicate x1",
+          "kind": "warn",
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [5, 10, 11, 12, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
+        },
+        {
           "label": "prompt mismatch x2",
           "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_04.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_04.png"
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_04.png"
         }
       ],
       "trace_warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_04.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_04.png"
         ]
       }
@@ -124,23 +162,61 @@
     {
       "page_number": 5,
       "page_slug": "charts_overview",
-      "image_path": "issues/1978/art/pages/page_05.png",
+      "image_path": "assets/placeholder.png",
       "layout_path": "issues/1978/layout/page_05_charts_overview.html",
-      "image_href": "../art/pages/page_05.png",
+      "image_href": "../../../assets/placeholder.png",
       "layout_href": "../layout/page_05_charts_overview.html",
       "badges": [
         {
+          "label": "duplicate x1",
+          "kind": "warn",
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 10, 11, 12, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
+        },
+        {
           "label": "prompt mismatch x2",
           "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_05.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_05.png"
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_05.png"
         }
       ],
       "trace_warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_05.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_05.png"
         ]
       }
@@ -195,11 +271,11 @@
     },
     {
       "page_number": 8,
-      "page_slug": "top_song_3",
+      "page_slug": "top_songs_group",
       "image_path": "issues/1978/art/pages/page_08.png",
-      "layout_path": "issues/1978/layout/page_08_top_song_3.html",
+      "layout_path": "issues/1978/layout/page_08_top_songs_group.html",
       "image_href": "../art/pages/page_08.png",
-      "layout_href": "../layout/page_08_top_song_3.html",
+      "layout_href": "../layout/page_08_top_songs_group.html",
       "badges": [
         {
           "label": "prompt mismatch x2",
@@ -219,11 +295,11 @@
     },
     {
       "page_number": 9,
-      "page_slug": "top_song_4",
+      "page_slug": "top_songs_group",
       "image_path": "issues/1978/art/pages/page_09.png",
-      "layout_path": "issues/1978/layout/page_09_top_song_4.html",
+      "layout_path": "issues/1978/layout/page_09_top_songs_group.html",
       "image_href": "../art/pages/page_09.png",
-      "layout_href": "../layout/page_09_top_song_4.html",
+      "layout_href": "../layout/page_09_top_songs_group.html",
       "badges": [
         {
           "label": "prompt mismatch x2",
@@ -244,23 +320,61 @@
     {
       "page_number": 10,
       "page_slug": "top_song_5",
-      "image_path": "issues/1978/art/pages/page_10.png",
+      "image_path": "assets/placeholder.png",
       "layout_path": "issues/1978/layout/page_10_top_song_5.html",
-      "image_href": "../art/pages/page_10.png",
+      "image_href": "../../../assets/placeholder.png",
       "layout_href": "../layout/page_10_top_song_5.html",
       "badges": [
         {
+          "label": "duplicate x1",
+          "kind": "warn",
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 5, 11, 12, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
+        },
+        {
           "label": "prompt mismatch x2",
           "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_10.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_10.png"
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_10.png"
         }
       ],
       "trace_warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_10.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_10.png"
         ]
       }
@@ -268,23 +382,61 @@
     {
       "page_number": 11,
       "page_slug": "top_song_6",
-      "image_path": "issues/1978/art/pages/page_11.png",
+      "image_path": "assets/placeholder.png",
       "layout_path": "issues/1978/layout/page_11_top_song_6.html",
-      "image_href": "../art/pages/page_11.png",
+      "image_href": "../../../assets/placeholder.png",
       "layout_href": "../layout/page_11_top_song_6.html",
       "badges": [
         {
+          "label": "duplicate x1",
+          "kind": "warn",
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 5, 10, 12, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
+        },
+        {
           "label": "prompt mismatch x2",
           "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_11.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_11.png"
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_11.png"
         }
       ],
       "trace_warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_11.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_11.png"
         ]
       }
@@ -292,23 +444,61 @@
     {
       "page_number": 12,
       "page_slug": "top_song_7",
-      "image_path": "issues/1978/art/pages/page_12.png",
+      "image_path": "assets/placeholder.png",
       "layout_path": "issues/1978/layout/page_12_top_song_7.html",
-      "image_href": "../art/pages/page_12.png",
+      "image_href": "../../../assets/placeholder.png",
       "layout_href": "../layout/page_12_top_song_7.html",
       "badges": [
         {
+          "label": "duplicate x1",
+          "kind": "warn",
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 5, 10, 11, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
+        },
+        {
           "label": "prompt mismatch x2",
           "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_12.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_12.png"
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_12.png"
         }
       ],
       "trace_warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_12.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_12.png"
         ]
       }
@@ -316,23 +506,61 @@
     {
       "page_number": 13,
       "page_slug": "top_song_8",
-      "image_path": "issues/1978/art/pages/page_13.png",
+      "image_path": "assets/placeholder.png",
       "layout_path": "issues/1978/layout/page_13_top_song_8.html",
-      "image_href": "../art/pages/page_13.png",
+      "image_href": "../../../assets/placeholder.png",
       "layout_href": "../layout/page_13_top_song_8.html",
       "badges": [
         {
+          "label": "duplicate x1",
+          "kind": "warn",
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 5, 10, 11, 12, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
+        },
+        {
           "label": "prompt mismatch x2",
           "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_13.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_13.png"
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_13.png"
         }
       ],
       "trace_warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_13.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_13.png"
         ]
       }
@@ -340,23 +568,61 @@
     {
       "page_number": 14,
       "page_slug": "top_song_9",
-      "image_path": "issues/1978/art/pages/page_14.png",
+      "image_path": "assets/placeholder.png",
       "layout_path": "issues/1978/layout/page_14_top_song_9.html",
-      "image_href": "../art/pages/page_14.png",
+      "image_href": "../../../assets/placeholder.png",
       "layout_href": "../layout/page_14_top_song_9.html",
       "badges": [
         {
+          "label": "duplicate x1",
+          "kind": "warn",
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 5, 10, 11, 12, 13, 15, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
+        },
+        {
           "label": "prompt mismatch x2",
           "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_14.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_14.png"
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_14.png"
         }
       ],
       "trace_warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_14.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_14.png"
         ]
       }
@@ -364,23 +630,61 @@
     {
       "page_number": 15,
       "page_slug": "top_song_10",
-      "image_path": "issues/1978/art/pages/page_15.png",
+      "image_path": "assets/placeholder.png",
       "layout_path": "issues/1978/layout/page_15_top_song_10.html",
-      "image_href": "../art/pages/page_15.png",
+      "image_href": "../../../assets/placeholder.png",
       "layout_href": "../layout/page_15_top_song_10.html",
       "badges": [
         {
+          "label": "duplicate x1",
+          "kind": "warn",
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 5, 10, 11, 12, 13, 14, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
+        },
+        {
           "label": "prompt mismatch x2",
           "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_15.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_15.png"
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_15.png"
         }
       ],
       "trace_warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_15.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_15.png"
         ]
       }
@@ -388,386 +692,864 @@
     {
       "page_number": 16,
       "page_slug": "movies",
-      "image_path": "issues/1978/art/pages/page_16.png",
+      "image_path": null,
       "layout_path": "issues/1978/layout/page_16_movies.html",
-      "image_href": "../art/pages/page_16.png",
+      "image_href": null,
       "layout_href": "../layout/page_16_movies.html",
       "badges": [
         {
-          "label": "prompt mismatch x2",
-          "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_16.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_16.png"
+          "label": "image missing",
+          "kind": "danger",
+          "detail": ""
         }
       ],
       "trace_warnings": {
         "duplicate_images": [],
         "missing_image": false,
         "placeholder_or_fallback": [],
-        "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_16.png",
-          "prompt-only: issues/1978/art/issues/1978/art/pages/page_16.png"
-        ]
+        "layout_prompt_mismatch": []
       }
     },
     {
       "page_number": 17,
-      "page_slug": "television",
-      "image_path": "issues/1978/art/pages/page_17.png",
-      "layout_path": "issues/1978/layout/page_17_television.html",
-      "image_href": "../art/pages/page_17.png",
-      "layout_href": "../layout/page_17_television.html",
+      "page_slug": "movies_spread_2",
+      "image_path": null,
+      "layout_path": "issues/1978/layout/page_17_movies_spread_2.html",
+      "image_href": null,
+      "layout_href": "../layout/page_17_movies_spread_2.html",
       "badges": [
         {
-          "label": "prompt mismatch x2",
-          "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_17.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_17.png"
+          "label": "image missing",
+          "kind": "danger",
+          "detail": ""
         }
       ],
       "trace_warnings": {
         "duplicate_images": [],
         "missing_image": false,
         "placeholder_or_fallback": [],
-        "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_17.png",
-          "prompt-only: issues/1978/art/issues/1978/art/pages/page_17.png"
-        ]
+        "layout_prompt_mismatch": []
       }
     },
     {
       "page_number": 18,
-      "page_slug": "culture",
-      "image_path": "issues/1978/art/pages/page_18.png",
-      "layout_path": "issues/1978/layout/page_18_culture.html",
-      "image_href": "../art/pages/page_18.png",
-      "layout_href": "../layout/page_18_culture.html",
+      "page_slug": "projection_booth",
+      "image_path": null,
+      "layout_path": "issues/1978/layout/page_18_projection_booth.html",
+      "image_href": null,
+      "layout_href": "../layout/page_18_projection_booth.html",
       "badges": [
         {
-          "label": "prompt mismatch x2",
-          "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_18.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_18.png"
+          "label": "image missing",
+          "kind": "danger",
+          "detail": ""
         }
       ],
       "trace_warnings": {
         "duplicate_images": [],
         "missing_image": false,
         "placeholder_or_fallback": [],
-        "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_18.png",
-          "prompt-only: issues/1978/art/issues/1978/art/pages/page_18.png"
-        ]
+        "layout_prompt_mismatch": []
       }
     },
     {
       "page_number": 19,
-      "page_slug": "arcade",
-      "image_path": "issues/1978/art/pages/page_19.png",
-      "layout_path": "issues/1978/layout/page_19_arcade.html",
-      "image_href": "../art/pages/page_19.png",
-      "layout_href": "../layout/page_19_arcade.html",
+      "page_slug": "movies_charts",
+      "image_path": null,
+      "layout_path": "issues/1978/layout/page_19_movies_charts.html",
+      "image_href": null,
+      "layout_href": "../layout/page_19_movies_charts.html",
       "badges": [
         {
-          "label": "fallback x1",
-          "kind": "warn",
-          "detail": "Final page copy includes placeholder or reserve language."
-        },
-        {
-          "label": "prompt mismatch x2",
-          "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_19.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_19.png"
+          "label": "image missing",
+          "kind": "danger",
+          "detail": ""
         }
       ],
       "trace_warnings": {
         "duplicate_images": [],
         "missing_image": false,
-        "placeholder_or_fallback": [
-          "Final page copy includes placeholder or reserve language."
-        ],
-        "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_19.png",
-          "prompt-only: issues/1978/art/issues/1978/art/pages/page_19.png"
-        ]
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": []
       }
     },
     {
       "page_number": 20,
-      "page_slug": "retro_ad",
-      "image_path": "issues/1978/art/pages/page_20.png",
-      "layout_path": "issues/1978/layout/page_20_retro_ad.html",
-      "image_href": "../art/pages/page_20.png",
-      "layout_href": "../layout/page_20_retro_ad.html",
+      "page_slug": "television",
+      "image_path": null,
+      "layout_path": "issues/1978/layout/page_20_television.html",
+      "image_href": null,
+      "layout_href": "../layout/page_20_television.html",
       "badges": [
         {
-          "label": "fallback x1",
-          "kind": "warn",
-          "detail": "Final page copy includes placeholder or reserve language."
-        },
-        {
-          "label": "prompt mismatch x2",
-          "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_20.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_20.png"
+          "label": "image missing",
+          "kind": "danger",
+          "detail": ""
         }
       ],
       "trace_warnings": {
         "duplicate_images": [],
         "missing_image": false,
-        "placeholder_or_fallback": [
-          "Final page copy includes placeholder or reserve language."
-        ],
-        "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_20.png",
-          "prompt-only: issues/1978/art/issues/1978/art/pages/page_20.png"
-        ]
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": []
       }
     },
     {
       "page_number": 21,
-      "page_slug": "comic",
-      "image_path": "issues/1978/art/pages/page_21.png",
-      "layout_path": "issues/1978/layout/page_21_comic.html",
-      "image_href": "../art/pages/page_21.png",
-      "layout_href": "../layout/page_21_comic.html",
+      "page_slug": "culture",
+      "image_path": "assets/placeholder.png",
+      "layout_path": "issues/1978/layout/page_21_culture.html",
+      "image_href": "../../../assets/placeholder.png",
+      "layout_href": "../layout/page_21_culture.html",
       "badges": [
         {
-          "label": "fallback x1",
+          "label": "duplicate x1",
           "kind": "warn",
-          "detail": "Final page copy includes placeholder or reserve language."
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 5, 10, 11, 12, 13, 14, 15, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
         },
         {
           "label": "prompt mismatch x2",
           "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_21.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_21.png"
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_21.png"
         }
       ],
       "trace_warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
         "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
           "Final page copy includes placeholder or reserve language."
         ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_21.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_21.png"
         ]
       }
     },
     {
       "page_number": 22,
-      "page_slug": "puzzle",
-      "image_path": "issues/1978/art/pages/page_22.png",
-      "layout_path": "issues/1978/layout/page_22_puzzle.html",
-      "image_href": "../art/pages/page_22.png",
-      "layout_href": "../layout/page_22_puzzle.html",
+      "page_slug": "arcade",
+      "image_path": "assets/placeholder.png",
+      "layout_path": "issues/1978/layout/page_22_arcade.html",
+      "image_href": "../../../assets/placeholder.png",
+      "layout_href": "../layout/page_22_arcade.html",
       "badges": [
         {
-          "label": "fallback x1",
+          "label": "duplicate x1",
           "kind": "warn",
-          "detail": "Final page copy includes placeholder or reserve language."
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 5, 10, 11, 12, 13, 14, 15, 21, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
         },
         {
           "label": "prompt mismatch x2",
           "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_22.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_22.png"
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_22.png"
         }
       ],
       "trace_warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
         "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
           "Final page copy includes placeholder or reserve language."
         ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_22.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_22.png"
         ]
       }
     },
     {
       "page_number": 23,
-      "page_slug": "letters",
-      "image_path": "issues/1978/art/pages/page_23.png",
-      "layout_path": "issues/1978/layout/page_23_letters.html",
-      "image_href": "../art/pages/page_23.png",
-      "layout_href": "../layout/page_23_letters.html",
+      "page_slug": "retro_ad",
+      "image_path": "assets/placeholder.png",
+      "layout_path": "issues/1978/layout/page_23_retro_ad.html",
+      "image_href": "../../../assets/placeholder.png",
+      "layout_href": "../layout/page_23_retro_ad.html",
       "badges": [
+        {
+          "label": "duplicate x1",
+          "kind": "warn",
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 5, 10, 11, 12, 13, 14, 15, 21, 22, 24, 25, 26, 27, 28, 29, 30, 31, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
+        },
         {
           "label": "prompt mismatch x2",
           "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_23.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_23.png"
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_23.png"
         }
       ],
       "trace_warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_23.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_23.png"
         ]
       }
     },
     {
       "page_number": 24,
-      "page_slug": "forgotten_hit",
-      "image_path": "issues/1978/art/pages/page_24.png",
-      "layout_path": "issues/1978/layout/page_24_forgotten_hit.html",
-      "image_href": "../art/pages/page_24.png",
-      "layout_href": "../layout/page_24_forgotten_hit.html",
+      "page_slug": "comic",
+      "image_path": "assets/placeholder.png",
+      "layout_path": "issues/1978/layout/page_24_comic.html",
+      "image_href": "../../../assets/placeholder.png",
+      "layout_href": "../layout/page_24_comic.html",
       "badges": [
+        {
+          "label": "duplicate x1",
+          "kind": "warn",
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 5, 10, 11, 12, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
+        },
         {
           "label": "prompt mismatch x2",
           "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_24.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_24.png"
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_24.png"
         }
       ],
       "trace_warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_24.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_24.png"
         ]
       }
     },
     {
       "page_number": 25,
-      "page_slug": "one_hit_wonder",
-      "image_path": "issues/1978/art/pages/page_25.png",
-      "layout_path": "issues/1978/layout/page_25_one_hit_wonder.html",
-      "image_href": "../art/pages/page_25.png",
-      "layout_href": "../layout/page_25_one_hit_wonder.html",
+      "page_slug": "puzzle",
+      "image_path": "assets/placeholder.png",
+      "layout_path": "issues/1978/layout/page_25_puzzle.html",
+      "image_href": "../../../assets/placeholder.png",
+      "layout_href": "../layout/page_25_puzzle.html",
       "badges": [
         {
-          "label": "fallback x1",
+          "label": "duplicate x1",
           "kind": "warn",
-          "detail": "Final page copy includes placeholder or reserve language."
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 5, 10, 11, 12, 13, 14, 15, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
         },
         {
           "label": "prompt mismatch x2",
           "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_25.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_25.png"
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_25.png"
         }
       ],
       "trace_warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
         "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
           "Final page copy includes placeholder or reserve language."
         ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_25.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_25.png"
         ]
       }
     },
     {
       "page_number": 26,
-      "page_slug": "album_spotlight",
-      "image_path": "issues/1978/art/pages/page_26.png",
-      "layout_path": "issues/1978/layout/page_26_album_spotlight.html",
-      "image_href": "../art/pages/page_26.png",
-      "layout_href": "../layout/page_26_album_spotlight.html",
+      "page_slug": "letters",
+      "image_path": "assets/placeholder.png",
+      "layout_path": "issues/1978/layout/page_26_letters.html",
+      "image_href": "../../../assets/placeholder.png",
+      "layout_href": "../layout/page_26_letters.html",
       "badges": [
+        {
+          "label": "duplicate x1",
+          "kind": "warn",
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 5, 10, 11, 12, 13, 14, 15, 21, 22, 23, 24, 25, 27, 28, 29, 30, 31, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
+        },
         {
           "label": "prompt mismatch x2",
           "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_26.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_26.png"
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_26.png"
         }
       ],
       "trace_warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_26.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_26.png"
         ]
       }
     },
     {
       "page_number": 27,
-      "page_slug": "year_timeline",
-      "image_path": "issues/1978/art/pages/page_27.png",
-      "layout_path": "issues/1978/layout/page_27_year_timeline.html",
-      "image_href": "../art/pages/page_27.png",
-      "layout_href": "../layout/page_27_year_timeline.html",
+      "page_slug": "forgotten_hit",
+      "image_path": "assets/placeholder.png",
+      "layout_path": "issues/1978/layout/page_27_forgotten_hit.html",
+      "image_href": "../../../assets/placeholder.png",
+      "layout_href": "../layout/page_27_forgotten_hit.html",
       "badges": [
+        {
+          "label": "duplicate x1",
+          "kind": "warn",
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 5, 10, 11, 12, 13, 14, 15, 21, 22, 23, 24, 25, 26, 28, 29, 30, 31, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
+        },
         {
           "label": "prompt mismatch x2",
           "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_27.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_27.png"
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_27.png"
         }
       ],
       "trace_warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_27.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_27.png"
         ]
       }
     },
     {
       "page_number": 28,
-      "page_slug": "culture_collage",
-      "image_path": "issues/1978/art/pages/page_28.png",
-      "layout_path": "issues/1978/layout/page_28_culture_collage.html",
-      "image_href": "../art/pages/page_28.png",
-      "layout_href": "../layout/page_28_culture_collage.html",
+      "page_slug": "one_hit_wonder",
+      "image_path": "assets/placeholder.png",
+      "layout_path": "issues/1978/layout/page_28_one_hit_wonder.html",
+      "image_href": "../../../assets/placeholder.png",
+      "layout_href": "../layout/page_28_one_hit_wonder.html",
       "badges": [
+        {
+          "label": "duplicate x1",
+          "kind": "warn",
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 5, 10, 11, 12, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
+        },
         {
           "label": "prompt mismatch x2",
           "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_28.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_28.png"
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_28.png"
         }
       ],
       "trace_warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_28.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_28.png"
         ]
       }
     },
     {
       "page_number": 29,
-      "page_slug": "retro_ads_page",
-      "image_path": "issues/1978/art/pages/page_29.png",
-      "layout_path": "issues/1978/layout/page_29_retro_ads_page.html",
-      "image_href": "../art/pages/page_29.png",
-      "layout_href": "../layout/page_29_retro_ads_page.html",
+      "page_slug": "album_spotlight",
+      "image_path": "assets/placeholder.png",
+      "layout_path": "issues/1978/layout/page_29_album_spotlight.html",
+      "image_href": "../../../assets/placeholder.png",
+      "layout_href": "../layout/page_29_album_spotlight.html",
       "badges": [
+        {
+          "label": "duplicate x1",
+          "kind": "warn",
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 5, 10, 11, 12, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
+        },
         {
           "label": "prompt mismatch x2",
           "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_29.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_29.png"
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_29.png"
         }
       ],
       "trace_warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_29.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_29.png"
         ]
       }
     },
     {
       "page_number": 30,
+      "page_slug": "year_timeline",
+      "image_path": "assets/placeholder.png",
+      "layout_path": "issues/1978/layout/page_30_year_timeline.html",
+      "image_href": "../../../assets/placeholder.png",
+      "layout_href": "../layout/page_30_year_timeline.html",
+      "badges": [
+        {
+          "label": "duplicate x1",
+          "kind": "warn",
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 5, 10, 11, 12, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
+        },
+        {
+          "label": "prompt mismatch x2",
+          "kind": "warn",
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_30.png"
+        }
+      ],
+      "trace_warnings": {
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              31,
+              32
+            ]
+          }
+        ],
+        "missing_image": false,
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
+        "layout_prompt_mismatch": [
+          "layout-only: assets/placeholder.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_30.png"
+        ]
+      }
+    },
+    {
+      "page_number": 31,
+      "page_slug": "culture_collage",
+      "image_path": "assets/placeholder.png",
+      "layout_path": "issues/1978/layout/page_31_culture_collage.html",
+      "image_href": "../../../assets/placeholder.png",
+      "layout_href": "../layout/page_31_culture_collage.html",
+      "badges": [
+        {
+          "label": "duplicate x1",
+          "kind": "warn",
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 5, 10, 11, 12, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 32]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
+        },
+        {
+          "label": "prompt mismatch x2",
+          "kind": "warn",
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_31.png"
+        }
+      ],
+      "trace_warnings": {
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              32
+            ]
+          }
+        ],
+        "missing_image": false,
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
+        "layout_prompt_mismatch": [
+          "layout-only: assets/placeholder.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_31.png"
+        ]
+      }
+    },
+    {
+      "page_number": 32,
+      "page_slug": "retro_ads_page",
+      "image_path": "assets/placeholder.png",
+      "layout_path": "issues/1978/layout/page_32_retro_ads_page.html",
+      "image_href": "../../../assets/placeholder.png",
+      "layout_href": "../layout/page_32_retro_ads_page.html",
+      "badges": [
+        {
+          "label": "duplicate x1",
+          "kind": "warn",
+          "detail": "{'image_path': 'assets/placeholder.png', 'other_pages': [4, 5, 10, 11, 12, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]}"
+        },
+        {
+          "label": "fallback x2",
+          "kind": "warn",
+          "detail": "Image path contains placeholder/fallback naming.; Final page copy includes placeholder or reserve language."
+        },
+        {
+          "label": "prompt mismatch x2",
+          "kind": "warn",
+          "detail": "layout-only: assets/placeholder.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_32.png"
+        }
+      ],
+      "trace_warnings": {
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31
+            ]
+          }
+        ],
+        "missing_image": false,
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
+        "layout_prompt_mismatch": [
+          "layout-only: assets/placeholder.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_32.png"
+        ]
+      }
+    },
+    {
+      "page_number": 33,
       "page_slug": "chart_top23",
-      "image_path": "issues/1978/art/pages/page_30.png",
-      "layout_path": "issues/1978/layout/page_30_chart_top23.html",
-      "image_href": "../art/pages/page_30.png",
-      "layout_href": "../layout/page_30_chart_top23.html",
+      "image_path": "issues/1978/art/pages/1978_editorial_magazine_illustration_for_top_songs.png",
+      "layout_path": "issues/1978/layout/page_33_chart_top23.html",
+      "image_href": "../art/pages/1978_editorial_magazine_illustration_for_top_songs.png",
+      "layout_href": "../layout/page_33_chart_top23.html",
       "badges": [
         {
           "label": "prompt mismatch x2",
           "kind": "warn",
-          "detail": "layout-only: issues/1978/art/pages/page_30.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_30.png"
+          "detail": "layout-only: issues/1978/art/pages/1978_editorial_magazine_illustration_for_top_songs.png; prompt-only: issues/1978/art/issues/1978/art/pages/page_33.png"
         }
       ],
       "trace_warnings": {
@@ -775,8 +1557,8 @@
         "missing_image": false,
         "placeholder_or_fallback": [],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_30.png",
-          "prompt-only: issues/1978/art/issues/1978/art/pages/page_30.png"
+          "layout-only: issues/1978/art/pages/1978_editorial_magazine_illustration_for_top_songs.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_33.png"
         ]
       }
     }

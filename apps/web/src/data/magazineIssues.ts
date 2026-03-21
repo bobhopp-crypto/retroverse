@@ -13,7 +13,7 @@ export type MagazineIssue = {
 }
 
 export const MAGAZINE_MIN_YEAR = 1958
-export const MAGAZINE_MAX_YEAR = 2025
+export const MAGAZINE_MAX_YEAR = 2024
 
 export const MAGAZINE_ISSUES: Record<string, MagazineIssue> = {
   '1978': {

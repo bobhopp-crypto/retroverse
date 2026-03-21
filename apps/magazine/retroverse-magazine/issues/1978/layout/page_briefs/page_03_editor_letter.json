@@ -10,7 +10,7 @@
   },
   "source_files": [
     "PROJECT_STATE.md",
-    "issues/context/1978_context.json",
+    "issues/context/1978_context_enriched.json",
     "issues/1978/layout/1978_production_targets.json",
     "issues/1978/layout/1978_issue_map.json",
     "issues/1978/editor_letter.md"
@@ -102,7 +102,7 @@
     "orientation": "portrait",
     "filename": "page_03_editor_letter.html",
     "structure": "department letter",
-    "hero_asset": "assets/placeholder.png",
+    "hero_asset": "pages/page_03.png",
     "collage_assets": [],
     "layout_output": "issues/1978/layout/page_03_editor_letter.html"
   },

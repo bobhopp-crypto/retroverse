@@ -1,5 +1,7 @@
-# Comic Page
+# Channel 8 Night Desk
 
-*Placeholder content.*
+*By RetroVerse Humor Bureau*
 
-Comic script and panel artwork will be added in a later production pass.
+A six-panel deadpan local-news comic in which disco congestion, radio overplay, and mirror-ball maintenance are covered with full civic seriousness.
+
+Nobody in the station treats the assignment as absurd. That is the engine of the satire: every bulletin arrives in the flat, official tone of public-service media, even when the story is clearly about nightlife running the city after dark.

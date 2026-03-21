@@ -1,11 +1,31 @@
 # Image Uniqueness Report 1978
 
-Generated: 2026-03-14T20:58:57-05:00
+Generated: 2026-03-19T19:07:45-05:00
 
-TOTAL IMAGE FILES: 30
-TOTAL PAGE REFERENCES: 30
+TOTAL IMAGE FILES: 15
+TOTAL PAGE REFERENCES: 8
 
 ## IMAGE USAGE
+
+`1978_disco_nightclub_scene_inspired_by_night_fever.png`
+used by:
+- none
+
+`1978_editorial_magazine_illustration_for_top_songs.png`
+used by:
+- `page_33_chart_top23.html`
+
+`disco_floor_spread_illustration_for_a_1978_music_m.png`
+used by:
+- none
+
+`disco_street_night_spread_mirrored_dance_floor_rol.png`
+used by:
+- none
+
+`night_fever_nightclub_scene_bee_gees_era_velvet_ro.png`
+used by:
+- none
 
 `page_01.png`
 used by:
@@ -19,14 +39,6 @@ used by:
 used by:
 - `page_03_editor_letter.html`
 
-`page_04.png`
-used by:
-- `page_04_year_snapshot.html`
-
-`page_05.png`
-used by:
-- `page_05_charts_overview.html`
-
 `page_06.png`
 used by:
 - `page_06_top_song_1.html`
@@ -37,95 +49,23 @@ used by:
 
 `page_08.png`
 used by:
-- `page_08_top_song_3.html`
+- `page_08_top_songs_group.html`
 
 `page_09.png`
 used by:
-- `page_09_top_song_4.html`
+- `page_09_top_songs_group.html`
 
-`page_10.png`
+`slow_dance_nightlife_spread_romantic_club_corner_h.png`
 used by:
-- `page_10_top_song_5.html`
+- none
 
-`page_11.png`
+`slow_dance_spread_illustration_for_a_1978_music_ma.png`
 used by:
-- `page_11_top_song_6.html`
+- none
 
-`page_12.png`
+`stayin_alive_disco_scene_bee_gees_era_saturday_nig.png`
 used by:
-- `page_12_top_song_7.html`
-
-`page_13.png`
-used by:
-- `page_13_top_song_8.html`
-
-`page_14.png`
-used by:
-- `page_14_top_song_9.html`
-
-`page_15.png`
-used by:
-- `page_15_top_song_10.html`
-
-`page_16.png`
-used by:
-- `page_16_movies.html`
-
-`page_17.png`
-used by:
-- `page_17_television.html`
-
-`page_18.png`
-used by:
-- `page_18_culture.html`
-
-`page_19.png`
-used by:
-- `page_19_arcade.html`
-
-`page_20.png`
-used by:
-- `page_20_retro_ad.html`
-
-`page_21.png`
-used by:
-- `page_21_comic.html` (6 img tags)
-
-`page_22.png`
-used by:
-- `page_22_puzzle.html`
-
-`page_23.png`
-used by:
-- `page_23_letters.html`
-
-`page_24.png`
-used by:
-- `page_24_forgotten_hit.html`
-
-`page_25.png`
-used by:
-- `page_25_one_hit_wonder.html`
-
-`page_26.png`
-used by:
-- `page_26_album_spotlight.html`
-
-`page_27.png`
-used by:
-- `page_27_year_timeline.html`
-
-`page_28.png`
-used by:
-- `page_28_culture_collage.html` (9 img tags)
-
-`page_29.png`
-used by:
-- `page_29_retro_ads_page.html`
-
-`page_30.png`
-used by:
-- `page_30_chart_top23.html`
+- none
 
 ## DUPLICATE IMAGE WARNINGS
 

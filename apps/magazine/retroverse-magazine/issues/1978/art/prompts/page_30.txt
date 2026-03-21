@@ -1,8 +1,8 @@
 Retro magazine illustration for page 30 of a 1978 pop culture magazine.
 
 Prompt source: visual_concept
-Page slug: chart_top23
-Page title: RetroVerse Top 23
+Page slug: year_timeline
+Page title: The Week-by-Week Yearline
 Visual concept: spotlight_countdown_tower
 
 Article topic:
@@ -12,6 +12,9 @@ Visual direction from page brief:
 Scene description: A dramatic ranking-stage environment with stacked platforms, signal-light rhythm, and room for a final top-23 countdown.
 Camera style: symmetrical forward-facing composition
 Lighting style: concert-spot beams with restrained scoreboard glow
+
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
 
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.

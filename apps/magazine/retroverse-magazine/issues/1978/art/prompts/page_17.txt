@@ -1,8 +1,8 @@
 Retro magazine illustration for page 17 of a 1978 pop culture magazine.
 
 Prompt source: visual_concept
-Page slug: television
-Page title: Television of the Year
+Page slug: movies_spread_2
+Page title: Movies Parody Spread
 Visual concept: living_room_prime_time
 
 Article topic:
@@ -12,6 +12,9 @@ Visual direction from page brief:
 Scene description: A wood-paneled living room with glowing CRT, family seating, TV trays, and broadcast-night ritual.
 Camera style: wide domestic interior
 Lighting style: blue CRT glow with warm lamp pools
+
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
 
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.

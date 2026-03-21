@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Link from 'next/link'
 import { Geist, Geist_Mono } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
@@ -39,6 +40,17 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="font-sans antialiased">
+        <nav className="border-b border-border bg-card px-4 py-3">
+          <div className="max-w-4xl mx-auto flex gap-4 text-sm font-medium">
+            <Link href="/" className="text-foreground hover:text-primary">
+              Charts
+            </Link>
+            <span className="text-muted-foreground">|</span>
+            <Link href="/magazine" className="text-foreground hover:text-primary">
+              Magazine
+            </Link>
+          </div>
+        </nav>
         {children}
         <Analytics />
       </body>

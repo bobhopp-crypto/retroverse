@@ -13,6 +13,9 @@ Scene description: 1978 city-at-night collage with dance floor glow, theater mar
 Camera style: elevated cinematic overview
 Lighting style: neon bloom with warm tungsten highlights
 
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
+
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.
 MAD Magazine caricature influence.

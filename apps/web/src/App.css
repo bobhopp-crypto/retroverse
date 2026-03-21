@@ -84,6 +84,11 @@
   flex-wrap: wrap;
 }
 
+.nav-sep {
+  opacity: 0.6;
+  padding: 0 2px;
+}
+
 .nav-link {
   padding: 6px 10px;
   border: 1px solid var(--rv2);

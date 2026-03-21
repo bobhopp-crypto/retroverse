@@ -1,8 +1,8 @@
 Retro magazine illustration for page 19 of a 1978 pop culture magazine.
 
 Prompt source: visual_concept
-Page slug: arcade
-Page title: Arcade / Technology
+Page slug: movies_charts
+Page title: Movies & Awards
 Visual concept: mall_arcade_neon_row
 
 Article topic:
@@ -12,6 +12,9 @@ Visual direction from page brief:
 Scene description: Shopping-mall arcade lined with glowing cabinets, reflective tile, clustered teens, and blinking score screens.
 Camera style: receding aisle perspective
 Lighting style: electric cabinet glow over dim ambient light
+
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
 
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.

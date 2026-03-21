@@ -1,8 +1,8 @@
 Retro magazine illustration for page 28 of a 1978 pop culture magazine.
 
 Prompt source: visual_concept
-Page slug: culture_collage
-Page title: Culture Collage
+Page slug: one_hit_wonder
+Page title: One Hit Wonder
 Visual concept: scrapbook_object_explosion
 
 Article topic:
@@ -12,6 +12,9 @@ Visual direction from page brief:
 Scene description: A dense but organized burst of objects, fashion fragments, media ephemera, and icon-level cultural details from 1978.
 Camera style: flattened collage board composition
 Lighting style: even print-studio light with vivid color separation
+
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
 
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.

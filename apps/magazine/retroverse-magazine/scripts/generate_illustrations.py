@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import base64
 import copy
 import hashlib
 import json
@@ -11,14 +12,9 @@ import os
 import re
 import shutil
 import sys
-import time
-import uuid
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
-from urllib import error as urllib_error
-from urllib import parse as urllib_parse
-from urllib import request as urllib_request
 
 try:
     from dotenv import load_dotenv
@@ -31,7 +27,7 @@ def load_environment() -> None:
         print(
             "python-dotenv is not installed. Install app requirements with "
             "`pip install -r requirements.txt` or install `python-dotenv` so "
-            "optional ComfyUI settings can be loaded from .env.",
+            "OPENAI_API_KEY can be loaded from .env.",
             file=sys.stderr,
         )
         return
@@ -50,12 +46,10 @@ def load_environment() -> None:
 
 load_environment()
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-COMFYUI_BASE_URL = os.getenv("COMFYUI_BASE_URL", "http://127.0.0.1:8188").rstrip("/")
-COMFYUI_WORKFLOW_PATH = Path(
-    os.getenv(
-        "RETROVERSE_COMFYUI_WORKFLOW",
-        str(PROJECT_ROOT / "workflow" / "retroverse_comfyui_page_workflow.json"),
-    )
+
+OPENAI_PROMPT_PREFIX = (
+    "Illustrated magazine artwork, 1970s editorial style, hand-drawn, painterly, no modern design, no typography. "
+    "NO readable text in image. Leave space for layout. "
 )
 
 STYLE_SUFFIX = (
@@ -67,7 +61,6 @@ DEFAULT_NEGATIVE_PROMPT = (
     "page titles, pull quotes, sidebars, chart tables, magazine layout elements"
 )
 MAX_RETRIES = 3
-RENDER_TIMEOUT_SECONDS = 1800
 LIBRARY_ART_TYPES = ["background", "scene", "environment"]
 ISSUE_ART_TYPES = ["collage", "comic", "parody", "fake_ads", "marginal"]
 LIBRARY_TYPE_TO_DIR = {
@@ -115,23 +108,6 @@ class ImageJob:
     page_slug: str | None = None
     prompt_path: Path | None = None
     allow_reuse: bool = True
-
-
-@dataclass(frozen=True)
-class ComfyUIClient:
-    base_url: str
-    workflow_template: dict[str, Any]
-
-
-@dataclass(frozen=True)
-class ComfyUIRenderOptions:
-    steps: int | None = None
-    cfg: float | None = None
-    sampler_name: str | None = None
-    scheduler: str | None = None
-    batch_size: int | None = None
-    denoise: float | None = None
-    seed: int | None = None
 
 
 def parse_args() -> argparse.Namespace:
@@ -230,24 +206,6 @@ def build_prompt(base_prompt: str, extra: str = "") -> str:
     return joined.strip()
 
 
-def normalize_size(size: str) -> str:
-    supported_sizes = {"1024x1024", "1024x1536", "1536x1024", "768x768", "768x1152", "1152x768", "512x512", "auto"}
-    normalized_size = size.strip().lower()
-    if normalized_size in supported_sizes:
-        return normalized_size
-
-    match = re.fullmatch(r"(\d+)x(\d+)", size.strip())
-    if not match:
-        raise IllustrationBuildError(f"Invalid image size: {size}")
-    width = int(match.group(1))
-    height = int(match.group(2))
-    if 384 <= width <= 2048 and 384 <= height <= 2048 and width % 64 == 0 and height % 64 == 0:
-        return f"{width}x{height}"
-    if width > height:
-        return "1536x1024"
-    return "1024x1536"
-
-
 def art_type_for_relpath(rel_path: str) -> str:
     if rel_path.startswith("issues/") and "/art/pages/" in rel_path:
         return "page"
@@ -292,6 +250,40 @@ def load_prompt_text(path: Path) -> str:
         return path.read_text(encoding="utf-8").strip()
     except FileNotFoundError as exc:
         raise IllustrationBuildError(f"Missing prompt file: {path}") from exc
+
+
+def build_openai_prompt(base_prompt: str) -> str:
+    """Prepend style guardrails to existing prompt. No readable text, leave space for layout."""
+    return (OPENAI_PROMPT_PREFIX + base_prompt).strip()
+
+
+def generate_with_openai(prompt: str, size: str = "1024x1024") -> bytes:
+    """Generate image via OpenAI API. Returns PNG bytes. Raises on API error."""
+    from openai import OpenAI
+
+    api_key = os.getenv("OPENAI_API_KEY")
+    if not api_key or not str(api_key).strip():
+        raise IllustrationBuildError(
+            "OPENAI_API_KEY is not set. Set it in .env or environment before running."
+        )
+
+    client = OpenAI(api_key=api_key)
+    full_prompt = build_openai_prompt(prompt)
+
+    response = client.images.generate(
+        model="dall-e-3",
+        prompt=full_prompt,
+        size=size,
+        quality="hd",
+        n=1,
+        response_format="b64_json",
+    )
+
+    b64_data = response.data[0].b64_json
+    if not b64_data:
+        raise IllustrationBuildError("OpenAI returned no image data")
+
+    return base64.b64decode(b64_data)
 
 
 def mirror_job_output(job: ImageJob) -> None:
@@ -369,9 +361,12 @@ def build_jobs(year_dir: Path, prompts: dict[str, Any], year: str, page_filter: 
         page_number = row.get("page_number")
         page_slug = row.get("page_slug")
         prompt_path_value = row.get("prompt_path")
+        prompt_source = str(row.get("prompt_source") or "").strip().lower()
         if not isinstance(page_number, int) or not isinstance(page_slug, str) or not isinstance(prompt_path_value, str):
             continue
         if page_filter is not None and page_number != page_filter:
+            continue
+        if prompt_source == "comic_overview":
             continue
 
         prompt_path = root / prompt_path_value
@@ -399,281 +394,57 @@ def build_jobs(year_dir: Path, prompts: dict[str, Any], year: str, page_filter: 
             )
         )
 
+    comic_rows = prompts.get("comic_panel_prompts")
+    if isinstance(comic_rows, list):
+        issue_art_prefix = f"issues/{year}/art/"
+        for row in comic_rows:
+            if not isinstance(row, dict):
+                continue
+            page_number = row.get("page_number")
+            page_slug = row.get("page_slug")
+            prompt_path_value = row.get("prompt_path")
+            asset_path_value = row.get("asset_path")
+            panel_index = row.get("panel_index")
+            if (
+                not isinstance(page_number, int)
+                or not isinstance(page_slug, str)
+                or not isinstance(prompt_path_value, str)
+                or not isinstance(asset_path_value, str)
+            ):
+                continue
+            if page_filter is not None and page_number != page_filter:
+                continue
+
+            prompt_path = root / prompt_path_value
+            prompt_text = load_prompt_text(prompt_path)
+            asset_rel = asset_path_value.strip()
+            target = root / asset_rel
+            art_rel = asset_rel[len(issue_art_prefix) :] if asset_rel.startswith(issue_art_prefix) else asset_rel
+            panel_note = (
+                f"page {page_number:02d} / {page_slug} comic panel {panel_index:02d}"
+                if isinstance(panel_index, int)
+                else f"page {page_number:02d} / {page_slug} comic panel"
+            )
+
+            jobs.append(
+                ImageJob(
+                    target=target,
+                    mirror_target=target,
+                    prompt=prompt_text,
+                    note=panel_note,
+                    art_type=art_type_for_relpath(art_rel),
+                    job_type="comic_panel",
+                    page_number=page_number,
+                    page_slug=page_slug,
+                    prompt_path=prompt_path,
+                    allow_reuse=False,
+                )
+            )
+
     unique_jobs: dict[Path, ImageJob] = {}
     for job in jobs:
         unique_jobs[job.target] = job
     return list(unique_jobs.values())
-
-
-def load_workflow_template(path: Path) -> dict[str, Any]:
-    try:
-        payload = json.loads(path.read_text(encoding="utf-8"))
-    except FileNotFoundError as exc:
-        raise IllustrationBuildError(
-            f"Missing ComfyUI workflow template: {path}. "
-            "Create /Users/bobhopp/AI/workflows/retroverse_pipeline.json before running illustration generation."
-        ) from exc
-    except json.JSONDecodeError as exc:
-        raise IllustrationBuildError(f"Invalid ComfyUI workflow JSON in {path}: {exc}") from exc
-
-    if not isinstance(payload, dict):
-        raise IllustrationBuildError(f"ComfyUI workflow template must be a JSON object: {path}")
-    return payload
-
-
-def create_comfyui_client() -> ComfyUIClient:
-    workflow_template = load_workflow_template(COMFYUI_WORKFLOW_PATH)
-    return ComfyUIClient(base_url=COMFYUI_BASE_URL, workflow_template=workflow_template)
-
-
-def comfyui_request_json(
-    method: str,
-    url: str,
-    payload: dict[str, Any] | None = None,
-    timeout: int = 30,
-) -> dict[str, Any]:
-    data = None
-    headers: dict[str, str] = {}
-    if payload is not None:
-        data = json.dumps(payload).encode("utf-8")
-        headers["Content-Type"] = "application/json"
-
-    req = urllib_request.Request(url, data=data, headers=headers, method=method)
-    try:
-        with urllib_request.urlopen(req, timeout=timeout) as response:
-            raw = response.read()
-    except urllib_error.URLError as exc:
-        raise IllustrationBuildError(
-            f"Unable to reach local ComfyUI server at {COMFYUI_BASE_URL}. "
-            "Start the service and verify http://127.0.0.1:8188 is responding."
-        ) from exc
-
-    try:
-        return json.loads(raw.decode("utf-8"))
-    except json.JSONDecodeError as exc:
-        raise IllustrationBuildError(f"ComfyUI returned invalid JSON from {url}: {exc}") from exc
-
-
-def comfyui_request_bytes(url: str, timeout: int = 30) -> bytes:
-    req = urllib_request.Request(url, method="GET")
-    try:
-        with urllib_request.urlopen(req, timeout=timeout) as response:
-            return response.read()
-    except urllib_error.URLError as exc:
-        raise IllustrationBuildError(f"Unable to download generated image from ComfyUI: {url}") from exc
-
-
-def workflow_dimensions(_size: str) -> tuple[int, int]:
-    match = re.fullmatch(r"(\d+)x(\d+)", _size)
-    if match:
-        return int(match.group(1)), int(match.group(2))
-    if _size == "1536x1024":
-        return 1536, 1024
-    if _size == "1024x1536":
-        return 1024, 1536
-    return 1024, 1024
-
-
-def find_node_id_by_class(workflow: dict[str, Any], *class_types: str) -> str | None:
-    for node_id, node in workflow.items():
-        if not isinstance(node, dict):
-            continue
-        if node.get("class_type") in class_types:
-            return str(node_id)
-    return None
-
-
-def referenced_node_id(node: dict[str, Any], input_name: str) -> str | None:
-    inputs = node.get("inputs")
-    if not isinstance(inputs, dict):
-        return None
-    value = inputs.get(input_name)
-    if isinstance(value, list) and value and isinstance(value[0], str):
-        return value[0]
-    return None
-
-
-def set_prompt_node_text(node: dict[str, Any], prompt: str) -> bool:
-    class_type = node.get("class_type")
-    inputs = node.setdefault("inputs", {})
-    if not isinstance(inputs, dict):
-        raise IllustrationBuildError("ComfyUI prompt node inputs must be a JSON object.")
-
-    if class_type == "CLIPTextEncode":
-        inputs["text"] = prompt
-        return True
-    if class_type == "CLIPTextEncodeFlux":
-        inputs["clip_l"] = prompt
-        inputs["t5xxl"] = prompt
-        return True
-    return False
-
-
-def build_comfyui_prompt(
-    workflow_template: dict[str, Any],
-    prompt: str,
-    size: str,
-    output_prefix: str,
-    render_options: ComfyUIRenderOptions | None = None,
-) -> dict[str, Any]:
-    workflow = copy.deepcopy(workflow_template)
-    render_options = render_options or ComfyUIRenderOptions()
-
-    width, height = workflow_dimensions(size)
-    sampler_id = find_node_id_by_class(workflow, "KSampler")
-    save_image_id = find_node_id_by_class(workflow, "SaveImage")
-    if sampler_id is None or save_image_id is None:
-        raise IllustrationBuildError(
-            f"ComfyUI workflow template is missing required nodes in {COMFYUI_WORKFLOW_PATH}: "
-            "expected at least KSampler and SaveImage nodes."
-        )
-
-    sampler = workflow.get(sampler_id)
-    save_image = workflow.get(save_image_id)
-    if not isinstance(sampler, dict) or not isinstance(save_image, dict):
-        raise IllustrationBuildError("ComfyUI workflow nodes must be JSON objects.")
-
-    sampler_inputs = sampler.setdefault("inputs", {})
-    save_inputs = save_image.setdefault("inputs", {})
-    if not isinstance(sampler_inputs, dict) or not isinstance(save_inputs, dict):
-        raise IllustrationBuildError("ComfyUI workflow node inputs must be JSON objects.")
-
-    positive_id = referenced_node_id(sampler, "positive")
-    negative_id = referenced_node_id(sampler, "negative")
-    latent_id = referenced_node_id(sampler, "latent_image")
-
-    if positive_id is None or latent_id is None:
-        raise IllustrationBuildError(
-            f"ComfyUI workflow template is missing positive conditioning or latent image references in {COMFYUI_WORKFLOW_PATH}."
-        )
-
-    positive_node = workflow.get(positive_id)
-    if not isinstance(positive_node, dict) or not set_prompt_node_text(positive_node, prompt):
-        raise IllustrationBuildError(
-            f"ComfyUI workflow template must route KSampler positive conditioning through CLIPTextEncode or CLIPTextEncodeFlux in {COMFYUI_WORKFLOW_PATH}."
-        )
-
-    if negative_id is not None:
-        negative_node = workflow.get(negative_id)
-        if isinstance(negative_node, dict) and negative_node.get("class_type") == "CLIPTextEncode":
-            negative_inputs = negative_node.setdefault("inputs", {})
-            if isinstance(negative_inputs, dict) and not str(negative_inputs.get("text") or "").strip():
-                negative_inputs["text"] = DEFAULT_NEGATIVE_PROMPT
-
-    latent_node = workflow.get(latent_id)
-    if isinstance(latent_node, dict):
-        latent_inputs = latent_node.setdefault("inputs", {})
-        if isinstance(latent_inputs, dict):
-            if "width" in latent_inputs:
-                latent_inputs["width"] = width
-            if "height" in latent_inputs:
-                latent_inputs["height"] = height
-            if render_options.batch_size is not None and "batch_size" in latent_inputs:
-                latent_inputs["batch_size"] = render_options.batch_size
-
-    if render_options.steps is not None:
-        sampler_inputs["steps"] = render_options.steps
-    if render_options.cfg is not None:
-        sampler_inputs["cfg"] = render_options.cfg
-    if render_options.sampler_name is not None:
-        sampler_inputs["sampler_name"] = render_options.sampler_name
-    if render_options.scheduler is not None:
-        sampler_inputs["scheduler"] = render_options.scheduler
-    if render_options.denoise is not None:
-        sampler_inputs["denoise"] = render_options.denoise
-    sampler_inputs["seed"] = render_options.seed if render_options.seed is not None else int.from_bytes(os.urandom(8), "big") % (2**31)
-    save_inputs["filename_prefix"] = output_prefix
-    return workflow
-
-
-def extract_comfyui_image_ref(history_payload: dict[str, Any]) -> dict[str, str]:
-    outputs = history_payload.get("outputs")
-    if not isinstance(outputs, dict):
-        raise IllustrationBuildError("ComfyUI history payload did not include outputs.")
-
-    for node_output in outputs.values():
-        if not isinstance(node_output, dict):
-            continue
-        images = node_output.get("images")
-        if not isinstance(images, list) or not images:
-            continue
-        first = images[0]
-        if not isinstance(first, dict):
-            continue
-        filename = first.get("filename")
-        subfolder = first.get("subfolder", "")
-        image_type = first.get("type", "output")
-        if isinstance(filename, str) and filename:
-            return {
-                "filename": filename,
-                "subfolder": str(subfolder),
-                "type": str(image_type),
-            }
-
-    raise IllustrationBuildError("ComfyUI completed without returning any saved images.")
-
-
-def generate_with_comfyui(
-    client: ComfyUIClient,
-    model: str,
-    size: str,
-    prompt: str,
-    output_prefix: str,
-    render_options: ComfyUIRenderOptions | None = None,
-) -> bytes:
-    prompt_id = queue_with_comfyui(
-        client,
-        model,
-        size,
-        prompt,
-        output_prefix,
-        render_options=render_options,
-    )
-
-    start_time = time.monotonic()
-    while True:
-        elapsed = time.monotonic() - start_time
-        if elapsed > RENDER_TIMEOUT_SECONDS:
-            raise TimeoutError(
-                f"Render exceeded {RENDER_TIMEOUT_SECONDS}. The ComfyUI job may still be running."
-            )
-
-        history = comfyui_request_json("GET", f"{client.base_url}/history/{prompt_id}", timeout=30)
-        run_payload = history.get(prompt_id)
-        if isinstance(run_payload, dict):
-            status = run_payload.get("status")
-            if isinstance(status, dict) and status.get("status_str") == "error":
-                raise IllustrationBuildError(f"ComfyUI generation failed: {status}")
-            if "outputs" in run_payload:
-                image_ref = extract_comfyui_image_ref(run_payload)
-                query = urllib_parse.urlencode(image_ref)
-                return comfyui_request_bytes(f"{client.base_url}/view?{query}", timeout=60)
-
-        time.sleep(1)
-
-
-def queue_with_comfyui(
-    client: ComfyUIClient,
-    model: str,
-    size: str,
-    prompt: str,
-    output_prefix: str,
-    render_options: ComfyUIRenderOptions | None = None,
-) -> str:
-    del model
-
-    workflow = build_comfyui_prompt(client.workflow_template, prompt, size, output_prefix, render_options=render_options)
-    client_id = f"retroverse-{uuid.uuid4().hex}"
-    queue_response = comfyui_request_json(
-        "POST",
-        f"{client.base_url}/prompt",
-        payload={"prompt": workflow, "client_id": client_id},
-        timeout=30,
-    )
-    prompt_id = queue_response.get("prompt_id")
-    if not isinstance(prompt_id, str) or not prompt_id:
-        raise IllustrationBuildError(f"ComfyUI queue response did not include prompt_id: {queue_response!r}")
-    return prompt_id
 
 
 def find_reusable_asset(root: Path, prompt: str, art_type: str) -> Path | None:
@@ -758,7 +529,6 @@ def main() -> int:
         print(f"ERROR: {exc}", file=sys.stderr)
         return 1
 
-    client: ComfyUIClient | None = None
     generated = 0
     skipped = 0
     reused = 0
@@ -784,14 +554,6 @@ def main() -> int:
         job.target.parent.mkdir(parents=True, exist_ok=True)
         job.mirror_target.parent.mkdir(parents=True, exist_ok=True)
 
-        if job.page_number is not None and job.page_slug:
-            print(f"Generating illustration for page {job.page_number} ({job.page_slug})")
-        elif job.page_number is not None:
-            print(f"Generating illustration for page {job.page_number}")
-        else:
-            print(f"Generating illustration for asset {job.note}")
-        print(f"Prompt preview: {prompt_preview(job.prompt)}")
-
         if reuse_allowed(job.art_type, force, job.allow_reuse) and job.job_type == "library_asset":
             reusable = find_reusable_asset(root, job.prompt, job.art_type)
             if reusable:
@@ -801,13 +563,9 @@ def main() -> int:
                 print(f"[LIBRARY REUSE] {filename} <- {reusable.name}")
                 continue
 
-        print(f"[ISSUE GENERATE] Generating: {filename}")
+        print(f"Generating {filename} via OpenAI")
         try:
-            if client is None:
-                client = create_comfyui_client()
-            relative_prefix = job.target.relative_to(root).with_suffix("").as_posix()
-            output_prefix = f"retroverse/{relative_prefix}_{uuid.uuid4().hex[:8]}"
-            image_bytes = generate_with_comfyui(client, args.model, normalize_size(args.size), job.prompt, output_prefix)
+            image_bytes = generate_with_openai(job.prompt, size="1024x1024")
             job.target.write_bytes(image_bytes)
             mirror_job_output(job)
             generated += 1
@@ -816,10 +574,11 @@ def main() -> int:
             if library_copy is not None:
                 print(f"[LIBRARY REUSE] Stored: {library_copy.name}")
 
-            print(f"[ISSUE GENERATE] Generated: {filename}")
+            print(f"Saved: {job.target}")
         except Exception as exc:
             failed.append(job.target)
-            print(f"[ISSUE GENERATE] Failed: {filename} ({exc})")
+            print(f"ERROR: {filename} - {exc}", file=sys.stderr)
+            print(f"Skipping {filename}, continuing batch", file=sys.stderr)
 
     print("Illustration generation complete.")
     print(f"Generated: {generated}")

@@ -10,7 +10,7 @@
   },
   "source_files": [
     "PROJECT_STATE.md",
-    "issues/context/1978_context.json",
+    "issues/context/1978_context_enriched.json",
     "issues/1978/layout/1978_production_targets.json",
     "issues/1978/layout/1978_issue_map.json",
     "issues/1978/chart_top23.md"
@@ -186,5 +186,11 @@
     "Page artwork must preserve negative space inside all declared safe zones.",
     "Environmental lettering may appear only if natural, minimal, and not production-critical."
   ],
-  "easter_egg_rule": "Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography."
+  "easter_egg_rule": "Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography.",
+  "editorial_enrichment": {
+    "cultural_context": "As the No. 7 song of 1978 with 17 chart weeks and a No. 1 peak, the location title gives it a larger frame than a simple love song, making it feel cinematic even inside a singles chart.",
+    "sound_description": "The name and chart profile suggest sweeping scale, dramatic build, and a sense of motion across a whole public scene.",
+    "notable_fact": "It reached No. 1 and stayed on the chart for 17 weeks, giving it both headline status and shelf life.",
+    "scene_use": "Use it in wide park views, stormy skies, city monuments, or weather moving across a public space."
+  }
 }

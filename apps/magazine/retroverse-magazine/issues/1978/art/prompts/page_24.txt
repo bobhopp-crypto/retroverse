@@ -1,8 +1,8 @@
 Retro magazine illustration for page 24 of a 1978 pop culture magazine.
 
 Prompt source: visual_concept
-Page slug: forgotten_hit
-Page title: Almost Hits: Can't Smile Without You — Barry Manilow
+Page slug: comic
+Page title: Channel 8 Night Desk
 Visual concept: lonely_jukebox_memory
 
 Article topic:
@@ -12,6 +12,9 @@ Visual direction from page brief:
 Scene description: A half-empty bar with jukebox glow, scattered glasses, and a song lingering after the crowd has faded.
 Camera style: moody interior wide shot
 Lighting style: amber jukebox glow with deep surrounding shadow
+
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
 
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.

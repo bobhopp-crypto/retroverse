@@ -14,8 +14,8 @@ import Analytics from './pages/Analytics'
 import SetBuilderRingsV2 from './components/SetBuilderRingsV2'
 import DisplayDesignLab from './pages/DisplayDesignLab'
 import DecadePage from './pages/DecadePage'
-import MagazineArchivePage from './pages/magazine/MagazineArchivePage'
-import MagazineReaderPage from './pages/magazine/MagazineReaderPage'
+import MagazineIndex from './pages/magazine/MagazineIndex'
+import MagazineYear from './pages/magazine/MagazineYear'
 import ArtDepartmentPage from './pages/magazine/ArtDepartmentPage'
 import ArtDepartmentArtistPage from './pages/magazine/ArtDepartmentArtistPage'
 import ArtDirectorPage from './pages/magazine/ArtDirectorPage'
@@ -54,9 +54,8 @@ function App() {
             <Route path="/tools" element={<Tools />} />
             <Route path="/analytics" element={<Analytics />} />
             <Route path="/decade/:decade" element={<DecadePage />} />
-            <Route path="/magazine" element={<MagazineArchivePage />} />
-            <Route path="/magazine/:year" element={<MagazineReaderPage />} />
-            <Route path="/magazine/:year/page/:page" element={<MagazineReaderPage />} />
+            <Route path="/magazine" element={<MagazineIndex />} />
+            <Route path="/magazine/:year" element={<MagazineYear />} />
             <Route path="/art-department" element={<ArtDepartmentPage />} />
             <Route path="/art-department/:artistId" element={<ArtDepartmentArtistPage />} />
             <Route path="/art-director" element={<ArtDirectorPage />} />

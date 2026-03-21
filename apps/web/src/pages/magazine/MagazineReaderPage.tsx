@@ -64,10 +64,11 @@ function asList(items: string[]): string {
 }
 
 function buildGeneratedIssue(year: number, stats: BillboardYearStats | null, statsError: string | null): MagazineIssue {
+  const isComingSoon = stats === null && statsError != null
   const snapshotLines =
     stats === null
       ? statsError
-        ? ['Chart data is unavailable for this issue right now.', 'Try again later or open another year.']
+        ? ['This issue is coming soon.', 'Chart data will appear when the pipeline has processed this year.']
         : ['Loading year summary from Billboard database...']
       : [
           `${stats.totalSongsCharted.toLocaleString()} songs charted in ${year}.`,
@@ -86,7 +87,7 @@ function buildGeneratedIssue(year: number, stats: BillboardYearStats | null, sta
     content: {
       cover: {
         title: `${year} Annual Issue`,
-        subtitle: 'RetroVerse Magazine',
+        subtitle: isComingSoon ? 'Coming Soon' : 'RetroVerse Magazine',
         body: `Digital issue for ${year}.\nUse arrows, swipe, or keyboard left/right to turn spreads.`,
       },
       snapshot: {

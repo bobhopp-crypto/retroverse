@@ -1,0 +1,13 @@
+{
+  "name": "retroverse-magazine",
+  "version": "1.0.0",
+  "description": "RetroVerse magazine print build",
+  "type": "module",
+  "scripts": {
+    "pdf": "node scripts/render_browser_pdf.mjs",
+    "pdf:1978": "node scripts/render_browser_pdf.mjs --year=1978"
+  },
+  "devDependencies": {
+    "playwright": "^1.49.0"
+  }
+}

@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>RetroVerse Top Songs of 1978 — Chart Page Prototype</title>
+  <!--
+    DATA SOURCES:
+    - Top 23 chart: issues/1978/chart_top23.md (canonical RetroVerse 1978 Top 23, Billboard-based scoring)
+    - Biggest Albums: apps/web/public/data/albums/1978.json (Billboard 200–derived, ranked by weeks on chart)
+    - New Artists: derived from Top 23 — Exile, A Taste Of Honey, Samantha Sang, Gerry Rafferty (breakout 1978 artists in chart)
+    - Fastest Risers: TODO — wire to biggest weekly jump (rank_prev - rank_curr) from billboard-hot-100.db; analyze_chart_dynamics.py computes largest_single_week_jump
+    - Footer: editorial summary sentence (replaces TV • MUSIC • MOVIES)
+
+    REAL vs INCOMPLETE:
+    - Top 23: FULLY REAL (chart_top23.md)
+    - Biggest Albums: REAL (apps/web/public/data/albums/1978.json, top 5 by weeks on chart)
+    - New Artists: REAL candidates from Top 23; rules-based "first major hit in 1978" would need artist debut logic
+    - Fastest Risers: TODO — panel structured for top 3 by biggest weekly jump; needs pipeline: analyze_chart_dynamics.py or billboard-hot-100.db query
+
+    PIPELINE HOOKS:
+    - Top 23: load_chart_top23_rows(year) → parse_chart_top23_rows(md)
+    - Biggest Albums: apps/web/public/data/albums/{year}.json (already wired)
+    - New Artists: add artist_debut_year logic from chart history
+    - Fastest Risers: run analyze_chart_dynamics.py --year N; use chart_dynamics.fastest_risers (title, artist, largest_single_week_jump)
+  -->
+  <style>
+    @page { size: 9.5in 12in; margin: 0; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+      background: #f8f1de;
+      color: #1f1b16;
+      font-size: 10pt;
+    }
+    .page {
+      position: relative;
+      overflow: hidden;
+      width: 9.5in;
+      height: 12in;
+      margin: 0 auto;
+      padding: 0.5in;
+      display: flex;
+      flex-direction: column;
+      background: #f8f1de;
+      border: 1px solid #c6b48f;
+      page-break-after: always;
+    }
+    .page::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background-image: url("../art/chart_1978_bg.png");
+      background-size: cover;
+      background-position: center;
+      opacity: 0.18;
+      z-index: 0;
+    }
+    .page::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: rgba(244, 236, 216, 0.85);
+      z-index: 0;
+    }
+    .page > * {
+      position: relative;
+      z-index: 1;
+    }
+    @media print {
+      body { background: #f8f1de; }
+      .page { box-shadow: none; border: none; }
+    }
+
+    /* Title band */
+    .title-band {
+      width: 100%;
+      flex-shrink: 0;
+      border-bottom: 3px solid #1f1b16;
+      padding-bottom: 0.35in;
+      margin-bottom: 0.35in;
+    }
+    .title-band h1 {
+      margin: 0;
+      font-size: 1.6rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+    .title-band .subtitle {
+      margin: 0.2rem 0 0;
+      font-size: 0.95rem;
+      color: #4a4033;
+      font-style: italic;
+    }
+
+    /* Two-column layout */
+    .main-grid {
+      display: grid;
+      grid-template-columns: 1fr 2.2in;
+      gap: 0.4in;
+      flex: 1;
+      min-height: 0;
+    }
+
+    /* Left: chart — natural height from 23 fixed rows, no flex stretch */
+    .chart-panel {
+      display: block;
+      height: 100%;
+      border: 1px solid #1f1b16;
+      padding: 0.3in;
+      background: rgba(255,255,255,0.4);
+    }
+    .chart-panel h3 {
+      margin: 0 0 0.25in;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: #7f251f;
+    }
+    /* Chart: tuned for exactly 23 rows — fixed dataset, print-quality */
+    .chart-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 9.5pt;
+      line-height: 1.25;
+    }
+    .chart-table tbody tr {
+      height: auto;
+    }
+    .chart-table th {
+      text-align: left;
+      border-bottom: 2px solid #1f1b16;
+      padding: 8px 0.3rem 10px;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+    .chart-table td {
+      padding: 8px 0.3rem;
+      border-bottom: 1px solid #c6b48f;
+    }
+    .chart-table td:nth-child(1) { width: 2em; text-align: right; }
+    .chart-table td:nth-child(4),
+    .chart-table td:nth-child(5) { text-align: right; width: 2.2em; }
+    .chart-table tr:nth-child(-n+5) .chart-table td:first-child { font-weight: 700; }
+
+    /* Right: sidebar panels — balanced against fixed-height chart */
+    .sidebar {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      min-height: 0;
+      gap: 1px;
+    }
+    .sidebar-panel {
+      border: 1px solid #1f1b16;
+      padding: 12px;
+      background: rgba(255,255,255,0.4);
+    }
+    .sidebar-panel.albums {
+      flex: 2;
+    }
+    .sidebar-panel.new-artists {
+      flex: 1;
+    }
+    .sidebar-panel.risers {
+      flex: 1;
+    }
+    .sidebar-panel.empty {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-style: italic;
+      opacity: 0.6;
+    }
+    .sidebar-panel.empty p {
+      margin: 0.5em 0 0;
+    }
+    .sidebar-panel h4 {
+      margin: 0 0 0.2in;
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #7f251f;
+      border-bottom: 1px solid #c6b48f;
+      padding-bottom: 0.1in;
+    }
+    .sidebar-panel ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    .sidebar-panel li {
+      padding: 0.08in 0;
+      border-bottom: 1px solid rgba(198,180,143,0.6);
+      font-size: 9pt;
+    }
+    .sidebar-panel li:last-child { border-bottom: none; }
+    .sidebar-panel strong { display: block; }
+    .sidebar-panel span { font-size: 0.85em; color: #4a4033; }
+
+    /* Footer strip */
+    .footer-strip {
+      flex-shrink: 0;
+      text-align: center;
+      padding-top: 12px;
+      margin-top: 0.4in;
+      border-top: 2px solid #1f1b16;
+      text-align: center;
+      font-size: 0.85rem;
+      line-height: 1.4;
+      color: #4a4033;
+    }
+    .footer-strip .footer-summary {
+      margin: 0;
+      font-style: italic;
+      max-width: 7in;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header class="title-band">
+      <h1>RetroVerse Top Songs of 1978</h1>
+      <p class="subtitle">The records that ruled the year</p>
+    </header>
+
+    <div class="main-grid">
+      <section class="chart-panel">
+        <h3>RetroVerse Top 23</h3>
+        <table class="chart-table">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Title</th>
+              <th>Artist</th>
+              <th>Wks</th>
+              <th>Pk</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>1</td><td>Stayin' Alive</td><td>Bee Gees</td><td>23</td><td>1</td></tr>
+            <tr><td>2</td><td>Night Fever</td><td>Bee Gees</td><td>20</td><td>1</td></tr>
+            <tr><td>3</td><td>(Love Is) Thicker Than Water</td><td>Andy Gibb</td><td>20</td><td>1</td></tr>
+            <tr><td>4</td><td>Three Times A Lady</td><td>Commodores</td><td>20</td><td>1</td></tr>
+            <tr><td>5</td><td>Kiss You All Over</td><td>Exile</td><td>23</td><td>1</td></tr>
+            <tr><td>6</td><td>Can't Smile Without You</td><td>Barry Manilow</td><td>19</td><td>3</td></tr>
+            <tr><td>7</td><td>MacArthur Park</td><td>Donna Summer</td><td>17</td><td>1</td></tr>
+            <tr><td>8</td><td>Lay Down Sally</td><td>Eric Clapton</td><td>23</td><td>3</td></tr>
+            <tr><td>9</td><td>Shadow Dancing</td><td>Andy Gibb</td><td>25</td><td>1</td></tr>
+            <tr><td>10</td><td>Boogie Oogie Oogie</td><td>A Taste Of Honey</td><td>23</td><td>1</td></tr>
+            <tr><td>11</td><td>Emotion</td><td>Samantha Sang</td><td>20</td><td>3</td></tr>
+            <tr><td>12</td><td>Hot Blooded</td><td>Foreigner</td><td>17</td><td>3</td></tr>
+            <tr><td>13</td><td>Take A Chance On Me</td><td>Abba</td><td>18</td><td>3</td></tr>
+            <tr><td>14</td><td>Miss You</td><td>The Rolling Stones</td><td>20</td><td>1</td></tr>
+            <tr><td>15</td><td>You're The One That I Want</td><td>John Travolta</td><td>24</td><td>1</td></tr>
+            <tr><td>16</td><td>How Deep Is Your Love</td><td>Bee Gees</td><td>18</td><td>1</td></tr>
+            <tr><td>17</td><td>You Don't Bring Me Flowers</td><td>Barbra Streisand</td><td>10</td><td>1</td></tr>
+            <tr><td>18</td><td>Sometimes When We Touch</td><td>Dan Hill</td><td>16</td><td>3</td></tr>
+            <tr><td>19</td><td>How Much I Feel</td><td>Ambrosia</td><td>18</td><td>3</td></tr>
+            <tr><td>20</td><td>Grease</td><td>Frankie Valli</td><td>22</td><td>1</td></tr>
+            <tr><td>21</td><td>Double Vision</td><td>Foreigner</td><td>15</td><td>2</td></tr>
+            <tr><td>22</td><td>Hopelessly Devoted To You</td><td>Olivia Newton-John</td><td>19</td><td>3</td></tr>
+            <tr><td>23</td><td>Baker Street</td><td>Gerry Rafferty</td><td>20</td><td>2</td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <aside class="sidebar">
+        <div class="sidebar-panel albums">
+          <h4>Biggest Albums</h4>
+          <ul>
+            <li><strong>Saturday Night Fever</strong><span>Soundtrack • 52 weeks</span></li>
+            <li><strong>Rumours</strong><span>Fleetwood Mac • 52 weeks</span></li>
+            <li><strong>The Stranger</strong><span>Billy Joel • 52 weeks</span></li>
+            <li><strong>Feels So Good</strong><span>Chuck Mangione • 52 weeks</span></li>
+            <li><strong>Running On Empty</strong><span>Jackson Browne • 52 weeks</span></li>
+          </ul>
+        </div>
+        <div class="sidebar-panel new-artists">
+          <h4>New Artists</h4>
+          <ul>
+            <li><strong>Exile</strong><span>Kiss You All Over — #5</span></li>
+            <li><strong>A Taste Of Honey</strong><span>Boogie Oogie Oogie — #10</span></li>
+            <li><strong>Samantha Sang</strong><span>Emotion — #11</span></li>
+            <li><strong>Gerry Rafferty</strong><span>Baker Street — #23</span></li>
+          </ul>
+        </div>
+        <div class="sidebar-panel risers empty">
+          <h4>Fastest Risers</h4>
+          <p>TBD — pending chart data</p>
+        </div>
+      </aside>
+    </div>
+
+    <footer class="footer-strip">
+      <p class="footer-summary">1978 belonged to disco — the Bee Gees dominated the charts while new voices pushed pop toward a brighter, dance-driven sound.</p>
+    </footer>
+  </div>
+</body>
+</html>

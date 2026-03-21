@@ -45,15 +45,15 @@
     },
     {
       "page_number": 8,
-      "page_slug": "top_song_3",
-      "title": "03. (Love Is) Thicker Than Water — Andy Gibb",
-      "brief_path": "issues/1978/layout/page_briefs/page_08_top_song_3.json"
+      "page_slug": "top_songs_group",
+      "title": "Top Songs #3-#6",
+      "brief_path": "issues/1978/layout/page_briefs/page_08_top_songs_group.json"
     },
     {
       "page_number": 9,
-      "page_slug": "top_song_4",
-      "title": "04. Three Times A Lady — Commodores",
-      "brief_path": "issues/1978/layout/page_briefs/page_09_top_song_4.json"
+      "page_slug": "top_songs_group",
+      "title": "Top Songs #7-#10",
+      "brief_path": "issues/1978/layout/page_briefs/page_09_top_songs_group.json"
     },
     {
       "page_number": 10,
@@ -94,92 +94,110 @@
     {
       "page_number": 16,
       "page_slug": "movies",
-      "title": "Movies of the Year",
+      "title": "Movies Parody Spread",
       "brief_path": "issues/1978/layout/page_briefs/page_16_movies.json"
     },
     {
       "page_number": 17,
-      "page_slug": "television",
-      "title": "Television of the Year",
-      "brief_path": "issues/1978/layout/page_briefs/page_17_television.json"
+      "page_slug": "movies_spread_2",
+      "title": "Movies Parody Spread",
+      "brief_path": "issues/1978/layout/page_briefs/page_17_movies_spread_2.json"
     },
     {
       "page_number": 18,
-      "page_slug": "culture",
-      "title": "Culture Feature: Everyday 1978",
-      "brief_path": "issues/1978/layout/page_briefs/page_18_culture.json"
+      "page_slug": "projection_booth",
+      "title": "From the Projection Booth",
+      "brief_path": "issues/1978/layout/page_briefs/page_18_projection_booth.json"
     },
     {
       "page_number": 19,
-      "page_slug": "arcade",
-      "title": "Arcade / Technology",
-      "brief_path": "issues/1978/layout/page_briefs/page_19_arcade.json"
+      "page_slug": "movies_charts",
+      "title": "Movies & Awards",
+      "brief_path": "issues/1978/layout/page_briefs/page_19_movies_charts.json"
     },
     {
       "page_number": 20,
-      "page_slug": "retro_ad",
-      "title": "Retro Ad",
-      "brief_path": "issues/1978/layout/page_briefs/page_20_retro_ad.json"
+      "page_slug": "television",
+      "title": "Television Grid",
+      "brief_path": "issues/1978/layout/page_briefs/page_20_television.json"
     },
     {
       "page_number": 21,
-      "page_slug": "comic",
-      "title": "Comic Page",
-      "brief_path": "issues/1978/layout/page_briefs/page_21_comic.json"
+      "page_slug": "culture",
+      "title": "Culture Feature: Everyday 1978",
+      "brief_path": "issues/1978/layout/page_briefs/page_21_culture.json"
     },
     {
       "page_number": 22,
-      "page_slug": "puzzle",
-      "title": "Puzzle 1",
-      "brief_path": "issues/1978/layout/page_briefs/page_22_puzzle.json"
+      "page_slug": "arcade",
+      "title": "Arcade / Technology",
+      "brief_path": "issues/1978/layout/page_briefs/page_22_arcade.json"
     },
     {
       "page_number": 23,
-      "page_slug": "letters",
-      "title": "Letters",
-      "brief_path": "issues/1978/layout/page_briefs/page_23_letters.json"
+      "page_slug": "retro_ad",
+      "title": "Retro Ad",
+      "brief_path": "issues/1978/layout/page_briefs/page_23_retro_ad.json"
     },
     {
       "page_number": 24,
-      "page_slug": "forgotten_hit",
-      "title": "Almost Hits: Can't Smile Without You — Barry Manilow",
-      "brief_path": "issues/1978/layout/page_briefs/page_24_forgotten_hit.json"
+      "page_slug": "comic",
+      "title": "Channel 8 Night Desk",
+      "brief_path": "issues/1978/layout/page_briefs/page_24_comic.json"
     },
     {
       "page_number": 25,
-      "page_slug": "one_hit_wonder",
-      "title": "One Hit Wonder",
-      "brief_path": "issues/1978/layout/page_briefs/page_25_one_hit_wonder.json"
+      "page_slug": "puzzle",
+      "title": "Puzzle 1",
+      "brief_path": "issues/1978/layout/page_briefs/page_25_puzzle.json"
     },
     {
       "page_number": 26,
-      "page_slug": "album_spotlight",
-      "title": "Album Gravity: Saturday Night Fever — Soundtrack",
-      "brief_path": "issues/1978/layout/page_briefs/page_26_album_spotlight.json"
+      "page_slug": "letters",
+      "title": "Letters",
+      "brief_path": "issues/1978/layout/page_briefs/page_26_letters.json"
     },
     {
       "page_number": 27,
-      "page_slug": "year_timeline",
-      "title": "The Week-by-Week Yearline",
-      "brief_path": "issues/1978/layout/page_briefs/page_27_year_timeline.json"
+      "page_slug": "forgotten_hit",
+      "title": "Almost Hits: Can't Smile Without You — Barry Manilow",
+      "brief_path": "issues/1978/layout/page_briefs/page_27_forgotten_hit.json"
     },
     {
       "page_number": 28,
-      "page_slug": "culture_collage",
-      "title": "Culture Collage",
-      "brief_path": "issues/1978/layout/page_briefs/page_28_culture_collage.json"
+      "page_slug": "one_hit_wonder",
+      "title": "One Hit Wonder",
+      "brief_path": "issues/1978/layout/page_briefs/page_28_one_hit_wonder.json"
     },
     {
       "page_number": 29,
-      "page_slug": "retro_ads_page",
-      "title": "Retro Ads Page",
-      "brief_path": "issues/1978/layout/page_briefs/page_29_retro_ads_page.json"
+      "page_slug": "album_spotlight",
+      "title": "Album Gravity: Saturday Night Fever — Soundtrack",
+      "brief_path": "issues/1978/layout/page_briefs/page_29_album_spotlight.json"
     },
     {
       "page_number": 30,
+      "page_slug": "year_timeline",
+      "title": "The Week-by-Week Yearline",
+      "brief_path": "issues/1978/layout/page_briefs/page_30_year_timeline.json"
+    },
+    {
+      "page_number": 31,
+      "page_slug": "culture_collage",
+      "title": "Culture Collage",
+      "brief_path": "issues/1978/layout/page_briefs/page_31_culture_collage.json"
+    },
+    {
+      "page_number": 32,
+      "page_slug": "retro_ads_page",
+      "title": "Retro Ads Page",
+      "brief_path": "issues/1978/layout/page_briefs/page_32_retro_ads_page.json"
+    },
+    {
+      "page_number": 33,
       "page_slug": "chart_top23",
-      "title": "RetroVerse Top 23",
-      "brief_path": "issues/1978/layout/page_briefs/page_30_chart_top23.json"
+      "title": "Top 23 Songs",
+      "brief_path": "issues/1978/layout/page_briefs/page_33_chart_top23.json"
     }
   ]
 }

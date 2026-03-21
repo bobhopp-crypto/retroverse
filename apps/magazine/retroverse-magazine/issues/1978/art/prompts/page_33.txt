@@ -1,0 +1,21 @@
+Retro magazine illustration for page 33 of a 1978 pop culture magazine.
+
+Prompt source: legacy
+Page slug: chart_top23
+Page title: Top 23 Songs
+
+Article topic:
+Year-End Wall Chart TOP 23 TOP 23 SONGS 1978 Twenty-three hooks. No quiet corners. Ranked + stacked 01Stayin' Alive Bee Gees 23w / #1 02Night Fever Bee Gees 20w / #1 03(Love Is) Thicker Than Water Andy Gibb 20w / #1 04Three Times A Lady Commodores 20w / #1 05Kiss You All Over Exile 23w / #1 06Can't Smile Without You Barry Manilow 19w / #3 07MacArthur Park Donna Summer 17w / #1 08Lay Down Sally...
+
+Visual direction from page brief:
+Top 23 Songs Poster sheet for the year's biggest records Present Top 23 Songs as a complete RetroVerse 1978 poster chart page page, with page-aware artwork under real typography and no text baked into the illustration layer for `chart_top23`. Top 23 Songs Poster sheet for the year's biggest records Year-End Wall Chart TOP 23 TOP 23 SONGS 1978 Twenty-three hooks. No quiet corners. Ranked + stacked 01Stayin' Alive Bee Gees 23w / #1 02Night Fever Bee Gees 20w / #1 03(Love Is) Thicker Than Water Andy Gibb 20w / #1 04Three Times A Lady Commodores 20w / #1 05Kiss You All Over Exile 23w / #1 06Can't Smile Without You Barry Manilow 19w / #3 07MacArthur Park Donna Summer 17w / #1 08Lay Down Sally...
+
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
+
+Create a lively illustrated scene reflecting the topic.
+1970s editorial illustration style, bold color palette, energetic composition.
+
+Important:
+leave soft areas suitable for text placement.
+Do not include readable typography.

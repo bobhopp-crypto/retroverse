@@ -1,8 +1,8 @@
 Retro magazine illustration for page 26 of a 1978 pop culture magazine.
 
 Prompt source: visual_concept
-Page slug: album_spotlight
-Page title: Album Gravity: Saturday Night Fever — Soundtrack
+Page slug: letters
+Page title: Letters
 Visual concept: record_store_orbit
 
 Article topic:
@@ -12,6 +12,9 @@ Visual direction from page brief:
 Scene description: A record-store interior orbiting around a dominant soundtrack display with browsers, bins, and star-making retail gravity.
 Camera style: circular aisle perspective
 Lighting style: warm retail fluorescents with reflective vinyl sheen
+
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
 
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.

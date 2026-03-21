@@ -10,7 +10,7 @@
   },
   "source_files": [
     "PROJECT_STATE.md",
-    "issues/context/1978_context.json",
+    "issues/context/1978_context_enriched.json",
     "issues/1978/layout/1978_production_targets.json",
     "issues/1978/layout/1978_issue_map.json",
     "issues/1978/chart_top23.md"
@@ -186,5 +186,11 @@
     "Page artwork must preserve negative space inside all declared safe zones.",
     "Environmental lettering may appear only if natural, minimal, and not production-critical."
   ],
-  "easter_egg_rule": "Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography."
+  "easter_egg_rule": "Optional and subtle only: a tiny RetroVerse Easter egg may appear as environmental detail, but it must never behave like final page typography.",
+  "editorial_enrichment": {
+    "cultural_context": "As the No. 8 song of 1978 with 23 chart weeks and a No. 3 peak, it reads as an easygoing counter-groove inside a year full of high-gloss momentum.",
+    "sound_description": "The title suggests a loose rolling feel with more sway than attack, built for warmth and steady groove rather than flash.",
+    "notable_fact": "It peaked at No. 3 but still held the chart for 23 weeks, which makes it feel durable rather than momentary.",
+    "scene_use": "Use it for porch lights, roadside bars, convertible rides, or late-afternoon room tone."
+  }
 }

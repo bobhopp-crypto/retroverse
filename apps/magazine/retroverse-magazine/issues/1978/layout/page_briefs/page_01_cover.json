@@ -10,7 +10,7 @@
   },
   "source_files": [
     "PROJECT_STATE.md",
-    "issues/context/1978_context.json",
+    "issues/context/1978_context_enriched.json",
     "issues/1978/layout/1978_production_targets.json",
     "issues/1978/layout/1978_issue_map.json"
   ],
@@ -101,7 +101,7 @@
     "orientation": "portrait",
     "filename": "page_01_cover.html",
     "structure": "cover",
-    "hero_asset": "assets/placeholder.png",
+    "hero_asset": "pages/page_01.png",
     "collage_assets": [],
     "layout_output": "issues/1978/layout/page_01_cover.html"
   },

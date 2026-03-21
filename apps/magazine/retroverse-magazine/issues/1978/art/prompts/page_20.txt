@@ -1,8 +1,8 @@
 Retro magazine illustration for page 20 of a 1978 pop culture magazine.
 
 Prompt source: visual_concept
-Page slug: retro_ad
-Page title: Retro Ad
+Page slug: television
+Page title: Television Grid
 Visual concept: catalog_product_stage
 
 Article topic:
@@ -12,6 +12,9 @@ Visual direction from page brief:
 Scene description: A staged pseudo-advertising scene built around a hero consumer product with props, chrome accents, and aspirational styling.
 Camera style: centered studio showcase
 Lighting style: clean studio pools with glossy specular highlights
+
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
 
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.

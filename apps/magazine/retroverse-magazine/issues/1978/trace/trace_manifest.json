@@ -1,8 +1,31 @@
 {
   "year": 1978,
-  "generated_at": "2026-03-14T17:41:56",
-  "page_count": 30,
-  "duplicate_image_paths": {},
+  "generated_at": "2026-03-19T19:07:43",
+  "page_count": 33,
+  "duplicate_image_paths": {
+    "assets/placeholder.png": [
+      4,
+      5,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ]
+  },
   "pages": [
     {
       "page_number": 1,
@@ -110,12 +133,12 @@
       "page_brief_path": "issues/1978/layout/page_briefs/page_04_year_snapshot.json",
       "art_direction_path": "issues/1978/art_direction/page_04_year_snapshot.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_04.txt",
-      "generated_image_path": "issues/1978/art/pages/page_04.png",
+      "generated_image_path": "assets/placeholder.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_04.png"
+        "assets/placeholder.png"
       ],
       "layout_image_paths": [
-        "issues/1978/art/pages/page_04.png"
+        "assets/placeholder.png"
       ],
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_04.png"
@@ -123,11 +146,39 @@
       "layout_html_path": "issues/1978/layout/page_04_year_snapshot.html",
       "final_page_thumbnail_path": null,
       "warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_04.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_04.png"
         ]
       }
@@ -142,12 +193,12 @@
       "page_brief_path": "issues/1978/layout/page_briefs/page_05_charts_overview.json",
       "art_direction_path": "issues/1978/art_direction/page_05_charts_overview.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_05.txt",
-      "generated_image_path": "issues/1978/art/pages/page_05.png",
+      "generated_image_path": "assets/placeholder.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_05.png"
+        "assets/placeholder.png"
       ],
       "layout_image_paths": [
-        "issues/1978/art/pages/page_05.png"
+        "assets/placeholder.png"
       ],
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_05.png"
@@ -155,11 +206,39 @@
       "layout_html_path": "issues/1978/layout/page_05_charts_overview.html",
       "final_page_thumbnail_path": null,
       "warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_05.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_05.png"
         ]
       }
@@ -230,13 +309,13 @@
     },
     {
       "page_number": 8,
-      "page_slug": "top_song_3",
-      "article_title": "03. (Love Is) Thicker Than Water \u2014 Andy Gibb",
-      "article_excerpt": "03. (Love Is) Thicker Than Water \u2014 Andy Gibb By Bob Jones, Music Features Editor*",
-      "article_source_path": "issues/1978/songs/03.md",
+      "page_slug": "top_songs_group",
+      "article_title": "RETROVERSE TOP 23",
+      "article_excerpt": "RETROVERSE TOP 23 The Biggest Songs of the Year",
+      "article_source_path": "issues/1978/chart_top23.md",
       "final_article_path": null,
-      "page_brief_path": "issues/1978/layout/page_briefs/page_08_top_song_3.json",
-      "art_direction_path": "issues/1978/art_direction/page_08_top_song_3.json",
+      "page_brief_path": "issues/1978/layout/page_briefs/page_08_top_songs_group.json",
+      "art_direction_path": "issues/1978/art_direction/page_08_top_songs_group.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_08.txt",
       "generated_image_path": "issues/1978/art/pages/page_08.png",
       "generated_image_paths": [
@@ -248,7 +327,7 @@
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_08.png"
       ],
-      "layout_html_path": "issues/1978/layout/page_08_top_song_3.html",
+      "layout_html_path": "issues/1978/layout/page_08_top_songs_group.html",
       "final_page_thumbnail_path": null,
       "warnings": {
         "duplicate_images": [],
@@ -262,13 +341,13 @@
     },
     {
       "page_number": 9,
-      "page_slug": "top_song_4",
-      "article_title": "04. Three Times A Lady \u2014 Commodores",
-      "article_excerpt": "04. Three Times A Lady \u2014 Commodores By Bob Jones, Music Features Editor*",
-      "article_source_path": "issues/1978/songs/04.md",
+      "page_slug": "top_songs_group",
+      "article_title": "RETROVERSE TOP 23",
+      "article_excerpt": "RETROVERSE TOP 23 The Biggest Songs of the Year",
+      "article_source_path": "issues/1978/chart_top23.md",
       "final_article_path": null,
-      "page_brief_path": "issues/1978/layout/page_briefs/page_09_top_song_4.json",
-      "art_direction_path": "issues/1978/art_direction/page_09_top_song_4.json",
+      "page_brief_path": "issues/1978/layout/page_briefs/page_09_top_songs_group.json",
+      "art_direction_path": "issues/1978/art_direction/page_09_top_songs_group.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_09.txt",
       "generated_image_path": "issues/1978/art/pages/page_09.png",
       "generated_image_paths": [
@@ -280,7 +359,7 @@
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_09.png"
       ],
-      "layout_html_path": "issues/1978/layout/page_09_top_song_4.html",
+      "layout_html_path": "issues/1978/layout/page_09_top_songs_group.html",
       "final_page_thumbnail_path": null,
       "warnings": {
         "duplicate_images": [],
@@ -302,12 +381,12 @@
       "page_brief_path": "issues/1978/layout/page_briefs/page_10_top_song_5.json",
       "art_direction_path": "issues/1978/art_direction/page_10_top_song_5.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_10.txt",
-      "generated_image_path": "issues/1978/art/pages/page_10.png",
+      "generated_image_path": "assets/placeholder.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_10.png"
+        "assets/placeholder.png"
       ],
       "layout_image_paths": [
-        "issues/1978/art/pages/page_10.png"
+        "assets/placeholder.png"
       ],
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_10.png"
@@ -315,11 +394,39 @@
       "layout_html_path": "issues/1978/layout/page_10_top_song_5.html",
       "final_page_thumbnail_path": null,
       "warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_10.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_10.png"
         ]
       }
@@ -334,12 +441,12 @@
       "page_brief_path": "issues/1978/layout/page_briefs/page_11_top_song_6.json",
       "art_direction_path": "issues/1978/art_direction/page_11_top_song_6.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_11.txt",
-      "generated_image_path": "issues/1978/art/pages/page_11.png",
+      "generated_image_path": "assets/placeholder.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_11.png"
+        "assets/placeholder.png"
       ],
       "layout_image_paths": [
-        "issues/1978/art/pages/page_11.png"
+        "assets/placeholder.png"
       ],
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_11.png"
@@ -347,11 +454,39 @@
       "layout_html_path": "issues/1978/layout/page_11_top_song_6.html",
       "final_page_thumbnail_path": null,
       "warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_11.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_11.png"
         ]
       }
@@ -366,12 +501,12 @@
       "page_brief_path": "issues/1978/layout/page_briefs/page_12_top_song_7.json",
       "art_direction_path": "issues/1978/art_direction/page_12_top_song_7.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_12.txt",
-      "generated_image_path": "issues/1978/art/pages/page_12.png",
+      "generated_image_path": "assets/placeholder.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_12.png"
+        "assets/placeholder.png"
       ],
       "layout_image_paths": [
-        "issues/1978/art/pages/page_12.png"
+        "assets/placeholder.png"
       ],
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_12.png"
@@ -379,11 +514,39 @@
       "layout_html_path": "issues/1978/layout/page_12_top_song_7.html",
       "final_page_thumbnail_path": null,
       "warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_12.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_12.png"
         ]
       }
@@ -398,12 +561,12 @@
       "page_brief_path": "issues/1978/layout/page_briefs/page_13_top_song_8.json",
       "art_direction_path": "issues/1978/art_direction/page_13_top_song_8.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_13.txt",
-      "generated_image_path": "issues/1978/art/pages/page_13.png",
+      "generated_image_path": "assets/placeholder.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_13.png"
+        "assets/placeholder.png"
       ],
       "layout_image_paths": [
-        "issues/1978/art/pages/page_13.png"
+        "assets/placeholder.png"
       ],
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_13.png"
@@ -411,11 +574,39 @@
       "layout_html_path": "issues/1978/layout/page_13_top_song_8.html",
       "final_page_thumbnail_path": null,
       "warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_13.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_13.png"
         ]
       }
@@ -430,12 +621,12 @@
       "page_brief_path": "issues/1978/layout/page_briefs/page_14_top_song_9.json",
       "art_direction_path": "issues/1978/art_direction/page_14_top_song_9.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_14.txt",
-      "generated_image_path": "issues/1978/art/pages/page_14.png",
+      "generated_image_path": "assets/placeholder.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_14.png"
+        "assets/placeholder.png"
       ],
       "layout_image_paths": [
-        "issues/1978/art/pages/page_14.png"
+        "assets/placeholder.png"
       ],
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_14.png"
@@ -443,11 +634,39 @@
       "layout_html_path": "issues/1978/layout/page_14_top_song_9.html",
       "final_page_thumbnail_path": null,
       "warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_14.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_14.png"
         ]
       }
@@ -462,12 +681,12 @@
       "page_brief_path": "issues/1978/layout/page_briefs/page_15_top_song_10.json",
       "art_direction_path": "issues/1978/art_direction/page_15_top_song_10.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_15.txt",
-      "generated_image_path": "issues/1978/art/pages/page_15.png",
+      "generated_image_path": "assets/placeholder.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_15.png"
+        "assets/placeholder.png"
       ],
       "layout_image_paths": [
-        "issues/1978/art/pages/page_15.png"
+        "assets/placeholder.png"
       ],
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_15.png"
@@ -475,11 +694,39 @@
       "layout_html_path": "issues/1978/layout/page_15_top_song_10.html",
       "final_page_thumbnail_path": null,
       "warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_15.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_15.png"
         ]
       }
@@ -494,13 +741,11 @@
       "page_brief_path": "issues/1978/layout/page_briefs/page_16_movies.json",
       "art_direction_path": "issues/1978/art_direction/page_16_movies.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_16.txt",
-      "generated_image_path": "issues/1978/art/pages/page_16.png",
+      "generated_image_path": "issues/1978/art/issues/1978/art/pages/page_16.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_16.png"
+        "issues/1978/art/issues/1978/art/pages/page_16.png"
       ],
-      "layout_image_paths": [
-        "issues/1978/art/pages/page_16.png"
-      ],
+      "layout_image_paths": [],
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_16.png"
       ],
@@ -510,467 +755,866 @@
         "duplicate_images": [],
         "missing_image": false,
         "placeholder_or_fallback": [],
-        "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_16.png",
-          "prompt-only: issues/1978/art/issues/1978/art/pages/page_16.png"
-        ]
+        "layout_prompt_mismatch": []
       }
     },
     {
       "page_number": 17,
+      "page_slug": "movies_spread_2",
+      "article_title": "Movies of the Year",
+      "article_excerpt": "Movies of the Year By Martin Hale, Film Editor*",
+      "article_source_path": "issues/1978/movies.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_17_movies_spread_2.json",
+      "art_direction_path": "issues/1978/art_direction/page_17_movies_spread_2.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_17.txt",
+      "generated_image_path": "issues/1978/art/issues/1978/art/pages/page_17.png",
+      "generated_image_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_17.png"
+      ],
+      "layout_image_paths": [],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_17.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_17_movies_spread_2.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": []
+      }
+    },
+    {
+      "page_number": 18,
+      "page_slug": "projection_booth",
+      "article_title": "From the Projection Booth",
+      "article_excerpt": "From the Projection Booth A few that stuck, a few that surprised people, and one that never really left. From the Projection Booth A few that stuck, a few that surprised people, and one that never really left. Grease Summer Nights musical number\u2014that's the im...",
+      "article_source_path": "issues/1978/projection_booth.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_18_projection_booth.json",
+      "art_direction_path": "issues/1978/art_direction/page_18_projection_booth.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_18.txt",
+      "generated_image_path": "issues/1978/art/issues/1978/art/pages/page_18.png",
+      "generated_image_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_18.png"
+      ],
+      "layout_image_paths": [],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_18.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_18_projection_booth.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": []
+      }
+    },
+    {
+      "page_number": 19,
+      "page_slug": "movies_charts",
+      "article_title": "Movies & Awards",
+      "article_excerpt": "Movies & Awards Top 10, Academy Awards, and more Top 10 Movies 1Grease2Superman3Heaven Can Wait4The Deer Hunter5Jaws 26Animal House7Every Which Way but Loose8Halloween9Hooper10The WizAcademy Awards Best PictureThe Deer HunterBest DirectorMichael CiminoBest Ac...",
+      "article_source_path": "issues/1978/movies_charts.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_19_movies_charts.json",
+      "art_direction_path": "issues/1978/art_direction/page_19_movies_charts.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_19.txt",
+      "generated_image_path": "issues/1978/art/issues/1978/art/pages/page_19.png",
+      "generated_image_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_19.png"
+      ],
+      "layout_image_paths": [],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_19.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_19_movies_charts.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [],
+        "missing_image": false,
+        "placeholder_or_fallback": [],
+        "layout_prompt_mismatch": []
+      }
+    },
+    {
+      "page_number": 20,
       "page_slug": "television",
       "article_title": "Television of the Year",
       "article_excerpt": "Television of the Year By Linda Park, Television Editor*",
       "article_source_path": "issues/1978/television.md",
       "final_article_path": null,
-      "page_brief_path": "issues/1978/layout/page_briefs/page_17_television.json",
-      "art_direction_path": "issues/1978/art_direction/page_17_television.json",
-      "illustration_prompt_path": "issues/1978/art/prompts/page_17.txt",
-      "generated_image_path": "issues/1978/art/pages/page_17.png",
+      "page_brief_path": "issues/1978/layout/page_briefs/page_20_television.json",
+      "art_direction_path": "issues/1978/art_direction/page_20_television.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_20.txt",
+      "generated_image_path": "issues/1978/art/issues/1978/art/pages/page_20.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_17.png"
+        "issues/1978/art/issues/1978/art/pages/page_20.png"
       ],
-      "layout_image_paths": [
-        "issues/1978/art/pages/page_17.png"
-      ],
+      "layout_image_paths": [],
       "prompt_asset_paths": [
-        "issues/1978/art/issues/1978/art/pages/page_17.png"
+        "issues/1978/art/issues/1978/art/pages/page_20.png"
       ],
-      "layout_html_path": "issues/1978/layout/page_17_television.html",
+      "layout_html_path": "issues/1978/layout/page_20_television.html",
       "final_page_thumbnail_path": null,
       "warnings": {
         "duplicate_images": [],
         "missing_image": false,
         "placeholder_or_fallback": [],
-        "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_17.png",
-          "prompt-only: issues/1978/art/issues/1978/art/pages/page_17.png"
-        ]
+        "layout_prompt_mismatch": []
       }
     },
     {
-      "page_number": 18,
+      "page_number": 21,
       "page_slug": "culture",
       "article_title": "Culture Feature: Everyday 1978",
       "article_excerpt": "Culture Feature: Everyday 1978 By Eve Binet, Culture & Lifestyle Editor*",
       "article_source_path": "issues/1978/culture.md",
       "final_article_path": null,
-      "page_brief_path": "issues/1978/layout/page_briefs/page_18_culture.json",
-      "art_direction_path": "issues/1978/art_direction/page_18_culture.json",
-      "illustration_prompt_path": "issues/1978/art/prompts/page_18.txt",
-      "generated_image_path": "issues/1978/art/pages/page_18.png",
-      "generated_image_paths": [
-        "issues/1978/art/pages/page_18.png"
-      ],
-      "layout_image_paths": [
-        "issues/1978/art/pages/page_18.png"
-      ],
-      "prompt_asset_paths": [
-        "issues/1978/art/issues/1978/art/pages/page_18.png"
-      ],
-      "layout_html_path": "issues/1978/layout/page_18_culture.html",
-      "final_page_thumbnail_path": null,
-      "warnings": {
-        "duplicate_images": [],
-        "missing_image": false,
-        "placeholder_or_fallback": [],
-        "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_18.png",
-          "prompt-only: issues/1978/art/issues/1978/art/pages/page_18.png"
-        ]
-      }
-    },
-    {
-      "page_number": 19,
-      "page_slug": "arcade",
-      "article_title": "Arcade / Technology",
-      "article_excerpt": "Placeholder content.*",
-      "article_source_path": "issues/1978/arcade.md",
-      "final_article_path": null,
-      "page_brief_path": "issues/1978/layout/page_briefs/page_19_arcade.json",
-      "art_direction_path": "issues/1978/art_direction/page_19_arcade.json",
-      "illustration_prompt_path": "issues/1978/art/prompts/page_19.txt",
-      "generated_image_path": "issues/1978/art/pages/page_19.png",
-      "generated_image_paths": [
-        "issues/1978/art/pages/page_19.png"
-      ],
-      "layout_image_paths": [
-        "issues/1978/art/pages/page_19.png"
-      ],
-      "prompt_asset_paths": [
-        "issues/1978/art/issues/1978/art/pages/page_19.png"
-      ],
-      "layout_html_path": "issues/1978/layout/page_19_arcade.html",
-      "final_page_thumbnail_path": null,
-      "warnings": {
-        "duplicate_images": [],
-        "missing_image": false,
-        "placeholder_or_fallback": [
-          "Final page copy includes placeholder or reserve language."
-        ],
-        "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_19.png",
-          "prompt-only: issues/1978/art/issues/1978/art/pages/page_19.png"
-        ]
-      }
-    },
-    {
-      "page_number": 20,
-      "page_slug": "retro_ad",
-      "article_title": "Retro Advertisements",
-      "article_excerpt": "Placeholder content.*",
-      "article_source_path": "issues/1978/ads.md",
-      "final_article_path": null,
-      "page_brief_path": "issues/1978/layout/page_briefs/page_20_retro_ad.json",
-      "art_direction_path": "issues/1978/art_direction/page_20_retro_ad.json",
-      "illustration_prompt_path": "issues/1978/art/prompts/page_20.txt",
-      "generated_image_path": "issues/1978/art/pages/page_20.png",
-      "generated_image_paths": [
-        "issues/1978/art/pages/page_20.png"
-      ],
-      "layout_image_paths": [
-        "issues/1978/art/pages/page_20.png"
-      ],
-      "prompt_asset_paths": [
-        "issues/1978/art/issues/1978/art/pages/page_20.png"
-      ],
-      "layout_html_path": "issues/1978/layout/page_20_retro_ad.html",
-      "final_page_thumbnail_path": null,
-      "warnings": {
-        "duplicate_images": [],
-        "missing_image": false,
-        "placeholder_or_fallback": [
-          "Final page copy includes placeholder or reserve language."
-        ],
-        "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_20.png",
-          "prompt-only: issues/1978/art/issues/1978/art/pages/page_20.png"
-        ]
-      }
-    },
-    {
-      "page_number": 21,
-      "page_slug": "comic",
-      "article_title": "Comic Page",
-      "article_excerpt": "Placeholder content.*",
-      "article_source_path": "issues/1978/comic.md",
-      "final_article_path": null,
-      "page_brief_path": "issues/1978/layout/page_briefs/page_21_comic.json",
-      "art_direction_path": "issues/1978/art_direction/page_21_comic.json",
+      "page_brief_path": "issues/1978/layout/page_briefs/page_21_culture.json",
+      "art_direction_path": "issues/1978/art_direction/page_21_culture.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_21.txt",
-      "generated_image_path": "issues/1978/art/pages/page_21.png",
+      "generated_image_path": "assets/placeholder.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_21.png"
+        "assets/placeholder.png"
       ],
       "layout_image_paths": [
-        "issues/1978/art/pages/page_21.png"
+        "assets/placeholder.png"
       ],
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_21.png"
       ],
-      "layout_html_path": "issues/1978/layout/page_21_comic.html",
+      "layout_html_path": "issues/1978/layout/page_21_culture.html",
       "final_page_thumbnail_path": null,
       "warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
         "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
           "Final page copy includes placeholder or reserve language."
         ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_21.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_21.png"
         ]
       }
     },
     {
       "page_number": 22,
-      "page_slug": "puzzle",
-      "article_title": "Puzzle 1",
+      "page_slug": "arcade",
+      "article_title": "Arcade / Technology",
       "article_excerpt": "Placeholder content.*",
-      "article_source_path": "issues/1978/puzzle1.md",
+      "article_source_path": "issues/1978/arcade.md",
       "final_article_path": null,
-      "page_brief_path": "issues/1978/layout/page_briefs/page_22_puzzle.json",
-      "art_direction_path": "issues/1978/art_direction/page_22_puzzle.json",
+      "page_brief_path": "issues/1978/layout/page_briefs/page_22_arcade.json",
+      "art_direction_path": "issues/1978/art_direction/page_22_arcade.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_22.txt",
-      "generated_image_path": "issues/1978/art/pages/page_22.png",
+      "generated_image_path": "assets/placeholder.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_22.png"
+        "assets/placeholder.png"
       ],
       "layout_image_paths": [
-        "issues/1978/art/pages/page_22.png"
+        "assets/placeholder.png"
       ],
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_22.png"
       ],
-      "layout_html_path": "issues/1978/layout/page_22_puzzle.html",
+      "layout_html_path": "issues/1978/layout/page_22_arcade.html",
       "final_page_thumbnail_path": null,
       "warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
         "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
           "Final page copy includes placeholder or reserve language."
         ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_22.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_22.png"
         ]
       }
     },
     {
       "page_number": 23,
-      "page_slug": "letters",
-      "article_title": "Letters",
-      "article_excerpt": "\"You Could Hear It Everywhere\" R. M., Cleveland*",
-      "article_source_path": "issues/1978/letters.md",
+      "page_slug": "retro_ad",
+      "article_title": "Retro Advertisements",
+      "article_excerpt": "Placeholder content.*",
+      "article_source_path": "issues/1978/ads.md",
       "final_article_path": null,
-      "page_brief_path": "issues/1978/layout/page_briefs/page_23_letters.json",
-      "art_direction_path": "issues/1978/art_direction/page_23_letters.json",
+      "page_brief_path": "issues/1978/layout/page_briefs/page_23_retro_ad.json",
+      "art_direction_path": "issues/1978/art_direction/page_23_retro_ad.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_23.txt",
-      "generated_image_path": "issues/1978/art/pages/page_23.png",
+      "generated_image_path": "assets/placeholder.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_23.png"
+        "assets/placeholder.png"
       ],
       "layout_image_paths": [
-        "issues/1978/art/pages/page_23.png"
+        "assets/placeholder.png"
       ],
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_23.png"
       ],
-      "layout_html_path": "issues/1978/layout/page_23_letters.html",
+      "layout_html_path": "issues/1978/layout/page_23_retro_ad.html",
       "final_page_thumbnail_path": null,
       "warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_23.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_23.png"
         ]
       }
     },
     {
       "page_number": 24,
-      "page_slug": "forgotten_hit",
-      "article_title": "Almost Hits: Can't Smile Without You \u2014 Barry Manilow",
-      "article_excerpt": "Lede",
-      "article_source_path": "issues/1978/articles/story_011.md",
-      "final_article_path": "issues/1978/articles/final/story_011.md",
-      "page_brief_path": "issues/1978/layout/page_briefs/page_24_forgotten_hit.json",
-      "art_direction_path": "issues/1978/art_direction/page_24_forgotten_hit.json",
+      "page_slug": "comic",
+      "article_title": "Channel 8 Night Desk",
+      "article_excerpt": "A six-panel deadpan local-news comic in which disco congestion, radio overplay, and mirror-ball maintenance are covered with full civic seriousness.",
+      "article_source_path": "issues/1978/comic.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_24_comic.json",
+      "art_direction_path": "issues/1978/art_direction/page_24_comic.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_24.txt",
-      "generated_image_path": "issues/1978/art/pages/page_24.png",
+      "generated_image_path": "assets/placeholder.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_24.png"
+        "assets/placeholder.png"
       ],
       "layout_image_paths": [
-        "issues/1978/art/pages/page_24.png"
+        "assets/placeholder.png"
       ],
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_24.png"
       ],
-      "layout_html_path": "issues/1978/layout/page_24_forgotten_hit.html",
+      "layout_html_path": "issues/1978/layout/page_24_comic.html",
       "final_page_thumbnail_path": null,
       "warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_24.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_24.png"
         ]
       }
     },
     {
       "page_number": 25,
-      "page_slug": "one_hit_wonder",
-      "article_title": "RETROVERSE TOP 23",
-      "article_excerpt": "RETROVERSE TOP 23 The Biggest Songs of the Year",
-      "article_source_path": "issues/1978/chart_top23.md",
+      "page_slug": "puzzle",
+      "article_title": "Puzzle 1",
+      "article_excerpt": "Placeholder content.*",
+      "article_source_path": "issues/1978/puzzle1.md",
       "final_article_path": null,
-      "page_brief_path": "issues/1978/layout/page_briefs/page_25_one_hit_wonder.json",
-      "art_direction_path": "issues/1978/art_direction/page_25_one_hit_wonder.json",
+      "page_brief_path": "issues/1978/layout/page_briefs/page_25_puzzle.json",
+      "art_direction_path": "issues/1978/art_direction/page_25_puzzle.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_25.txt",
-      "generated_image_path": "issues/1978/art/pages/page_25.png",
+      "generated_image_path": "assets/placeholder.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_25.png"
+        "assets/placeholder.png"
       ],
       "layout_image_paths": [
-        "issues/1978/art/pages/page_25.png"
+        "assets/placeholder.png"
       ],
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_25.png"
       ],
-      "layout_html_path": "issues/1978/layout/page_25_one_hit_wonder.html",
+      "layout_html_path": "issues/1978/layout/page_25_puzzle.html",
       "final_page_thumbnail_path": null,
       "warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
         "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
           "Final page copy includes placeholder or reserve language."
         ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_25.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_25.png"
         ]
       }
     },
     {
       "page_number": 26,
-      "page_slug": "album_spotlight",
-      "article_title": "Album Gravity: Saturday Night Fever \u2014 Soundtrack",
-      "article_excerpt": "Lede",
-      "article_source_path": "issues/1978/articles/story_006.md",
-      "final_article_path": "issues/1978/articles/final/story_006.md",
-      "page_brief_path": "issues/1978/layout/page_briefs/page_26_album_spotlight.json",
-      "art_direction_path": "issues/1978/art_direction/page_26_album_spotlight.json",
+      "page_slug": "letters",
+      "article_title": "Letters",
+      "article_excerpt": "\"You Could Hear It Everywhere\" R. M., Cleveland*",
+      "article_source_path": "issues/1978/letters.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_26_letters.json",
+      "art_direction_path": "issues/1978/art_direction/page_26_letters.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_26.txt",
-      "generated_image_path": "issues/1978/art/pages/page_26.png",
+      "generated_image_path": "assets/placeholder.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_26.png"
+        "assets/placeholder.png"
       ],
       "layout_image_paths": [
-        "issues/1978/art/pages/page_26.png"
+        "assets/placeholder.png"
       ],
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_26.png"
       ],
-      "layout_html_path": "issues/1978/layout/page_26_album_spotlight.html",
+      "layout_html_path": "issues/1978/layout/page_26_letters.html",
       "final_page_thumbnail_path": null,
       "warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_26.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_26.png"
         ]
       }
     },
     {
       "page_number": 27,
-      "page_slug": "year_timeline",
-      "article_title": "The Week-by-Week Yearline",
+      "page_slug": "forgotten_hit",
+      "article_title": "Almost Hits: Can't Smile Without You \u2014 Barry Manilow",
       "article_excerpt": "Lede",
-      "article_source_path": "issues/1978/articles/story_010.md",
-      "final_article_path": "issues/1978/articles/final/story_010.md",
-      "page_brief_path": "issues/1978/layout/page_briefs/page_27_year_timeline.json",
-      "art_direction_path": "issues/1978/art_direction/page_27_year_timeline.json",
+      "article_source_path": "issues/1978/articles/story_011.md",
+      "final_article_path": "issues/1978/articles/final/story_011.md",
+      "page_brief_path": "issues/1978/layout/page_briefs/page_27_forgotten_hit.json",
+      "art_direction_path": "issues/1978/art_direction/page_27_forgotten_hit.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_27.txt",
-      "generated_image_path": "issues/1978/art/pages/page_27.png",
+      "generated_image_path": "assets/placeholder.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_27.png"
+        "assets/placeholder.png"
       ],
       "layout_image_paths": [
-        "issues/1978/art/pages/page_27.png"
+        "assets/placeholder.png"
       ],
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_27.png"
       ],
-      "layout_html_path": "issues/1978/layout/page_27_year_timeline.html",
+      "layout_html_path": "issues/1978/layout/page_27_forgotten_hit.html",
       "final_page_thumbnail_path": null,
       "warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_27.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_27.png"
         ]
       }
     },
     {
       "page_number": 28,
-      "page_slug": "culture_collage",
-      "article_title": "Culture Feature: Everyday 1978",
-      "article_excerpt": "Culture Feature: Everyday 1978 By Eve Binet, Culture & Lifestyle Editor*",
-      "article_source_path": "issues/1978/culture.md",
+      "page_slug": "one_hit_wonder",
+      "article_title": "RETROVERSE TOP 23",
+      "article_excerpt": "RETROVERSE TOP 23 The Biggest Songs of the Year",
+      "article_source_path": "issues/1978/chart_top23.md",
       "final_article_path": null,
-      "page_brief_path": "issues/1978/layout/page_briefs/page_28_culture_collage.json",
-      "art_direction_path": "issues/1978/art_direction/page_28_culture_collage.json",
+      "page_brief_path": "issues/1978/layout/page_briefs/page_28_one_hit_wonder.json",
+      "art_direction_path": "issues/1978/art_direction/page_28_one_hit_wonder.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_28.txt",
-      "generated_image_path": "issues/1978/art/pages/page_28.png",
+      "generated_image_path": "assets/placeholder.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_28.png"
+        "assets/placeholder.png"
       ],
       "layout_image_paths": [
-        "issues/1978/art/pages/page_28.png"
+        "assets/placeholder.png"
       ],
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_28.png"
       ],
-      "layout_html_path": "issues/1978/layout/page_28_culture_collage.html",
+      "layout_html_path": "issues/1978/layout/page_28_one_hit_wonder.html",
       "final_page_thumbnail_path": null,
       "warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              29,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_28.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_28.png"
         ]
       }
     },
     {
       "page_number": 29,
-      "page_slug": "retro_ads_page",
-      "article_title": "Retro Advertisements",
-      "article_excerpt": "Placeholder content.*",
-      "article_source_path": "issues/1978/ads.md",
-      "final_article_path": null,
-      "page_brief_path": "issues/1978/layout/page_briefs/page_29_retro_ads_page.json",
-      "art_direction_path": "issues/1978/art_direction/page_29_retro_ads_page.json",
+      "page_slug": "album_spotlight",
+      "article_title": "Album Gravity: Saturday Night Fever \u2014 Soundtrack",
+      "article_excerpt": "Lede",
+      "article_source_path": "issues/1978/articles/story_006.md",
+      "final_article_path": "issues/1978/articles/final/story_006.md",
+      "page_brief_path": "issues/1978/layout/page_briefs/page_29_album_spotlight.json",
+      "art_direction_path": "issues/1978/art_direction/page_29_album_spotlight.json",
       "illustration_prompt_path": "issues/1978/art/prompts/page_29.txt",
-      "generated_image_path": "issues/1978/art/pages/page_29.png",
+      "generated_image_path": "assets/placeholder.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_29.png"
+        "assets/placeholder.png"
       ],
       "layout_image_paths": [
-        "issues/1978/art/pages/page_29.png"
+        "assets/placeholder.png"
       ],
       "prompt_asset_paths": [
         "issues/1978/art/issues/1978/art/pages/page_29.png"
       ],
-      "layout_html_path": "issues/1978/layout/page_29_retro_ads_page.html",
+      "layout_html_path": "issues/1978/layout/page_29_album_spotlight.html",
       "final_page_thumbnail_path": null,
       "warnings": {
-        "duplicate_images": [],
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              30,
+              31,
+              32
+            ]
+          }
+        ],
         "missing_image": false,
-        "placeholder_or_fallback": [],
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_29.png",
+          "layout-only: assets/placeholder.png",
           "prompt-only: issues/1978/art/issues/1978/art/pages/page_29.png"
         ]
       }
     },
     {
       "page_number": 30,
+      "page_slug": "year_timeline",
+      "article_title": "The Week-by-Week Yearline",
+      "article_excerpt": "Lede",
+      "article_source_path": "issues/1978/articles/story_010.md",
+      "final_article_path": "issues/1978/articles/final/story_010.md",
+      "page_brief_path": "issues/1978/layout/page_briefs/page_30_year_timeline.json",
+      "art_direction_path": "issues/1978/art_direction/page_30_year_timeline.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_30.txt",
+      "generated_image_path": "assets/placeholder.png",
+      "generated_image_paths": [
+        "assets/placeholder.png"
+      ],
+      "layout_image_paths": [
+        "assets/placeholder.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_30.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_30_year_timeline.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              31,
+              32
+            ]
+          }
+        ],
+        "missing_image": false,
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
+        "layout_prompt_mismatch": [
+          "layout-only: assets/placeholder.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_30.png"
+        ]
+      }
+    },
+    {
+      "page_number": 31,
+      "page_slug": "culture_collage",
+      "article_title": "Culture Feature: Everyday 1978",
+      "article_excerpt": "Culture Feature: Everyday 1978 By Eve Binet, Culture & Lifestyle Editor*",
+      "article_source_path": "issues/1978/culture.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_31_culture_collage.json",
+      "art_direction_path": "issues/1978/art_direction/page_31_culture_collage.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_31.txt",
+      "generated_image_path": "assets/placeholder.png",
+      "generated_image_paths": [
+        "assets/placeholder.png"
+      ],
+      "layout_image_paths": [
+        "assets/placeholder.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_31.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_31_culture_collage.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              32
+            ]
+          }
+        ],
+        "missing_image": false,
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
+        "layout_prompt_mismatch": [
+          "layout-only: assets/placeholder.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_31.png"
+        ]
+      }
+    },
+    {
+      "page_number": 32,
+      "page_slug": "retro_ads_page",
+      "article_title": "Retro Advertisements",
+      "article_excerpt": "Placeholder content.*",
+      "article_source_path": "issues/1978/ads.md",
+      "final_article_path": null,
+      "page_brief_path": "issues/1978/layout/page_briefs/page_32_retro_ads_page.json",
+      "art_direction_path": "issues/1978/art_direction/page_32_retro_ads_page.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_32.txt",
+      "generated_image_path": "assets/placeholder.png",
+      "generated_image_paths": [
+        "assets/placeholder.png"
+      ],
+      "layout_image_paths": [
+        "assets/placeholder.png"
+      ],
+      "prompt_asset_paths": [
+        "issues/1978/art/issues/1978/art/pages/page_32.png"
+      ],
+      "layout_html_path": "issues/1978/layout/page_32_retro_ads_page.html",
+      "final_page_thumbnail_path": null,
+      "warnings": {
+        "duplicate_images": [
+          {
+            "image_path": "assets/placeholder.png",
+            "other_pages": [
+              4,
+              5,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31
+            ]
+          }
+        ],
+        "missing_image": false,
+        "placeholder_or_fallback": [
+          "Image path contains placeholder/fallback naming.",
+          "Final page copy includes placeholder or reserve language."
+        ],
+        "layout_prompt_mismatch": [
+          "layout-only: assets/placeholder.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_32.png"
+        ]
+      }
+    },
+    {
+      "page_number": 33,
       "page_slug": "chart_top23",
       "article_title": "RETROVERSE TOP 23",
       "article_excerpt": "RETROVERSE TOP 23 The Biggest Songs of the Year",
       "article_source_path": "issues/1978/chart_top23.md",
       "final_article_path": null,
-      "page_brief_path": "issues/1978/layout/page_briefs/page_30_chart_top23.json",
-      "art_direction_path": "issues/1978/art_direction/page_30_chart_top23.json",
-      "illustration_prompt_path": "issues/1978/art/prompts/page_30.txt",
-      "generated_image_path": "issues/1978/art/pages/page_30.png",
+      "page_brief_path": "issues/1978/layout/page_briefs/page_33_chart_top23.json",
+      "art_direction_path": "issues/1978/art_direction/page_33_chart_top23.json",
+      "illustration_prompt_path": "issues/1978/art/prompts/page_33.txt",
+      "generated_image_path": "issues/1978/art/pages/1978_editorial_magazine_illustration_for_top_songs.png",
       "generated_image_paths": [
-        "issues/1978/art/pages/page_30.png"
+        "issues/1978/art/pages/1978_editorial_magazine_illustration_for_top_songs.png"
       ],
       "layout_image_paths": [
-        "issues/1978/art/pages/page_30.png"
+        "issues/1978/art/pages/1978_editorial_magazine_illustration_for_top_songs.png"
       ],
       "prompt_asset_paths": [
-        "issues/1978/art/issues/1978/art/pages/page_30.png"
+        "issues/1978/art/issues/1978/art/pages/page_33.png"
       ],
-      "layout_html_path": "issues/1978/layout/page_30_chart_top23.html",
+      "layout_html_path": "issues/1978/layout/page_33_chart_top23.html",
       "final_page_thumbnail_path": null,
       "warnings": {
         "duplicate_images": [],
         "missing_image": false,
         "placeholder_or_fallback": [],
         "layout_prompt_mismatch": [
-          "layout-only: issues/1978/art/pages/page_30.png",
-          "prompt-only: issues/1978/art/issues/1978/art/pages/page_30.png"
+          "layout-only: issues/1978/art/pages/1978_editorial_magazine_illustration_for_top_songs.png",
+          "prompt-only: issues/1978/art/issues/1978/art/pages/page_33.png"
         ]
       }
     }

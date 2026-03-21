@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import sqlite3
 from datetime import datetime, timezone
@@ -14,13 +15,15 @@ from db_common import load_data_sources, resolve_path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-RETROVERSE_ROOT = PROJECT_ROOT.parent.parent
+# Repo root: retroverse-magazine -> magazine -> apps -> retroverse (parents[2])
+RETROVERSE_ROOT = Path(os.environ["RETROVERSE_ROOT"]) if os.environ.get("RETROVERSE_ROOT") else PROJECT_ROOT.parents[2]
 RAW_DATA_ROOT = RETROVERSE_ROOT / "data" / "raw"
 SCREEN_CULTURE_ROOT = RAW_DATA_ROOT / "screen-culture"
+# Actual warehouse: data/raw/screen-culture/screen-culture/warehouse/
+WAREHOUSE_ROOT = SCREEN_CULTURE_ROOT / "screen-culture" / "warehouse"
 MOVIES_ROOT = SCREEN_CULTURE_ROOT / "movies"
 TELEVISION_ROOT = SCREEN_CULTURE_ROOT / "television"
 REFERENCE_ROOT = SCREEN_CULTURE_ROOT / "reference"
-WAREHOUSE_ROOT = SCREEN_CULTURE_ROOT / "warehouse"
 
 DATA_SOURCES_PATH = PROJECT_ROOT / "data" / "DATA_SOURCES.yaml"
 DEFAULT_YEAR_MASTER_PATH = RETROVERSE_ROOT / "data" / "derived" / "year-masters" / "retroverse_year_master_1958_2024.json"

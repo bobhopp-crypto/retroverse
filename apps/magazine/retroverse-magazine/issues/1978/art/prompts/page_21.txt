@@ -1,8 +1,8 @@
 Retro magazine illustration for page 21 of a 1978 pop culture magazine.
 
 Prompt source: visual_concept
-Page slug: comic
-Page title: Comic Page
+Page slug: culture
+Page title: Culture Feature: Everyday 1978
 Visual concept: back_alley_panel_world
 
 Article topic:
@@ -12,6 +12,9 @@ Visual direction from page brief:
 Scene description: An expressive urban back alley with exaggerated props and strong silhouettes designed to support comic panel overlays.
 Camera style: panel-friendly medium wide shot
 Lighting style: graphic noir contrast with colored edge light
+
+Writing guidance:
+Write a vivid, specific magazine-style article using concrete details. Avoid vague phrases like 'became popular' or 'part of the culture.' Reference real-world context, scenes, or usage when possible.
 
 Create a lively illustrated scene reflecting the topic.
 1970s editorial illustration style.
