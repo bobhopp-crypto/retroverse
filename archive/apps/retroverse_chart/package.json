@@ -5,7 +5,6 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "postbuild": "rm -rf charts && mv out charts",
     "start": "next start",
     "lint": "eslint ."
   },

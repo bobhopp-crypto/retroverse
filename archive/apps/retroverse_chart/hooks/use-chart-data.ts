@@ -8,7 +8,15 @@ import { searchMatch } from '@/lib/search'
 const SEARCH_DEBOUNCE_MS = 200
 const DATA_URL = `${process.env.NEXT_PUBLIC_BASE_PATH || ''}/data/billboard_hot_100.json`
 
-const fetcher = (url: string) => fetch(url).then(res => res.json())
+const fetcher = async (url: string): Promise<Song[]> => {
+  const res = await fetch(url)
+  if (!res.ok) return []
+  try {
+    return await res.json()
+  } catch {
+    return []
+  }
+}
 
 export function useChartData() {
   const { data: songs = [], isLoading } = useSWR<Song[]>(DATA_URL, fetcher)
