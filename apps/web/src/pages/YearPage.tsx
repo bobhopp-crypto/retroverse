@@ -2,9 +2,9 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import AlbumChartPanel from '../components/AlbumChartPanel'
 import ArtistGravityPanel from '../components/ArtistGravityPanel'
-import { MEDIA_BASE } from '../config/media'
 import { fetchBillboardYearStats, type BillboardYearStats } from '../lib/billboardClient'
 import { normalizeArtist, normalizeTitle } from '../lib/normalize'
+import { loadVideoIndex } from '../lib/videoIndex'
 
 const getArtistPath = (artist: string) => `/artist/${encodeURIComponent(artist)}`
 
@@ -30,22 +30,6 @@ const toFiniteNumber = (value: unknown): number | null => {
 
 const makeSongLookupKey = (artist: string, title: string): string =>
   `${normalizeArtist(artist)}::${normalizeTitle(title)}`
-
-const buildVideoUrlFromPath = (rawPath: string): string | null => {
-  const marker = '/VIDEO/'
-  const markerIndex = rawPath.indexOf(marker)
-  if (markerIndex === -1) return null
-
-  const relativePath = rawPath.slice(markerIndex + marker.length)
-  if (!relativePath) return null
-
-  const encoded = `video/${relativePath}`
-    .split('/')
-    .map((segment) => encodeURIComponent(segment))
-    .join('/')
-
-  return `${MEDIA_BASE}/${encoded}`
-}
 
 const parseYearChartSong = (value: unknown): YearChartSong | null => {
   if (!value || typeof value !== 'object') return null
@@ -131,9 +115,8 @@ export default function YearPage() {
 
       try {
         const chartsUrl = `${import.meta.env.BASE_URL}data/charts/${targetYear}.json`
-        const videoUrl = `${import.meta.env.BASE_URL}data/video-index.json`
-
-        const [chartResponse, videoResponse] = await Promise.all([fetch(chartsUrl), fetch(videoUrl)])
+        const decadeLabel = `${Math.floor(targetYear / 10) * 10}s`
+        const [chartResponse, videoRows] = await Promise.all([fetch(chartsUrl), loadVideoIndex(decadeLabel)])
 
         if (!chartResponse.ok) {
           throw new Error(
@@ -142,36 +125,21 @@ export default function YearPage() {
               : `Failed to load chart summary (${chartResponse.status}).`,
           )
         }
-        if (!videoResponse.ok) throw new Error(`Failed to load video index (${videoResponse.status}).`)
 
         const chartPayload = (await chartResponse.json()) as unknown
-        const videoPayload = (await videoResponse.json()) as unknown
 
         const chartRows = (Array.isArray(chartPayload) ? chartPayload : [])
           .map(parseYearChartSong)
           .filter((entry): entry is YearChartSong => entry !== null)
 
-        const rawVideoRows = Array.isArray(videoPayload)
-          ? videoPayload
-          : Array.isArray((videoPayload as { items?: unknown[] } | null | undefined)?.items)
-            ? ((videoPayload as { items: unknown[] }).items)
-            : Array.isArray((videoPayload as { videos?: unknown[] } | null | undefined)?.videos)
-              ? ((videoPayload as { videos: unknown[] }).videos)
-              : []
-
         const videoLookup = new Map<string, VideoMatch>()
-        for (const rawRow of rawVideoRows) {
-          if (!rawRow || typeof rawRow !== 'object') continue
-          const row = rawRow as Record<string, unknown>
-          const tags = row.tags && typeof row.tags === 'object' ? (row.tags as Record<string, unknown>) : null
-
-          const artist = toStringValue(row.artist ?? row.author ?? tags?.author)
-          const title = toStringValue(row.title ?? tags?.title)
+        for (const row of videoRows) {
+          if (row.year !== targetYear) continue
+          const artist = toStringValue(row.artist)
+          const title = toStringValue(row.title)
           if (!artist || !title) continue
 
-          const explicitUrl = toStringValue(row.videoUrl ?? row.video_url)
-          const filePath = toStringValue(row.filePath ?? row.filepath ?? row.relative_media_path)
-          const playUrl = explicitUrl || buildVideoUrlFromPath(filePath) || null
+          const playUrl = row.videoUrl ?? null
           const key = makeSongLookupKey(artist, title)
           const existing = videoLookup.get(key)
 

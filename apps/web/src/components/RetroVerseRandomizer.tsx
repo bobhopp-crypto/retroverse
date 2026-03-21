@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState, type CSSProperties } from 'react'
 import { createPortal } from 'react-dom'
 import './RetroVerseRandomizer.css'
-import roundLogo from '../assets/round-logo.png'
+import roundLogo from '../assets/round-logo.webp'
 import SlotCounter from './SlotCounter'
 import {
   COLOR_BASE_CREAM,

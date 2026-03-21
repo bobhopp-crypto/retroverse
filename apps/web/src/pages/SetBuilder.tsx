@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useRef, useState, type CSSProperties } from 'react'
-import logoMark from '../assets/round-logo.png'
+import logoMark from '../assets/round-logo.webp'
 import PerformancePad from '../components/pads/PerformancePad'
 import PerformancePadGroup from '../components/pads/PerformancePadGroup'
 import { HISTORY_INDEX_URL } from '../config/dataSources'

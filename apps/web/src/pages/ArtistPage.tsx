@@ -257,7 +257,7 @@ export default function ArtistPage() {
 
       <article className="section artist-videos-panel-section">
         <h2 className="section-title section-badge-video">Artist Videos</h2>
-        <ArtistVideosPanel artistName={displayName} />
+        <ArtistVideosPanel artistName={displayName} decadeHints={chartDecades} requireDecadeHints />
       </article>
 
       <article className="section">
