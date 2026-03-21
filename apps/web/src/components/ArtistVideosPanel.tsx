@@ -1,10 +1,11 @@
 import { useEffect, useMemo, useState } from 'react'
-import { MEDIA_BASE } from '../config/media'
 import { normalizeArtist } from '../lib/normalize'
+import { loadVideoIndex, type VideoRecord } from '../lib/videoIndex'
 import './ArtistVideosPanel.css'
 
 type ArtistVideosPanelProps = {
   artistName: string
+  decadeHints?: string[]
 }
 
 type VideoEntry = {
@@ -13,44 +14,18 @@ type VideoEntry = {
   playUrl: string | null
 }
 
-const toStringValue = (value: unknown): string => (typeof value === 'string' ? value.trim() : '')
-
-const buildVideoUrlFromPath = (rawPath: string): string | null => {
-  const marker = '/VIDEO/'
-  const markerIndex = rawPath.indexOf(marker)
-  if (markerIndex === -1) return null
-
-  const relativePath = rawPath.slice(markerIndex + marker.length)
-  if (!relativePath) return null
-
-  const encoded = `video/${relativePath}`
-    .split('/')
-    .map((segment) => encodeURIComponent(segment))
-    .join('/')
-
-  return `${MEDIA_BASE}/${encoded}`
-}
-
-const parseVideoEntry = (value: unknown): VideoEntry | null => {
-  if (!value || typeof value !== 'object') return null
-  const row = value as Record<string, unknown>
-  const tags = row.tags && typeof row.tags === 'object' ? (row.tags as Record<string, unknown>) : null
-
-  const title = toStringValue(row.title ?? tags?.title)
-  const artist = toStringValue(row.artist ?? row.author ?? tags?.author)
+const toVideoEntry = (row: VideoRecord): VideoEntry | null => {
+  const title = row.title.trim()
+  const artist = row.artist.trim()
   if (!title || !artist) return null
-
-  const explicitUrl = toStringValue(row.videoUrl ?? row.video_url)
-  const filePath = toStringValue(row.filePath ?? row.filepath ?? row.relative_media_path)
-
   return {
     title,
     artist,
-    playUrl: explicitUrl || buildVideoUrlFromPath(filePath) || null,
+    playUrl: row.videoUrl ?? null,
   }
 }
 
-export default function ArtistVideosPanel({ artistName }: ArtistVideosPanelProps) {
+export default function ArtistVideosPanel({ artistName, decadeHints = [] }: ArtistVideosPanelProps) {
   const [rows, setRows] = useState<VideoEntry[]>([])
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
@@ -60,22 +35,14 @@ export default function ArtistVideosPanel({ artistName }: ArtistVideosPanelProps
     setLoading(true)
     setError(null)
 
-    const url = `${import.meta.env.BASE_URL}data/video-index.json`
-    fetch(url)
-      .then(async (response) => {
-        if (!response.ok) throw new Error(`Failed to load video index (${response.status}).`)
-        const payload = (await response.json()) as unknown
+    const decades = [...new Set(decadeHints.map((entry) => entry.trim()).filter((entry) => entry.length > 0))]
+    const loadPromise =
+      decades.length > 0 ? Promise.all(decades.map((decade) => loadVideoIndex(decade))).then((chunks) => chunks.flat()) : loadVideoIndex()
 
-        const rawRows = Array.isArray(payload)
-          ? payload
-          : Array.isArray((payload as { items?: unknown[] } | null | undefined)?.items)
-            ? ((payload as { items: unknown[] }).items)
-            : Array.isArray((payload as { videos?: unknown[] } | null | undefined)?.videos)
-              ? ((payload as { videos: unknown[] }).videos)
-              : []
-
-        return rawRows
-          .map(parseVideoEntry)
+    loadPromise
+      .then((videoRows) => {
+        return videoRows
+          .map(toVideoEntry)
           .filter((entry): entry is VideoEntry => entry !== null)
       })
       .then((parsed) => {
@@ -93,7 +60,7 @@ export default function ArtistVideosPanel({ artistName }: ArtistVideosPanelProps
     return () => {
       cancelled = true
     }
-  }, [])
+  }, [decadeHints])
 
   const normalizedTarget = useMemo(() => normalizeArtist(artistName), [artistName])
 

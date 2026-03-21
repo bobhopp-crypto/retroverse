@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
-import { MEDIA_BASE } from '../config/media'
 import { normalizeArtist, normalizeTitle } from '../lib/normalize'
+import { loadVideoIndex as loadVideoIndexDecade, type VideoRecord } from '../lib/videoIndex'
 import './AlbumChartPanel.css'
 
 type AlbumChartRecord = {
@@ -32,22 +32,6 @@ const getAlbumKey = (entry: AlbumChartRecord): string => `${entry.artist}::${ent
 
 const makeSongLookupKey = (artist: string, title: string): string =>
   `${normalizeArtist(artist)}::${normalizeTitle(title)}`
-
-const buildVideoUrlFromPath = (rawPath: string): string | null => {
-  const marker = '/VIDEO/'
-  const markerIndex = rawPath.indexOf(marker)
-  if (markerIndex === -1) return null
-
-  const relativePath = rawPath.slice(markerIndex + marker.length)
-  if (!relativePath) return null
-
-  const encoded = `video/${relativePath}`
-    .split('/')
-    .map((segment) => encodeURIComponent(segment))
-    .join('/')
-
-  return `${MEDIA_BASE}/${encoded}`
-}
 
 const parseAlbumChartRecord = (value: unknown): AlbumChartRecord | null => {
   if (!value || typeof value !== 'object') return null
@@ -210,40 +194,24 @@ export default function AlbumChartPanel({ year }: AlbumChartPanelProps) {
       })
   }, [songRows, songsLoading, year])
 
-  const loadVideoIndex = useCallback(() => {
+  const loadVideoLookup = useCallback(() => {
     if (videoIndexLoaded || videoIndexLoading) return
 
-    const url = `${import.meta.env.BASE_URL}data/video-index.json`
+    const decadeLabel = `${Math.floor(year / 10) * 10}s`
     setVideoIndexLoading(true)
     setVideoIndexError(null)
 
-    fetch(url)
-      .then(async (response) => {
-        if (!response.ok) throw new Error(`Failed to load video index (${response.status}).`)
-
-        const payload = (await response.json()) as unknown
-        const rawRows = Array.isArray(payload)
-          ? payload
-          : Array.isArray((payload as { items?: unknown[] } | null | undefined)?.items)
-            ? ((payload as { items: unknown[] }).items)
-            : Array.isArray((payload as { videos?: unknown[] } | null | undefined)?.videos)
-              ? ((payload as { videos: unknown[] }).videos)
-              : []
-
+    loadVideoIndexDecade(decadeLabel)
+      .then((rawRows) => {
         const lookup = new Map<string, VideoMatchRecord>()
 
-        for (const rawRow of rawRows) {
-          if (!rawRow || typeof rawRow !== 'object') continue
-          const row = rawRow as Record<string, unknown>
-
-          const tags = (row.tags && typeof row.tags === 'object' ? (row.tags as Record<string, unknown>) : null)
-          const artist = toStringValue(row.artist ?? row.author ?? tags?.author)
-          const title = toStringValue(row.title ?? tags?.title)
+        for (const row of rawRows as VideoRecord[]) {
+          if (row.year !== year) continue
+          const artist = toStringValue(row.artist)
+          const title = toStringValue(row.title)
           if (!artist || !title) continue
 
-          const explicitUrl = toStringValue(row.videoUrl ?? row.video_url)
-          const filePath = toStringValue(row.filePath ?? row.filepath ?? row.relative_media_path)
-          const playUrl = explicitUrl || buildVideoUrlFromPath(filePath) || null
+          const playUrl = row.videoUrl ?? null
           const key = makeSongLookupKey(artist, title)
           const existing = lookup.get(key)
 
@@ -267,7 +235,7 @@ export default function AlbumChartPanel({ year }: AlbumChartPanelProps) {
         setVideoIndexError(err instanceof Error ? err.message : 'Unable to load video index.')
         setVideoIndexLoading(false)
       })
-  }, [videoIndexLoaded, videoIndexLoading])
+  }, [videoIndexLoaded, videoIndexLoading, year])
 
   const openVideoMatch = useCallback((videoMatch: VideoMatchRecord) => {
     if (videoMatch.playUrl) {
@@ -282,9 +250,9 @@ export default function AlbumChartPanel({ year }: AlbumChartPanelProps) {
       const key = getAlbumKey(entry)
       setExpandedAlbumKey((currentKey) => (currentKey === key ? null : key))
       loadSongsForYear()
-      loadVideoIndex()
+      loadVideoLookup()
     },
-    [loadSongsForYear, loadVideoIndex],
+    [loadSongsForYear, loadVideoLookup],
   )
 
   return (

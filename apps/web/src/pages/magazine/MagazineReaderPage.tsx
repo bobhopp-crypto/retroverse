@@ -131,7 +131,7 @@ function SpreadPageCard({ page }: { page: MagazineSpreadPage | null }) {
       <h2 className="magazine-page-title">{page.title}</h2>
       {page.subtitle ? <p className="magazine-page-subtitle">{page.subtitle}</p> : null}
 
-      {page.image ? <img src={page.image} alt={page.title} className="magazine-page-image" loading="lazy" /> : null}
+      {page.image ? <img src={page.image} alt={page.title} className="magazine-page-image" loading="lazy" decoding="async" /> : null}
 
       <p className="magazine-page-body">{page.body}</p>
     </article>

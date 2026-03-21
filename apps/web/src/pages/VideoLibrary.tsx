@@ -3,6 +3,7 @@ import VideoInfoModal from '../components/VideoInfoModal'
 import type { RandomizerLabel, RandomizerTier, SpinResult } from '../components/RetroVerseRandomizer'
 import VideoLibraryFilterRings from '../components/VideoLibraryFilterRings'
 import { usePlaylistContext } from '../context/PlaylistContext'
+import { useFastMode } from '../lib/useFastMode'
 import { formatDuration, formatYear, loadVideoIndex, rowSearchText, stableVideoHash, type VideoRecord } from '../lib/videoIndex'
 import './VideoLibrary.css'
 
@@ -17,6 +18,7 @@ const RETENTION_FILTERS = ['all', 'S', 'A', 'B', 'C'] as const
 const RANDOMIZER_TIERS = ['Promo', 'Light', 'Medium', 'Heavy', 'Power'] as const
 const YEAR_DIGITS = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9] as const
 const FILTER_STORAGE_KEY = 'retroverse.videoLibrary.filters.v1'
+const FAST_MODE_INITIAL_DECADES = ['1980s'] as const
 
 type SortMode = (typeof SORT_CYCLE)[number]
 type DecadePill = (typeof DECADE_PILLS)[number]
@@ -271,6 +273,7 @@ const buildFilteredRows = (searchableRows: SearchableRow[], filters: ActiveFilte
 
 export default function VideoLibrary() {
   const { addToQueue, openPlayer } = usePlaylistContext()
+  const isFastMode = useFastMode()
 
   const [rows, setRows] = useState<VideoRecord[]>([])
   const [loading, setLoading] = useState(true)
@@ -286,6 +289,7 @@ export default function VideoLibrary() {
   const [retentionFilter, setRetentionFilter] = useState<RetentionFilter>('all')
   const [sortButtonPrimed, setSortButtonPrimed] = useState(false)
   const [isConsoleOpen, setIsConsoleOpen] = useState(false)
+  const [allowFullCatalogInFastMode, setAllowFullCatalogInFastMode] = useState(false)
   const [spinFallbackDecade, setSpinFallbackDecade] = useState<DecadePill | 'all' | null>(null)
   const [fallbackRows, setFallbackRows] = useState<VideoRecord[] | null>(null)
   const [openSwipe, setOpenSwipe] = useState<string | null>(null)
@@ -305,10 +309,13 @@ export default function VideoLibrary() {
 
   const requestedDecades = useMemo(() => {
     if (typeof activeSpinYear === 'number') return [decadeFromYear(activeSpinYear)]
-    if (activeDecades.length === 0) return []
+    if (activeDecades.length === 0) {
+      if (isFastMode && !allowFullCatalogInFastMode) return [...FAST_MODE_INITIAL_DECADES]
+      return []
+    }
     const mapped = activeDecades.map((pill) => DECADE_PILL_TO_DATA_DECADE[pill])
     return [...new Set(mapped)].sort((left, right) => Number(left.slice(0, 4)) - Number(right.slice(0, 4)))
-  }, [activeDecades, activeSpinYear])
+  }, [activeDecades, activeSpinYear, allowFullCatalogInFastMode, isFastMode])
 
   useEffect(() => {
     let cancelled = false
@@ -398,6 +405,12 @@ export default function VideoLibrary() {
     const timer = window.setTimeout(() => setDebouncedSearch(search), 250)
     return () => window.clearTimeout(timer)
   }, [search])
+
+  useEffect(() => {
+    if (!isFastMode || allowFullCatalogInFastMode) return
+    if (search.trim().length === 0) return
+    setAllowFullCatalogInFastMode(true)
+  }, [allowFullCatalogInFastMode, isFastMode, search])
 
   const query = useMemo(() => parseSearch(debouncedSearch), [debouncedSearch])
   const searchableRows = useMemo(
@@ -520,6 +533,7 @@ export default function VideoLibrary() {
   }
 
   const statusLabel = loading || error ? (loading ? 'Loading…' : 'Load failed') : `${matchCount}/${rows.length}`
+  const isFastModeSampling = isFastMode && !allowFullCatalogInFastMode && activeDecades.length === 0 && activeSpinYear === null
   const openFilterConsole = () => {
     setIsConsoleOpen(true)
   }
@@ -540,6 +554,7 @@ export default function VideoLibrary() {
       setActiveSpinYear(null)
       setRetentionFilter('all')
       setNewnessMode('all')
+      setAllowFullCatalogInFastMode(false)
     })
   }
   const cycleSortMode = () => {
@@ -661,6 +676,16 @@ export default function VideoLibrary() {
 
         <div ref={listRef} className="scrollable-list">
           {error && <div className="placeholder-box">Failed to load: {error}</div>}
+          {!error && isFastModeSampling ? (
+            <div className="placeholder-box">
+              Fast mode is active. Showing a lighter catalog first.
+              <div style={{ marginTop: 8 }}>
+                <button type="button" className="clear-btn filter-row-btn" onClick={() => setAllowFullCatalogInFastMode(true)}>
+                  Load full library
+                </button>
+              </div>
+            </div>
+          ) : null}
 
           {!error && isConsoleOpen && (
             <div className="filter-console">
