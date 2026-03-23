@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
+import { dataUrl } from '../../config/dataSources'
 
 type ChartEntry = {
   artist: string
@@ -20,7 +21,7 @@ export default function MagazineYear() {
       return
     }
 
-    fetch(`/data/charts/${year}.json`)
+    fetch(dataUrl(`charts/${year}.json`))
       .then((res) => (res.ok ? res.json() : []))
       .then((data: ChartEntry[]) => {
         setSongs(Array.isArray(data) ? data : [])

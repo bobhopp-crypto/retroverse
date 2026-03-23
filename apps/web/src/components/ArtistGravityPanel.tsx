@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
+import { dataUrl } from '../config/dataSources'
 import './ArtistGravityPanel.css'
 
 type ArtistGravityRow = {
@@ -41,7 +42,7 @@ export default function ArtistGravityPanel({ year }: ArtistGravityPanelProps) {
     setError(null)
     setShowFullRanking(false)
 
-    const url = `${import.meta.env.BASE_URL}data/artist-gravity/${year}.json`
+    const url = dataUrl(`artist-gravity/${year}.json`)
 
     fetch(url)
       .then(async (response) => {

@@ -83,7 +83,7 @@ export default function VideoLibraryV2() {
         <div className="vl2-header">
           <div>
             <div className="vl2-title">Video Library v2</div>
-            <div className="vl2-subtle">Static inventory from /data/video-index.json</div>
+            <div className="vl2-subtle">Static inventory from {VIDEO_INDEX_URL}</div>
           </div>
           <div className="vl2-controls">
             <button

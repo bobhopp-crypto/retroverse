@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
+import { dataUrl } from '../config/dataSources'
 import { normalizeArtist } from '../lib/normalize'
 import './ArtistTimelinePanel.css'
 
@@ -68,7 +69,7 @@ export default function ArtistTimelinePanel({ artistName }: ArtistTimelinePanelP
     setLoading(true)
     setError(null)
 
-    const url = `${import.meta.env.BASE_URL}data/artist-timelines.json`
+    const url = dataUrl('artist-timelines.json')
     fetch(url)
       .then(async (response) => {
         if (!response.ok) throw new Error(`Failed to load artist timelines (${response.status}).`)

@@ -1,5 +1,6 @@
 import fs from 'node:fs/promises'
 import path from 'node:path'
+import { fileURLToPath } from 'node:url'
 import { getBillboardSongCount } from '../../../games/shared/data/billboardLoader.js'
 import {
   getChartClimbers,
@@ -89,10 +90,34 @@ const JSON_HEADERS = {
 const BILLBOARD_SOURCE = 'Billboard Hot 100 CSV'
 const BILLBOARD_CHART_NAME = 'Billboard Hot 100'
 const CHART_DATE_PATTERN = /^\d{4}-\d{2}-\d{2}$/
-const BILLBOARD_CSV_PATHS = [
-  path.join(process.cwd(), 'data', 'derived', 'culture', 'processed', 'billboard_hot100.csv'),
-  path.resolve(typeof __dirname === 'string' ? __dirname : process.cwd(), '../../../data/derived/culture/processed/billboard_hot100.csv'),
-]
+
+/** Build ordered list of candidate paths for billboard_hot100.csv (Netlify packaged via included_files) */
+const getBillboardCsvCandidates = (): string[] => {
+  const cwd = process.cwd()
+  const candidates: string[] = []
+
+  const envPath = process.env.NETLIFY_BILLBOARD_CSV_PATH?.trim()
+  if (envPath) candidates.push(path.resolve(cwd, envPath))
+
+  candidates.push(path.join(cwd, 'data', 'derived', 'culture', 'processed', 'billboard_hot100.csv'))
+
+  const moduleDir =
+    typeof __dirname === 'string'
+      ? __dirname
+      : typeof import.meta !== 'undefined' && typeof import.meta.url === 'string'
+        ? path.dirname(fileURLToPath(import.meta.url))
+        : cwd
+  candidates.push(
+    path.join(moduleDir, 'data', 'derived', 'culture', 'processed', 'billboard_hot100.csv')
+  )
+
+  const repoRootFromFunction = path.resolve(moduleDir, '..', '..', '..', '..')
+  candidates.push(
+    path.join(repoRootFromFunction, 'data', 'derived', 'culture', 'processed', 'billboard_hot100.csv')
+  )
+
+  return [...new Set(candidates)]
+}
 
 let cachePromise: Promise<BillboardDataCache> | null = null
 
@@ -188,17 +213,26 @@ const parseCsv = (input: string): string[][] => {
   return rows
 }
 
-const findBillboardCsvPath = async () => {
-  for (const candidate of BILLBOARD_CSV_PATHS) {
+const findBillboardCsvPath = async (): Promise<string> => {
+  const candidates = getBillboardCsvCandidates()
+  for (const candidate of candidates) {
     try {
       await fs.access(candidate)
+      if (process.env.NETLIFY_BILLBOARD_DEBUG === '1') {
+        console.log('[billboard] CSV resolved to:', candidate)
+      }
       return candidate
     } catch {
-      // Try next candidate.
+      continue
     }
   }
 
-  throw new Error('Billboard CSV source was not bundled with the function')
+  const tried = candidates.join(', ')
+  const err = new Error(
+    `Billboard CSV not found. Tried: ${tried}. Set NETLIFY_BILLBOARD_CSV_PATH if using a custom path.`
+  )
+  console.error('[billboard]', err.message)
+  throw err
 }
 
 const loadBillboardData = async (): Promise<BillboardDataCache> => {

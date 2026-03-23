@@ -1,5 +1,6 @@
-import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
+import { BrowserRouter, Navigate, Route, Routes, useLocation } from 'react-router-dom'
 import AppShell from './components/AppShell'
+import ErrorBoundary from './components/ErrorBoundary'
 import LandingPage from './pages/LandingPage'
 import Hub from './pages/Hub'
 import VideoLibrary from './pages/VideoLibrary'
@@ -29,12 +30,11 @@ import YearShuffleGame from './pages/games/YearShuffleGame'
 import { PlaylistProvider } from './context/PlaylistContext'
 import './App.css'
 
-function App() {
+function RouteContent() {
+  const location = useLocation()
   return (
-    <PlaylistProvider>
-      <BrowserRouter>
-        <AppShell>
-          <Routes>
+    <ErrorBoundary fallbackRoute={location.pathname}>
+      <Routes>
             <Route path="/" element={<LandingPage />} />
             <Route path="/hub" element={<Hub />} />
             <Route path="/surprise" element={<SurprisePage />} />
@@ -66,6 +66,16 @@ function App() {
             <Route path="/design-lab/display" element={<DisplayDesignLab />} />
             <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
+    </ErrorBoundary>
+  )
+}
+
+function App() {
+  return (
+    <PlaylistProvider>
+      <BrowserRouter>
+        <AppShell>
+          <RouteContent />
         </AppShell>
       </BrowserRouter>
     </PlaylistProvider>

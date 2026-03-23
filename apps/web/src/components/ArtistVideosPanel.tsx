@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
+import { VIDEO_INDEX_URL } from '../config/dataSources'
 import { MEDIA_BASE } from '../config/media'
 import { normalizeArtist } from '../lib/normalize'
 import './ArtistVideosPanel.css'
@@ -60,7 +61,7 @@ export default function ArtistVideosPanel({ artistName }: ArtistVideosPanelProps
     setLoading(true)
     setError(null)
 
-    const url = `${import.meta.env.BASE_URL}data/video-index.json`
+    const url = VIDEO_INDEX_URL
     fetch(url)
       .then(async (response) => {
         if (!response.ok) throw new Error(`Failed to load video index (${response.status}).`)

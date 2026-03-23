@@ -6,7 +6,7 @@
 [functions]
   directory = "apps/web/netlify/functions"
   node_bundler = "esbuild"
-  included_files = ["data/derived/culture/processed/billboard_hot100.csv", "data/raw/charts/billboard-hot-100.db"]
+  included_files = ["./data/derived/culture/processed/billboard_hot100.csv", "./data/raw/charts/billboard-hot-100.db"]
 
 [[redirects]]
   from = "/api/*"

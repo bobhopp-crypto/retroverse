@@ -2,6 +2,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import AlbumChartPanel from '../components/AlbumChartPanel'
 import ArtistGravityPanel from '../components/ArtistGravityPanel'
+import { dataUrl, VIDEO_INDEX_URL } from '../config/dataSources'
 import { MEDIA_BASE } from '../config/media'
 import { fetchBillboardYearStats, type BillboardYearStats } from '../lib/billboardClient'
 import { normalizeArtist, normalizeTitle } from '../lib/normalize'
@@ -130,15 +131,15 @@ export default function YearPage() {
       setPlaylistError(null)
 
       try {
-        const chartsUrl = `${import.meta.env.BASE_URL}data/charts/${targetYear}.json`
-        const videoUrl = `${import.meta.env.BASE_URL}data/video-index.json`
+        const chartsUrl = dataUrl(`charts/${targetYear}.json`)
+        const videoUrl = VIDEO_INDEX_URL
 
         const [chartResponse, videoResponse] = await Promise.all([fetch(chartsUrl), fetch(videoUrl)])
 
         if (!chartResponse.ok) {
           throw new Error(
             chartResponse.status === 404
-              ? `No chart summary file found for ${targetYear} at /data/charts/${targetYear}.json.`
+              ? `No chart summary file found for ${targetYear} at ${dataUrl(`charts/${targetYear}.json`)}.`
               : `Failed to load chart summary (${chartResponse.status}).`,
           )
         }

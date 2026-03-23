@@ -1,3 +1,4 @@
+import { dataUrl } from '../config/dataSources'
 import { MEDIA_BASE } from '../config/media'
 import { tierFromPlaycount, type CanonicalTier } from './tierMapping'
 import { normalizeVideoPath } from './videoPath'
@@ -389,7 +390,7 @@ const loadVideoIndexDecade = async (decade: string): Promise<VideoRecord[]> => {
   const inFlight = decadeInFlight.get(key)
   if (inFlight) return inFlight
 
-  const url = `/data/video-index-${key}.json`
+  const url = dataUrl(`video-index-${key}.json`)
   const promise = (async () => {
     const rows = await fetchAndParseVideoIndex(url)
     decadeCache.set(key, rows)

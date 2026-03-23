@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
+import { dataUrl, VIDEO_INDEX_URL } from '../config/dataSources'
 import { MEDIA_BASE } from '../config/media'
 import { normalizeArtist, normalizeTitle } from '../lib/normalize'
 import './AlbumChartPanel.css'
@@ -111,7 +112,7 @@ export default function AlbumChartPanel({ year }: AlbumChartPanelProps) {
     setSongsLoading(false)
     setSongsError(null)
 
-    const url = `${import.meta.env.BASE_URL}data/albums/${year}.json`
+    const url = dataUrl(`albums/${year}.json`)
 
     fetch(url)
       .then(async (response) => {
@@ -175,14 +176,14 @@ export default function AlbumChartPanel({ year }: AlbumChartPanelProps) {
   const loadSongsForYear = useCallback(() => {
     if (songRows !== null || songsLoading) return
 
-    const url = `${import.meta.env.BASE_URL}data/charts/${year}.json`
+    const url = dataUrl(`charts/${year}.json`)
     setSongsLoading(true)
     setSongsError(null)
 
     fetch(url)
       .then(async (response) => {
         if (response.status === 404) {
-          throw new Error(`No song chart file found for ${year} at /data/charts/${year}.json.`)
+          throw new Error(`No song chart file found for ${year} at ${dataUrl(`charts/${year}.json`)}.`)
         }
         if (!response.ok) throw new Error(`Failed to load song chart data (${response.status}).`)
 
@@ -213,7 +214,7 @@ export default function AlbumChartPanel({ year }: AlbumChartPanelProps) {
   const loadVideoIndex = useCallback(() => {
     if (videoIndexLoaded || videoIndexLoading) return
 
-    const url = `${import.meta.env.BASE_URL}data/video-index.json`
+    const url = VIDEO_INDEX_URL
     setVideoIndexLoading(true)
     setVideoIndexError(null)
 
