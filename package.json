@@ -7,7 +7,7 @@
     "dev": "vite",
     "dev:auto": "tsx apps/web/tools/autoUpdate.ts && npm run dev",
     "sync:index": "bash pipelines/media-index/scripts/sync-index.sh",
-    "build": "npm run sync:index && tsc -b tsconfig.app.json tsconfig.node.json && vite build",
+    "build": "npm run sync:index && tsc -b tsconfig.app.json tsconfig.node.json && vite build && node scripts/prepare_public_deploy.mjs",
     "test:tier-mapping": "tsx --test archive/pipelines/tools-legacy/tierMapping.test.ts",
     "lint": "eslint .",
     "preview:built": "vite preview",
@@ -22,12 +22,15 @@
     "analyze:playcounts": "python3 pipelines/media-index/tools/analyze_playcounts.py > data/derived/media-index/output/playcount_report.txt",
     "build:1974": "tsx pipelines/cards-1974/export_weekly_context.ts",
     "render:1974": "tsx pipelines/cards-1974/render_cards.ts",
-    "capsule:1974": "npm run build:1974 && npm run render:1974"
+    "capsule:1974": "npm run build:1974 && npm run render:1974",
+    "inventory:schema": "tsx scripts/inventory_schema.ts",
+    "build:master": "tsx scripts/build_master_dataset.ts"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.744.0",
     "@types/express": "^5.0.6",
     "better-sqlite3": "^12.6.2",
+    "dotenv": "^17.3.1",
     "express": "^5.2.1",
     "fast-xml-parser": "^4.5.1",
     "framer-motion": "^12.35.2",

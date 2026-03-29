@@ -16,35 +16,30 @@
 
 [[redirects]]
   from = "/charts"
-  to = "/index.html"
+  to = "/charts/index.html"
   status = 200
   force = true
 
 [[redirects]]
   from = "/charts/"
-  to = "/index.html"
+  to = "/charts/index.html"
   status = 200
   force = true
 
-# Static magazine bundle at /magazine/
 [[redirects]]
-  from = "/magazine"
-  to = "/magazine/"
+  from = "/video-library"
+  to = "/video-library/index.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/video-library/*"
+  to = "/video-library/index.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/videolibrary"
+  to = "/video-library"
   status = 301
-
-[[redirects]]
-  from = "/magazine/:year"
-  to = "/index.html"
-  status = 200
   force = true
-
-[[redirects]]
-  from = "/magazine/:year/"
-  to = "/index.html"
-  status = 200
-  force = true
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200

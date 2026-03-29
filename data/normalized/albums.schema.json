@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://retroverse.local/schemas/albums.schema.json",
+  "title": "RetroVerse normalized album (Billboard 200 / library)",
+  "type": "object",
+  "required": ["retroverse_album_id", "album_title", "artist", "artist_canonical", "sources"],
+  "properties": {
+    "retroverse_album_id": {
+      "type": "string",
+      "description": "Stable id from normalized artist + album title."
+    },
+    "album_title": { "type": "string" },
+    "artist": { "type": "string" },
+    "artist_canonical": { "type": "string" },
+    "chart_date": { "type": ["string", "null"] },
+    "chart_rank": { "type": ["string", "null"] },
+    "length": { "type": ["integer", "null"] },
+    "track_length": { "type": ["number", "null"] },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source_system"],
+        "properties": {
+          "source_system": {
+            "type": "string",
+            "enum": ["billboard_200_sqlite", "acoustic_features_sqlite", "other"]
+          },
+          "source_id": { "type": ["string", "null"] },
+          "source_path": { "type": ["string", "null"] },
+          "sqlite_table": { "type": ["string", "null"] },
+          "sqlite_rowid": { "type": ["integer", "null"] }
+        },
+        "additionalProperties": true
+      }
+    },
+    "acoustic_features": {
+      "type": ["object", "null"],
+      "description": "Row from acoustic_features when linked by album_id or song key.",
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

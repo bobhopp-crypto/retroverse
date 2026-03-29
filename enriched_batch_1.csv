@@ -1,0 +1,51 @@
+album,artist,year,album_type,release_group_mbid,release_mbid,top_tracks,track_count,match_score,match_status
+Abbey Road,The Beatles,1969,studio,9162580e-5df4-32de-80cc-f45a8d8a9b1d,03437e02-835f-3a0a-a37c-48a36c2e852a,Come Together|Something|Maxwell’s Silver Hammer|Oh! Darling|Octopus’s Garden,17,100,exact
+Hotel California,Eagles,1976,studio,d9797f23-a517-498c-be57-960d656a633f,396c197f-f971-4adf-902b-95446ea6d654,Hotel Carlifornia (Lexicon Revenue mix),1,100,exact
+Back in Black,AC/DC,1980,studio,79c5075c-630c-498d-b7c6-d83b4a982490,33bf1e40-2267-4c16-bf8b-eeb647916480,Back in Black|What Do You Do for Money Honey,2,100,exact
+Purple Rain,Prince,1984,soundtrack,d230d994-b6ab-31a0-b3e7-c6ede8307a95,1d413c76-18da-402d-8f41-31f6df3f136c,Purple Rain (Long Version)|God (Instrumental)|God (Vocal),3,90,good
+Nevermind,Nirvana,1991,studio,1b022e01-4da6-387b-8658-8678046e4cef,006cb56d-6eff-4b7d-853f-ecd2db97f3b2,Smells Like Teen Spirit|In Bloom|Come as You Are|Breed|Lithium,12,100,exact
+OK Computer,Radiohead,1997,studio,b1392450-e666-3926-a536-22c65f834433,0b6b4ba0-d36f-47bd-b4ea-6a5b91842d29,Airbag|Paranoid Android|Subterranean Homesick Alien|Exit Music (for a Film)|Let Down,12,100,exact
+The Miseducation of Lauryn Hill,Lauryn Hill,1998,studio,8691d12c-abd8-385c-b1eb-d841190124f7,09621f2a-1213-46a5-b79b-d246aa70bc4f,Intro|Lost Ones|Ex-Factor|To Zion|Doo Wop (That Thing),16,100,exact
+Hybrid Theory,Linkin Park,2000,studio,b5b4bb4b-8ba5-3acf-88cb-4cae2699d8da,04b8953c-969a-423a-8847-ccf78b83d013,Papercut|One Step Closer|With You|Points of Authority|Crawling,12,100,exact
+Confessions,Usher,2004,studio,0ee013ee-5f59-35d5-b6b8-26a0cb3e4372,42ab9e2d-a4aa-49f1-9660-354eafe573e6,Intro|Yeah!|Throwback|Confessions|Confessions Part II,23,100,exact
+21,Adele,2011,studio,e4174758-d333-4a8e-a31f-dd0edd51518e,06b8b209-9df2-43c4-8190-2e44f97d5508,Rolling in the Deep|Rumour Has It|Turning Tables|Don’t You Remember|Set Fire to the Rain,12,100,exact
+25,Adele,2015,studio,5537624c-3d2f-4f5c-8099-df916082c85c,0a536975-66b0-447d-8877-42cbc079e10c,Hello|Send My Love (to Your New Lover)|I Miss You|When We Were Young|Remedy,11,100,exact
+Future Nostalgia,Dua Lipa,2020,studio,aa366795-92d7-4d67-91fa-6741f82a4858,040ecdfd-b697-4418-a0f7-08719006ab6f,Future Nostalgia|Don’t Start Now|Cool|Physical|Levitating,13,100,exact
+The Wall,Pink Floyd,1979,studio,f2026101-945b-3d05-9ef4-aa718fc3feef,02a26364-1e0c-434b-bbba-c5d28fa91a4a,"In the Flesh?|The Thin Ice|Another Brick in the Wall, Part 1|The Happiest Days of Our Lives|Another Brick in the Wall, Part 2",53,100,exact
+Born to Run,Bruce Springsteen,1975,studio,e6e5a3fc-80da-4cd9-954f-bd8b6cf1cb75,0d95b36f-69aa-4a8a-9c83-e0b55b04a72e,Born to Run|Meeting Across the River,2,100,exact
+Thriller,Michael Jackson,1982,studio,f32fab67-77dd-3937-addc-9062e28e4c37,009a9e97-0097-3fa8-ac85-3d67d6d5e06e,Wanna Be Startin’ Somethin’|Baby Be Mine|The Girl Is Mine|Thriller|Beat It,21,100,exact
+Rumours,Fleetwood Mac,1977,studio,416bb5e5-c7d1-3977-8fd7-7c9daf6c2be6,02ac7ce7-4f21-4010-8210-e682085c58ab,Second Hand News|Dreams|Never Going Back Again|Don’t Stop|Go Your Own Way,11,100,exact
+Appetite for Destruction,Guns N' Roses,1987,studio,a0b94d0a-210b-4b15-bd1d-93be2196c14a,01ff053e-9922-4d0f-a6f0-847006f20306,Welcome to the Jungle|It's So Easy|Nightrain|Out Ta Get Me|Mr. Brownstone,302,100,exact
+Jagged Little Pill,Alanis Morissette,1995,studio,ee3d18ed-d6a8-37c7-a964-41bbdb6d59f1,016cf05e-0233-4158-b8f8-3e6e290850bd,All I Really Want|You Oughta Know|Perfect|Hand in My Pocket|Right Through You,13,100,exact
+The Joshua Tree,U2,1987,studio,6f3e9fa6-be7a-3de8-a2b2-2072ece8a54d,016a541c-0471-4440-bae4-f00bc5def28f,Where the Streets Have No Name|I Still Haven’t Found What I’m Looking For|With or Without You|Bullet the Blue Sky|Running to Stand Still,11,100,exact
+Songs in the Key of Life,Stevie Wonder,1976,studio,ea88b09b-fd34-33cf-a3e5-25a3a2fb4c6f,0131ea0f-c3af-471c-8274-a183a7ab5f0b,Love’s in Need of Love Today|Have a Talk With God|Village Ghetto Land|Contusion|Sir Duke,21,100,exact
+The Dark Side of the Moon,Pink Floyd,1973,studio,f5093c06-23e3-404f-aeaa-40f72885ee3a,01aa589c-a7cb-45bd-89a3-c2cb8ddab0a9,Speak to Me|Breathe in the Air|On the Run|Time|The Great Gig in the Sky,10,100,exact
+Led Zeppelin IV,Led Zeppelin,1971,studio,2e61da88-39e9-3473-81d2-c964cb394952,07fe0684-3069-4b44-b30a-8443f3627b83,Black Dog|Rock and Roll|The Battle of Evermore|Stairway to Heaven|Misty Mountain Hop,8,100,exact
+A Night at the Opera,Queen,1975,studio,6b47c9a0-b9e1-3df9-a5e8-50a6ce0dbdbd,00e5dc8a-f8d1-418b-85d3-fa66b335fbae,Death on Two Legs (Dedicated to…)|Lazing on a Sunday Afternoon|I’m in Love With My Car|You’re My Best Friend|’39,12,100,exact
+Bad,Michael Jackson,1987,studio,073419da-a33d-334c-8b30-aa0a1f917850,102a619b-837e-492d-b846-5c0c78bc17e8,Bad|Bad (extended dance mix),2,100,exact
+1989,Taylor Swift,2014,studio,4d9ec1c2-58ec-48a4-aa0a-916718adead0,02fefa3f-b477-4663-b25d-fe483c040250,Welcome to New York|Blank Space|Style|Out of the Woods|All You Had to Do Was Stay,19,100,exact
+folklore,Taylor Swift,2020,studio,f1d08326-c23b-4b43-be3b-20b33ab10bf6,0317a54b-ee2f-4414-9c52-071948188db4,the 1|cardigan|the last great american dynasty|exile|my tears ricochet,17,100,exact
+Random Access Memories,Daft Punk,2013,studio,aa997ea0-2936-40bd-884d-3af8a0e064dc,158f94bf-d77f-4055-afa4-8fc7e0b2a004,Give Life Back to Music|The Game of Love|Giorgio by Moroder|Within|Instant Crush,13,100,exact
+Lemonade,Beyonce,2016,studio,c1f22e07-7bdf-4a4f-8b50-7747c1091ef6,1143c097-d046-4ff2-8369-0054467e2b4c,Pray You Catch Me|Hold Up|Don’t Hurt Yourself|Sorry|6 Inch,15,90,good
+The Bodyguard,Various Artists,1992,soundtrack,9577b974-cce5-35b2-82d0-0969e5484a73,0538fd4f-d525-48a6-b289-e68cabf6ed90,I Will Always Love You|I Have Nothing|I’m Every Woman|Run to You|Queen of the Night,13,80,good
+Saturday Night Fever,Various Artists,1977,soundtrack,6e9a06a8-c8bb-3ea9-877a-417e74bb1c2e,0b4668c9-622d-4354-b535-45b61bf67948,Stayin’ Alive|How Deep Is Your Love|Night Fever|More Than a Woman|If I Can’t Have You,21,80,good
+Top Gun,Various Artists,1986,soundtrack,f99cc09c-c080-46d5-90ed-60511d941c51,12f45d92-5a99-4a91-a391-b79f4de79a0e,Danger Zone|Mighty Wings|Playing With the Boys|Lead Me On|Take My Breath Away (love theme from “Top Gun”),10,80,good
+Guardians of the Galaxy: Awesome Mix Vol. 1,Various Artists,2014,soundtrack,950092d6-45f6-4269-87da-99a9ff2fcc52,10e05aca-28ac-4466-95bb-40c2d0bb560f,Hooked on a Feeling|Go All the Way|Spirit in the Sky|Moonage Daydream|Fooled Around and Fell in Love,12,80,good
+Dirty Dancing,Various Artists,1987,soundtrack,8f693eb5-d2f0-39fc-9e2f-b5b210d492fa,15447a73-3f77-4f60-96a9-23503723ec10,Be My Baby|Big Girls Don’t Cry|Merengue|Trot the Fox|Johnny’s Mambo,27,80,good
+Purple Rain,Prince and The Revolution,1984,soundtrack,d230d994-b6ab-31a0-b3e7-c6ede8307a95,1d413c76-18da-402d-8f41-31f6df3f136c,Purple Rain (Long Version)|God (Instrumental)|God (Vocal),3,80,good
+Live at Leeds,The Who,1970,live,0ba3b960-9b4b-3191-bcc5-1e51169e5955,0c1e70cf-5908-42d7-902a-59997ed999ad,Young Man Blues|Substitute|Summertime Blues|Shakin’ All Over|My Generation,6,100,exact
+At Folsom Prison,Johnny Cash,1968,live,6b4ea595-3378-3019-be5f-058412670791,075bc959-f7ec-4982-893d-ded5bb2b9527,Folsom Prison Blues|Busted|Dark as a Dungeon|I Still Miss Someone|Cocaine Blues,19,100,exact
+MTV Unplugged in New York,Nirvana,1994,live,fb3770f6-83fb-32b7-85c4-1f522a92287e,045af24f-47aa-4730-a2e6-cc135a12a610,About a Girl|Come as You Are|Jesus Doesn’t Want Me for a Sunbeam|The Man Who Sold the World|Pennyroyal Tea,38,100,exact
+Frampton Comes Alive!,Peter Frampton,1976,live,cbf9819e-4a0b-35f1-9b1c-ab34764cf10c,002a6fe3-b1ef-45d6-b06e-3994808a751e,Something’s Happening|Doobie Wah|Show Me the Way|It’s a Plain Shame|All I Want to Be (Is by Your Side),14,100,exact
+Stop Making Sense,Talking Heads,1984,live,2b85ba4e-53bf-4473-87f5-59d0b53020ad,07da6636-faa3-4815-a323-fd411dfc8a4f,Psycho Killer|Swamp|Slippery People|Burning Down the House|Girlfriend Is Better,9,100,exact
+Greatest Hits,Queen,1981,compilation,69ce61c8-127f-3809-95d8-62fdf3ae1347,0668d85b-9d8f-4d8e-9b74-3b1420b605be,Bohemian Rhapsody|Another One Bites the Dust|Killer Queen|Fat Bottomed Girls|Bicycle Race,17,100,exact
+Legend,Bob Marley and The Wailers,1984,compilation,1a4c52cd-483a-347c-93f9-4d512767c7ba,0074906d-f40a-40bf-9ac8-0f6398fe5d45,"Is This Love?|No Woman, No Cry (live)|Could You Be Loved|Three Little Birds|Buffalo Soldier",14,60,fuzzy
+Their Greatest Hits (1971-1975),Eagles,1976,compilation,,,,0,0,no_match
+ABBA Gold,ABBA,1992,compilation,524a9ea8-a81c-38e8-bc23-351b0930e8b4,0e11e581-4417-46c0-8a4d-cd86c298985d,"Summer Night City|Angeleyes|The Day Before You Came|Eagle|I Do, I Do, I Do, I Do, I Do",20,75,good
+The Immaculate Collection,Madonna,1990,compilation,b14e9927-081e-4a07-b0f7-8ddf22319b27,1b1684df-62c4-4efe-a0f0-59049e1f747a,Holiday|Lucky Star|Borderline|Like a Virgin|Material Girl,17,100,exact
+1,The Beatles,2000,compilation,4f539c70-1a19-37a3-ba14-979f11fc0686,03268ab8-a9a9-4ca1-b50b-9dbcae911a6f,Love Me Do|From Me to You|She Loves You|I Want to Hold Your Hand|Can’t Buy Me Love,27,100,exact
+The Essential Michael Jackson,Michael Jackson,2005,compilation,ee7f4e87-de9d-357a-ae1f-f3ba11e5d390,2c57ccd7-d3fa-4ecc-b0ae-5f2ddd292666,I Want You Back|ABC|The Love You Save|Got to Be There|Rockin’ Robin,45,100,exact
+Ten,Pearl Jam,1991,studio,cea5d18a-1924-3cda-bebc-38933834b25d,032469aa-f00b-49cd-badf-5cbda161170c,Once|Even Flow|Alive|Why Go|Black,70,100,exact
+American Idiot,Green Day,2004,studio,04ee747f-ab6e-3963-bcd0-caba5b8a9c31,1f2953af-e7a5-4087-87da-cfd6dd198e80,American Idiot|Shoplifter|Governator,3,100,exact
+Good Kid M.A.A.D City,Kendrick Lamar,2012,studio,499c19c8-0dab-4824-884b-6191d145e95b,0726c5f4-da29-4a78-a8ab-b08e632fe3b9,"Sherane a.k.a. Master Splinter’s Daughter|Bitch, Don’t Kill My Vibe|Backseat Freestyle|The Art of Peer Pressure|Money Trees",19,100,exact
+Born in the U.S.A.,Bruce Springsteen,1984,studio,386bf6e7-d85f-48f0-98fb-f6224b2efaed,07eeef50-6ebc-4552-baeb-c4cb4a2fd231,Born in the U.S.A.|Shut Out the Light,2,100,exact

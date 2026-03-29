@@ -1,3 +1,4 @@
+import { useEffect, useState } from 'react'
 import { BrowserRouter, Navigate, Route, Routes, useLocation } from 'react-router-dom'
 import AppShell from './components/AppShell'
 import ErrorBoundary from './components/ErrorBoundary'
@@ -30,7 +31,21 @@ import YearShuffleGame from './pages/games/YearShuffleGame'
 import { PlaylistProvider } from './context/PlaylistContext'
 import './App.css'
 
-function RouteContent() {
+type AlbumGridRecord = {
+  album: string
+  artist: string
+  year: string | number
+  album_type: string
+  top_tracks?: string | string[] | null
+}
+
+type RouteContentProps = {
+  albums: AlbumGridRecord[]
+  albumsLoading: boolean
+  albumsError: string | null
+}
+
+function RouteContent({ albums, albumsLoading, albumsError }: RouteContentProps) {
   const location = useLocation()
   return (
     <ErrorBoundary fallbackRoute={location.pathname}>
@@ -51,7 +66,7 @@ function RouteContent() {
             <Route path="/games/video-time-machine" element={<VideoTimeMachineGame />} />
             <Route path="/games/guess-peak" element={<GuessPeakGame />} />
             <Route path="/arcade" element={<Navigate to="/games" replace />} />
-            <Route path="/tools" element={<Tools />} />
+            <Route path="/tools" element={<Tools albums={albums} albumsLoading={albumsLoading} albumsError={albumsError} />} />
             <Route path="/analytics" element={<Analytics />} />
             <Route path="/decade/:decade" element={<DecadePage />} />
             <Route path="/magazine" element={<MagazineIndex />} />
@@ -71,11 +86,49 @@ function RouteContent() {
 }
 
 function App() {
+  const [albums, setAlbums] = useState<AlbumGridRecord[]>([])
+  const [albumsLoading, setAlbumsLoading] = useState(true)
+  const [albumsError, setAlbumsError] = useState<string | null>(null)
+
+  useEffect(() => {
+    let isCancelled = false
+
+    const loadAlbums = async () => {
+      setAlbumsLoading(true)
+      setAlbumsError(null)
+      try {
+        const response = await fetch('/data/albums_master.json')
+        if (!response.ok) {
+          throw new Error(`Failed to load albums data (${response.status})`)
+        }
+        const payload: unknown = await response.json()
+        const records = Array.isArray(payload) ? (payload as AlbumGridRecord[]) : []
+        if (!isCancelled) {
+          setAlbums(records)
+        }
+      } catch (err) {
+        if (!isCancelled) {
+          setAlbums([])
+          setAlbumsError(err instanceof Error ? err.message : 'Failed to load albums data')
+        }
+      } finally {
+        if (!isCancelled) {
+          setAlbumsLoading(false)
+        }
+      }
+    }
+
+    void loadAlbums()
+    return () => {
+      isCancelled = true
+    }
+  }, [])
+
   return (
     <PlaylistProvider>
       <BrowserRouter>
         <AppShell>
-          <RouteContent />
+          <RouteContent albums={albums} albumsLoading={albumsLoading} albumsError={albumsError} />
         </AppShell>
       </BrowserRouter>
     </PlaylistProvider>

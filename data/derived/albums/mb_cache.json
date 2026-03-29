@@ -1,0 +1,1820 @@
+{
+  "10cc|live let live|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "abba|abba gold|1992": {
+    "match_score": 75,
+    "match_status": "good",
+    "release_group_mbid": "524a9ea8-a81c-38e8-bc23-351b0930e8b4",
+    "release_mbid": "37553545-7277-4df5-925c-11b24d497102",
+    "release_title": "More ABBA Gold: More ABBA Hits",
+    "top_tracks": "Summer Night City|Angeleyes|The Day Before You Came|Eagle|Honey Honey",
+    "track_count": 10
+  },
+  "ac dc|back in black|1980": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "d3bc1a64-7561-3787-b680-0003aa50f8f1",
+    "release_mbid": "4bbe3188-d626-4aff-82c0-87d455262f49",
+    "release_title": "Back in Black",
+    "top_tracks": "Hells Bells|Shoot to Thrill|What Do You Do for Money Honey|Given the Dog a Bone|Let Me Put My Love Into You",
+    "track_count": 10
+  },
+  "adele|21|2011": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "e4174758-d333-4a8e-a31f-dd0edd51518e",
+    "release_mbid": "768bc7f7-6b91-4b57-8a7b-1508636719e6",
+    "release_title": "21",
+    "top_tracks": "Rolling in the Deep|Rumour Has It|Turning Tables|Don\u2019t You Remember|Set Fire to the Rain",
+    "track_count": 15
+  },
+  "adele|25|2015": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "5537624c-3d2f-4f5c-8099-df916082c85c",
+    "release_mbid": "89015f5d-d3dc-4ad3-904b-492870bbf4e4",
+    "release_title": "25",
+    "top_tracks": "Hello|Send My Love (To Your New Lover)|I Miss You|When We Were Young|Remedy",
+    "track_count": 14
+  },
+  "aerosmith|draw the line|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "8c064b13-6668-3d6c-a508-1e5d671a207d",
+    "release_mbid": "079e7943-6467-4784-a31f-17d0b64ed703",
+    "release_title": "Draw the Line",
+    "top_tracks": "Draw The Line|I Wanna Know Why|Critical Mass|Get It Up|Bright Light Fright",
+    "track_count": 9
+  },
+  "al green|the belle album|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "4d8ba551-d676-32e4-a4a9-4fa5902dc6b0",
+    "release_mbid": "3a746875-9422-4873-9dee-b6bfb2630482",
+    "release_title": "The Belle Album",
+    "top_tracks": "Belle|Loving You|Feels Like Summer|Georgia Boy|I Feel Good",
+    "track_count": 11
+  },
+  "alanis morissette|jagged little pill|1995": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "ee3d18ed-d6a8-37c7-a964-41bbdb6d59f1",
+    "release_mbid": "02758fb7-573a-368d-af6b-b756539a6a3b",
+    "release_title": "Jagged Little Pill",
+    "top_tracks": "All I Really Want|You Oughta Know|Perfect|Hand in My Pocket|Right Through You",
+    "track_count": 13
+  },
+  "alice cooper|the alice cooper show|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "2e432952-918c-361d-b548-0be344359dee",
+    "release_mbid": "2ef069cd-92f3-4f8c-8d9e-ffed4ed4a035",
+    "release_title": "The Alice Cooper Show",
+    "top_tracks": "Under My Wheels|Eighteen|Only Women Bleed|Sick Things|Is It My Body",
+    "track_count": 11
+  },
+  "america|america live|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "128eb66b-aaeb-31ec-bd32-d3b364ae7b20",
+    "release_mbid": "5ca52ad2-bb78-4fbd-a742-c5aca056bf2d",
+    "release_title": "America Live",
+    "top_tracks": "Tin Man|Muskrat Love|I Need You|Old Man Took|Daisy Jane",
+    "track_count": 14
+  },
+  "ashford simpson|send it|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "c79164f0-e9b2-38cd-9eda-6935a4ca2067",
+    "release_mbid": "bc341cdf-c237-4e6c-99a9-7fa99b76501b",
+    "release_title": "Send It",
+    "top_tracks": "By Way of Love\u2019s Express|Let Love Use Me|Don\u2019t Cost You Nothing|Send It|Top of the Stairs",
+    "track_count": 10
+  },
+  "barkays|flying high on your love|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "barry manilow|barry manilow live|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "2f1ac502-e8ea-3ad8-b0c1-5075c0abbc30",
+    "release_mbid": "ed24fdb1-6f73-4b5d-bef3-75ad790243ed",
+    "release_title": "Barry Manilow Live",
+    "top_tracks": "Riders to the Stars|Why Don\u2019t We Live Together|Looks Like We Made It|New York City Rhythm|A Very Strange Medley (V.S.M.)",
+    "track_count": 15
+  },
+  "barry white|barry white sings for someone you love|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "6eeb5470-f486-3d65-8094-8eddb14e4b1b",
+    "release_mbid": "02204a54-7571-4406-bf82-3f615717fcb2",
+    "release_title": "Barry White Sings for Someone You Love",
+    "top_tracks": "Playing Your Game, Baby|It\u2019s Ecstasy When You Lay Down Next to Me|You\u2019re So Good You\u2019re Bad|I Never Thought I\u2019d Fall in Love With You|You Turned My Whole World Around",
+    "track_count": 7
+  },
+  "bay city rollers|greatest hits|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "f6f907c6-d263-3a40-acd9-c771165df2db",
+    "release_mbid": "9616b515-03f5-49de-9f50-27ed731a5f92",
+    "release_title": "Greatest Hits",
+    "top_tracks": "I Only Want to Be With You|Money Honey|Rock and Roll Love Letter|The Way I Feel Tonight|Yesterday\u2019s Hero",
+    "track_count": 10
+  },
+  "bee gees|here at last bee gees live|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "bette midler|broken blossom|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "1134bfac-4f50-30a6-84ab-4e6f6f7153f8",
+    "release_mbid": "a2d15fd3-01e5-4357-9c59-7d857ade90e3",
+    "release_title": "Broken Blossom",
+    "top_tracks": "Make Yourself Comfortable|You Don't Know Me|Say Goodbye to Hollywood|I Never Talk to Strangers|Storybook Children",
+    "track_count": 11
+  },
+  "beyonce|lemonade|2016": {
+    "match_score": 90,
+    "match_status": "good",
+    "release_group_mbid": "c1f22e07-7bdf-4a4f-8b50-7747c1091ef6",
+    "release_mbid": "4f2aadf4-c349-4a25-b070-a323f9089bec",
+    "release_title": "Lemonade",
+    "top_tracks": "Pray You Catch Me|Hold Up|Don\u2019t Hurt Yourself|Sorry|6 Inch",
+    "track_count": 13
+  },
+  "bill withers|menagerie|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "3fbf6c2c-69ae-35e4-be9f-53e3000f10e1",
+    "release_mbid": "18098245-1bc2-4e09-916a-29f6ecf086d4",
+    "release_title": "Menagerie",
+    "top_tracks": "Lovely Day|I Want to Spend the Night|Lovely Night for Dancing|Then You Smile at Me|She Wants To (Get On Down)",
+    "track_count": 12
+  },
+  "billy joel|the stranger|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "735bcee6-6be6-3957-af15-d21ba2bd355b",
+    "release_mbid": "21e36d1b-1390-4599-b1ba-b11cdb8d6bd1",
+    "release_title": "The Stranger",
+    "top_tracks": "Movin\u2019 Out (Anthony\u2019s Song)|The Stranger|Just the Way You Are|Scenes From an Italian Restaurant|Vienna",
+    "track_count": 10
+  },
+  "bing crosby|bing crosby s greatest hits|1978": {
+    "match_score": 90,
+    "match_status": "good",
+    "release_group_mbid": "502954b9-5ccf-368b-a4ee-72cc65fb07ea",
+    "release_mbid": "bb3d2a5b-a0e2-43f5-aeb5-4edcc413f3c8",
+    "release_title": "Bing Crosby's Greatest Hits",
+    "top_tracks": "White Christmas|The Whiffenpoof Song|I Surrender Dear|Blue Skies|Pistol Packin' Mama",
+    "track_count": 12
+  },
+  "blue oyster cult|spectres|1978": {
+    "match_score": 75,
+    "match_status": "good",
+    "release_group_mbid": "bd42ec50-7770-3a13-8015-99d0379da3d2",
+    "release_mbid": "237d0f7d-4a0e-34a9-9096-e9426d4cf181",
+    "release_title": "Spectres",
+    "top_tracks": "Godzilla|Golden Age of Leather|Death Valley Nights|Searchin' for Celine|Fireworks",
+    "track_count": 10
+  },
+  "bob james|heads|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "ccc977f9-fc17-3eb6-b090-6555e944cde5",
+    "release_mbid": "0ef9cd34-e247-46c8-ab4d-1534adb4230d",
+    "release_title": "Heads",
+    "top_tracks": "Heads|We\u2019re All Alone|I\u2019m in You|Night Crawler|You Are so Beautiful",
+    "track_count": 7
+  },
+  "bob marley and the wailers|legend|1984": {
+    "match_score": 60,
+    "match_status": "fuzzy",
+    "release_group_mbid": "1a4c52cd-483a-347c-93f9-4d512767c7ba",
+    "release_mbid": "017955f8-783d-4f56-9c71-29ff1bbedde2",
+    "release_title": "Legend: The Best of Bob Marley and The Wailers",
+    "top_tracks": "Is This Love?|No Woman, No Cry (live)|Could You Be Loved|Three Little Birds|Buffalo Soldier",
+    "track_count": 14
+  },
+  "bob welch|french kiss|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "bf72178d-5309-34d3-b169-35d8e56c7fb0",
+    "release_mbid": "06d6d925-1579-4443-bbfe-693112dc042e",
+    "release_title": "French Kiss",
+    "top_tracks": "Sentimental Lady|Easy to Fall|Hot Love, Cold World|Mystery Train|Lose My Heart",
+    "track_count": 12
+  },
+  "boston|boston|1978": {
+    "match_score": 90,
+    "match_status": "good",
+    "release_group_mbid": "f0371fc4-3e22-3d8d-8ce3-4af873ea6f1c",
+    "release_mbid": "ab6f5026-f652-4143-a589-2b4bf0cc6b50",
+    "release_title": "Boston",
+    "top_tracks": "More Than a Feeling|Peace of Mind|Foreplay / Long Time|Rock & Roll Band|Smokin'",
+    "track_count": 10
+  },
+  "boz scaggs|down two then left|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "e945bfff-eeae-32de-b68d-20a3b4e89651",
+    "release_mbid": "48b487f2-9a88-42d2-9d12-fbf233c3fd3b",
+    "release_title": "Down Two Then Left",
+    "top_tracks": "Still Falling for You|Hard Times|A Clue|Whatcha Gonna Tell Your Man|We\u2019re Waiting",
+    "track_count": 11
+  },
+  "boz scaggs|silk degrees|1978": {
+    "match_score": 90,
+    "match_status": "good",
+    "release_group_mbid": "6d5e05f2-5e64-35bb-8600-c3a58ce23673",
+    "release_mbid": "5e07c2bf-51b7-4d3b-b210-e9598dbd50ab",
+    "release_title": "Silk Degrees",
+    "top_tracks": "What Can I Say|Georgia|Jump Street|What Do You Want the Girl to Do|Harbor Lights",
+    "track_count": 13
+  },
+  "brass construction|brass construction iii|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "b13b58fb-79ff-4ad7-a821-d363bd2efdf9",
+    "release_mbid": "e5712216-060e-4ab8-a9ae-ee4e01d2a760",
+    "release_title": "Brass Construction III",
+    "top_tracks": "We|L-O-V-E-U|Happy People|Celebrate|Top of the World",
+    "track_count": 8
+  },
+  "brick|brick|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "1c7c4d58-ccdc-3536-8d3d-ca01f3fe24df",
+    "release_mbid": "f0d0051a-87b8-4de7-a962-6bec18d51264",
+    "release_title": "Brick",
+    "top_tracks": "Ain't Gonna' Hurt Nobody|Dusic|Living From the Mind|Honey Chile|Happy (Part 1)",
+    "track_count": 11
+  },
+  "bruce springsteen|born in the u s a|1984": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "6b56d7c1-b1c0-43fb-ba21-1a0b5004ce3e",
+    "release_mbid": "044937ab-652b-4c3f-8b50-c04957123f83",
+    "release_title": "Born in the U.S.A.",
+    "top_tracks": "Born in the U.S.A.|Shut Out the Light|Pink Cadillac|Jersey Girl|Santa Claus Is Comin\u2019 to Town",
+    "track_count": 5
+  },
+  "bruce springsteen|born to run|1975": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "39b22944-7503-3937-8bba-09b17281cc6a",
+    "release_mbid": "fdfb1d8d-ed26-4bab-ad70-6a73af7d4bfc",
+    "release_title": "Born to Run",
+    "top_tracks": "Thunder Road|Tenth Avenue Freeze\u2010Out|Jungleland (part 1)|Jungleland (part 2)|She\u2019s the One (part 1)",
+    "track_count": 10
+  },
+  "captain tennille|captain tennille s greatest hits|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "075b198a-8227-3ccd-b83d-1a2727eb3732",
+    "release_mbid": "02d87383-ea30-4b9b-a344-afa7d44f6065",
+    "release_title": "Captain & Tennille's Greatest Hits",
+    "top_tracks": "Love Will Keep Us Together|Muskrat Love|Circles|Wedding Song (There Is Love)|Come in From the Rain",
+    "track_count": 12
+  },
+  "carpenters|passage|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "0a894864-3a05-301f-a7a4-ac4af8a48b0f",
+    "release_mbid": "1b3b042c-6f81-4a85-a264-c10ffc8b63d3",
+    "release_title": "Passage",
+    "top_tracks": "B\u2019Wana She No Home|I Just Fall in Love Again|All You Get From Love Is a Love Song|Two Sides|Man Smart, Woman Smarter (Part 1)",
+    "track_count": 9
+  },
+  "chicago|chicago xi|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "e09060ca-7b6f-329d-8a87-5216be4d0440",
+    "release_mbid": "f56687e9-8ba2-4bc0-ac22-90323af6419e",
+    "release_title": "Chicago XI",
+    "top_tracks": "Mississippi Delta City Blues|Baby, What a Big Surprise|Till the End of Time|Policeman|Take Me Back to Chicago",
+    "track_count": 11
+  },
+  "chic|chic|1978": {
+    "match_score": 80,
+    "match_status": "good",
+    "release_group_mbid": "db46b19c-0e97-30de-ba53-7e823104d14a",
+    "release_mbid": "2609386e-29fe-4917-8cb5-866c810bcb9b",
+    "release_title": "C\u2019est Chic",
+    "top_tracks": "Chic Cheer|Le Freak|Savoir Faire|Happy Man|Dance Dance Dance",
+    "track_count": 10
+  },
+  "chuck mangione|feels so good|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "8831099f-15dc-380a-a4b2-d746eaccb76c",
+    "release_mbid": "a96985a0-90f2-4683-adc5-f602c533ac30",
+    "release_title": "Feels So Good",
+    "top_tracks": "Feels So Good|Maui-Waui|Theme From \"Side Street\"|Hide & Seek (Ready or Not Here I Come)|Last Dance",
+    "track_count": 6
+  },
+  "commodores|commodores live|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "commodores|commodores|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "ee9b6cad-ee58-3529-81ba-cc204769459c",
+    "release_mbid": "994eeef8-0c73-3611-8c0e-922d5e41dfb5",
+    "release_title": "Zoom",
+    "top_tracks": "Squeeze the Fruit|Funny Feelings|Heaven Knows|Zoom|Won't You Come Dance With Me",
+    "track_count": 9
+  },
+  "confunkshun|secrets|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "crosby stills nash|csn|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "5eb19154-b687-3078-92cd-5cb45b06e2a7",
+    "release_mbid": "5c4043b5-abc8-4cab-9524-26a4e14aaede",
+    "release_title": "CSN",
+    "top_tracks": "Shadow Captain|See the Changes|Carried Away|Fair Game|Anything at All",
+    "track_count": 12
+  },
+  "crystal gayle|we must believe in magic|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "dc26e149-3762-37a1-9aff-998748680afe",
+    "release_mbid": "6ad8695f-1d29-495f-bdfe-ba67c55e944e",
+    "release_title": "We Must Believe in Magic",
+    "top_tracks": "Don't It Make My Brown Eyes Blue|I Wanna Come Back to You|River Road|It's All Right With Me|Going Down Slow",
+    "track_count": 10
+  },
+  "daft punk|random access memories|2013": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "aa997ea0-2936-40bd-884d-3af8a0e064dc",
+    "release_mbid": "79215cdf-4764-4dee-b0b9-fec1643df7c5",
+    "release_title": "Random Access Memories",
+    "top_tracks": "Give Life Back to Music|The Game of Love|Giorgio by Moroder|Within|Instant Crush",
+    "track_count": 14
+  },
+  "dan fogelberg|nether lands|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "7f670a68-3245-3cdb-86bc-0419452f2c31",
+    "release_mbid": "ac516c6e-7745-4f2b-91e3-a3d8a46ad665",
+    "release_title": "Nether Lands",
+    "top_tracks": "Nether Lands|Once Upon a Time|Dancing Shoes|Lessons Learned|Loose Ends",
+    "track_count": 11
+  },
+  "dan hill|longer fuse|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "0b67147f-7fe9-3054-8208-7d75b80ffa38",
+    "release_mbid": "d4fbc74f-dff9-40d1-9628-52414907616d",
+    "release_title": "Longer Fuse",
+    "top_tracks": "Sometimes When We Touch|14 Today|In the Name of Love|Crazy|McCarthy\u2019s Day",
+    "track_count": 10
+  },
+  "dave mason|let it flow|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "96fbd1a3-e623-3f64-b5b3-dbf144aba189",
+    "release_mbid": "5739fe2a-3f6e-4cd8-bef8-27cf64e6422d",
+    "release_title": "Let It Flow",
+    "top_tracks": "So High (Rock Me Baby and Roll Me Away)|We Just Disagree|Mystic Traveler|Spend Your Life With Me|Takin\u2019 the Time to Find",
+    "track_count": 10
+  },
+  "david bromberg|reckless abandon|1978": {
+    "match_score": 85,
+    "match_status": "good",
+    "release_group_mbid": "437a52f0-a396-40b8-bd6b-c7df4d6f850e",
+    "release_mbid": "d22418e2-ef08-42e5-b745-67d4c2006972",
+    "release_title": "Reckless Abandon",
+    "top_tracks": "I Want to Go Home|Stealin'|Medley: Ally Goodin / Old Joe Clark / Wheel Hoss|Child's Song|Mrs. Delion's Lament",
+    "track_count": 10
+  },
+  "debby boone|you light up my life|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "c614287f-a8fc-3488-8db3-5c7ddd39edec",
+    "release_mbid": "021b142a-3a0a-47be-83ee-337e8ee358b1",
+    "release_title": "You Light Up My Life",
+    "top_tracks": "You Light Up My Life|A Rock and Roll Song|Micol\u2019s Theme|It\u2019s Just a Matter of Time|Hey Everybody",
+    "track_count": 12
+  },
+  "deniece williams|songbird|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "diana ross|baby it s me|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "4605c28b-0d34-3088-8ba5-cfcd5bfd69f7",
+    "release_mbid": "1529f579-06fd-4219-8564-fa5e3f0d56a8",
+    "release_title": "Baby It\u2019s Me",
+    "top_tracks": "Gettin\u2019 Ready for Love|You Got It|Baby It\u2019s Me|Too Shy to Say|Your Love Is So Good for Me",
+    "track_count": 10
+  },
+  "dolly parton|here you come again|1978": {
+    "match_score": 80,
+    "match_status": "good",
+    "release_group_mbid": "5e79199f-3a75-4a0b-972f-0b37f2079a13",
+    "release_mbid": "d8489e9e-d7ee-49a1-80cd-d9a2fa786ef8",
+    "release_title": "Here You Come Again / Light of a Clear Blue Morning",
+    "top_tracks": "Here You Come Again|Light of a Clear Blue Morning",
+    "track_count": 2
+  },
+  "donna summer|i remember yesterday|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "ad08974f-1da6-37af-b1b7-3523d892caa9",
+    "release_mbid": "29473f59-9308-456b-ba21-7c448a9b5976",
+    "release_title": "I Remember Yesterday",
+    "top_tracks": "I Remember Yesterday|Love\u2019s Unkind|Back in Love Again|I Remember Yesterday (reprise)|Black Lady",
+    "track_count": 8
+  },
+  "donna summer|once upon a time|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "eb9235e7-7838-3a3c-90c8-1ca030dff5de",
+    "release_mbid": "50f20f45-bde4-45ac-959f-8714975fa432",
+    "release_title": "Once Upon a Time\u2026",
+    "top_tracks": "Once Upon a Time|Faster and Faster to Nowhere|Fairy Tale High|Say Something Nice|Now I Need You",
+    "track_count": 16
+  },
+  "dua lipa|future nostalgia|2020": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "aa366795-92d7-4d67-91fa-6741f82a4858",
+    "release_mbid": "0e07e0d9-f716-4739-8df8-6ddc0f2fbe34",
+    "release_title": "Future Nostalgia",
+    "top_tracks": "Future Nostalgia|Don\u2019t Start Now|Cool|Physical|Levitating",
+    "track_count": 14
+  },
+  "eagles|hotel california|1976": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "836f349a-0434-3e8b-a0bc-261f77a9f99c",
+    "release_mbid": "10a9e13b-4937-3d40-8e67-3ffeea883dca",
+    "release_title": "Hotel California",
+    "top_tracks": "Hotel California|New Kid in Town|Life in the Fast Lane|Wasted Time|Wasted Time (reprise)",
+    "track_count": 9
+  },
+  "eagles|their greatest hits 1971 1975|1976": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "earth wind fire|all n all|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "013e40ab-ac8c-33a5-adac-97abfbf8cfbc",
+    "release_mbid": "eb40d366-b115-4758-8ee2-fb74ae6889bb",
+    "release_title": "All \u2019n All",
+    "top_tracks": "Serpentine Fire|Fantasy|In the Marketplace (interlude)|Jupiter|Love\u2019s Holiday",
+    "track_count": 11
+  },
+  "el coco|cocomotion|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "a263a3fb-f20b-4ec4-b61b-8b670517b26a",
+    "release_mbid": "8d542d68-807d-4ca5-ab7a-1760660243c7",
+    "release_title": "Cocomotion",
+    "top_tracks": "Cocomotion (Part I) / Cocomotion (Part II)|We Call It Disco|Got That Feeling|Love to the World|I'm Mad as Hell",
+    "track_count": 6
+  },
+  "electric light orchestra|a new world record|1978": {
+    "match_score": 90,
+    "match_status": "good",
+    "release_group_mbid": "e3fb6403-71d2-3815-b85a-4f4edb18a556",
+    "release_mbid": "35c349cd-192c-328f-9fd0-8747b9eaf3db",
+    "release_title": "A New World Record",
+    "top_tracks": "Tightrope|Telephone Line|Rockaria!|Mission (A World Record)|So Fine",
+    "track_count": 15
+  },
+  "electric light orchestra|out of the blue|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "a720436f-9c8e-439a-a147-18e83441edab",
+    "release_mbid": "b0093619-f7a8-46b5-b88f-68954d4cb5ed",
+    "release_title": "Out of the Blue",
+    "top_tracks": "Turn to Stone|It's Over|Sweet Talkin' Woman|Across the Border|Night in the City",
+    "track_count": 16
+  },
+  "elton john|elton john s greatest hits volume ii|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "dbef69d8-988f-3b8a-a67a-02b2b2909fa2",
+    "release_mbid": "16740b5a-8b7d-4341-8de1-efcb63679745",
+    "release_title": "Elton John\u2019s Greatest Hits, Volume II",
+    "top_tracks": "The Bitch Is Back|Lucy in the Sky With Diamonds|Sorry Seems to Be the Hardest Word|Don't Go Breaking My Heart|Someone Saved My Life Tonight",
+    "track_count": 10
+  },
+  "elvis costello|my aim is true|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "c7a4740f-2729-3895-8498-08c521886a95",
+    "release_mbid": "2733ee56-cda6-3cd1-9cb4-38dd64e403f0",
+    "release_title": "My Aim Is True",
+    "top_tracks": "Welcome to the Working Week|Miracle Man|No Dancing|Blame It on Cain|Alison",
+    "track_count": 13
+  },
+  "elvis presley|elvis in concert|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "add9b2f4-e2a1-3f56-b885-ca4fab1e3776",
+    "release_mbid": "5397ef47-f4e4-4da5-be88-644fd47d9260",
+    "release_title": "Elvis in Concert",
+    "top_tracks": "Elvis Fans\u2019 Comments / Opening Riff|Also sprach Zarathustra (Theme From 2001: A Space Odyssey)|See See Rider|That\u2019s All Right|Are You Lonesome Tonight",
+    "track_count": 32
+  },
+  "emerson lake palmer|works volume ii|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "eric clapton|slowhand|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "02c2b0c7-065d-38b4-8ac0-3391839f2418",
+    "release_mbid": "a45e08b1-82ed-4da8-983c-ab37f0dfc92f",
+    "release_title": "Slowhand",
+    "top_tracks": "Cocaine|Wonderful Tonight|Lay Down Sally|Next Time You See Her|We\u2019re All the Way",
+    "track_count": 13
+  },
+  "fleetwood mac|rumours|1977": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "416bb5e5-c7d1-3977-8fd7-7c9daf6c2be6",
+    "release_mbid": "081ea37e-db59-4332-8cd2-ad020cb93af6",
+    "release_title": "Rumours",
+    "top_tracks": "Second Hand News|Dreams|Never Going Back Again|Don\u2019t Stop|Go Your Own Way",
+    "track_count": 11
+  },
+  "fleetwood mac|rumours|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "416bb5e5-c7d1-3977-8fd7-7c9daf6c2be6",
+    "release_mbid": "081ea37e-db59-4332-8cd2-ad020cb93af6",
+    "release_title": "Rumours",
+    "top_tracks": "Second Hand News|Dreams|Never Going Back Again|Don\u2019t Stop|Go Your Own Way",
+    "track_count": 11
+  },
+  "foghat|foghat live|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "foreigner|foreigner|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "edb7bc18-e4f1-33c0-ad9e-ef748664dfde",
+    "release_mbid": "3788fcbe-9e08-4cda-b5e0-4731cb782bec",
+    "release_title": "Foreigner",
+    "top_tracks": "Feels Like the First Time|Cold as Ice|Starrider|Headknocker|The Damage Is Done",
+    "track_count": 10
+  },
+  "gary wright|touch and gone|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "f2007cc9-5358-4afb-8fee-0cf92527d56d",
+    "release_mbid": "1ef56072-b501-4a0b-b0c1-8fc93ff92a8f",
+    "release_title": "Touch and Gone",
+    "top_tracks": "Touch and Gone|Starry Eyed|Something Very Special|Stay Away|Night Ride",
+    "track_count": 11
+  },
+  "gato barbieri|ruby ruby|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "4ac6da2a-dda2-471d-96e1-34eed42aecb2",
+    "release_mbid": "9d8b8437-5286-474b-8a85-7fd7e667e5d0",
+    "release_title": "Ruby, Ruby",
+    "top_tracks": "Ruby|Nostalgia|Latin Reaction|Ngiculela - Es Una Historia - I Am Singing|Sunride",
+    "track_count": 8
+  },
+  "genesis|seconds out|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "e918abf6-2d91-303d-ac53-48fba52c9703",
+    "release_mbid": "1b25ae9e-3df7-49eb-bc5b-86c0ad70cddc",
+    "release_title": "Seconds Out",
+    "top_tracks": "Squonk|The Carpet Crawlers|Robbery, Assault & Battery|Afterglow|Firth of Fifth",
+    "track_count": 12
+  },
+  "george duke|reach for it|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "decd7f65-10ac-4a0e-828a-5a1a3dcabd5a",
+    "release_mbid": "c6b764f9-3f9f-4787-86bf-9ca04d2b4d7c",
+    "release_title": "Reach for It",
+    "top_tracks": "The Beginning|Lemme at It|Hot Fire|Reach for It|Just for You",
+    "track_count": 10
+  },
+  "gino vannelli|a pauper in paridise|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "green day|american idiot|2004": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "de9bf827-a9b0-348b-a7c9-556c03c3fb07",
+    "release_mbid": "6a285eb3-5a16-4627-947f-3316c83d5866",
+    "release_title": "American Idiot",
+    "top_tracks": "American Idiot|Jesus of Suburbia: I. Jesus of Suburbia / II. City of the Damned / III. I Don\u2019t Care / IV. Dearly Beloved / V. Tales of Another Broken Home|Holiday|Boulevard of Broken Dreams|Are We the Waiting",
+    "track_count": 14
+  },
+  "grover washington jr|live at the bijou|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "a039f951-5654-3d34-a413-2a65ff9ab808",
+    "release_mbid": "3d9ea4d1-a5e0-42c4-bf66-be1745a200bc",
+    "release_title": "Live at the Bijou",
+    "top_tracks": "On the Cusp|You Make Me Dance|Lock It in the Pocket|Days in Our Lives / Mr. Magic|Summer Song",
+    "track_count": 8
+  },
+  "guns n roses|appetite for destruction|1987": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "a0b94d0a-210b-4b15-bd1d-93be2196c14a",
+    "release_mbid": "08a9e989-0f6c-4181-a8eb-bcd650eb4106",
+    "release_title": "Appetite for Destruction",
+    "top_tracks": "Welcome to the Jungle|It\u2019s So Easy|Nightrain|Out ta Get Me|Mr. Brownstone",
+    "track_count": 12
+  },
+  "heart|little queen|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "2ece6f20-db6e-39b3-a370-28e6011cddcf",
+    "release_mbid": "3fc2e224-5da9-4c21-acbe-8a5fdc8ceeb0",
+    "release_title": "Little Queen",
+    "top_tracks": "Barracuda|Love Alive|Sylvan Song|Dream of the Archer|Kick It Out",
+    "track_count": 10
+  },
+  "heatwave|too hot to handle|1978": {
+    "match_score": 90,
+    "match_status": "good",
+    "release_group_mbid": "f9c5dd33-ceba-395e-b203-31c03f3df66d",
+    "release_mbid": "a0721b2e-189d-4a3e-b5ad-2b86e3b73231",
+    "release_title": "Too Hot to Handle",
+    "top_tracks": "Too Hot to Handle|Boogie Nights|Ain\u2019t No Half Steppin\u2019|Always and Forever|Super Soul Sister",
+    "track_count": 10
+  },
+  "high inergy|turnin on|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "383b03b2-45e5-408b-8b03-b4e4fabcc270",
+    "release_mbid": "994c17b3-8512-4754-b6bd-92289ab1f00b",
+    "release_title": "Turnin' On",
+    "top_tracks": "Love Is All You Need|You Can't Turn Me Off (In the Middle of Turning Me on)|Some Kinda Magic|Searchin' (I've Got to Find My Love)|Ain't No Love Left (In My Heart for You)",
+    "track_count": 11
+  },
+  "isaac hayes|new horizon|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "83aaa277-b559-3a85-9dd8-ac983a53f4c4",
+    "release_mbid": "2bbcdc0d-b353-44c8-bba4-d26b574acc0f",
+    "release_title": "New Horizon",
+    "top_tracks": "Stranger in Paradise|Moonlight Lovin' (M\u00e8nage a Trois)|Don't Take Your Love Away|Out of the Ghetto|It's Heaven to Me",
+    "track_count": 8
+  },
+  "jackson browne|running on empty|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "786211b5-6caa-3c76-903e-9c085bc7e117",
+    "release_mbid": "0e585657-397a-4898-baed-fe9d7a7c2bf6",
+    "release_title": "Running on Empty",
+    "top_tracks": "Running on Empty|The Road|Rosie|You Love the Thunder|Cocaine",
+    "track_count": 10
+  },
+  "james taylor|greatest hits|1978": {
+    "match_score": 90,
+    "match_status": "good",
+    "release_group_mbid": "a5fd3ef5-a9eb-36b6-92a1-72896d0ee310",
+    "release_mbid": "077db8dd-b897-4027-b787-45877d382ec4",
+    "release_title": "Greatest Hits",
+    "top_tracks": "Something in the Way She Moves|Carolina in My Mind|Fire and Rain|Sweet Baby James|Country Road",
+    "track_count": 12
+  },
+  "james taylor|jt|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "10539dc3-557c-3cc3-95ec-dd8b0f5d5340",
+    "release_mbid": "430e6d33-621d-4107-97de-66cb9d87e1cf",
+    "release_title": "JT",
+    "top_tracks": "Your Smiling Face|There We Are|Honey Don\u2019t Leave L.A.|Another Grey Morning|Bartender\u2019s Blues",
+    "track_count": 12
+  },
+  "joan armatrading|show some emotion|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "4b7a8cb8-4948-334b-96f6-031d06ddddf5",
+    "release_mbid": "81525ba5-9e60-4ac6-984d-69ccaa1f28b7",
+    "release_title": "Show Some Emotion",
+    "top_tracks": "Woncha Come on Home|Show Some Emotion|Warm Love|Never Is Too Late|Peace in Mind",
+    "track_count": 10
+  },
+  "joan baez|best of joan baez|1978": {
+    "match_score": 70,
+    "match_status": "good",
+    "release_group_mbid": "df8f9ba4-6cfe-3584-bc9f-79fd1dc1b66e",
+    "release_mbid": "dd6cf927-6d5c-407b-912f-128c040fd9fb",
+    "release_title": "The Best of Joan Baez",
+    "top_tracks": "There But For Fortune|The Night They Drove Old Dixie Down|The Water Is Wide|Last Night I Had the Strangest Dream|I Am a Poor Wayfaring Stranger",
+    "track_count": 9
+  },
+  "joe cocker|joe cocker s greatest hits|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "05b17dec-fceb-3895-8653-8c3e29eb2ee6",
+    "release_mbid": "0f893479-4ebe-4e12-ac68-9b1b9bd8290f",
+    "release_title": "Joe Cocker's Greatest Hits",
+    "top_tracks": "With a Little Help From My Friends|Woman to Woman|The Jealous Kind|Black-Eyed Blues|I Think It\u2019s Going to Rain",
+    "track_count": 12
+  },
+  "john denver|i want to live|1978": {
+    "match_score": 90,
+    "match_status": "good",
+    "release_group_mbid": "83bb4546-1a12-3f30-80dd-bc40c1546545",
+    "release_mbid": "d57b19cd-a6de-4790-8a8d-928d95dc958e",
+    "release_title": "I Want to Live",
+    "top_tracks": "How Can I Leave You Again?|Tradewinds|Bet on the Blues|It Amazes Me|To the Wild Country",
+    "track_count": 11
+  },
+  "johnny cash|at folsom prison|1968": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "6b4ea595-3378-3019-be5f-058412670791",
+    "release_mbid": "89efce77-e3a9-4a7d-8be7-0eadfbdfa28e",
+    "release_title": "At Folsom Prison",
+    "top_tracks": "Folsom Prison Blues|Dark as Dungeon|I Still Miss Someone|Cocaine Blues|25 Minutes to Go",
+    "track_count": 16
+  },
+  "johnny guitar watson|funk beyond the call of duty|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "bd382bdf-b1e3-30b7-82e8-31498286f5d3",
+    "release_mbid": "b78ce9b3-2974-447d-93fd-3fcf4a573a55",
+    "release_title": "Funk Beyond the Call of Duty",
+    "top_tracks": "Funk Beyond the Call of Duty|It's About the Dollar Bill|Give Me My Love|It's a Damn Shame|I'm Gonna Get You Baby",
+    "track_count": 9
+  },
+  "joni mitchell|don juan s reckless daughter|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "77460a4d-7800-3eac-9446-ba6fde5a8553",
+    "release_mbid": "bc7d3926-3356-3bb2-903c-7d29d694d638",
+    "release_title": "Don Juan\u2019s Reckless Daughter",
+    "top_tracks": "Overture / Cotton Avenue|Talk to Me|Jericho|Paprika Plains|Otis and Marlena",
+    "track_count": 10
+  },
+  "judy collins|so early in the spring the first 15 years|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "kansas|point of know return|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "c71e6754-dbc9-3882-82ce-7d41457d1fb5",
+    "release_mbid": "3c8e446e-b6a5-4ccd-853b-77dd8d4af660",
+    "release_title": "Point of Know Return",
+    "top_tracks": "Point of Know Return|Paradox|The Spider|Portrait (He Knew)|Closet Chronicles",
+    "track_count": 10
+  },
+  "kendrick lamar|good kid m a a d city|2012": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "499c19c8-0dab-4824-884b-6191d145e95b",
+    "release_mbid": "d5bcadc9-d6b2-4119-bf50-af1b9dca834c",
+    "release_title": "good kid, m.A.A.d city",
+    "top_tracks": "Sherane A.K.A Master Splinter\u2019s Daughter|Bitch, Don\u2019t Kill My Vibe|Backseat Freestyle|The Art of Peer Pressure|Money Trees",
+    "track_count": 14
+  },
+  "kiss|alive ii|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "fe0a61e9-2212-3ec1-8a26-de185e6f6a66",
+    "release_mbid": "31484002-9a54-435d-a1d0-a16e87ba7d35",
+    "release_title": "Alive II",
+    "top_tracks": "Detroit Rock City|King of the Night Time World|Ladies Room|Makin\u2019 Love|Love Gun",
+    "track_count": 20
+  },
+  "lauryn hill|the miseducation of lauryn hill|1998": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "8691d12c-abd8-385c-b1eb-d841190124f7",
+    "release_mbid": "26a63729-c71e-4d27-9b1e-a12247afd8d5",
+    "release_title": "The Miseducation Of Lauryn Hill",
+    "top_tracks": "Lost Ones|When It Hurts So Bad|Superstar|Ex Factor|To Zion",
+    "track_count": 14
+  },
+  "led zeppelin|led zeppelin iv|1971": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "2e61da88-39e9-3473-81d2-c964cb394952",
+    "release_mbid": "0fca4b6f-26e9-470c-95dd-5204ce73e9b5",
+    "release_title": "[Led Zeppelin IV]",
+    "top_tracks": "Black Dog|Rock and Roll|The Battle of Evermore|Stairway to Heaven|Misty Mountain Hop",
+    "track_count": 16
+  },
+  "leif garrett|leif garrett|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "03913572-d570-4ffa-a762-9fb9811d8521",
+    "release_mbid": "b3c0c072-e74e-4c55-9cfa-3dbbd1f23e7a",
+    "release_title": "Leif Garrett",
+    "top_tracks": "The Wanderer|California Girls|Put Your Head on My Shoulder|I Wanna Share a Dream With You|Johnny B. Goode",
+    "track_count": 10
+  },
+  "linda ronstadt|greatest hits|1978": {
+    "match_score": 90,
+    "match_status": "good",
+    "release_group_mbid": "fecc17e4-e9a3-3e38-93a4-93b05daf5104",
+    "release_mbid": "53e97653-de10-4134-8d6f-5ded0c16e4be",
+    "release_title": "Greatest Hits",
+    "top_tracks": "You're No Good|Silver Threads and Golden Needles|Desperado|Love Is a Rose|That'll Be the Day",
+    "track_count": 12
+  },
+  "linda ronstadt|simple dreams|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "875cd93f-35f3-35bf-a773-fdd17260edcc",
+    "release_mbid": "514929b7-0c78-4ead-a7fc-dd375d26fead",
+    "release_title": "Simple Dreams",
+    "top_tracks": "It\u2019s So Easy|Carmelita|Simple Man, Simple Dream|Sorrow Lives Here|I Never Will Marry",
+    "track_count": 10
+  },
+  "linkin park|hybrid theory|2000": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "b5b4bb4b-8ba5-3acf-88cb-4cae2699d8da",
+    "release_mbid": "04b8953c-969a-423a-8847-ccf78b83d013",
+    "release_title": "Hybrid Theory",
+    "top_tracks": "Papercut|One Step Closer|With You|Points of Authority|Crawling",
+    "track_count": 12
+  },
+  "little river band|diamantina cocktail|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "a3e45abc-2f57-3457-b190-08b3ffae9816",
+    "release_mbid": "cf4aca42-3d21-4310-a8d5-7259fc4eb991",
+    "release_title": "Diamantina Cocktail",
+    "top_tracks": "Help Is on Its Way|The Drifter|L.A. In the Sunshine|The Inner Light|Witchery",
+    "track_count": 11
+  },
+  "lou rawls|when you hear lou you ve heard it all|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "3d91a166-2698-3a77-90c8-0a50ffc8d45d",
+    "release_mbid": "ed9d0de0-1b87-4f8d-aa86-4b588cd9cc6f",
+    "release_title": "When You Hear Lou, You've Heard It All",
+    "top_tracks": "Lady Love|I Wish It Were Yesterday|One Life to Live|Dollar Green|Trade Winds",
+    "track_count": 10
+  },
+  "ltd|something to love|1978": {
+    "match_score": 65,
+    "match_status": "fuzzy",
+    "release_group_mbid": "493e1c38-e504-31ca-88f2-13ad7ecf1701",
+    "release_mbid": "405540c2-9b75-4a76-9d2a-bc8f202c9a85",
+    "release_title": "Something to Love",
+    "top_tracks": "Age of the Showdown|(Won't Cha) Stay With Me|(Every Time I Turn Around) Back in Love Again|You Come First at Last|We Party Hearty",
+    "track_count": 9
+  },
+  "lynyrd skynyrd|street survivors|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "b4592c16-10ff-38b1-8d56-16db4c0c0627",
+    "release_mbid": "e968f586-c278-443b-b00b-31bc2defa247",
+    "release_title": "Street Survivors",
+    "top_tracks": "What's Your Name|That Smell|One More Time|I Know a Little|You Got That Right",
+    "track_count": 13
+  },
+  "madonna|the immaculate collection|1990": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "b14e9927-081e-4a07-b0f7-8ddf22319b27",
+    "release_mbid": "6a12cd9c-0b3d-4e68-8d44-b8066b7ff9f4",
+    "release_title": "The Immaculate Collection",
+    "top_tracks": "Lucky Star|Borderline|Like a Virgin|Material Girl|Papa Don\u2019t Preach",
+    "track_count": 13
+  },
+  "mandrill|we are one|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "63633628-8c64-4495-a3cc-2361e985a322",
+    "release_mbid": "39d3b01a-706d-41e1-8493-a540d0b43a85",
+    "release_title": "We Are One",
+    "top_tracks": "Can You Get It (Suzie Caesar)|Funky Monkey|Happy Beat|Gilly Hines (In Memory of Natalie Cerame)|Holiday",
+    "track_count": 12
+  },
+  "meat loaf|bat out of hell|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "52ac731e-5244-3fb2-b477-e45d637ca8f9",
+    "release_mbid": "74056419-375f-4877-a960-e5f442c8b82c",
+    "release_title": "Bat Out Of Hell",
+    "top_tracks": "Bat Out Of Hell|You Took The Words Right Out Of My Mouth (Hot Summer Night)|Heaven Can Wait|All Revved Up With No Place To Go|Two Out Of Three Ain't Bad",
+    "track_count": 7
+  },
+  "meco|star wars other galactic funk|1978": {
+    "match_score": 70,
+    "match_status": "good",
+    "release_group_mbid": "9e50e3c9-bfae-30d5-8097-17e2fc3ad4f4",
+    "release_mbid": "b9d1ebc5-cb39-49a9-90e7-d6e6ca66129e",
+    "release_title": "Music Inspired by Star Wars and Other Galactic Funk",
+    "top_tracks": "Star Wars: Title Theme|Imperial Attack|The Desert & The Robot Auction|The Princess Appears|The Land of the Sand People",
+    "track_count": 10
+  },
+  "michael jackson|bad|1987": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "073419da-a33d-334c-8b30-aa0a1f917850",
+    "release_mbid": "1f5588b5-513d-49eb-844d-5c9e37e3ce5e",
+    "release_title": "Bad",
+    "top_tracks": "Bad (dance extended mix includes \u201cfalse fade\u201d)|Bad (7\u2033 single mix)|Bad (dance remix radio edit)|Bad (dub version)|Bad (a cappella)",
+    "track_count": 5
+  },
+  "michael jackson|the essential michael jackson|2005": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "ee7f4e87-de9d-357a-ae1f-f3ba11e5d390",
+    "release_mbid": "53c25d72-a79c-4f4f-a3b6-27ca1e3c3737",
+    "release_title": "The Essential Michael Jackson",
+    "top_tracks": "I Want You Back|ABC|The Love You Save|Got to Be There|Rockin\u2019 Robin",
+    "track_count": 38
+  },
+  "michael jackson|thriller|1982": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "f32fab67-77dd-3937-addc-9062e28e4c37",
+    "release_mbid": "ae68a87b-26a7-4d6b-b5f2-b0883d63bde7",
+    "release_title": "Thriller",
+    "top_tracks": "Wanna Be Startin\u2019 Somethin\u2019|Baby Be Mine|The Girl Is Mine|Thriller|Beat It (single version)",
+    "track_count": 10
+  },
+  "millie jackson|feelin bitchy|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "0b56bec9-7d20-32d1-814e-0a57b8c3ee34",
+    "release_mbid": "707decb4-9e86-4074-9f59-7986126d6ea9",
+    "release_title": "Feelin' Bitchy",
+    "top_tracks": "All the Way Lover|Lovin' Your Good Thing Away|Angel in Your Arms|A Little Taste of Outside Love|You Created a Monster",
+    "track_count": 11
+  },
+  "natalie cole|thankful|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "e39b65ed-ceee-468f-b31c-2b611147c6df",
+    "release_mbid": "9ea442a2-44e4-4e24-8c38-f1872d385698",
+    "release_title": "Thankful",
+    "top_tracks": "Lovers|Our Love|La Costa|Nothing Stronger Than Love|Be Thankful",
+    "track_count": 8
+  },
+  "nazareth|expect no mercy|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "ed5bfedd-6493-32fd-b118-ad81b0d2a994",
+    "release_mbid": "0b28104d-511d-4e4f-8a6e-efdfe916c2e3",
+    "release_title": "Expect No Mercy",
+    "top_tracks": "Expect No Mercy|Gone Dead Train|Shot Me Down|Revenge Is Sweet|Gimme What\u2019s Mine",
+    "track_count": 10
+  },
+  "neil diamond|i m glad your here with me tonight|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "neil diamond|neil diamond his 12 greatest hits|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "neil young|decade|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "5d78e3ef-6742-3ee2-b003-9dbabc14a9d1",
+    "release_mbid": "904ec5cc-e1fc-4d12-b424-1f14fc26a89b",
+    "release_title": "Decade",
+    "top_tracks": "Down to the Wire|Burned|Mr. Soul|Broken Arrow|Expecting to Fly",
+    "track_count": 35
+  },
+  "nirvana|mtv unplugged in new york|1994": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "fb3770f6-83fb-32b7-85c4-1f522a92287e",
+    "release_mbid": "2ff3be28-f74f-40c9-bdde-c19b6e4384ee",
+    "release_title": "MTV Unplugged in New York",
+    "top_tracks": "About a Girl|Come as You Are|Jesus Doesn\u2019t Want Me for a Sunbeam|The Man Who Sold the World|Pennyroyal Tea",
+    "track_count": 14
+  },
+  "nirvana|nevermind|1991": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "1b022e01-4da6-387b-8658-8678046e4cef",
+    "release_mbid": "006cb56d-6eff-4b7d-853f-ecd2db97f3b2",
+    "release_title": "Nevermind",
+    "top_tracks": "Smells Like Teen Spirit|In Bloom|Come as You Are|Breed|Lithium",
+    "track_count": 12
+  },
+  "odyssey|odyssey|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "a31a5339-3968-47e5-9466-e60f98edd625",
+    "release_mbid": "6f261944-efea-4e2f-adb3-54f836bd6f37",
+    "release_title": "Odyssey",
+    "top_tracks": "Native New Yorker|Ever Lovin' Sam|Weekend Lover|You Keep Me Dancin'|The Woman Behind the Man",
+    "track_count": 10
+  },
+  "ohio players|mr mean|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "c7b9c3a7-8f34-33eb-83cc-c5572aab5d70",
+    "release_mbid": "e8e40c15-ed7a-4148-bf69-13b826335906",
+    "release_title": "Mr. Mean",
+    "top_tracks": "Mr. Mean|Fight Me, Chase Me|The Controller's Mind|The Big Score|Magic Trick",
+    "track_count": 7
+  },
+  "olivia newton john|olivia newton john s greatest hits|1978": {
+    "match_score": 90,
+    "match_status": "good",
+    "release_group_mbid": "022fe94f-3cb8-4828-b15c-eedcf145f617",
+    "release_mbid": "62f642b4-94d9-4b7c-92f0-ec9e20e32a54",
+    "release_title": "Olivia Newton\u2010John\u2019s Greatest Hits",
+    "top_tracks": "If Not for You (remastered 2022)|Banks of the Ohio (remastered 2022)|Love Song (remastered 2022)|Take Me Home Country Roads (remastered 2022)|Changes (remastered 2022)",
+    "track_count": 20
+  },
+  "ozark mountain daredevils|don t look down|1978": {
+    "match_score": 85,
+    "match_status": "good",
+    "release_group_mbid": "51087f7d-d5a5-3eee-9a55-22c21e531229",
+    "release_mbid": "6a3e2616-e620-4278-bb70-38d74a3a1a4b",
+    "release_title": "Don't Look Down",
+    "top_tracks": "River Tothe Sun|Crazy Lovin'|Giving It All to the Wind|The Fox|Backroads",
+    "track_count": 14
+  },
+  "parliament|funkentelechy vs the placebo syndrome|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "65ad1bb2-1022-3f9e-a66f-4a1aa4536620",
+    "release_mbid": "8af02cb6-093c-4c0e-9ef8-b486aa040717",
+    "release_title": "Funkentelechy vs. the Placebo Syndrome",
+    "top_tracks": "Bop Gun (Endangered Species)|Sir Nose D\u2019Voidoffunk (Pay Attention \u2013 B3M)|Wizard of Finance|Funkentelechy|Placebo Syndrome",
+    "track_count": 7
+  },
+  "patti austin|havana candy|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "ff8e1eac-101a-3b93-94cb-da39c51c18f1",
+    "release_mbid": "a7f03576-2ef4-4803-ac0d-be9add276d76",
+    "release_title": "Havana Candy",
+    "top_tracks": "That\u2019s Enough for Me|Little Baby|I Just Want to Know|Havana Candy|Golden Oldies",
+    "track_count": 8
+  },
+  "paul simon|greatest hits ect|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "pearl jam|ten|1991": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "cea5d18a-1924-3cda-bebc-38933834b25d",
+    "release_mbid": "3b4160a4-c2ed-49fa-a62d-cd606069bfaa",
+    "release_title": "Ten",
+    "top_tracks": "Once|Even Flow|Alive|Why Go|Black",
+    "track_count": 13
+  },
+  "peter frampton|frampton comes alive|1976": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "cbf9819e-4a0b-35f1-9b1c-ab34764cf10c",
+    "release_mbid": "5d38d31f-b8e0-49a0-942a-a6f5fec95403",
+    "release_title": "Frampton Comes Alive!",
+    "top_tracks": "Something\u2019s Happening|Show Me the Way|Wind of Change|Baby, I Love Your Way|I Wanna Go to the Sun",
+    "track_count": 10
+  },
+  "phoebe snow|never letting go|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "1f770dc8-4667-364e-9101-107829642049",
+    "release_mbid": "bbc6da79-f4f8-3384-bcf3-bd01cc6514b8",
+    "release_title": "Never Letting Go",
+    "top_tracks": "Love Makes a Woman|Majesty of Life|Ride the Elevator|Something So Right|Never Letting Go",
+    "track_count": 9
+  },
+  "pink floyd|the dark side of the moon|1973": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "f5093c06-23e3-404f-aeaa-40f72885ee3a",
+    "release_mbid": "1c3ea255-3cc5-4861-9864-81e3bceb4443",
+    "release_title": "The Dark Side of the Moon",
+    "top_tracks": "Speak to Me|Breathe|On the Run|Time|The Great Gig in the Sky",
+    "track_count": 10
+  },
+  "pink floyd|the wall|1979": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "f2026101-945b-3d05-9ef4-aa718fc3feef",
+    "release_mbid": "5da676af-eee4-46a7-a18a-5fde07fc8acf",
+    "release_title": "The Wall",
+    "top_tracks": "In the Flesh?|The Thin Ice|Another Brick in the Wall, Part 1|The Happiest Days of Our Lives|Another Brick in the Wall, Part 2",
+    "track_count": 26
+  },
+  "player|player|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "e8d69ecf-e034-3717-be18-f14e3459d05e",
+    "release_mbid": "8113b70d-63a2-4ca1-b32b-7da6f719fdf7",
+    "release_title": "Player",
+    "top_tracks": "Come On Out|Baby Come Back|Goodbye (That\u2019s All I Ever Heard)|Melanie|Every Which Way",
+    "track_count": 10
+  },
+  "pockets|come go with us|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "fc6c6b3f-9957-4a62-a050-023328c792a7",
+    "release_mbid": "1491ac75-abdb-4811-874e-1b2d35cf4231",
+    "release_title": "Come Go With Us",
+    "top_tracks": "Come Go With Me|Pasado|One Day At A Time|Doin' The Do|In The Pocket",
+    "track_count": 8
+  },
+  "prince and the revolution|purple rain|1984": {
+    "match_score": 80,
+    "match_status": "good",
+    "release_group_mbid": "b93a7c47-a6d4-33f2-9034-53fdd991f4ba",
+    "release_mbid": "05adfe85-dd1c-44a0-bda8-a9159e59a30f",
+    "release_title": "Purple Rain",
+    "top_tracks": "Let\u2019s Go Crazy|Take Me With U|The Beautiful Ones|Computer Blue|Darling Nikki",
+    "track_count": 9
+  },
+  "prince|purple rain|1984": {
+    "match_score": 90,
+    "match_status": "good",
+    "release_group_mbid": "b93a7c47-a6d4-33f2-9034-53fdd991f4ba",
+    "release_mbid": "05adfe85-dd1c-44a0-bda8-a9159e59a30f",
+    "release_title": "Purple Rain",
+    "top_tracks": "Let\u2019s Go Crazy|Take Me With U|The Beautiful Ones|Computer Blue|Darling Nikki",
+    "track_count": 9
+  },
+  "queen|a night at the opera|1975": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "6b47c9a0-b9e1-3df9-a5e8-50a6ce0dbdbd",
+    "release_mbid": "1e14b2d6-8652-3dcc-b60b-4fb5fe79e024",
+    "release_title": "A Night at the Opera",
+    "top_tracks": "Death on Two Legs (Dedicated to\u2026)|Lazing on a Sunday Afternoon|I\u2019m in Love With My Car|You\u2019re My Best Friend|\u201939",
+    "track_count": 12
+  },
+  "queen|greatest hits|1981": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "69ce61c8-127f-3809-95d8-62fdf3ae1347",
+    "release_mbid": "1eeecbde-a411-451f-9360-7f92e9878485",
+    "release_title": "Greatest Hits",
+    "top_tracks": "Another One Bites the Dust|Bohemian Rhapsody|Crazy Little Thing Called Love|Killer Queen|Fat Bottomed Girls",
+    "track_count": 14
+  },
+  "queen|news of the world|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "c172ea98-3a82-3254-b8ad-25a4f465ba03",
+    "release_mbid": "5281690f-7ba9-40d7-8417-d22473561ca4",
+    "release_title": "News of the World",
+    "top_tracks": "We Will Rock You|We Are the Champions|Sheer Heart Attack|All Dead, All Dead|Spread Your Wings",
+    "track_count": 11
+  },
+  "radiohead|ok computer|1997": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "b1392450-e666-3926-a536-22c65f834433",
+    "release_mbid": "0b6b4ba0-d36f-47bd-b4ea-6a5b91842d29",
+    "release_title": "OK Computer",
+    "top_tracks": "Airbag|Paranoid Android|Subterranean Homesick Alien|Exit Music (for a Film)|Let Down",
+    "track_count": 12
+  },
+  "ramsey lewis|tequila mockingbird|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "551c48d2-c4c3-3a87-bb53-791ff9890b49",
+    "release_mbid": "55eef142-2b20-4754-8173-1d7f32d247fd",
+    "release_title": "Tequila Mockingbird",
+    "top_tracks": "Tequila Mockingbird|Wandering Rose|Skippin\u2019|My Angel\u2019s Smile|Camino El Bueno",
+    "track_count": 8
+  },
+  "randy newman|little criminals|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "8211ba5c-b994-3546-b735-a05106b67052",
+    "release_mbid": "18bd1392-e5be-3ca7-b29f-56de0f9666c1",
+    "release_title": "Little Criminals",
+    "top_tracks": "Short People|You Can't Fool the Fat Man|Little Criminals|Texas Girl at the Funeral of Her Father|Jolly Coppers on Parade",
+    "track_count": 12
+  },
+  "ray charles|true to life|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "bd094690-b2f3-3b74-a080-5f5c6c6dd6cd",
+    "release_mbid": "bce8ac2b-470f-4449-b84f-f0732ba6a72a",
+    "release_title": "True to Life",
+    "top_tracks": "I Can See Clearly Now|The Jealous Kind|Oh, What a Beautiful Mornin\u2019|How Long Has This Been Going On|Be My Love",
+    "track_count": 9
+  },
+  "rick danko|rick danko|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "23dd7896-c9c1-3856-b6f0-f83546cdde19",
+    "release_mbid": "589b6194-9980-4c8f-987f-79e40577b5a2",
+    "release_title": "Rick Danko",
+    "top_tracks": "What a Town|Brainwash|New Mexicoe|Tired of Waiting|Sip the Wine",
+    "track_count": 10
+  },
+  "rick wakeman|rick wakeman s criminal record|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "276cbbc2-f02d-3c28-9314-2bbb575981cd",
+    "release_mbid": "61be2b3a-65d4-4635-8354-12a915e0d3b0",
+    "release_title": "Rick Wakeman\u2019s Criminal Record",
+    "top_tracks": "Statue of Justice|Crime of Passion|Chamber of Horrors|Birdman of Alcatraz|The Breathalyser",
+    "track_count": 6
+  },
+  "rita coolidge|anytime anywhere|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "fdfecd0d-bcaf-3aae-b515-e68c1347ee9b",
+    "release_mbid": "964809c9-a63f-4693-a408-e562c4a20c6d",
+    "release_title": "Anytime... Anywhere",
+    "top_tracks": "(Your Love Has Lifted Me) Higher and Higher|The Way You Do the Things You Do|We\u2019re All Alone|I Feel the Burden|I Don't Want to Talk About It",
+    "track_count": 10
+  },
+  "roberta flack|blue lights in the basement|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "16a8edf3-6836-30cb-b648-a5ad0cef9b5c",
+    "release_mbid": "f48ce0a4-d034-4725-bfbe-e1c5d9f743a8",
+    "release_title": "Blue Lights in the Basement",
+    "top_tracks": "Why Don't You Move in With Me|The Closer I Get to You|Fine, Fine Day|This Time I'll Be Sweeter|25th of Last December",
+    "track_count": 10
+  },
+  "robin trower|in city dreams|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "4540526c-d46e-3597-8df0-8e736224b21a",
+    "release_mbid": "0f424fe3-3e05-47cc-86e7-cad8ad0b62b6",
+    "release_title": "In City Dreams",
+    "top_tracks": "Somebody Calling|Sweet Wine of Love|Bluebird|Falling Star|Farther up the Road",
+    "track_count": 9
+  },
+  "rod stewart|foot loose fancy free|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "rose royce|rose royce ii in full bloom|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "096a62ee-d393-3e84-a682-0a0de52c1651",
+    "release_mbid": "88d037a3-2a16-404c-a173-2cba4da4cf4c",
+    "release_title": "Rose Royce II: In Full Bloom",
+    "top_tracks": "Wishing on a Star|You Can\u2019t Please Everybody|Ooh Boy|Do Your Dance|You\u2019re My World",
+    "track_count": 12
+  },
+  "saint tropez|je taime|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "santa esmeralda|don t let me be misunderstood|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "b341a769-b3b7-3e9e-9156-66ec6280dc67",
+    "release_mbid": "f108921f-cf0c-4a15-9ae8-cc662acfeb12",
+    "release_title": "Don't Let Me Be Misunderstood",
+    "top_tracks": "Let Me Dream Tonight|Gimme Some Lovin\u2019|Another Cha Cha|Still Crazy for You|Hey Mambo",
+    "track_count": 15
+  },
+  "santana|moonflower|1978": {
+    "match_score": 80,
+    "match_status": "good",
+    "release_group_mbid": "a8616b2d-4888-4f03-8460-fac7d790543b",
+    "release_mbid": "3518fda3-cf0f-4d41-b0f1-fef6b10bbe56",
+    "release_title": "Flor D\u2019Luna (Moonflower)",
+    "top_tracks": "Flor D\u2019Luna (Moonflower)|Transcendance",
+    "track_count": 2
+  },
+  "sex pistols|never mind the bollocks here s the sex pistols|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "e959a4b3-6306-3c45-9df6-e7241dae9ea3",
+    "release_mbid": "155cc065-924f-3046-a73b-624e3311ce11",
+    "release_title": "Never Mind the Bollocks Here\u2019s the Sex Pistols",
+    "top_tracks": "Holidays in the Sun|Bodies|No Feelings|Liar|God Save the Queen",
+    "track_count": 12
+  },
+  "shaun cassidy|born late|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "7514547a-9145-3a80-928a-ab9c22e1e5a1",
+    "release_mbid": "502de1a7-9381-4ad9-8418-7dcc0b8e0030",
+    "release_title": "Born Late",
+    "top_tracks": "Teen Dream|Do You Believe in Magic|Baby, Baby, Baby|It\u2019s Up to You|Audrey",
+    "track_count": 10
+  },
+  "shaun cassidy|shaun cassidy|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "8139cb8f-6751-3367-8162-6547b57eb125",
+    "release_mbid": "0ac2d788-3b4c-40f9-8dfd-89a4990b7ec5",
+    "release_title": "Shaun Cassidy",
+    "top_tracks": "Da Doo Ron Ron|Morning Girl|I Wanna Be With You|It's Too Late|Hey There Lonely Girl",
+    "track_count": 10
+  },
+  "slave|the hardness of the world|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "a0db1c8a-1d20-3ca7-93e2-17be96c6e17d",
+    "release_mbid": "25d55f80-5da5-4f80-becc-08e99b206705",
+    "release_title": "The Hardness of the World",
+    "top_tracks": "Life Can Be Happy|The Great American Funk Song|Can't Get Enough of You|Baby Sinister|The World's on Hard",
+    "track_count": 8
+  },
+  "soundtrack|close encounters of a third kind|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "soundtrack|saturday night fever|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "soundtrack|star wars|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "soundtrack|the story of star wars|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "soundtrack|you light up my life|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "steely dan|aja|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "8588c5a5-b491-37a4-8d51-2227346a072e",
+    "release_mbid": "97efa262-b1fb-42b7-953c-712e7a23eaff",
+    "release_title": "Aja",
+    "top_tracks": "Black Cow|Aja|Deacon Blues|Peg|Home at Last",
+    "track_count": 7
+  },
+  "steve martin|lets get small|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "stevie wonder|looking back|1978": {
+    "match_score": 90,
+    "match_status": "good",
+    "release_group_mbid": "43d60d78-828c-4e3a-80a4-6697e5664491",
+    "release_mbid": "05b6b321-2051-49b6-b8c9-a79c4e97b511",
+    "release_title": "Looking Back",
+    "top_tracks": "Thank You (For Loving Me All the Way)|Contract on Love|Fingertips (Part II)|Workout Stevie, Workout|Castles in the Sand",
+    "track_count": 40
+  },
+  "stevie wonder|songs in the key of life|1976": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "ea88b09b-fd34-33cf-a3e5-25a3a2fb4c6f",
+    "release_mbid": "c888e325-c78c-42d5-b2a2-1793ec91c4d5",
+    "release_title": "Songs in the Key of Life Vol. 2",
+    "top_tracks": "Isn't She Lovely|Joy Inside My Tears|Black Man|Ngiculela - Es Una Historia * I Am Singing|If It's Magic",
+    "track_count": 9
+  },
+  "stevie wonder|songs in the key of life|1978": {
+    "match_score": 90,
+    "match_status": "good",
+    "release_group_mbid": "ea88b09b-fd34-33cf-a3e5-25a3a2fb4c6f",
+    "release_mbid": "c888e325-c78c-42d5-b2a2-1793ec91c4d5",
+    "release_title": "Songs in the Key of Life Vol. 2",
+    "top_tracks": "Isn't She Lovely|Joy Inside My Tears|Black Man|Ngiculela - Es Una Historia * I Am Singing|If It's Magic",
+    "track_count": 9
+  },
+  "styx|the grand illusion|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "1b3c2b8a-a81f-3ad7-b6d3-85a946f15623",
+    "release_mbid": "49a6e4c5-2bbf-4f7d-9824-0f452372ae6a",
+    "release_title": "The Grand Illusion",
+    "top_tracks": "The Grand Illusion|Fooling Yourself (The Angry Young Man)|Superstars|Come Sail Away|Miss America",
+    "track_count": 8
+  },
+  "talking heads|stop making sense|1984": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "2b85ba4e-53bf-4473-87f5-59d0b53020ad",
+    "release_mbid": "07da6636-faa3-4815-a323-fd411dfc8a4f",
+    "release_title": "Stop Making Sense",
+    "top_tracks": "Psycho Killer|Swamp|Slippery People|Burning Down the House|Girlfriend Is Better",
+    "track_count": 9
+  },
+  "talking heads|talking heads 77|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "d99084ee-de04-3ba1-8203-5f1a7e5355ee",
+    "release_mbid": "0bdf2df4-b9d3-4e6d-a803-262721fa5a9b",
+    "release_title": "Talking Heads: 77",
+    "top_tracks": "Uh\u2010Oh, Love Comes to Town|New Feeling|Tentative Decisions|Happy Day|Who Is It?",
+    "track_count": 11
+  },
+  "taylor swift|1989|2014": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "4d9ec1c2-58ec-48a4-aa0a-916718adead0",
+    "release_mbid": "aabe1047-0f67-4d7b-99d7-e3121fe55be8",
+    "release_title": "1989 D.L.X.",
+    "top_tracks": "Welcome to New York|Blank Space|Style|Out of the Woods|All You Had to Do Was Stay",
+    "track_count": 15
+  },
+  "taylor swift|folklore|2020": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "f1d08326-c23b-4b43-be3b-20b33ab10bf6",
+    "release_mbid": "0ca6db69-0719-4a00-99be-f87ef1cff6cb",
+    "release_title": "folklore",
+    "top_tracks": "the 1|cardigan|the last great american dynasty|exile|my tears ricochet",
+    "track_count": 16
+  },
+  "ted nugent|cat scratch fever|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "e65f1c87-846c-3a7f-b948-847bb3a3a966",
+    "release_mbid": "5a29f707-99a5-44b0-bed0-f9dc2bab1c3d",
+    "release_title": "Cat Scratch Fever",
+    "top_tracks": "Cat Scratch Fever|Wang Dang Sweet Poontang|Death by Misadventure|Live It Up|Home Bound",
+    "track_count": 10
+  },
+  "the alan parsons project|i robot|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "bc5d259c-9323-3721-a346-5d379338eddf",
+    "release_mbid": "1a73ecb7-d470-4fb2-8420-411a675b17a3",
+    "release_title": "I robot",
+    "top_tracks": "I Robot|I Wouldn\u2019t Want to Be Like You|Some Other Time|Breakdown|Don\u2019t Let It Show",
+    "track_count": 10
+  },
+  "the babys|broken heart|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "2ff0b647-bb8a-3178-ac2d-2f19effda285",
+    "release_mbid": "20fac81d-ae46-3116-a358-1a41eae6d1a7",
+    "release_title": "Broken Heart",
+    "top_tracks": "Wrong Or Right|Give Me Your Love|Isn't It Time|And If You Could See Me Fly|The Golden Mile",
+    "track_count": 10
+  },
+  "the beatles|1|2000": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "4f539c70-1a19-37a3-ba14-979f11fc0686",
+    "release_mbid": "2098f62b-83dc-44d2-946e-6cd4264f101d",
+    "release_title": "1",
+    "top_tracks": "Love Me Do|From Me to You|She Loves You|I Want to Hold Your Hand|Can\u2019t Buy Me Love",
+    "track_count": 27
+  },
+  "the beatles|abbey road|1969": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "9162580e-5df4-32de-80cc-f45a8d8a9b1d",
+    "release_mbid": "885ddfe3-e68d-4a8e-8570-2975318db1df",
+    "release_title": "Abbey Road",
+    "top_tracks": "Come Together|Maxwell's Silver Hammer'|Oh! Darling|Her Majesty|Here Comes The Sun",
+    "track_count": 12
+  },
+  "the beatles|love songs|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "6846a427-d30d-358e-a11d-c33b9f51bbcf",
+    "release_mbid": "95a90927-4f9f-4921-a76c-cbd6bbd9d191",
+    "release_title": "Love Songs",
+    "top_tracks": "Yesterday|I\u2019ll Follow the Sun|I Need You|Girl|In My Life",
+    "track_count": 25
+  },
+  "the blackbyrds|action|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "adb9f5e5-a878-3549-a66e-82befa98bfd4",
+    "release_mbid": "49da30ed-66c7-402a-8db4-b2ccfd9ed2c7",
+    "release_title": "Action",
+    "top_tracks": "Supernatural Feeling|Lookin' Ahead|Mysterious Vibes|Something Special|Street Games",
+    "track_count": 7
+  },
+  "the emotions|sunshine|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "67c03408-5029-4b37-a26c-b13ce7233ee3",
+    "release_mbid": "76f6e708-5b4c-450c-9fbf-0c8034442132",
+    "release_title": "Sunshine!",
+    "top_tracks": "Shouting Out Love|Gee Whiz (Look at His Eyes)|I Really Miss You|Ain\u2019t No Sunshine|Runnin\u2019 Back (And Forth)",
+    "track_count": 14
+  },
+  "the o jays|the o jays collectors items|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "the ramones|rocket to russia|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "the rolling stones|love you live|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "09291c11-4b3d-31a5-bcbf-9b03ce365174",
+    "release_mbid": "1844f176-8ddb-4940-ba1b-e7fa5334c7de",
+    "release_title": "Love You Live",
+    "top_tracks": "Intro: Excerpt From \u201cFanfare for the Common Man\u201d|Honky Tonk Women|If You Can\u2019t Rock Me / Get Off of My Cloud|Happy|Hot Stuff",
+    "track_count": 18
+  },
+  "the salsoul orchestra|christmas jollies|1978": {
+    "match_score": 90,
+    "match_status": "good",
+    "release_group_mbid": "5fb39b5f-aeeb-3c32-9757-1833a87ed826",
+    "release_mbid": "41104d1f-3203-3b2a-8ba4-772b0478fda3",
+    "release_title": "Christmas Jollies",
+    "top_tracks": "The Little Drummer Boy|Christmas Medley|New Year's Medley|Sleigh Ride|There's Someone Who's Knocking",
+    "track_count": 9
+  },
+  "the salsoul orchestra|cuchi cuchi|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "e81f0bb2-b4d8-4011-85c1-ec1ab0fef0ce",
+    "release_mbid": "8469fbe3-2a0f-42ff-a13b-008f4bd8732b",
+    "release_title": "Cuchi-Cuchi",
+    "top_tracks": "Dance a Little Bit Closer|Let's Spend the Night Together|Borriquito|More of You|El Reloj (The Clock)",
+    "track_count": 10
+  },
+  "the spinners|spinners 8|1978": {
+    "match_score": 70,
+    "match_status": "good",
+    "release_group_mbid": "25153858-1a74-3dfa-b118-9c17e379f0ba",
+    "release_mbid": "cf6e7be1-6d1d-469f-b981-d4e81916c201",
+    "release_title": "Happiness Is Being With the Spinners/Spinners 8",
+    "top_tracks": "Now That We're Together|You're All I Need in Life|If You Can't Be in Love|The Rubberband Man|Toni My Love",
+    "track_count": 17
+  },
+  "the steve miller band|book of dreams|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "the sylvers|new horizons|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "9e65d872-241f-4759-a66f-64a78c3d2ad3",
+    "release_mbid": "4708ab46-4ae2-4537-b3d0-0edf1f974882",
+    "release_title": "New Horizons",
+    "top_tracks": "New Horizons|Dressed to Kill|Lovin\u2019 Me Back|The Party Maker|Take a Hand",
+    "track_count": 10
+  },
+  "the temptations|hear to tempt you|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "a1fc78db-9ffc-438d-b5d6-4309ab797c93",
+    "release_mbid": "bb974ea2-2047-4ce9-bff8-6f769325edfd",
+    "release_title": "Hear to Tempt You",
+    "top_tracks": "Think For Yourself|In A Lifetime|Can We Come And Share In Love|She's All I've Got|Snake In The Grass",
+    "track_count": 9
+  },
+  "the trammps|trammps iii|1978": {
+    "match_score": 75,
+    "match_status": "good",
+    "release_group_mbid": "20a19a44-5e74-4dba-a886-c1ac6ca541ce",
+    "release_mbid": "c7ce1897-d45d-429a-b7e9-d70d18f7f3b5",
+    "release_title": "The Trammps III",
+    "top_tracks": "The Night the Lights Went Out|Love Per Hour|People of the World, Rise|Living the Life|Seasons for Girls",
+    "track_count": 10
+  },
+  "the who|live at leeds|1970": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "0ba3b960-9b4b-3191-bcc5-1e51169e5955",
+    "release_mbid": "252d952f-6603-443f-bcc2-2fe8b56b6acb",
+    "release_title": "Live at Leeds",
+    "top_tracks": "Heaven and Hell|I Can\u2019t Explain|Fortune Teller|Tattoo|Young Man Blues",
+    "track_count": 14
+  },
+  "thelma houston|the devil in me|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "701d19e5-f94f-3fec-a86e-0d57fa7f9739",
+    "release_mbid": "25ee9d57-3f67-46c7-9286-bb48f44760c9",
+    "release_title": "The Devil in Me",
+    "top_tracks": "I'm Here Again|It's Just Me Feeling Good|I Can't Go on Living Without Your Love|Triflin'|Give Me Something to Believe In",
+    "track_count": 9
+  },
+  "tom petty and the heartbreakers|tom petty the heartbreakers|1978": {
+    "match_score": 0,
+    "match_status": "no_match",
+    "release_group_mbid": "",
+    "release_mbid": "",
+    "release_title": "",
+    "top_tracks": "",
+    "track_count": 0
+  },
+  "u2|the joshua tree|1987": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "6f3e9fa6-be7a-3de8-a2b2-2072ece8a54d",
+    "release_mbid": "01e24fc2-2e8a-47ab-830f-f42c4f160adf",
+    "release_title": "The Joshua Tree",
+    "top_tracks": "Where the Streets Have No Name|I Still Haven\u2019t Found What I\u2019m Looking For|With or Without You|Bullet the Blue Sky|Running to Stand Still",
+    "track_count": 11
+  },
+  "usher|confessions|2004": {
+    "match_score": 100,
+    "match_status": "exact",
+    "release_group_mbid": "0ee013ee-5f59-35d5-b6b8-26a0cb3e4372",
+    "release_mbid": "b0d3d709-011e-41ae-b86c-ae90e8cc4e62",
+    "release_title": "Confessions",
+    "top_tracks": "Intro|Yeah!|Throwback|Confessions (interlude)|Confessions, Part II",
+    "track_count": 17
+  },
+  "various artists|dirty dancing|1987": {
+    "match_score": 80,
+    "match_status": "good",
+    "release_group_mbid": "8f693eb5-d2f0-39fc-9e2f-b5b210d492fa",
+    "release_mbid": "1f0e6c69-cd39-4a23-96b6-86bb77a003e1",
+    "release_title": "Dirty Dancing: Original Soundtrack From the Vestron Motion Picture",
+    "top_tracks": "(I\u2019ve Had) The Time of My Life|Be My Baby|She\u2019s Like the Wind|Hungry Eyes|Stay",
+    "track_count": 12
+  },
+  "various artists|guardians of the galaxy awesome mix vol 1|2014": {
+    "match_score": 80,
+    "match_status": "good",
+    "release_group_mbid": "950092d6-45f6-4269-87da-99a9ff2fcc52",
+    "release_mbid": "10e05aca-28ac-4466-95bb-40c2d0bb560f",
+    "release_title": "Guardians of the Galaxy: Awesome Mix, Vol. 1: Original Motion Picture Soundtrack",
+    "top_tracks": "Hooked on a Feeling|Go All the Way|Spirit in the Sky|Moonage Daydream|Fooled Around and Fell in Love",
+    "track_count": 12
+  },
+  "various artists|saturday night fever|1977": {
+    "match_score": 80,
+    "match_status": "good",
+    "release_group_mbid": "6e9a06a8-c8bb-3ea9-877a-417e74bb1c2e",
+    "release_mbid": "3544f354-14c2-44e4-af4e-f5da1ca54626",
+    "release_title": "Saturday Night Fever: The Original Movie Sound Track",
+    "top_tracks": "Stayin\u2019 Alive|How Deep Is Your Love|Night Fever|More Than a Woman|If I Can\u2019t Have You",
+    "track_count": 17
+  },
+  "various artists|the bodyguard|1992": {
+    "match_score": 80,
+    "match_status": "good",
+    "release_group_mbid": "9577b974-cce5-35b2-82d0-0969e5484a73",
+    "release_mbid": "0538fd4f-d525-48a6-b289-e68cabf6ed90",
+    "release_title": "The Bodyguard: Original Soundtrack Album",
+    "top_tracks": "I Will Always Love You|I Have Nothing|I\u2019m Every Woman|Run to You|Queen of the Night",
+    "track_count": 13
+  },
+  "various artists|top gun|1986": {
+    "match_score": 80,
+    "match_status": "good",
+    "release_group_mbid": "f99cc09c-c080-46d5-90ed-60511d941c51",
+    "release_mbid": "12f45d92-5a99-4a91-a391-b79f4de79a0e",
+    "release_title": "Top Gun: Original Motion Picture Soundtrack",
+    "top_tracks": "Danger Zone|Mighty Wings|Playing With the Boys|Lead Me On|Take My Breath Away (love theme from \u201cTop Gun\u201d)",
+    "track_count": 10
+  },
+  "war|galaxy|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "2b095e82-83a5-3abb-9154-33a29bd735d9",
+    "release_mbid": "2e8b535f-9701-4acd-be7d-a199abbcbe2b",
+    "release_title": "Galaxy",
+    "top_tracks": "Galaxy|Baby Face (She Said Do Do Do Do)|Sweet Fighting Lady|Hey Se\u00f1orita|The Seven Tin Soldiers",
+    "track_count": 5
+  },
+  "zz top|the best of zz top|1978": {
+    "match_score": 95,
+    "match_status": "good",
+    "release_group_mbid": "63311de9-6584-3c51-9774-8e560a83bd60",
+    "release_mbid": "2446e43e-3768-46d8-b423-4ba6387bb901",
+    "release_title": "The Best of ZZ Top",
+    "top_tracks": "Tush|Waitin\u2019 for the Bus|Jesus Just Left Chicago|Francine|Just Got Paid",
+    "track_count": 10
+  }
+}

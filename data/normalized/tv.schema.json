@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://retroverse.local/schemas/tv.schema.json",
+  "title": "RetroVerse normalized television",
+  "type": "object",
+  "required": ["title", "year", "sources"],
+  "properties": {
+    "title": { "type": "string" },
+    "year": { "type": "integer" },
+    "premiere_date": { "type": ["string", "null"] },
+    "end_date": { "type": ["string", "null"] },
+    "medium": { "type": ["string", "null"] },
+    "genres": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "network": { "type": ["string", "null"] },
+    "seasons": { "type": ["integer", "null"] },
+    "episodes": { "type": ["integer", "null"] },
+    "source_ids": {
+      "type": "object",
+      "properties": {
+        "tmdb_id": { "type": ["integer", "null"] },
+        "imdb_id": { "type": ["string", "null"] }
+      },
+      "additionalProperties": true
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source_system"],
+        "properties": {
+          "source_system": {
+            "type": "string",
+            "enum": ["screen_culture_warehouse", "imdb_tsv", "tmdb_api", "tv_listings", "year_master", "other"]
+          },
+          "source_path": { "type": ["string", "null"] }
+        },
+        "additionalProperties": true
+      }
+    },
+    "raw_record": {
+      "type": ["object", "null"],
+      "description": "Optional passthrough of warehouse payload for fields not mapped here."
+    }
+  },
+  "additionalProperties": true
+}

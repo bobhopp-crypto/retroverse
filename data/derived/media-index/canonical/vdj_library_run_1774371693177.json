@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "source": "virtualdj",
+    "source_file": "/Users/bobhopp/Library/Application Support/VirtualDJ/database.xml",
+    "allowed_video_roots": [
+      "/Users/bobhopp/Library/CloudStorage/Dropbox/VIDEO/"
+    ],
+    "run_id": "run_1774371693177",
+    "generated_at": "2026-03-24T17:01:34.218Z",
+    "pipeline_name": "retroverse-local-example",
+    "stage": "parse_vdj"
+  },
+  "summary": {
+    "total_entries_scanned": 29588,
+    "video_entries_emitted": 0,
+    "video_entries_excluded_by_path": 10479,
+    "non_video_entries_skipped": 18675,
+    "parse_errors": 434,
+    "reason_counts": {
+      "missing_or_relative": 434,
+      "unsupported_extension": 18675,
+      "excluded_by_path": 10479
+    }
+  },
+  "videos": [],
+  "items": []
+}

@@ -1,1 +1,6 @@
-/*    /index.html   200
+/api/* /.netlify/functions/billboard/:splat 200
+/charts /charts/index.html 200
+/charts/ /charts/index.html 200
+/video-library /video-library/index.html 200
+/video-library/* /video-library/index.html 200
+/videolibrary /video-library 301

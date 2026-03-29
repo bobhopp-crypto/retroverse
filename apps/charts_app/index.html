@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>RetroVerse Charts</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="app-header">
+      <div class="topbar">
+        <div class="brand-mark">RETROVERSE CHARTS</div>
+        <div class="topbar-end">
+          <div class="selector-block selector-block-compact">
+            <span class="selector-label">Chart</span>
+            <div class="selector-strip selector-strip-tight" id="chartTypeButtons"></div>
+          </div>
+          <div class="view-toggle" role="group" aria-label="View mode">
+            <button type="button" id="viewEditions" class="active">Editions</button>
+            <button type="button" id="viewCharts">Charts</button>
+          </div>
+          <div class="queue-menu-slot" id="queueMenuSlot" aria-label="Queue menu"></div>
+        </div>
+      </div>
+      <div class="selector-bar">
+        <div class="selector-block selector-block-stage">
+          <div class="selector-panel" id="selectorPanel">
+            <div class="track-mode-row">
+              <button type="button" class="track-mode-toggle" id="trackModeToggle" aria-pressed="false">
+                Track Mode: OFF
+              </button>
+            </div>
+            <div class="chart-search-block">
+              <label class="selector-label" for="chartSearchInput">Search Charts</label>
+              <input
+                type="search"
+                class="chart-search-input"
+                id="chartSearchInput"
+                placeholder="Search artist, song, or year..."
+                autocomplete="off"
+                spellcheck="false"
+              />
+              <div class="chart-search-results" id="chartSearchResults" hidden></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="app-main">
+      <section class="chart-panel">
+        <div class="chart-nav-bar">
+          <button type="button" class="chart-nav-button" id="chartNavPrev">← Previous</button>
+          <div class="chart-nav-current">
+            <p class="chart-nav-kicker">Chart Date</p>
+            <p class="chart-nav-label" id="chartNavLabel">Loading chart…</p>
+          </div>
+          <button type="button" class="chart-nav-button" id="chartNavNext">Next →</button>
+        </div>
+
+        <div class="chart-context">
+          <div>
+            <p class="context-kicker" id="contextKicker">Loading</p>
+            <h2 id="contextTitle">Loading chart…</h2>
+          </div>
+          <p class="context-meta" id="contextMeta"></p>
+        </div>
+
+        <div class="track-status" id="trackStatus" hidden></div>
+
+        <div class="panel-state" id="panelState">Loading chart data...</div>
+
+        <div class="chart-mobile-list" id="chartMobileList" hidden></div>
+      </section>
+    </main>
+  </div>
+
+  <div class="detail-sheet" id="detailSheet" hidden>
+    <button
+      type="button"
+      class="detail-sheet-backdrop"
+      id="detailSheetBackdrop"
+      aria-label="Close detail"
+    ></button>
+    <section class="detail-sheet-panel" aria-modal="true" aria-label="Chart detail" role="dialog">
+      <div class="detail-sheet-header">
+        <p class="detail-sheet-kicker">RetroVerse Detail</p>
+        <button type="button" class="detail-sheet-close" id="detailSheetClose">Close</button>
+      </div>
+      <div class="detail-sheet-content" id="detailSheetContent"></div>
+    </section>
+  </div>
+
+  <div class="video-modal" id="videoModal" hidden>
+    <button
+      type="button"
+      class="video-modal-backdrop"
+      id="videoModalBackdrop"
+      aria-label="Close video player"
+    ></button>
+    <section class="video-modal-panel" aria-modal="true" aria-label="Video player" role="dialog">
+      <div class="video-modal-header">
+        <div>
+          <p class="video-modal-kicker">RetroVerse Video</p>
+          <h3 class="video-modal-title" id="videoModalTitle">Loading video…</h3>
+          <p class="video-modal-meta" id="videoModalMeta"></p>
+        </div>
+        <button type="button" class="video-modal-close" id="videoModalClose">Close</button>
+      </div>
+      <div class="video-modal-player-wrap">
+        <video id="videoModalPlayer" class="video-modal-player" controls preload="metadata" playsinline hidden></video>
+        <iframe
+          id="videoModalFrame"
+          class="video-modal-frame"
+          title="YouTube video player"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+          hidden
+        ></iframe>
+        <div id="videoModalFallback" class="video-modal-fallback" hidden></div>
+      </div>
+      <div class="video-modal-controls">
+        <button type="button" class="video-step-button" id="videoModalPrev">Previous Song</button>
+        <button type="button" class="video-step-button" id="videoModalNext">Next Song</button>
+      </div>
+    </section>
+  </div>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

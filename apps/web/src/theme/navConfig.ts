@@ -12,41 +12,12 @@ export interface NavItem {
 }
 
 export const NAV_ITEMS: NavItem[] = [
-  { to: '/', label: 'Explore' },
-  { to: '/surprise', label: 'Surprise' },
-  { to: '/charts', label: 'Charts' },
-  { to: '/video-library', label: 'Library' },
-  { to: '/magazine', label: 'Magazine' },
-  { to: '/playlists', label: 'Playlists' },
-  { to: '/setbuilder', label: 'SetBuilder' },
-  { to: '/analytics', label: 'Analytics' },
-  { to: '/matching', label: 'Matching' },
-  { to: '/games', label: 'Games' },
-  { to: '/tools', label: 'Tools' },
+  { to: '/charts', label: 'Charts App', reloadDocument: true },
+  { to: '/video-library', label: 'Video Library' },
 ]
 
-export const desktopNavItems: NavItem[] = [
-  { to: '/', label: 'Explore' },
-  { to: '/surprise', label: 'Surprise' },
-  { to: '/charts', label: 'Charts' },
-  { to: '/video-library', label: 'Library' },
-  { to: '/magazine', label: 'Magazine' },
-  { to: '/playlists', label: 'Playlists' },
-  { to: '/setbuilder', label: 'SetBuilder' },
-  { to: '/analytics', label: 'Analytics' },
-]
+export const desktopNavItems: NavItem[] = [...NAV_ITEMS]
 
-export const mobilePrimaryNavItems: NavItem[] = [
-  { to: '/', label: 'Explore' },
-  { to: '/surprise', label: 'Surprise' },
-  { to: '/charts', label: 'Charts' },
-  { to: '/video-library', label: 'Library' },
-]
+export const mobilePrimaryNavItems: NavItem[] = [...NAV_ITEMS]
 
-export const mobileSecondaryNavItems: NavItem[] = [
-  { to: '/magazine', label: 'Magazine' },
-  { to: '/games', label: 'Games' },
-  { to: '/playlists', label: 'Playlists' },
-  { to: '/setbuilder', label: 'SetBuilder' },
-  { to: '/analytics', label: 'Analytics' },
-]
+export const mobileSecondaryNavItems: NavItem[] = []

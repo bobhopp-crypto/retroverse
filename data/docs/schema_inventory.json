@@ -1,0 +1,5367 @@
+{
+  "datasets": [
+    {
+      "path": "data/derived/cards/1974/1974_card_render_report.json",
+      "entity_type": "other",
+      "fields": [
+        "source_json",
+        "template_file",
+        "css_file",
+        "output_dir",
+        "cards_generated",
+        "warnings",
+        "errors",
+        "generated_at"
+      ],
+      "sample_records": [
+        {
+          "source_json": "/Users/bobhopp/Sites/retroverse/data/1974_weekly_context.json",
+          "template_file": "/Users/bobhopp/Sites/retroverse/tools/1974/card_template.html",
+          "css_file": "/Users/bobhopp/Sites/retroverse/tools/1974/card.css",
+          "output_dir": "/Users/bobhopp/Sites/retroverse/public/cards/1974",
+          "cards_generated": 52,
+          "warnings": [
+            "Week 1: movie anchor incomplete",
+            "Week 1: TV context incomplete",
+            "Week 1: headline missing",
+            "Week 1: movie_pool_titles has fewer than 2 titles",
+            "Week 1: mood_tags missing",
+            "Week 2: movie anchor incomplete",
+            "Week 2: TV context incomplete",
+            "Week 2: headline missing",
+            "Week 2: movie_pool_titles has fewer than 2 titles",
+            "Week 2: mood_tags missing"
+          ],
+          "errors": [],
+          "generated_at": "2026-02-25T04:36:42.119Z"
+        }
+      ]
+    },
+    {
+      "path": "data/derived/cards/1974/1974_master.json",
+      "entity_type": "other",
+      "fields": [
+        "year",
+        "weeks"
+      ],
+      "sample_records": [
+        {
+          "year": 1974,
+          "weeks": {
+            "30": {
+              "date_range": "1974-07-29 to 1974-08-04",
+              "chart_date": "1974-08-03",
+              "top_40": [
+                {
+                  "rank": 1,
+                  "title": "Annie's Song",
+                  "artist": "John Denver",
+                  "weeks_on_chart": 10,
+                  "peak_position": 1
+                },
+                {
+                  "rank": 2,
+                  "title": "Don't Let The Sun Go Down On Me",
+                  "artist": "Elton John",
+                  "weeks_on_chart": 7,
+                  "peak_position": 2
+                },
+                {
+                  "rank": 3,
+                  "title": "Feel Like Makin' Love",
+                  "artist": "Roberta Flack",
+                  "weeks_on_chart": 7,
+                  "peak_position": 3
+                },
+                {
+                  "rank": 4,
+                  "title": "Rikki Don't Lose That Number",
+                  "artist": "Steely Dan",
+                  "weeks_on_chart": 13,
+                  "peak_position": 4
+                },
+                {
+                  "rank": 5,
+                  "title": "The Night Chicago Died",
+                  "artist": "Paper Lace",
+                  "weeks_on_chart": 8,
+                  "peak_position": 5
+                },
+                {
+                  "rank": 6,
+                  "title": "The Air That I Breathe",
+                  "artist": "The Hollies",
+                  "weeks_on_chart": 16,
+                  "peak_position": 6
+                },
+                {
+                  "rank": 7,
+                  "title": "Rock And Roll Heaven",
+                  "artist": "The Righteous Brothers",
+                  "weeks_on_chart": 11,
+                  "peak_position": 3
+                },
+                {
+                  "rank": 8,
+                  "title": "Please Come To Boston",
+                  "artist": "Dave Loggins",
+                  "weeks_on_chart": 10,
+                  "peak_position": 8
+                },
+                {
+                  "rank": 9,
+                  "title": "Call On Me",
+                  "artist": "Chicago",
+                  "weeks_on_chart": 7,
+                  "peak_position": 9
+                },
+                {
+                  "rank": 10,
+                  "title": "Sideshow",
+                  "artist": "Blue Magic",
+                  "weeks_on_chart": 12,
+                  "peak_position": 10
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "path": "data/derived/cards/1974/1974_weekly_context.json",
+      "entity_type": "other",
+      "fields": [
+        "week",
+        "start_date",
+        "end_date",
+        "song_title",
+        "song_artist",
+        "movie_anchor_title",
+        "movie_anchor_genre",
+        "movie_pool_titles",
+        "tv_anchor",
+        "tv_daytime",
+        "tv_pbs",
+        "headline",
+        "mood_tags"
+      ],
+      "sample_records": [
+        {
+          "week": 1,
+          "start_date": "1974-01-07",
+          "end_date": "1974-01-13",
+          "song_title": "The Joker",
+          "song_artist": "The Steve Miller Band",
+          "movie_anchor_title": "",
+          "movie_anchor_genre": "",
+          "movie_pool_titles": [
+            "",
+            ""
+          ],
+          "tv_anchor": "",
+          "tv_daytime": "",
+          "tv_pbs": "",
+          "headline": "",
+          "mood_tags": []
+        },
+        {
+          "week": 2,
+          "start_date": "1974-01-14",
+          "end_date": "1974-01-20",
+          "song_title": "Show And Tell",
+          "song_artist": "Al Wilson",
+          "movie_anchor_title": "",
+          "movie_anchor_genre": "",
+          "movie_pool_titles": [
+            "",
+            ""
+          ],
+          "tv_anchor": "",
+          "tv_daytime": "",
+          "tv_pbs": "",
+          "headline": "",
+          "mood_tags": []
+        },
+        {
+          "week": 3,
+          "start_date": "1974-01-21",
+          "end_date": "1974-01-27",
+          "song_title": "You're Sixteen",
+          "song_artist": "Ringo Starr",
+          "movie_anchor_title": "",
+          "movie_anchor_genre": "",
+          "movie_pool_titles": [
+            "",
+            ""
+          ],
+          "tv_anchor": "",
+          "tv_daytime": "",
+          "tv_pbs": "",
+          "headline": "",
+          "mood_tags": []
+        },
+        {
+          "week": 4,
+          "start_date": "1974-01-28",
+          "end_date": "1974-02-03",
+          "song_title": "The Way We Were",
+          "song_artist": "Barbra Streisand",
+          "movie_anchor_title": "",
+          "movie_anchor_genre": "",
+          "movie_pool_titles": [
+            "",
+            ""
+          ],
+          "tv_anchor": "",
+          "tv_daytime": "",
+          "tv_pbs": "",
+          "headline": "",
+          "mood_tags": []
+        },
+        {
+          "week": 5,
+          "start_date": "1974-02-04",
+          "end_date": "1974-02-10",
+          "song_title": "Love's Theme",
+          "song_artist": "Love Unlimited Orchestra",
+          "movie_anchor_title": "",
+          "movie_anchor_genre": "",
+          "movie_pool_titles": [
+            "",
+            ""
+          ],
+          "tv_anchor": "",
+          "tv_daytime": "",
+          "tv_pbs": "",
+          "headline": "",
+          "mood_tags": []
+        }
+      ]
+    },
+    {
+      "path": "data/derived/cards/1974/1974_weekly_context.md",
+      "entity_type": "other",
+      "fields": [
+        "markdown"
+      ],
+      "sample_records": [
+        {
+          "text": "| week | range_start | range_end | issue_date | title | artist |\n|---:|---|---|---|---|---|\n| 1 | 1974-01-07 | 1974-01-13 | 1974-01-12 | The Joker | The Steve Miller Band |\n| 2 | 1974-01-14 | 1974-01-20 | 1974-01-19 | Show And Tell | Al Wilson |\n| 3 | 1974-01-21 | 1974-01-27 | 1974-01-26 | You're Sixteen | Ringo Starr |\n| 4 | 1974-01-28 | 1974-02-03 | 1974-02-02 | The Way We Were | Barbra Streisand |\n| 5 | 1974-02-04 | 1974-02-10 | 1974-02-09 | Love's Theme | Love Unlimited Orchestra |\n| 6 | 197"
+        }
+      ]
+    },
+    {
+      "path": "data/derived/cards/1974/1974_weekly_context.parse_report.json",
+      "entity_type": "other",
+      "fields": [
+        "source_file",
+        "generated_weeks",
+        "source_rows",
+        "warnings",
+        "errors",
+        "generated_at"
+      ],
+      "sample_records": [
+        {
+          "source_file": "/Users/bobhopp/Sites/retroverse/data/derived/cards/1974/1974_weekly_context.md",
+          "generated_weeks": 52,
+          "source_rows": 52,
+          "warnings": [
+            "Input table is missing a recognized column for \"movie_anchor_title\".",
+            "Input table is missing a recognized column for \"movie_anchor_genre\".",
+            "Input table is missing a recognized column for \"movie_pool_titles\".",
+            "Input table is missing a recognized column for \"tv_anchor\".",
+            "Input table is missing a recognized column for \"tv_daytime\".",
+            "Input table is missing a recognized column for \"tv_pbs\".",
+            "Input table is missing a recognized column for \"headline\".",
+            "Input table is missing a recognized column for \"mood_tags\".",
+            "Week 52 song_title missing; reused week 51 song_title.",
+            "Week 52 song_artist missing; reused week 51 song_artist."
+          ],
+          "errors": [],
+          "generated_at": "2026-03-14T02:56:44.226Z"
+        }
+      ]
+    },
+    {
+      "path": "data/derived/cards/1974/retro-verse-1974-weekly-data.md",
+      "entity_type": "other",
+      "fields": [
+        "markdown"
+      ],
+      "sample_records": [
+        {
+          "text": "# Retro Verse 1974 Weekly Data\n\n## Movies\n- The Towering Inferno\n- Chinatown\n- Blazing Saddles\n- Young Frankenstein\n- The Godfather Part II\n- The Conversation\n- The Great Gatsby\n- The Taking of Pelham One Two Three\n- Murder on the Orient Express\n- Earthquake\n- The Texas Chain Saw Massacre\n- Phantom of the Paradise\n- The Parallax View\n- The Trial of Billy Jack\n- A Woman Under the Influence\n- Bring Me the Head of Alfredo Garcia\n- The Longest Yard\n- The Gambler\n- Lenny\n- Thunderbolt and Lightfoot\n-"
+        }
+      ]
+    },
+    {
+      "path": "data/derived/culture/index/cultural_datasets.db",
+      "entity_type": "other",
+      "fields": [
+        "billboard_hot100.chart_date",
+        "billboard_hot100.rank",
+        "billboard_hot100.title",
+        "billboard_hot100.artist",
+        "billboard_hot100.weeks_on_chart",
+        "billboard_hot100.peak_position",
+        "magazine_issues.magazine",
+        "magazine_issues.title",
+        "magazine_issues.date",
+        "magazine_issues.year",
+        "magazine_issues.month",
+        "magazine_issues.identifier",
+        "magazine_issues.archive_url",
+        "magazine_issues.source_repository",
+        "radio_airplay.date",
+        "radio_airplay.station",
+        "radio_airplay.time",
+        "radio_airplay.artist",
+        "radio_airplay.title",
+        "radio_airplay.rotation_category",
+        "radio_airplay.source",
+        "tv_listings.date",
+        "tv_listings.network",
+        "tv_listings.time",
+        "tv_listings.program",
+        "tv_listings.episode",
+        "tv_listings.source",
+        "tv_listings.archive_url"
+      ],
+      "sample_records": [
+        {
+          "_table": "billboard_hot100",
+          "chart_date": "1958-08-04",
+          "rank": 1,
+          "title": "Poor Little Fool",
+          "artist": "Ricky Nelson",
+          "weeks_on_chart": 1,
+          "peak_position": 1
+        },
+        {
+          "_table": "billboard_hot100",
+          "chart_date": "1958-08-04",
+          "rank": 2,
+          "title": "Patricia",
+          "artist": "Perez Prado And His Orchestra",
+          "weeks_on_chart": 1,
+          "peak_position": 2
+        },
+        {
+          "_table": "magazine_issues",
+          "magazine": "Billboard",
+          "title": "10.1\" All-in-One Electronic Mini Billboard",
+          "date": "",
+          "year": "",
+          "month": "",
+          "identifier": "manualzz-id-834528",
+          "archive_url": "https://archive.org/details/manualzz-id-834528",
+          "source_repository": "Internet Archive"
+        },
+        {
+          "_table": "magazine_issues",
+          "magazine": "Billboard",
+          "title": "10x 25 Billboard",
+          "date": "",
+          "year": "",
+          "month": "",
+          "identifier": "10x-25-billboard",
+          "archive_url": "https://archive.org/details/10x-25-billboard",
+          "source_repository": "Internet Archive"
+        },
+        {
+          "_table": "radio_airplay",
+          "date": "2008-01-01",
+          "station": "WLS Chicago",
+          "time": "",
+          "artist": "",
+          "title": "Chicago's WLS radio",
+          "rotation_category": "",
+          "source": "https://archive.org/details/chicagoswlsradio0000chil"
+        }
+      ]
+    },
+    {
+      "path": "data/derived/culture/index/cultural_week_index.csv",
+      "entity_type": "other",
+      "fields": [
+        "week_date",
+        "top_song",
+        "top_artist",
+        "tv_programs",
+        "magazine_titles",
+        "radio_top_tracks"
+      ],
+      "sample_records": [
+        {
+          "week_date": "1958-08-04",
+          "top_song": "Poor Little Fool",
+          "top_artist": "Ricky Nelson",
+          "tv_programs": "",
+          "magazine_titles": "",
+          "radio_top_tracks": ""
+        },
+        {
+          "week_date": "1958-08-11",
+          "top_song": "Poor Little Fool",
+          "top_artist": "Ricky Nelson",
+          "tv_programs": "",
+          "magazine_titles": "",
+          "radio_top_tracks": ""
+        },
+        {
+          "week_date": "1958-08-18",
+          "top_song": "Nel Blu Dipinto Di Blu (Volare)",
+          "top_artist": "Domenico Modugno",
+          "tv_programs": "",
+          "magazine_titles": "",
+          "radio_top_tracks": ""
+        },
+        {
+          "week_date": "1958-08-25",
+          "top_song": "Little Star",
+          "top_artist": "The Elegants",
+          "tv_programs": "",
+          "magazine_titles": "",
+          "radio_top_tracks": ""
+        },
+        {
+          "week_date": "1958-09-01",
+          "top_song": "Nel Blu Dipinto Di Blu (Volare)",
+          "top_artist": "Domenico Modugno",
+          "tv_programs": "",
+          "magazine_titles": "",
+          "radio_top_tracks": ""
+        }
+      ]
+    },
+    {
+      "path": "data/derived/culture/processed/billboard_hot100.csv",
+      "entity_type": "song",
+      "fields": [
+        "chart_date",
+        "rank",
+        "title",
+        "artist",
+        "weeks_on_chart",
+        "peak_position"
+      ],
+      "sample_records": [
+        {
+          "chart_date": "1958-08-04",
+          "rank": "1",
+          "title": "Poor Little Fool",
+          "artist": "Ricky Nelson",
+          "weeks_on_chart": "1",
+          "peak_position": "1"
+        },
+        {
+          "chart_date": "1958-08-04",
+          "rank": "2",
+          "title": "Patricia",
+          "artist": "Perez Prado And His Orchestra",
+          "weeks_on_chart": "1",
+          "peak_position": "2"
+        },
+        {
+          "chart_date": "1958-08-04",
+          "rank": "3",
+          "title": "Splish Splash",
+          "artist": "Bobby Darin",
+          "weeks_on_chart": "1",
+          "peak_position": "3"
+        },
+        {
+          "chart_date": "1958-08-04",
+          "rank": "4",
+          "title": "Hard Headed Woman",
+          "artist": "Elvis Presley",
+          "weeks_on_chart": "1",
+          "peak_position": "4"
+        },
+        {
+          "chart_date": "1958-08-04",
+          "rank": "5",
+          "title": "When",
+          "artist": "Kalin Twins",
+          "weeks_on_chart": "1",
+          "peak_position": "5"
+        }
+      ]
+    },
+    {
+      "path": "data/derived/culture/processed/magazine_issues.csv",
+      "entity_type": "other",
+      "fields": [
+        "magazine",
+        "title",
+        "date",
+        "year",
+        "month",
+        "identifier",
+        "archive_url",
+        "source_repository"
+      ],
+      "sample_records": [
+        {
+          "magazine": "Billboard",
+          "title": "\"10.1\"\" All-in-One Electronic Mini Billboard\"",
+          "date": "",
+          "year": "",
+          "month": "",
+          "identifier": "manualzz-id-834528",
+          "archive_url": "https://archive.org/details/manualzz-id-834528",
+          "source_repository": "Internet Archive"
+        },
+        {
+          "magazine": "Billboard",
+          "title": "10x 25 Billboard",
+          "date": "",
+          "year": "",
+          "month": "",
+          "identifier": "10x-25-billboard",
+          "archive_url": "https://archive.org/details/10x-25-billboard",
+          "source_repository": "Internet Archive"
+        },
+        {
+          "magazine": "Billboard",
+          "title": "Art and Science of Billboard Improvement",
+          "date": "",
+          "year": "",
+          "month": "",
+          "identifier": "FugitiveDistro_Art_and_Science_of_Billboard_Improvement_Anonymous",
+          "archive_url": "https://archive.org/details/FugitiveDistro_Art_and_Science_of_Billboard_Improvement_Anonymous",
+          "source_repository": "Internet Archive"
+        },
+        {
+          "magazine": "Billboard",
+          "title": "BILLBOARD WARNING NOTICE LITIGATION",
+          "date": "",
+          "year": "",
+          "month": "",
+          "identifier": "tobacco_fhwj0000",
+          "archive_url": "https://archive.org/details/tobacco_fhwj0000",
+          "source_repository": "Internet Archive"
+        },
+        {
+          "magazine": "Billboard",
+          "title": "\"Beach 2 Bay Aerial Billboard Advertising",
+          "date": " LLC v. Florida Beach Advertising",
+          "year": " LLC\"",
+          "month": "",
+          "identifier": "",
+          "archive_url": "",
+          "source_repository": "gov.uscourts.flmd.336625"
+        }
+      ]
+    },
+    {
+      "path": "data/derived/culture/processed/radio_airplay.csv",
+      "entity_type": "song",
+      "fields": [
+        "date",
+        "station",
+        "time",
+        "artist",
+        "title",
+        "rotation_category",
+        "source"
+      ],
+      "sample_records": [
+        {
+          "date": "2008-01-01",
+          "station": "WLS Chicago",
+          "time": "",
+          "artist": "",
+          "title": "Chicago's WLS radio",
+          "rotation_category": "",
+          "source": "https://archive.org/details/chicagoswlsradio0000chil"
+        }
+      ]
+    },
+    {
+      "path": "data/derived/culture/processed/tv_listings.csv",
+      "entity_type": "tv",
+      "fields": [
+        "date",
+        "network",
+        "time",
+        "program",
+        "episode",
+        "source",
+        "archive_url"
+      ],
+      "sample_records": [
+        {
+          "date": "1970-01-01",
+          "network": "",
+          "time": "",
+          "program": "TV Guide (1970-09-26) How TV Covered A Riot (C Virginia)",
+          "episode": "",
+          "source": "Internet Archive",
+          "archive_url": "https://archive.org/details/1970-09-26-to-02-tv-guide-c-virginia-how-tv-covered-a-riot-red"
+        },
+        {
+          "date": "1970-01-01",
+          "network": "",
+          "time": "",
+          "program": "TV Guide - (1970/03/14 to 20) - (Cleveland) Charges Of TV News Bias",
+          "episode": "",
+          "source": "Internet Archive",
+          "archive_url": "https://archive.org/details/1970-03-14-to-20-tv-guide-cleveland-charges-of-tv-news-bias"
+        },
+        {
+          "date": "1970-01-01",
+          "network": "",
+          "time": "",
+          "program": "Television; a selection of readings from TV guide magazine",
+          "episode": "",
+          "source": "Internet Archive",
+          "archive_url": "https://archive.org/details/televisionselect0000cole"
+        },
+        {
+          "date": "1970-01-01",
+          "network": "",
+          "time": "",
+          "program": "Tv Guide 1970 05 02 North Texas David Wade Isaac Asimov",
+          "episode": "",
+          "source": "Internet Archive",
+          "archive_url": "https://archive.org/details/tv-guide-1970-05-02-north-texas-david-wade-isaac-asimov_202207"
+        },
+        {
+          "date": "1970-05-02",
+          "network": "",
+          "time": "",
+          "program": "\"TV Guide May 2",
+          "episode": " 1970 North Texas edition",
+          "source": " David Wade",
+          "archive_url": " Isaac Asimov\""
+        }
+      ]
+    },
+    {
+      "path": "data/derived/media-index/canonical/billboard_run_*.json",
+      "entity_type": "video",
+      "fields": [
+        "chart_song_id",
+        "artist",
+        "title",
+        "first_chart_year",
+        "last_chart_year",
+        "peak_position",
+        "weeks_on_chart"
+      ],
+      "sample_records": [
+        {
+          "chart_song_id": "9ee817bbb71e9a9ca486c4cf170fa5dc798c4868",
+          "artist": "Alex Warren",
+          "title": "Eternity",
+          "first_chart_year": 2025,
+          "last_chart_year": 2025,
+          "peak_position": 79,
+          "weeks_on_chart": 1
+        },
+        {
+          "chart_song_id": "6c4fb1b021a0c2ac64d05ef468cdbd7739eb76d2",
+          "artist": "Alex Warren",
+          "title": "Ordinary",
+          "first_chart_year": 2025,
+          "last_chart_year": 2025,
+          "peak_position": 12,
+          "weeks_on_chart": 1
+        },
+        {
+          "chart_song_id": "f5a13e3bbcf3c5ccfc68760737e4bed2d7f5f0ca",
+          "artist": "Andy Williams",
+          "title": "Happy Holiday / The Holiday Season",
+          "first_chart_year": 2025,
+          "last_chart_year": 2025,
+          "peak_position": 46,
+          "weeks_on_chart": 1
+        },
+        {
+          "chart_song_id": "2e168bcbd8f25689bb2b87114e82ef637fdd63ee",
+          "artist": "Andy Williams",
+          "title": "It's The Most Wonderful Time Of The Year",
+          "first_chart_year": 2025,
+          "last_chart_year": 2025,
+          "peak_position": 10,
+          "weeks_on_chart": 1
+        },
+        {
+          "chart_song_id": "f75e981b47aac1f2e5d8977b15fc544907401391",
+          "artist": "Ariana Grande",
+          "title": "Santa Tell Me",
+          "first_chart_year": 2025,
+          "last_chart_year": 2025,
+          "peak_position": 5,
+          "weeks_on_chart": 1
+        }
+      ],
+      "notes": "Repeated pipeline exports; schema identical across run IDs. (17 files). Representative: data/derived/media-index/canonical/billboard_run_1770237987209.json"
+    },
+    {
+      "path": "data/derived/media-index/canonical/billboard_run_decision_demo.json",
+      "entity_type": "video",
+      "fields": [
+        "meta",
+        "run_id",
+        "generated_at",
+        "pipeline_name",
+        "stage",
+        "source",
+        "chart_key",
+        "chart_name",
+        "source_system",
+        "summary",
+        "songs_exported",
+        "issues_exported",
+        "entries_read",
+        "rows_scanned",
+        "songs",
+        "chart_song_id",
+        "artist",
+        "title",
+        "chart_appearances",
+        "peak_position",
+        "first_chart_week",
+        "last_chart_week",
+        "first_chart_year",
+        "last_chart_year"
+      ],
+      "sample_records": [],
+      "notes": "Large JSON (11118327 bytes); sampled first ~500KB for structure."
+    },
+    {
+      "path": "data/derived/media-index/canonical/vdj_library_run_*.json",
+      "entity_type": "video",
+      "fields": [
+        "meta",
+        "summary",
+        "videos"
+      ],
+      "sample_records": [
+        {
+          "meta": {
+            "source": "virtualdj",
+            "source_file": "/Users/bobhopp/Library/Application Support/VirtualDJ/database.xml",
+            "run_id": "run_1770237684687",
+            "generated_at": "2026-02-04T20:41:25.583Z",
+            "pipeline_name": "retroverse-local-example",
+            "stage": "parse_vdj"
+          },
+          "summary": {
+            "total_entries_scanned": 0,
+            "video_entries_emitted": 0,
+            "non_video_entries_skipped": 0,
+            "parse_errors": 0
+          },
+          "videos": []
+        }
+      ],
+      "notes": "Repeated pipeline exports; schema identical across run IDs. (19 files). Representative: data/derived/media-index/canonical/vdj_library_run_1770237684687.json"
+    },
+    {
+      "path": "data/derived/media-index/canonical/vdj_library_run_decision_demo.json",
+      "entity_type": "video",
+      "fields": [
+        "meta",
+        "source",
+        "source_file",
+        "allowed_video_roots",
+        "run_id",
+        "generated_at",
+        "pipeline_name",
+        "stage",
+        "summary",
+        "total_entries_scanned",
+        "video_entries_emitted",
+        "video_entries_excluded_by_path",
+        "non_video_entries_skipped",
+        "parse_errors",
+        "reason_counts",
+        "unsupported_extension",
+        "excluded_by_path",
+        "missing_or_relative",
+        "videos",
+        "video_id",
+        "file",
+        "path",
+        "filename",
+        "extension",
+        "tags",
+        "artist",
+        "title",
+        "artist_raw",
+        "title_raw",
+        "artist_source",
+        "title_source",
+        "album",
+        "year",
+        "genre",
+        "comment",
+        "composer",
+        "playback",
+        "duration_ms",
+        "play_count",
+        "last_played"
+      ],
+      "sample_records": [],
+      "notes": "Large JSON (7809054 bytes); sampled first ~500KB for structure."
+    },
+    {
+      "path": "data/derived/media-index/decisions/match_decisions.json",
+      "entity_type": "video",
+      "fields": [
+        "video_id",
+        "chart_song_id",
+        "decision",
+        "confidence",
+        "reviewable",
+        "method",
+        "run_id",
+        "timestamp",
+        "source_type"
+      ],
+      "sample_records": [],
+      "notes": "Large JSON (1878975 bytes); sampled first ~500KB for structure."
+    },
+    {
+      "path": "data/derived/media-index/inventory/r2_inventory.json",
+      "entity_type": "video",
+      "fields": [
+        "Path",
+        "Name",
+        "Size",
+        "MimeType",
+        "ModTime",
+        "IsDir"
+      ],
+      "sample_records": [],
+      "notes": "Large JSON (1074525 bytes); sampled first ~500KB for structure."
+    },
+    {
+      "path": "data/derived/media-index/inventory/r2_thumbs.json",
+      "entity_type": "other",
+      "fields": [
+        "(error)"
+      ],
+      "sample_records": [],
+      "notes": "SyntaxError: Unexpected end of JSON input"
+    },
+    {
+      "path": "data/derived/media-index/matching/chart_matches_run_*.json",
+      "entity_type": "video",
+      "fields": [
+        "meta",
+        "run_id",
+        "generated_at",
+        "pipeline_name",
+        "stage",
+        "summary",
+        "videos_total",
+        "videos_matched",
+        "videos_unmatched",
+        "exact_matches",
+        "high_matches",
+        "medium_matches",
+        "matches",
+        "video_id",
+        "video_artist",
+        "video_title",
+        "candidates"
+      ],
+      "sample_records": [],
+      "notes": "Repeated match runs; schema identical across run IDs. (13 files). Representative: data/derived/media-index/matching/chart_matches_run_1770238068474.json"
+    },
+    {
+      "path": "data/derived/media-index/matching/chart_matches_run_decision_demo.json",
+      "entity_type": "video",
+      "fields": [
+        "meta",
+        "run_id",
+        "generated_at",
+        "pipeline_name",
+        "stage",
+        "summary",
+        "videos_total",
+        "videos_matched",
+        "videos_unmatched",
+        "exact_matches",
+        "high_matches",
+        "medium_matches",
+        "total_comparisons",
+        "max_candidates_per_video",
+        "avg_candidates_per_video",
+        "reduction_pct_vs_naive",
+        "decisions_skipped_accepted",
+        "decisions_skipped_reviewable",
+        "decisions_rejected_filtered",
+        "matches",
+        "video_id",
+        "video_artist",
+        "video_title",
+        "candidates",
+        "chart_song_id",
+        "chart_artist",
+        "chart_title",
+        "best_chart_year",
+        "score",
+        "confidence",
+        "reasons"
+      ],
+      "sample_records": [],
+      "notes": "Large JSON (3949332 bytes); sampled first ~500KB for structure."
+    },
+    {
+      "path": "data/derived/media-index/output/billboard/artist_totals.json",
+      "entity_type": "video",
+      "fields": [
+        "meta",
+        "generated_at",
+        "source_db",
+        "source_system",
+        "artist_totals",
+        "artist",
+        "chart_rows",
+        "distinct_songs",
+        "best_rank",
+        "weeks_at_number_one",
+        "first_year",
+        "last_year"
+      ],
+      "sample_records": [],
+      "notes": "Large JSON (1613449 bytes); sampled first ~500KB for structure."
+    },
+    {
+      "path": "data/derived/media-index/output/billboard/top_songs_by_year.json",
+      "entity_type": "video",
+      "fields": [
+        "meta",
+        "top_songs_by_year"
+      ],
+      "sample_records": [
+        {
+          "meta": {
+            "generated_at": "2026-03-10T19:01:34.758995Z",
+            "source_db": "/Users/bobhopp/Sites/retroverse/raw-data/billboard-hot-100.db",
+            "source_system": "RVA-HOT100"
+          },
+          "top_songs_by_year": [
+            {
+              "year": 1958,
+              "top_songs": [
+                {
+                  "song_id": "W000134",
+                  "title": "It's All In The Game",
+                  "artist": "Tommy Edwards",
+                  "best_rank": 1,
+                  "chart_weeks": 20,
+                  "weeks_at_peak": 6
+                },
+                {
+                  "song_id": "W000054",
+                  "title": "Nel Blu Dipinto Di Blu (Volare)",
+                  "artist": "Domenico Modugno",
+                  "best_rank": 1,
+                  "chart_weeks": 16,
+                  "weeks_at_peak": 5
+                },
+                {
+                  "song_id": "W000194",
+                  "title": "To Know Him, Is To Love Him",
+                  "artist": "The Teddy Bears",
+                  "best_rank": 1,
+                  "chart_weeks": 15,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W000175",
+                  "title": "It's Only Make Believe",
+                  "artist": "Conway Twitty",
+                  "best_rank": 1,
+                  "chart_weeks": 16,
+                  "weeks_at_peak": 2
+                },
+                {
+                  "song_id": "W000001",
+                  "title": "Poor Little Fool",
+                  "artist": "Ricky Nelson",
+                  "best_rank": 1,
+                  "chart_weeks": 11,
+                  "weeks_at_peak": 2
+                },
+                {
+                  "song_id": "W000296",
+                  "title": "The Chipmunk Song",
+                  "artist": "The Chipmunks",
+                  "best_rank": 1,
+                  "chart_weeks": 5,
+                  "weeks_at_peak": 2
+                },
+                {
+                  "song_id": "W000018",
+                  "title": "Little Star",
+                  "artist": "The Elegants",
+                  "best_rank": 1,
+                  "chart_weeks": 17,
+                  "weeks_at_peak": 1
+                },
+                {
+                  "song_id": "W000207",
+                  "title": "Tom Dooley",
+                  "artist": "The Kingston Trio",
+                  "best_rank": 1,
+                  "chart_weeks": 14,
+                  "weeks_at_peak": 1
+                },
+                {
+                  "song_id": "W000092",
+                  "title": "Bird Dog",
+                  "artist": "The Everly Brothers",
+                  "best_rank": 2,
+                  "chart_weeks": 18,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W000035",
+                  "title": "Rock-in Robin",
+                  "artist": "Bobby Day",
+                  "best_rank": 2,
+                  "chart_weeks": 21,
+                  "weeks_at_peak": 2
+                }
+              ]
+            },
+            {
+              "year": 1959,
+              "top_songs": [
+                {
+                  "song_id": "W000723",
+                  "title": "Mack The Knife",
+                  "artist": "Bobby Darin",
+                  "best_rank": 1,
+                  "chart_weeks": 19,
+                  "weeks_at_peak": 9
+                },
+                {
+                  "song_id": "W000541",
+                  "title": "The Battle Of New Orleans",
+                  "artist": "Johnny Horton",
+                  "best_rank": 1,
+                  "chart_weeks": 21,
+                  "weeks_at_peak": 6
+                },
+                {
+                  "song_id": "W000415",
+                  "title": "Venus",
+                  "artist": "Frankie Avalon",
+                  "best_rank": 1,
+                  "chart_weeks": 17,
+                  "weeks_at_peak": 5
+                },
+                {
+                  "song_id": "W000314",
+                  "title": "Stagger Lee",
+                  "artist": "Lloyd Price",
+                  "best_rank": 1,
+                  "chart_weeks": 17,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W000683",
+                  "title": "The Three Bells",
+                  "artist": "The Browns",
+                  "best_rank": 1,
+                  "chart_weeks": 17,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W000444",
+                  "title": "Come Softly To Me",
+                  "artist": "The Fleetwoods",
+                  "best_rank": 1,
+                  "chart_weeks": 16,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W000592",
+                  "title": "Lonely Boy",
+                  "artist": "Paul Anka",
+                  "best_rank": 1,
+                  "chart_weeks": 15,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W000279",
+                  "title": "Smoke Gets In Your Eyes",
+                  "artist": "The Platters",
+                  "best_rank": 1,
+                  "chart_weeks": 12,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W000685",
+                  "title": "Sleep Walk",
+                  "artist": "Santo",
+                  "best_rank": 1,
+                  "chart_weeks": 18,
+                  "weeks_at_peak": 2
+                },
+                {
+                  "song_id": "W000518",
+                  "title": "Kansas City",
+                  "artist": "Wilbert Harrison",
+                  "best_rank": 1,
+                  "chart_weeks": 16,
+                  "weeks_at_peak": 2
+                }
+              ]
+            },
+            {
+              "year": 1960,
+              "top_songs": [
+                {
+                  "song_id": "W000938",
+                  "title": "The Theme From \"A Summer Place\"",
+                  "artist": "Percy Faith And His Orchestra",
+                  "best_rank": 1,
+                  "chart_weeks": 21,
+                  "weeks_at_peak": 9
+                },
+                {
+                  "song_id": "W001430",
+                  "title": "Are You Lonesome To-night?",
+                  "artist": "Elvis Presley",
+                  "best_rank": 1,
+                  "chart_weeks": 8,
+                  "weeks_at_peak": 6
+                },
+                {
+                  "song_id": "W001232",
+                  "title": "It's Now Or Never",
+                  "artist": "Elvis Presley",
+                  "best_rank": 1,
+                  "chart_weeks": 20,
+                  "weeks_at_peak": 5
+                },
+                {
+                  "song_id": "W001093",
+                  "title": "Cathy's Clown",
+                  "artist": "The Everly Brothers",
+                  "best_rank": 1,
+                  "chart_weeks": 17,
+                  "weeks_at_peak": 5
+                },
+                {
+                  "song_id": "W001071",
+                  "title": "Stuck On You",
+                  "artist": "Elvis Presley",
+                  "best_rank": 1,
+                  "chart_weeks": 16,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W001160",
+                  "title": "I'm Sorry",
+                  "artist": "Brenda Lee",
+                  "best_rank": 1,
+                  "chart_weeks": 23,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W001317",
+                  "title": "Save The Last Dance For Me",
+                  "artist": "The Drifters",
+                  "best_rank": 1,
+                  "chart_weeks": 18,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W000802",
+                  "title": "Running Bear",
+                  "artist": "Johnny Preston",
+                  "best_rank": 1,
+                  "chart_weeks": 16,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W001123",
+                  "title": "Everybody's Somebody's Fool",
+                  "artist": "Connie Francis",
+                  "best_rank": 1,
+                  "chart_weeks": 18,
+                  "weeks_at_peak": 2
+                },
+                {
+                  "song_id": "W001277",
+                  "title": "My Heart Has A Mind Of Its Own",
+                  "artist": "Connie Francis",
+                  "best_rank": 1,
+                  "chart_weeks": 17,
+                  "weeks_at_peak": 2
+                }
+              ]
+            },
+            {
+              "year": 1961,
+              "top_songs": [
+                {
+                  "song_id": "W001738",
+                  "title": "Tossin' And Turnin'",
+                  "artist": "Bobby Lewis",
+                  "best_rank": 1,
+                  "chart_weeks": 23,
+                  "weeks_at_peak": 7
+                },
+                {
+                  "song_id": "W002041",
+                  "title": "Big Bad John",
+                  "artist": "Jimmy Dean",
+                  "best_rank": 1,
+                  "chart_weeks": 14,
+                  "weeks_at_peak": 5
+                },
+                {
+                  "song_id": "W001635",
+                  "title": "Runaway",
+                  "artist": "Del Shannon",
+                  "best_rank": 1,
+                  "chart_weeks": 17,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W001556",
+                  "title": "Pony Time",
+                  "artist": "Chubby Checker",
+                  "best_rank": 1,
+                  "chart_weeks": 16,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W001936",
+                  "title": "Take Good Care Of My Baby",
+                  "artist": "Bobby Vee",
+                  "best_rank": 1,
+                  "chart_weeks": 15,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W001639",
+                  "title": "Blue Moon",
+                  "artist": "The Marcels",
+                  "best_rank": 1,
+                  "chart_weeks": 14,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W001431",
+                  "title": "Wonderland By Night",
+                  "artist": "Bert Kaempfert And His Orchestra",
+                  "best_rank": 1,
+                  "chart_weeks": 9,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W002119",
+                  "title": "The Lion Sleeps Tonight",
+                  "artist": "The Tokens",
+                  "best_rank": 1,
+                  "chart_weeks": 8,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W001892",
+                  "title": "Michael",
+                  "artist": "The Highwaymen",
+                  "best_rank": 1,
+                  "chart_weeks": 17,
+                  "weeks_at_peak": 2
+                },
+                {
+                  "song_id": "W001727",
+                  "title": "Travelin' Man",
+                  "artist": "Ricky Nelson",
+                  "best_rank": 1,
+                  "chart_weeks": 16,
+                  "weeks_at_peak": 2
+                }
+              ]
+            },
+            {
+              "year": 1962,
+              "top_songs": [
+                {
+                  "song_id": "W002423",
+                  "title": "I Can't Stop Loving You",
+                  "artist": "Ray Charles",
+                  "best_rank": 1,
+                  "chart_weeks": 18,
+                  "weeks_at_peak": 5
+                },
+                {
+                  "song_id": "W002620",
+                  "title": "Sherry",
+                  "artist": "The 4 Seasons",
+                  "best_rank": 1,
+                  "chart_weeks": 14,
+                  "weeks_at_peak": 5
+                },
+                {
+                  "song_id": "W002729",
+                  "title": "Big Girls Don't Cry",
+                  "artist": "The 4 Seasons",
+                  "best_rank": 1,
+                  "chart_weeks": 11,
+                  "weeks_at_peak": 5
+                },
+                {
+                  "song_id": "W002481",
+                  "title": "Roses Are Red (My Love)",
+                  "artist": "Bobby Vinton",
+                  "best_rank": 1,
+                  "chart_weeks": 15,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W002241",
+                  "title": "Hey! Baby",
+                  "artist": "Bruce Channel",
+                  "best_rank": 1,
+                  "chart_weeks": 15,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W002223",
+                  "title": "Duke Of Earl",
+                  "artist": "Gene Chandler",
+                  "best_rank": 1,
+                  "chart_weeks": 15,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W002343",
+                  "title": "Soldier Boy",
+                  "artist": "The Shirelles",
+                  "best_rank": 1,
+                  "chart_weeks": 14,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W002132",
+                  "title": "Peppermint Twist - Part I",
+                  "artist": "Joey Dee",
+                  "best_rank": 1,
+                  "chart_weeks": 12,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W002658",
+                  "title": "He's A Rebel",
+                  "artist": "The Crystals",
+                  "best_rank": 1,
+                  "chart_weeks": 17,
+                  "weeks_at_peak": 2
+                },
+                {
+                  "song_id": "W002308",
+                  "title": "Johnny Angel",
+                  "artist": "Shelley Fabares",
+                  "best_rank": 1,
+                  "chart_weeks": 15,
+                  "weeks_at_peak": 2
+                }
+              ]
+            },
+            {
+              "year": 1963,
+              "top_songs": [
+                {
+                  "song_id": "W003337",
+                  "title": "Sugar Shack",
+                  "artist": "Jimmy Gilmer And The Fireballs",
+                  "best_rank": 1,
+                  "chart_weeks": 15,
+                  "weeks_at_peak": 5
+                },
+                {
+                  "song_id": "W002957",
+                  "title": "He's So Fine",
+                  "artist": "The Chiffons",
+                  "best_rank": 1,
+                  "chart_weeks": 15,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W003429",
+                  "title": "Dominique",
+                  "artist": "The Singing Nun",
+                  "best_rank": 1,
+                  "chart_weeks": 8,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W003263",
+                  "title": "Blue Velvet",
+                  "artist": "Bobby Vinton",
+                  "best_rank": 1,
+                  "chart_weeks": 15,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W003170",
+                  "title": "Fingertips (Part II)",
+                  "artist": "Little Stevie Wonder",
+                  "best_rank": 1,
+                  "chart_weeks": 15,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W003095",
+                  "title": "Sukiyaki",
+                  "artist": "Kyu Sakamoto",
+                  "best_rank": 1,
+                  "chart_weeks": 14,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W003010",
+                  "title": "I Will Follow Him",
+                  "artist": "Little Peggy March",
+                  "best_rank": 1,
+                  "chart_weeks": 14,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W002865",
+                  "title": "Hey Paula",
+                  "artist": "Paul And Paula",
+                  "best_rank": 1,
+                  "chart_weeks": 14,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W003250",
+                  "title": "My Boyfriend's Back",
+                  "artist": "The Angels",
+                  "best_rank": 1,
+                  "chart_weeks": 14,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W002903",
+                  "title": "Walk Like A Man",
+                  "artist": "The 4 Seasons",
+                  "best_rank": 1,
+                  "chart_weeks": 13,
+                  "weeks_at_peak": 3
+                }
+              ]
+            },
+            {
+              "year": 1964,
+              "top_songs": [
+                {
+                  "song_id": "W003551",
+                  "title": "I Want To Hold Your Hand",
+                  "artist": "The Beatles",
+                  "best_rank": 1,
+                  "chart_weeks": 15,
+                  "weeks_at_peak": 7
+                },
+                {
+                  "song_id": "W003690",
+                  "title": "Can't Buy Me Love",
+                  "artist": "The Beatles",
+                  "best_rank": 1,
+                  "chart_weeks": 10,
+                  "weeks_at_peak": 5
+                },
+                {
+                  "song_id": "W004067",
+                  "title": "Baby Love",
+                  "artist": "The Supremes",
+                  "best_rank": 1,
+                  "chart_weeks": 13,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W003473",
+                  "title": "There! I've Said It Again",
+                  "artist": "Bobby Vinton",
+                  "best_rank": 1,
+                  "chart_weeks": 8,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W003999",
+                  "title": "Oh, Pretty Woman",
+                  "artist": "Roy Orbison And The Candy Men",
+                  "best_rank": 1,
+                  "chart_weeks": 15,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W003761",
+                  "title": "Chapel Of Love",
+                  "artist": "The Dixie Cups",
+                  "best_rank": 1,
+                  "chart_weeks": 13,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W003959",
+                  "title": "House Of The Rising Sun",
+                  "artist": "The Animals",
+                  "best_rank": 1,
+                  "chart_weeks": 11,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W003706",
+                  "title": "My Guy",
+                  "artist": "Mary Wells",
+                  "best_rank": 1,
+                  "chart_weeks": 15,
+                  "weeks_at_peak": 2
+                },
+                {
+                  "song_id": "W003805",
+                  "title": "I Get Around",
+                  "artist": "The Beach Boys",
+                  "best_rank": 1,
+                  "chart_weeks": 15,
+                  "weeks_at_peak": 2
+                },
+                {
+                  "song_id": "W003565",
+                  "title": "She Loves You",
+                  "artist": "The Beatles",
+                  "best_rank": 1,
+                  "chart_weeks": 15,
+                  "weeks_at_peak": 2
+                }
+              ]
+            },
+            {
+              "year": 1965,
+              "top_songs": [
+                {
+                  "song_id": "W004571",
+                  "title": "(I Can't Get No) Satisfaction",
+                  "artist": "The Rolling Stones",
+                  "best_rank": 1,
+                  "chart_weeks": 14,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W004767",
+                  "title": "Yesterday",
+                  "artist": "The Beatles",
+                  "best_rank": 1,
+                  "chart_weeks": 11,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W004632",
+                  "title": "I Got You Babe",
+                  "artist": "Sonny",
+                  "best_rank": 1,
+                  "chart_weeks": 14,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W004676",
+                  "title": "Help!",
+                  "artist": "The Beatles",
+                  "best_rank": 1,
+                  "chart_weeks": 13,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W004459",
+                  "title": "Mrs. Brown You've Got A Lovely Daughter",
+                  "artist": "Herman's Hermits",
+                  "best_rank": 1,
+                  "chart_weeks": 11,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W004823",
+                  "title": "Turn! Turn! Turn! (To Everything There Is A Season)",
+                  "artist": "The Byrds",
+                  "best_rank": 1,
+                  "chart_weeks": 10,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W004516",
+                  "title": "I Can't Help Myself (Sugar Pie Honey Bunch)",
+                  "artist": "Four Tops",
+                  "best_rank": 1,
+                  "chart_weeks": 14,
+                  "weeks_at_peak": 2
+                },
+                {
+                  "song_id": "W004460",
+                  "title": "Help Me, Rhonda",
+                  "artist": "The Beach Boys",
+                  "best_rank": 1,
+                  "chart_weeks": 14,
+                  "weeks_at_peak": 2
+                },
+                {
+                  "song_id": "W004225",
+                  "title": "Downtown",
+                  "artist": "Petula Clark",
+                  "best_rank": 1,
+                  "chart_weeks": 13,
+                  "weeks_at_peak": 2
+                },
+                {
+                  "song_id": "W004209",
+                  "title": "You've Lost That Lovin' Feelin'",
+                  "artist": "The Righteous Brothers",
+                  "best_rank": 1,
+                  "chart_weeks": 13,
+                  "weeks_at_peak": 2
+                }
+              ]
+            },
+            {
+              "year": 1966,
+              "top_songs": [
+                {
+                  "song_id": "W005024",
+                  "title": "The Ballad Of The Green Berets",
+                  "artist": "Ssgt Barry Sadler",
+                  "best_rank": 1,
+                  "chart_weeks": 13,
+                  "weeks_at_peak": 5
+                },
+                {
+                  "song_id": "W005429",
+                  "title": "Cherish",
+                  "artist": "The Association",
+                  "best_rank": 1,
+                  "chart_weeks": 14,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W005080",
+                  "title": "(You're My) Soul And Inspiration",
+                  "artist": "The Righteous Brothers",
+                  "best_rank": 1,
+                  "chart_weeks": 13,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W005148",
+                  "title": "Monday, Monday",
+                  "artist": "The Mamas",
+                  "best_rank": 1,
+                  "chart_weeks": 12,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W005341",
+                  "title": "Summer In The City",
+                  "artist": "The Lovin' Spoonful",
+                  "best_rank": 1,
+                  "chart_weeks": 11,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W004927",
+                  "title": "We Can Work It Out",
+                  "artist": "The Beatles",
+                  "best_rank": 1,
+                  "chart_weeks": 10,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W005559",
+                  "title": "Winchester Cathedral",
+                  "artist": "The New Vaudeville Band",
+                  "best_rank": 1,
+                  "chart_weeks": 10,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W005444",
+                  "title": "Reach Out I'll Be There",
+                  "artist": "Four Tops",
+                  "best_rank": 1,
+                  "chart_weeks": 15,
+                  "weeks_at_peak": 2
+                },
+                {
+                  "song_id": "W005159",
+                  "title": "When A Man Loves A Woman",
+                  "artist": "Percy Sledge",
+                  "best_rank": 1,
+                  "chart_weeks": 13,
+                  "weeks_at_peak": 2
+                },
+                {
+                  "song_id": "W005404",
+                  "title": "You Can't Hurry Love",
+                  "artist": "The Supremes",
+                  "best_rank": 1,
+                  "chart_weeks": 13,
+                  "weeks_at_peak": 2
+                }
+              ]
+            },
+            {
+              "year": 1967,
+              "top_songs": [
+                {
+                  "song_id": "W005638",
+                  "title": "I'm A Believer",
+                  "artist": "The Monkees",
+                  "best_rank": 1,
+                  "chart_weeks": 11,
+                  "weeks_at_peak": 6
+                },
+                {
+                  "song_id": "W006196",
+                  "title": "To Sir With Love",
+                  "artist": "Lulu",
+                  "best_rank": 1,
+                  "chart_weeks": 17,
+                  "weeks_at_peak": 5
+                },
+                {
+                  "song_id": "W006136",
+                  "title": "The Letter",
+                  "artist": "The Box Tops",
+                  "best_rank": 1,
+                  "chart_weeks": 16,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W006118",
+                  "title": "Ode To Billie Joe",
+                  "artist": "Bobbie Gentry",
+                  "best_rank": 1,
+                  "chart_weeks": 14,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W005972",
+                  "title": "Windy",
+                  "artist": "The Association",
+                  "best_rank": 1,
+                  "chart_weeks": 14,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W005818",
+                  "title": "Somethin' Stupid",
+                  "artist": "Nancy Sinatra",
+                  "best_rank": 1,
+                  "chart_weeks": 13,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W005898",
+                  "title": "Groovin'",
+                  "artist": "The Young Rascals",
+                  "best_rank": 1,
+                  "chart_weeks": 13,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W006331",
+                  "title": "Daydream Believer",
+                  "artist": "The Monkees",
+                  "best_rank": 1,
+                  "chart_weeks": 7,
+                  "weeks_at_peak": 4
+                },
+                {
+                  "song_id": "W005999",
+                  "title": "Light My Fire",
+                  "artist": "The Doors",
+                  "best_rank": 1,
+                  "chart_weeks": 17,
+                  "weeks_at_peak": 3
+                },
+                {
+                  "song_id": "W005757",
+                  "title": "Happy Together",
+                  "artist": "The Turtles",
+                  "best_rank": 1,
+                  "chart_weeks": 15,
+                  "weeks_at_peak": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/derived/media-index/output/billboard/weeks_at_number_one.json",
+      "entity_type": "video",
+      "fields": [
+        "meta",
+        "weeks_at_number_one"
+      ],
+      "sample_records": [
+        {
+          "meta": {
+            "generated_at": "2026-03-10T19:01:34.758995Z",
+            "source_db": "/Users/bobhopp/Sites/retroverse/raw-data/billboard-hot-100.db",
+            "source_system": "RVA-HOT100"
+          },
+          "weeks_at_number_one": [
+            {
+              "song_id": "W020615",
+              "title": "All I Want For Christmas Is You",
+              "artist": "Mariah Carey",
+              "weeks_at_number_one": 20
+            },
+            {
+              "song_id": "W028086",
+              "title": "Old Town Road",
+              "artist": "Lil Nas X",
+              "weeks_at_number_one": 19
+            },
+            {
+              "song_id": "W031240",
+              "title": "A Bar Song (Tipsy)",
+              "artist": "Shaboozey",
+              "weeks_at_number_one": 19
+            },
+            {
+              "song_id": "W026961",
+              "title": "Despacito",
+              "artist": "Luis Fonsi",
+              "weeks_at_number_one": 16
+            },
+            {
+              "song_id": "W019280",
+              "title": "One Sweet Day",
+              "artist": "Mariah Carey",
+              "weeks_at_number_one": 16
+            },
+            {
+              "song_id": "W030478",
+              "title": "Last Night",
+              "artist": "Morgan Wallen",
+              "weeks_at_number_one": 16
+            },
+            {
+              "song_id": "W029982",
+              "title": "As It Was",
+              "artist": "Harry Styles",
+              "weeks_at_number_one": 15
+            },
+            {
+              "song_id": "W018850",
+              "title": "I'll Make Love To You",
+              "artist": "Boyz Ii Men",
+              "weeks_at_number_one": 14
+            },
+            {
+              "song_id": "W019863",
+              "title": "Candle In The Wind 1997/Something About The Way You Look Tonight",
+              "artist": "Elton John",
+              "weeks_at_number_one": 14
+            },
+            {
+              "song_id": "W019197",
+              "title": "Macarena (Bayside Boys Mix)",
+              "artist": "Los Del Rio",
+              "weeks_at_number_one": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/derived/media-index/output/billboard/year_stats.json",
+      "entity_type": "video",
+      "fields": [
+        "meta",
+        "year_stats",
+        "decade_stats"
+      ],
+      "sample_records": [
+        {
+          "meta": {
+            "generated_at": "2026-03-10T19:01:34.758995Z",
+            "source_db": "/Users/bobhopp/Sites/retroverse/raw-data/billboard-hot-100.db",
+            "source_system": "RVA-HOT100"
+          },
+          "year_stats": [
+            {
+              "year": 1958,
+              "chart_rows": 2200,
+              "songs_charted": 352,
+              "week_count": 22,
+              "first_week": "1958-08-04",
+              "last_week": "1958-12-29",
+              "number_one_song_count": 8
+            },
+            {
+              "year": 1959,
+              "chart_rows": 5200,
+              "songs_charted": 663,
+              "week_count": 52,
+              "first_week": "1959-01-03",
+              "last_week": "1959-12-26",
+              "number_one_song_count": 16
+            },
+            {
+              "year": 1960,
+              "chart_rows": 5300,
+              "songs_charted": 700,
+              "week_count": 53,
+              "first_week": "1960-01-02",
+              "last_week": "1960-12-31",
+              "number_one_song_count": 19
+            },
+            {
+              "year": 1961,
+              "chart_rows": 5200,
+              "songs_charted": 779,
+              "week_count": 52,
+              "first_week": "1961-01-07",
+              "last_week": "1961-12-30",
+              "number_one_song_count": 21
+            },
+            {
+              "year": 1962,
+              "chart_rows": 5200,
+              "songs_charted": 768,
+              "week_count": 52,
+              "first_week": "1962-01-06",
+              "last_week": "1962-12-29",
+              "number_one_song_count": 21
+            },
+            {
+              "year": 1963,
+              "chart_rows": 5200,
+              "songs_charted": 754,
+              "week_count": 52,
+              "first_week": "1963-01-05",
+              "last_week": "1963-12-28",
+              "number_one_song_count": 21
+            },
+            {
+              "year": 1964,
+              "chart_rows": 5200,
+              "songs_charted": 810,
+              "week_count": 52,
+              "first_week": "1964-01-04",
+              "last_week": "1964-12-26",
+              "number_one_song_count": 23
+            },
+            {
+              "year": 1965,
+              "chart_rows": 5200,
+              "songs_charted": 800,
+              "week_count": 52,
+              "first_week": "1965-01-02",
+              "last_week": "1965-12-25",
+              "number_one_song_count": 27
+            },
+            {
+              "year": 1966,
+              "chart_rows": 5300,
+              "songs_charted": 832,
+              "week_count": 53,
+              "first_week": "1966-01-01",
+              "last_week": "1966-12-31",
+              "number_one_song_count": 27
+            },
+            {
+              "year": 1967,
+              "chart_rows": 5200,
+              "songs_charted": 827,
+              "week_count": 52,
+              "first_week": "1967-01-07",
+              "last_week": "1967-12-30",
+              "number_one_song_count": 19
+            }
+          ],
+          "decade_stats": [
+            {
+              "decade": 1950,
+              "chart_rows": 7400,
+              "songs_charted": 925,
+              "week_count": 74
+            },
+            {
+              "decade": 1960,
+              "chart_rows": 52200,
+              "songs_charted": 6953,
+              "week_count": 522
+            },
+            {
+              "decade": 1970,
+              "chart_rows": 52187,
+              "songs_charted": 5402,
+              "week_count": 522
+            },
+            {
+              "decade": 1980,
+              "chart_rows": 52200,
+              "songs_charted": 4221,
+              "week_count": 522
+            },
+            {
+              "decade": 1990,
+              "chart_rows": 52100,
+              "songs_charted": 3528,
+              "week_count": 521
+            },
+            {
+              "decade": 2000,
+              "chart_rows": 52200,
+              "songs_charted": 3555,
+              "week_count": 522
+            },
+            {
+              "decade": 2010,
+              "chart_rows": 52200,
+              "songs_charted": 4581,
+              "week_count": 522
+            },
+            {
+              "decade": 2020,
+              "chart_rows": 31200,
+              "songs_charted": 3913,
+              "week_count": 312
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/derived/media-index/output/history-index.json",
+      "entity_type": "video",
+      "fields": [
+        "sessions",
+        "sessionId",
+        "date",
+        "dayOfWeek",
+        "startTime",
+        "endTime",
+        "durationMinutes",
+        "eventType",
+        "eventConfidence",
+        "songs",
+        "videoId",
+        "filePath",
+        "playedAt",
+        "order",
+        "durationLoaded"
+      ],
+      "sample_records": [],
+      "notes": "Large JSON (7371871 bytes); sampled first ~500KB for structure."
+    },
+    {
+      "path": "data/derived/media-index/output/playcount_report.txt",
+      "entity_type": "other",
+      "fields": [
+        "(unsupported extension)"
+      ],
+      "sample_records": [],
+      "notes": "No structured reader for .txt"
+    },
+    {
+      "path": "data/derived/media-index/output/tier-cutoffs.json",
+      "entity_type": "video",
+      "fields": [
+        "promo",
+        "light",
+        "medium",
+        "heavy",
+        "power",
+        "excluded",
+        "stats",
+        "generated_at"
+      ],
+      "sample_records": [
+        {
+          "promo": {
+            "min": 0,
+            "max": 1
+          },
+          "light": {
+            "min": 2,
+            "max": 7
+          },
+          "medium": {
+            "min": 8,
+            "max": 15
+          },
+          "heavy": {
+            "min": 16,
+            "max": 29
+          },
+          "power": {
+            "min": 30,
+            "max": 85
+          },
+          "excluded": [],
+          "stats": {
+            "total_tracks": 10615,
+            "max_playcount": 85,
+            "histogram": {
+              "0": 6990,
+              "1": 1476,
+              "2": 651,
+              "3": 367,
+              "4": 194,
+              "5": 163,
+              "6": 123,
+              "7": 115,
+              "8": 80,
+              "9": 45,
+              "10": 62,
+              "11": 58,
+              "12": 24,
+              "13": 18,
+              "14": 28,
+              "15": 33,
+              "16": 22,
+              "17": 21,
+              "18": 15,
+              "19": 6,
+              "20": 8,
+              "21": 10,
+              "22": 7,
+              "23": 9,
+              "24": 2,
+              "25": 5,
+              "26": 13,
+              "27": 3,
+              "28": 5,
+              "29": 4,
+              "30": 5,
+              "31": 4,
+              "32": 4,
+              "33": 3,
+              "34": 2,
+              "35": 4,
+              "36": 2,
+              "37": 1,
+              "38": 2,
+              "39": 4
+            },
+            "percentiles": {
+              "p50": 0,
+              "p75": 1,
+              "p90": 4,
+              "p95": 8,
+              "p99": 21
+            }
+          },
+          "generated_at": "2026-02-12T19:24:37.678Z"
+        }
+      ]
+    },
+    {
+      "path": "data/derived/media-index/output/vdj_history_flat.json",
+      "entity_type": "video",
+      "fields": [
+        "filename",
+        "fullpath",
+        "timestamp",
+        "source_file",
+        "type"
+      ],
+      "sample_records": [],
+      "notes": "Large JSON (5306983 bytes); sampled first ~500KB for structure."
+    },
+    {
+      "path": "data/derived/media-index/output/video-index.json",
+      "entity_type": "video",
+      "fields": [
+        "filePath",
+        "title",
+        "playlists",
+        "sources",
+        "videoId",
+        "video_id",
+        "author",
+        "artist",
+        "genre",
+        "album",
+        "remix",
+        "duration",
+        "durationSeconds",
+        "duration_sec",
+        "year",
+        "bpm",
+        "key",
+        "altBpm",
+        "tags",
+        "trackNumber",
+        "flag",
+        "scan",
+        "version",
+        "volume",
+        "pois",
+        "pos",
+        "type",
+        "point",
+        "phrase",
+        "name",
+        "infos",
+        "songLength",
+        "lastModified",
+        "firstSeen",
+        "bitrate",
+        "cover",
+        "playCount",
+        "play_count",
+        "tier",
+        "retentionScore"
+      ],
+      "sample_records": [],
+      "notes": "Large JSON (30870852 bytes); sampled first ~500KB for structure."
+    },
+    {
+      "path": "data/derived/year-masters/legacy/master_1978_1981.json",
+      "entity_type": "song",
+      "fields": [
+        "year_key",
+        "year",
+        "top_40",
+        "culture"
+      ],
+      "sample_records": [
+        {
+          "year": 1978,
+          "top_40": [
+            {
+              "rv_rank": 1,
+              "title": "Stayin' Alive",
+              "artist": "Bee Gees",
+              "peak_rank": 1,
+              "weeks_on_chart": 23,
+              "weeks_in_top_10": 13,
+              "weeks_in_top_40": 20
+            },
+            {
+              "rv_rank": 2,
+              "title": "Shadow Dancing",
+              "artist": "Andy Gibb",
+              "peak_rank": 1,
+              "weeks_on_chart": 25,
+              "weeks_in_top_10": 12,
+              "weeks_in_top_40": 19
+            },
+            {
+              "rv_rank": 3,
+              "title": "Hot Child In The City",
+              "artist": "Nick Gilder",
+              "peak_rank": 1,
+              "weeks_on_chart": 30,
+              "weeks_in_top_10": 9,
+              "weeks_in_top_40": 18
+            },
+            {
+              "rv_rank": 4,
+              "title": "Kiss You All Over",
+              "artist": "Exile",
+              "peak_rank": 1,
+              "weeks_on_chart": 23,
+              "weeks_in_top_10": 12,
+              "weeks_in_top_40": 17
+            },
+            {
+              "rv_rank": 5,
+              "title": "Night Fever",
+              "artist": "Bee Gees",
+              "peak_rank": 1,
+              "weeks_on_chart": 20,
+              "weeks_in_top_10": 13,
+              "weeks_in_top_40": 18
+            },
+            {
+              "rv_rank": 6,
+              "title": "Boogie Oogie Oogie",
+              "artist": "A Taste Of Honey",
+              "peak_rank": 1,
+              "weeks_on_chart": 23,
+              "weeks_in_top_10": 12,
+              "weeks_in_top_40": 17
+            },
+            {
+              "rv_rank": 7,
+              "title": "Lay Down Sally",
+              "artist": "Eric Clapton",
+              "peak_rank": 3,
+              "weeks_on_chart": 23,
+              "weeks_in_top_10": 11,
+              "weeks_in_top_40": 17
+            },
+            {
+              "rv_rank": 8,
+              "title": "You're The One That I Want",
+              "artist": "John Travolta",
+              "peak_rank": 1,
+              "weeks_on_chart": 24,
+              "weeks_in_top_10": 9,
+              "weeks_in_top_40": 16
+            },
+            {
+              "rv_rank": 9,
+              "title": "(Love Is) Thicker Than Water",
+              "artist": "Andy Gibb",
+              "peak_rank": 1,
+              "weeks_on_chart": 20,
+              "weeks_in_top_10": 11,
+              "weeks_in_top_40": 18
+            },
+            {
+              "rv_rank": 10,
+              "title": "I Love The Nightlife (Disco 'round)",
+              "artist": "Alicia Bridges",
+              "peak_rank": 5,
+              "weeks_on_chart": 26,
+              "weeks_in_top_10": 6,
+              "weeks_in_top_40": 17
+            }
+          ],
+          "culture": {
+            "films": [
+              "Grease",
+              "Superman",
+              "National Lampoon's Animal House",
+              "Every Which Way But Loose",
+              "Heaven Can Wait",
+              "Hooper",
+              "Jaws 2",
+              "Revenge of the Pink Panther",
+              "The Deer Hunter",
+              "Halloween"
+            ],
+            "tv": [
+              "Laverne & Shirley",
+              "Three's Company",
+              "Mork & Mindy",
+              "Angie",
+              "60 Minutes",
+              "M*A*S*H",
+              "The Ropers",
+              "All in the Family",
+              "ABC",
+              "Eight Is Enough"
+            ],
+            "headlines": [
+              {
+                "event": "January 1 – Air India Flight 855 , a Boeing 747 passenger jet, crashes off the coast of Bombay , killing 213.",
+                "date": "1978-01-01"
+              },
+              {
+                "event": "January 5 – Bülent Ecevit , of CHP , forms the new government of Turkey (42nd government).",
+                "date": "1978-01-05"
+              },
+              {
+                "event": "January 6 – The Holy Crown of Hungary (also known as Stephen of Hungary Crown) is returned to Hungary from the United States, where it was held since World War II .",
+                "date": "1978-01-06"
+              },
+              {
+                "event": "January 10 – Pedro Joaquín Chamorro Cardenal , a critic of the Nicaraguan government, is assassinated; riots erupt against Somoza 's government.",
+                "date": "1978-01-10"
+              },
+              {
+                "event": "January 13 – Former U.S. Vice President Hubert Humphrey , a Democrat, dies of cancer in Waverly, Minnesota , at the age of 66.",
+                "date": "1978-01-13"
+              },
+              {
+                "event": "January 18 – The European Court of Human Rights finds the British government guilty of mistreating prisoners in Northern Ireland , but not guilty of torture.",
+                "date": "1978-01-18"
+              },
+              {
+                "event": "January 22 – Ethiopia declares the ambassador of West Germany persona non grata .",
+                "date": "1978-01-22"
+              },
+              {
+                "event": "Soviet satellite Kosmos 954 burns up in Earth's atmosphere, scattering radioactive debris over Canada's Northwest Territories .",
+                "date": "1978-01-24"
+              },
+              {
+                "event": "Rose Dugdale and Eddie Gallagher become the first convicted prisoners to marry in prison since the establishment of the Republic of Ireland .",
+                "date": "1978-01-24"
+              },
+              {
+                "event": "January 25 – 27 – The Great Blizzard of 1978 strikes the Ohio Valley and Great Lakes , killing 70.",
+                "date": "1978-01-25"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "path": "data/derived/year-masters/logs/retroverse_support_cultural_1958_2024_top10.log",
+      "entity_type": "other",
+      "fields": [
+        "(unsupported extension)"
+      ],
+      "sample_records": [],
+      "notes": "No structured reader for .log"
+    },
+    {
+      "path": "data/derived/year-masters/retroverse_year_end_*_top40.csv",
+      "entity_type": "song",
+      "fields": [
+        "rv_rank",
+        "title",
+        "artist",
+        "total_score",
+        "weekly_score_top26",
+        "peak_bonus",
+        "peak_rank",
+        "weeks_on_chart",
+        "weeks_in_top_10",
+        "weeks_in_top_40",
+        "first_chart_date",
+        "last_chart_date"
+      ],
+      "sample_records": [
+        {
+          "rv_rank": "1",
+          "title": "It's All In The Game",
+          "artist": "Tommy Edwards",
+          "total_score": "10829.3400",
+          "weekly_score_top26": "10709.3400",
+          "peak_bonus": "120",
+          "peak_rank": "1",
+          "weeks_on_chart": "20",
+          "weeks_in_top_10": "12",
+          "weeks_in_top_40": "19",
+          "first_chart_date": "1958-08-18",
+          "last_chart_date": "1958-12-29"
+        },
+        {
+          "rv_rank": "2",
+          "title": "Chantilly Lace",
+          "artist": "Big Bopper",
+          "total_score": "10209.1557",
+          "weekly_score_top26": "10194.1557",
+          "peak_bonus": "15",
+          "peak_rank": "6",
+          "weeks_on_chart": "22",
+          "weeks_in_top_10": "5",
+          "weeks_in_top_40": "22",
+          "first_chart_date": "1958-08-04",
+          "last_chart_date": "1958-12-29"
+        },
+        {
+          "rv_rank": "3",
+          "title": "Rock-in Robin",
+          "artist": "Bobby Day",
+          "total_score": "10106.1383",
+          "weekly_score_top26": "10031.1383",
+          "peak_bonus": "75",
+          "peak_rank": "2",
+          "weeks_on_chart": "21",
+          "weeks_in_top_10": "10",
+          "weeks_in_top_40": "19",
+          "first_chart_date": "1958-08-04",
+          "last_chart_date": "1958-12-22"
+        },
+        {
+          "rv_rank": "4",
+          "title": "Bird Dog",
+          "artist": "The Everly Brothers",
+          "total_score": "9122.3623",
+          "weekly_score_top26": "9047.3623",
+          "peak_bonus": "75",
+          "peak_rank": "2",
+          "weeks_on_chart": "18",
+          "weeks_in_top_10": "11",
+          "weeks_in_top_40": "15",
+          "first_chart_date": "1958-08-04",
+          "last_chart_date": "1958-12-01"
+        },
+        {
+          "rv_rank": "5",
+          "title": "Little Star",
+          "artist": "The Elegants",
+          "total_score": "8830.3933",
+          "weekly_score_top26": "8710.3933",
+          "peak_bonus": "120",
+          "peak_rank": "1",
+          "weeks_on_chart": "17",
+          "weeks_in_top_10": "9",
+          "weeks_in_top_40": "15",
+          "first_chart_date": "1958-08-04",
+          "last_chart_date": "1958-11-24"
+        }
+      ],
+      "notes": "One file per chart year; same columns as full year-end CSV. (67 files). Representative: data/derived/year-masters/retroverse_year_end_1958_top40.csv"
+    },
+    {
+      "path": "data/derived/year-masters/retroverse_year_end_*.csv",
+      "entity_type": "song",
+      "fields": [
+        "rv_rank",
+        "title",
+        "artist",
+        "total_score",
+        "weekly_score_top26",
+        "peak_bonus",
+        "peak_rank",
+        "weeks_on_chart",
+        "weeks_in_top_10",
+        "weeks_in_top_40",
+        "first_chart_date",
+        "last_chart_date"
+      ],
+      "sample_records": [
+        {
+          "rv_rank": "1",
+          "title": "It's All In The Game",
+          "artist": "Tommy Edwards",
+          "total_score": "10829.3400",
+          "weekly_score_top26": "10709.3400",
+          "peak_bonus": "120",
+          "peak_rank": "1",
+          "weeks_on_chart": "20",
+          "weeks_in_top_10": "12",
+          "weeks_in_top_40": "19",
+          "first_chart_date": "1958-08-18",
+          "last_chart_date": "1958-12-29"
+        },
+        {
+          "rv_rank": "2",
+          "title": "Chantilly Lace",
+          "artist": "Big Bopper",
+          "total_score": "10209.1557",
+          "weekly_score_top26": "10194.1557",
+          "peak_bonus": "15",
+          "peak_rank": "6",
+          "weeks_on_chart": "22",
+          "weeks_in_top_10": "5",
+          "weeks_in_top_40": "22",
+          "first_chart_date": "1958-08-04",
+          "last_chart_date": "1958-12-29"
+        },
+        {
+          "rv_rank": "3",
+          "title": "Rock-in Robin",
+          "artist": "Bobby Day",
+          "total_score": "10106.1383",
+          "weekly_score_top26": "10031.1383",
+          "peak_bonus": "75",
+          "peak_rank": "2",
+          "weeks_on_chart": "21",
+          "weeks_in_top_10": "10",
+          "weeks_in_top_40": "19",
+          "first_chart_date": "1958-08-04",
+          "last_chart_date": "1958-12-22"
+        },
+        {
+          "rv_rank": "4",
+          "title": "Bird Dog",
+          "artist": "The Everly Brothers",
+          "total_score": "9122.3623",
+          "weekly_score_top26": "9047.3623",
+          "peak_bonus": "75",
+          "peak_rank": "2",
+          "weeks_on_chart": "18",
+          "weeks_in_top_10": "11",
+          "weeks_in_top_40": "15",
+          "first_chart_date": "1958-08-04",
+          "last_chart_date": "1958-12-01"
+        },
+        {
+          "rv_rank": "5",
+          "title": "Little Star",
+          "artist": "The Elegants",
+          "total_score": "8830.3933",
+          "weekly_score_top26": "8710.3933",
+          "peak_bonus": "120",
+          "peak_rank": "1",
+          "weeks_on_chart": "17",
+          "weeks_in_top_10": "9",
+          "weeks_in_top_40": "15",
+          "first_chart_date": "1958-08-04",
+          "last_chart_date": "1958-11-24"
+        }
+      ],
+      "notes": "One file per chart year; same columns. (67 files). Representative: data/derived/year-masters/retroverse_year_end_1958.csv"
+    },
+    {
+      "path": "data/derived/year-masters/retroverse_year_end_1958_2024_all.csv",
+      "entity_type": "song",
+      "fields": [
+        "rv_rank",
+        "title",
+        "artist",
+        "total_score",
+        "weekly_score_top26",
+        "peak_bonus",
+        "peak_rank",
+        "weeks_on_chart",
+        "weeks_in_top_10",
+        "weeks_in_top_40",
+        "first_chart_date",
+        "last_chart_date"
+      ],
+      "sample_records": [
+        {
+          "rv_rank": "1",
+          "title": "It's All In The Game",
+          "artist": "Tommy Edwards",
+          "total_score": "10829.3400",
+          "weekly_score_top26": "10709.3400",
+          "peak_bonus": "120",
+          "peak_rank": "1",
+          "weeks_on_chart": "20",
+          "weeks_in_top_10": "12",
+          "weeks_in_top_40": "19",
+          "first_chart_date": "1958-08-18",
+          "last_chart_date": "1958-12-29"
+        },
+        {
+          "rv_rank": "2",
+          "title": "Chantilly Lace",
+          "artist": "Big Bopper",
+          "total_score": "10209.1557",
+          "weekly_score_top26": "10194.1557",
+          "peak_bonus": "15",
+          "peak_rank": "6",
+          "weeks_on_chart": "22",
+          "weeks_in_top_10": "5",
+          "weeks_in_top_40": "22",
+          "first_chart_date": "1958-08-04",
+          "last_chart_date": "1958-12-29"
+        },
+        {
+          "rv_rank": "3",
+          "title": "Rock-in Robin",
+          "artist": "Bobby Day",
+          "total_score": "10106.1383",
+          "weekly_score_top26": "10031.1383",
+          "peak_bonus": "75",
+          "peak_rank": "2",
+          "weeks_on_chart": "21",
+          "weeks_in_top_10": "10",
+          "weeks_in_top_40": "19",
+          "first_chart_date": "1958-08-04",
+          "last_chart_date": "1958-12-22"
+        },
+        {
+          "rv_rank": "4",
+          "title": "Bird Dog",
+          "artist": "The Everly Brothers",
+          "total_score": "9122.3623",
+          "weekly_score_top26": "9047.3623",
+          "peak_bonus": "75",
+          "peak_rank": "2",
+          "weeks_on_chart": "18",
+          "weeks_in_top_10": "11",
+          "weeks_in_top_40": "15",
+          "first_chart_date": "1958-08-04",
+          "last_chart_date": "1958-12-01"
+        },
+        {
+          "rv_rank": "5",
+          "title": "Little Star",
+          "artist": "The Elegants",
+          "total_score": "8830.3933",
+          "weekly_score_top26": "8710.3933",
+          "peak_bonus": "120",
+          "peak_rank": "1",
+          "weeks_on_chart": "17",
+          "weeks_in_top_10": "9",
+          "weeks_in_top_40": "15",
+          "first_chart_date": "1958-08-04",
+          "last_chart_date": "1958-11-24"
+        }
+      ]
+    },
+    {
+      "path": "data/derived/year-masters/retroverse_year_master_1958_2024.json",
+      "entity_type": "song",
+      "fields": [
+        "year_key",
+        "year",
+        "top_40",
+        "culture"
+      ],
+      "sample_records": [
+        {
+          "year": 1958,
+          "top_40": [
+            {
+              "rv_rank": 1,
+              "title": "It's All In The Game",
+              "artist": "Tommy Edwards",
+              "peak_rank": 1,
+              "weeks_on_chart": 20,
+              "weeks_in_top_10": 12,
+              "weeks_in_top_40": 19
+            },
+            {
+              "rv_rank": 2,
+              "title": "Chantilly Lace",
+              "artist": "Big Bopper",
+              "peak_rank": 6,
+              "weeks_on_chart": 22,
+              "weeks_in_top_10": 5,
+              "weeks_in_top_40": 22
+            },
+            {
+              "rv_rank": 3,
+              "title": "Rock-in Robin",
+              "artist": "Bobby Day",
+              "peak_rank": 2,
+              "weeks_on_chart": 21,
+              "weeks_in_top_10": 10,
+              "weeks_in_top_40": 19
+            },
+            {
+              "rv_rank": 4,
+              "title": "Bird Dog",
+              "artist": "The Everly Brothers",
+              "peak_rank": 2,
+              "weeks_on_chart": 18,
+              "weeks_in_top_10": 11,
+              "weeks_in_top_40": 15
+            },
+            {
+              "rv_rank": 5,
+              "title": "Little Star",
+              "artist": "The Elegants",
+              "peak_rank": 1,
+              "weeks_on_chart": 17,
+              "weeks_in_top_10": 9,
+              "weeks_in_top_40": 15
+            },
+            {
+              "rv_rank": 6,
+              "title": "It's Only Make Believe",
+              "artist": "Conway Twitty",
+              "peak_rank": 1,
+              "weeks_on_chart": 16,
+              "weeks_in_top_10": 10,
+              "weeks_in_top_40": 14
+            },
+            {
+              "rv_rank": 7,
+              "title": "Topsy II",
+              "artist": "Cozy Cole",
+              "peak_rank": 3,
+              "weeks_on_chart": 19,
+              "weeks_in_top_10": 8,
+              "weeks_in_top_40": 14
+            },
+            {
+              "rv_rank": 8,
+              "title": "Nel Blu Dipinto Di Blu (Volare)",
+              "artist": "Domenico Modugno",
+              "peak_rank": 1,
+              "weeks_on_chart": 16,
+              "weeks_in_top_10": 10,
+              "weeks_in_top_40": 13
+            },
+            {
+              "rv_rank": 9,
+              "title": "Tears On My Pillow",
+              "artist": "Little Anthony And The Imperials",
+              "peak_rank": 4,
+              "weeks_on_chart": 19,
+              "weeks_in_top_10": 8,
+              "weeks_in_top_40": 14
+            },
+            {
+              "rv_rank": 10,
+              "title": "Susie Darlin'",
+              "artist": "Robin Luke",
+              "peak_rank": 5,
+              "weeks_on_chart": 17,
+              "weeks_in_top_10": 7,
+              "weeks_in_top_40": 15
+            }
+          ],
+          "culture": {
+            "films": [
+              "South Pacific",
+              "Auntie Mame",
+              "Cat on a Hot Tin Roof",
+              "No Time for Sergeants",
+              "Gigi",
+              "The Vikings",
+              "The Young Lions",
+              "The Inn of the Sixth Happiness",
+              "Some Came Running",
+              "Indiscreet"
+            ],
+            "tv": [
+              "Gunsmoke",
+              "Wagon Train",
+              "Have Gun – Will Travel",
+              "The Rifleman",
+              "The Danny Thomas Show",
+              "Maverick",
+              "Tales of Wells Fargo",
+              "The Real McCoys",
+              "I've Got a Secret",
+              "The Life and Legend of Wyatt Earp"
+            ],
+            "headlines": [
+              {
+                "event": "January 1 – The European Economic Community (EEC) comes into being.",
+                "date": "1958-01-01"
+              },
+              {
+                "event": "January 3 – The West Indies Federation is formed.",
+                "date": "1958-01-03"
+              },
+              {
+                "event": "Edmund Hillary 's Commonwealth Trans-Antarctic Expedition completes the third overland journey to the South Pole , the first to use powered vehicles.",
+                "date": "1958-01-04"
+              },
+              {
+                "event": "Sputnik 1 (launched on October 4, 1957) falls towards Earth from its orbit and burns up.",
+                "date": "1958-01-04"
+              },
+              {
+                "event": "January 13 – Battle of Edchera : The Moroccan Army of Liberation ambushes a Spanish patrol.",
+                "date": "1958-01-13"
+              },
+              {
+                "event": "January 27 – A Soviet-American executive agreement on cultural, educational and scientific exchanges, also known as the \" Lacy–Zarubin Agreement \", is signed in Washington, D.C.",
+                "date": "1958-01-27"
+              },
+              {
+                "event": "February 1 – Egypt and Syria unite to form the United Arab Republic .",
+                "date": "1958-02-01"
+              },
+              {
+                "event": "February 2 – The Falcons aerobatic team of the Pakistan Air Force led by Wg Cdr Mitty Masud set a world record performing a 16 aircraft diamond loop in F-86 Sabres . 30,000 people are in attendance including President Iskandar Ali Mirza , General Ayub Khan , Air Marshal Asghar Khan , Air Commodore Nur Khan , C-in-C Turkish Air Force Hamdullah Suphi Göker, Chief of the Iraqi Air Force Abdul Kadhim Abaddi, Chief of the Imperial Iranian Air Force and Chief Guest King Zahir Shah in whose honor the p…",
+                "date": "1958-02-02"
+              },
+              {
+                "event": "February 5 – 1958 Tybee Island mid-air collision : A U.S. B-47 bomber jettisons a hydrogen bomb into Wassaw Sound off Tybee Island, Georgia ; it is never recovered.",
+                "date": "1958-02-05"
+              },
+              {
+                "event": "February 6 – Seven Manchester United footballers are among the 21 people killed in the Munich air disaster in West Germany, on the return flight from a European Cup game in Yugoslavia . 23 people survive; manager Matt Busby and players Johnny Berry and Duncan Edwards are in a serious condition. Berry will never play again and Edwards dies a fortnight later, as does the co-pilot.",
+                "date": "1958-02-06"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "path": "data/movies/movie_memory_test.json",
+      "entity_type": "movie",
+      "fields": [
+        "year_key",
+        "year",
+        "picks"
+      ],
+      "sample_records": [
+        {
+          "year": 1958,
+          "picks": [
+            {
+              "category": "Crowd Favorite",
+              "film": {
+                "title": "Gigi",
+                "year": 1958
+              },
+              "signature_moments": [
+                "garden parties with Gigi",
+                "carriage rides through Paris",
+                "Maxim's entrance",
+                "Gaston seeing the room differently"
+              ],
+              "audience_takeaways": [
+                "lush production",
+                "old-world glamour",
+                "memorable songs",
+                "romantic pull"
+              ],
+              "projection_booth": "Gaston keeps drifting through salons and carriage rides until Gigi walks into Maxim's and changes the room. Gigi is mostly remembered for Paris, gowns, and that entrance."
+            },
+            {
+              "category": "After Midnight",
+              "film": {
+                "title": "Cat on a Hot Tin Roof",
+                "year": 1958
+              },
+              "signature_moments": [
+                "Brick on the crutch",
+                "family birthday dinner",
+                "Big Daddy bedroom talk",
+                "Maggie circling the truth"
+              ],
+              "audience_takeaways": [
+                "heated family drama",
+                "sharp dialogue",
+                "star chemistry",
+                "tense atmosphere"
+              ],
+              "projection_booth": "The birthday gathering keeps getting tighter, and Brick on that crutch gives every scene extra strain. Cat on a Hot Tin Roof sticks because the room never really cools off."
+            },
+            {
+              "category": "Big Screen Moment",
+              "film": {
+                "title": "South Pacific",
+                "year": 1958
+              },
+              "signature_moments": [
+                "Bali Ha'i arrival",
+                "beachside songs",
+                "Thanksgiving show",
+                "wartime flights and departures"
+              ],
+              "audience_takeaways": [
+                "large musical scale",
+                "color-drenched images",
+                "recognizable songs",
+                "sweeping mood"
+              ],
+              "projection_booth": "South Pacific goes wide with islands, uniforms, and those sudden washes of color. People usually remember the songs first, then the feeling of the whole picture filling the screen."
+            },
+            {
+              "category": "Rewatchable",
+              "film": {
+                "title": "The Vikings",
+                "year": 1958
+              },
+              "signature_moments": [
+                "longship arrival",
+                "oar-driven sea attack",
+                "feast hall clashes",
+                "cliffside duel"
+              ],
+              "audience_takeaways": [
+                "old-school spectacle",
+                "rough adventure tone",
+                "physical action",
+                "big costumes"
+              ],
+              "projection_booth": "The longships, the helmets, and that cliffside fight are the parts that come back first. The Vikings has a blunt, charging-forward energy that makes another pass easy."
+            },
+            {
+              "category": "Cult Favorite",
+              "film": {
+                "title": "The Blob",
+                "year": 1958
+              },
+              "signature_moments": [
+                "first strange discovery",
+                "diner panic",
+                "movie theater stampede",
+                "teenagers trying to warn town"
+              ],
+              "audience_takeaways": [
+                "small-town panic",
+                "simple concept",
+                "drive-in energy",
+                "sticky imagery"
+              ],
+              "projection_booth": "A small blob on the ground turns into theater panic and people running for the exits. The Blob is pure drive-in memory, right down to the crowd scenes."
+            },
+            {
+              "category": "Date Night",
+              "film": {
+                "title": "Bell Book and Candle",
+                "year": 1958
+              },
+              "signature_moments": [
+                "Greenwich Village shop scenes",
+                "cat familiar appearing nearby",
+                "nightclub visits",
+                "spell-driven romance"
+              ],
+              "audience_takeaways": [
+                "playful charm",
+                "Manhattan style",
+                "cocktail-hour mood",
+                "star chemistry"
+              ],
+              "projection_booth": "Kim Novak and James Stewart give Bell Book and Candle that late-night Manhattan glow. The shop, the cat, and the nightclub mood are what people keep hold of."
+            },
+            {
+              "category": "Underrated",
+              "film": {
+                "title": "The Defiant Ones",
+                "year": 1958
+              },
+              "signature_moments": [
+                "chain gang escape",
+                "crossing fields while chained",
+                "river crossing",
+                "truck stop tension"
+              ],
+              "audience_takeaways": [
+                "two-hander tension",
+                "social edge",
+                "raw performances",
+                "forward momentum"
+              ],
+              "projection_booth": "Two men who do not want each other are stuck moving in the same direction from the first escape on. The Defiant Ones stays memorable because every step feels forced and personal."
+            },
+            {
+              "category": "The One That Grows on You",
+              "film": {
+                "title": "Touch of Evil",
+                "year": 1958
+              },
+              "signature_moments": [
+                "opening car-bomb tracking shot",
+                "border-town nightlife",
+                "motel stakeout",
+                "Quinlan working the scene"
+              ],
+              "audience_takeaways": [
+                "thick noir mood",
+                "restless camera",
+                "border-town grime",
+                "crooked power"
+              ],
+              "projection_booth": "That opening tracking shot gets mentioned first, but the motel stakeout and the whole border-town feeling are what settle in later. Touch of Evil gets dirtier and more interesting the longer it sits around in memory."
+            },
+            {
+              "category": "Crowd Favorite",
+              "film": {
+                "title": "Vertigo",
+                "year": 1958
+              },
+              "signature_moments": [
+                "rooftop chase",
+                "following Madeleine through San Francisco",
+                "sequoia grove visit",
+                "bell tower climb"
+              ],
+              "audience_takeaways": [
+                "dreamlike mood",
+                "obsessive pull",
+                "San Francisco atmosphere",
+                "images that linger"
+              ],
+              "projection_booth": "Scottie trails Madeleine across San Francisco, and people remember the bay, the flowers, and that climb up the bell tower. Vertigo keeps floating between romance and dread, which is why the images stay put."
+            },
+            {
+              "category": "After Midnight",
+              "film": {
+                "title": "A Night to Remember",
+                "year": 1958
+              },
+              "signature_moments": [
+                "ship departure",
+                "iceberg warning",
+                "lifeboat loading",
+                "band playing on deck"
+              ],
+              "audience_takeaways": [
+                "mounting dread",
+                "procedural detail",
+                "ensemble focus",
+                "quiet power"
+              ],
+              "projection_booth": "A Night to Remember plays like people trying to stay organized while the deck keeps tilting against them. The iceberg warning, the lifeboats, and the band are usually the pieces that come right back."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/movies/movie_memory.json",
+      "entity_type": "movie",
+      "fields": [
+        "year_key",
+        "year",
+        "picks"
+      ],
+      "sample_records": [
+        {
+          "year": 1958,
+          "picks": [
+            {
+              "category": "Crowd Favorite",
+              "film": {
+                "title": "Gigi",
+                "year": 1958
+              },
+              "signature_moments": [
+                "garden parties with Gigi",
+                "carriage rides through Paris",
+                "Maxim's entrance",
+                "Gaston seeing the room differently"
+              ],
+              "audience_takeaways": [
+                "lush production",
+                "old-world glamour",
+                "memorable songs",
+                "romantic pull"
+              ],
+              "projection_booth": "Gaston keeps drifting through salons and carriage rides until Gigi walks into Maxim's and changes the room. Gigi is mostly remembered for Paris, gowns, and that entrance."
+            },
+            {
+              "category": "After Midnight",
+              "film": {
+                "title": "Cat on a Hot Tin Roof",
+                "year": 1958
+              },
+              "signature_moments": [
+                "Brick on the crutch",
+                "family birthday dinner",
+                "Big Daddy bedroom talk",
+                "Maggie circling the truth"
+              ],
+              "audience_takeaways": [
+                "heated family drama",
+                "sharp dialogue",
+                "star chemistry",
+                "tense atmosphere"
+              ],
+              "projection_booth": "The birthday gathering keeps getting tighter, and Brick on that crutch gives every scene extra strain. Cat on a Hot Tin Roof sticks because the room never really cools off."
+            },
+            {
+              "category": "Big Screen Moment",
+              "film": {
+                "title": "South Pacific",
+                "year": 1958
+              },
+              "signature_moments": [
+                "Bali Ha'i arrival",
+                "beachside songs",
+                "Thanksgiving show",
+                "wartime flights and departures"
+              ],
+              "audience_takeaways": [
+                "large musical scale",
+                "color-drenched images",
+                "recognizable songs",
+                "sweeping mood"
+              ],
+              "projection_booth": "South Pacific goes wide with islands, uniforms, and those sudden washes of color. People usually remember the songs first, then the feeling of the whole picture filling the screen."
+            },
+            {
+              "category": "Rewatchable",
+              "film": {
+                "title": "The Vikings",
+                "year": 1958
+              },
+              "signature_moments": [
+                "longship arrival",
+                "oar-driven sea attack",
+                "feast hall clashes",
+                "cliffside duel"
+              ],
+              "audience_takeaways": [
+                "old-school spectacle",
+                "rough adventure tone",
+                "physical action",
+                "big costumes"
+              ],
+              "projection_booth": "The longships, the helmets, and that cliffside fight are the parts that come back first. The Vikings has a blunt, charging-forward energy that makes another pass easy."
+            },
+            {
+              "category": "Cult Favorite",
+              "film": {
+                "title": "The Blob",
+                "year": 1958
+              },
+              "signature_moments": [
+                "first strange discovery",
+                "diner panic",
+                "movie theater stampede",
+                "teenagers trying to warn town"
+              ],
+              "audience_takeaways": [
+                "small-town panic",
+                "simple concept",
+                "drive-in energy",
+                "sticky imagery"
+              ],
+              "projection_booth": "A small blob on the ground turns into theater panic and people running for the exits. The Blob is pure drive-in memory, right down to the crowd scenes."
+            },
+            {
+              "category": "Date Night",
+              "film": {
+                "title": "Bell Book and Candle",
+                "year": 1958
+              },
+              "signature_moments": [
+                "Greenwich Village shop scenes",
+                "cat familiar appearing nearby",
+                "nightclub visits",
+                "spell-driven romance"
+              ],
+              "audience_takeaways": [
+                "playful charm",
+                "Manhattan style",
+                "cocktail-hour mood",
+                "star chemistry"
+              ],
+              "projection_booth": "Kim Novak and James Stewart give Bell Book and Candle that late-night Manhattan glow. The shop, the cat, and the nightclub mood are what people keep hold of."
+            },
+            {
+              "category": "Underrated",
+              "film": {
+                "title": "The Defiant Ones",
+                "year": 1958
+              },
+              "signature_moments": [
+                "chain gang escape",
+                "crossing fields while chained",
+                "river crossing",
+                "truck stop tension"
+              ],
+              "audience_takeaways": [
+                "two-hander tension",
+                "social edge",
+                "raw performances",
+                "forward momentum"
+              ],
+              "projection_booth": "Two men who do not want each other are stuck moving in the same direction from the first escape on. The Defiant Ones stays memorable because every step feels forced and personal."
+            },
+            {
+              "category": "The One That Grows on You",
+              "film": {
+                "title": "Touch of Evil",
+                "year": 1958
+              },
+              "signature_moments": [
+                "opening car-bomb tracking shot",
+                "border-town nightlife",
+                "motel stakeout",
+                "Quinlan working the scene"
+              ],
+              "audience_takeaways": [
+                "thick noir mood",
+                "restless camera",
+                "border-town grime",
+                "crooked power"
+              ],
+              "projection_booth": "That opening tracking shot gets mentioned first, but the motel stakeout and the whole border-town feeling are what settle in later. Touch of Evil gets dirtier and more interesting the longer it sits around in memory."
+            },
+            {
+              "category": "Crowd Favorite",
+              "film": {
+                "title": "Vertigo",
+                "year": 1958
+              },
+              "signature_moments": [
+                "rooftop chase",
+                "following Madeleine through San Francisco",
+                "sequoia grove visit",
+                "bell tower climb"
+              ],
+              "audience_takeaways": [
+                "dreamlike mood",
+                "obsessive pull",
+                "San Francisco atmosphere",
+                "images that linger"
+              ],
+              "projection_booth": "Scottie trails Madeleine across San Francisco, and people remember the bay, the flowers, and that climb up the bell tower. Vertigo keeps floating between romance and dread, which is why the images stay put."
+            },
+            {
+              "category": "After Midnight",
+              "film": {
+                "title": "A Night to Remember",
+                "year": 1958
+              },
+              "signature_moments": [
+                "ship departure",
+                "iceberg warning",
+                "lifeboat loading",
+                "band playing on deck"
+              ],
+              "audience_takeaways": [
+                "mounting dread",
+                "procedural detail",
+                "ensemble focus",
+                "quiet power"
+              ],
+              "projection_booth": "A Night to Remember plays like people trying to stay organized while the deck keeps tilting against them. The iceberg warning, the lifeboats, and the band are usually the pieces that come right back."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/raw/charts/billboard-200-albums-charts.db",
+      "entity_type": "song",
+      "fields": [
+        "acoustic_features.id",
+        "acoustic_features.song",
+        "acoustic_features.album",
+        "acoustic_features.artist",
+        "acoustic_features.acousticness",
+        "acoustic_features.danceability",
+        "acoustic_features.duration_ms",
+        "acoustic_features.energy",
+        "acoustic_features.instrumentalness",
+        "acoustic_features.key",
+        "acoustic_features.liveness",
+        "acoustic_features.loudness",
+        "acoustic_features.mode",
+        "acoustic_features.speechiness",
+        "acoustic_features.tempo",
+        "acoustic_features.time_signature",
+        "acoustic_features.valence",
+        "acoustic_features.album_id",
+        "acoustic_features.date",
+        "albums.id",
+        "albums.date",
+        "albums.artist",
+        "albums.album",
+        "albums.rank",
+        "albums.length",
+        "albums.track_length"
+      ],
+      "sample_records": [
+        {
+          "_table": "acoustic_features",
+          "id": "0Veyvc3n9AcLSoK3r1dA12",
+          "song": "Voices In My Head",
+          "album": "Hoodie SZN",
+          "artist": "A Boogie Wit da Hoodie",
+          "acousticness": 0.0555,
+          "danceability": 0.754,
+          "duration_ms": 142301,
+          "energy": 0.663,
+          "instrumentalness": 0,
+          "key": 6,
+          "liveness": 0.101,
+          "loudness": -6.311,
+          "mode": 0,
+          "speechiness": 0.427,
+          "tempo": 90.195,
+          "time_signature": 4,
+          "valence": 0.207,
+          "album_id": "3r5hf3Cj3EMh1C2saQ8jyt",
+          "date": "2018-12-21"
+        },
+        {
+          "_table": "acoustic_features",
+          "id": "77JzXZonNumWsuXKy9vr3U",
+          "song": "Beasty",
+          "album": "Hoodie SZN",
+          "artist": "A Boogie Wit da Hoodie",
+          "acousticness": 0.292,
+          "danceability": 0.86,
+          "duration_ms": 152829,
+          "energy": 0.418,
+          "instrumentalness": 0,
+          "key": 7,
+          "liveness": 0.106,
+          "loudness": -9.061,
+          "mode": 0,
+          "speechiness": 0.158,
+          "tempo": 126.023,
+          "time_signature": 4,
+          "valence": 0.374,
+          "album_id": "3r5hf3Cj3EMh1C2saQ8jyt",
+          "date": "2018-12-21"
+        },
+        {
+          "_table": "albums",
+          "id": 1,
+          "date": null,
+          "artist": null,
+          "album": null,
+          "rank": null,
+          "length": null,
+          "track_length": null
+        },
+        {
+          "_table": "albums",
+          "id": 2,
+          "date": "2019-01-19",
+          "artist": "A Boogie Wit da Hoodie",
+          "album": "Hoodie SZN",
+          "rank": "1",
+          "length": 20,
+          "track_length": 185233.8
+        }
+      ]
+    },
+    {
+      "path": "data/raw/charts/billboard-hot-100.db",
+      "entity_type": "song",
+      "fields": [
+        "chart_issues.issue_id",
+        "chart_issues.chart_id",
+        "chart_issues.issue_date",
+        "chart_issues.source_id",
+        "chart_positions.chart_id",
+        "chart_positions.issue_date",
+        "chart_positions.rank",
+        "chart_positions.mbid",
+        "chart_positions.title",
+        "chart_positions.artist",
+        "charts.chart_id",
+        "charts.chart_key",
+        "charts.chart_name",
+        "event.event_id",
+        "event.source_system",
+        "event.issue_id",
+        "event.issue_label",
+        "event.chart_seq",
+        "event.issue_date",
+        "event.span_start",
+        "event.span_end",
+        "event.span_is_derived",
+        "event_entry.entry_id",
+        "event_entry.event_id",
+        "event_entry.work_id",
+        "event_entry.rank",
+        "event_entry.last_week",
+        "event_entry.peak_pos",
+        "event_entry.weeks_on_chart",
+        "person.person_id",
+        "person.name_display",
+        "person.name_norm",
+        "person.role",
+        "vdj_asset.asset_id",
+        "vdj_asset.file_path",
+        "vdj_asset.file_name",
+        "vdj_asset.ext",
+        "vdj_asset.remix_tag",
+        "vdj_asset.duration_sec",
+        "vdj_asset.file_size",
+        "vdj_asset.source_system",
+        "vdj_asset.created_at",
+        "vdj_asset.updated_at",
+        "work.work_id",
+        "work.work_type",
+        "work.title_display",
+        "work.title_norm",
+        "work.primary_person_id",
+        "work.work_key_text",
+        "work_asset_link.link_id",
+        "work_asset_link.work_id",
+        "work_asset_link.asset_id",
+        "work_asset_link.confidence",
+        "work_asset_link.confidence_band",
+        "work_asset_link.match_method",
+        "work_asset_link.notes",
+        "work_asset_link.created_at"
+      ],
+      "sample_records": [
+        {
+          "_table": "chart_issues",
+          "issue_id": 1,
+          "chart_id": 1,
+          "issue_date": "2025-12-20",
+          "source_id": null
+        },
+        {
+          "_table": "chart_positions",
+          "chart_id": 1,
+          "issue_date": "2025-12-20",
+          "rank": 1,
+          "mbid": "7a5d139d-e4ec-4bbf-a2c4-8df2c82d2f90",
+          "title": "All I Want For Christmas Is You",
+          "artist": "Mariah Carey"
+        },
+        {
+          "_table": "chart_positions",
+          "chart_id": 1,
+          "issue_date": "2025-12-20",
+          "rank": 2,
+          "mbid": "fd81eaf6-3f34-48cf-b075-b096954207c7",
+          "title": "Rockin' Around The Christmas Tree",
+          "artist": "Brenda Lee"
+        },
+        {
+          "_table": "charts",
+          "chart_id": 1,
+          "chart_key": "billboard_hot100",
+          "chart_name": "Billboard Hot 100"
+        },
+        {
+          "_table": "event",
+          "event_id": "E000001",
+          "source_system": "RVA-HOT100",
+          "issue_id": "RVA-HOT100-1958-0001",
+          "issue_label": "RVA – Hot 100",
+          "chart_seq": 1,
+          "issue_date": "1958-08-04",
+          "span_start": "1958-07-29",
+          "span_end": "1958-08-04",
+          "span_is_derived": 1
+        }
+      ]
+    },
+    {
+      "path": "data/raw/imdb/imdb/name.basics.tsv",
+      "entity_type": "other",
+      "fields": [
+        "(error)"
+      ],
+      "sample_records": [],
+      "notes": "Error: Cannot create a string longer than 0x1fffffe8 characters"
+    },
+    {
+      "path": "data/raw/imdb/imdb/name.basics.tsv.gz",
+      "entity_type": "other",
+      "fields": [
+        "nconst",
+        "primaryName",
+        "birthYear",
+        "deathYear",
+        "primaryProfession",
+        "knownForTitles"
+      ],
+      "sample_records": [],
+      "notes": "Gzipped TSV; header only sampled."
+    },
+    {
+      "path": "data/raw/imdb/imdb/title.akas.tsv",
+      "entity_type": "other",
+      "fields": [
+        "(error)"
+      ],
+      "sample_records": [],
+      "notes": "Error: Cannot create a string longer than 0x1fffffe8 characters"
+    },
+    {
+      "path": "data/raw/imdb/imdb/title.akas.tsv.gz",
+      "entity_type": "movie",
+      "fields": [
+        "titleId",
+        "ordering",
+        "title",
+        "region",
+        "language",
+        "types",
+        "attributes",
+        "isOriginalTitle"
+      ],
+      "sample_records": [],
+      "notes": "Gzipped TSV; header only sampled."
+    },
+    {
+      "path": "data/raw/imdb/imdb/title.basics.tsv",
+      "entity_type": "other",
+      "fields": [
+        "(error)"
+      ],
+      "sample_records": [],
+      "notes": "Error: Cannot create a string longer than 0x1fffffe8 characters"
+    },
+    {
+      "path": "data/raw/imdb/imdb/title.basics.tsv.gz",
+      "entity_type": "movie",
+      "fields": [
+        "tconst",
+        "titleType",
+        "primaryTitle",
+        "originalTitle",
+        "isAdult",
+        "startYear",
+        "endYear",
+        "runtimeMinutes",
+        "genres"
+      ],
+      "sample_records": [],
+      "notes": "Gzipped TSV; header only sampled."
+    },
+    {
+      "path": "data/raw/imdb/imdb/title.principals.tsv",
+      "entity_type": "other",
+      "fields": [
+        "(error)"
+      ],
+      "sample_records": [],
+      "notes": "Error: Cannot create a string longer than 0x1fffffe8 characters"
+    },
+    {
+      "path": "data/raw/imdb/imdb/title.principals.tsv.gz",
+      "entity_type": "other",
+      "fields": [
+        "tconst",
+        "ordering",
+        "nconst",
+        "category",
+        "job",
+        "characters"
+      ],
+      "sample_records": [],
+      "notes": "Gzipped TSV; header only sampled."
+    },
+    {
+      "path": "data/raw/imdb/imdb/title.ratings.tsv",
+      "entity_type": "movie",
+      "fields": [
+        "tconst",
+        "averageRating",
+        "numVotes"
+      ],
+      "sample_records": [],
+      "notes": "TSV; header only sampled (rows not loaded)."
+    },
+    {
+      "path": "data/raw/imdb/imdb/title.ratings.tsv.gz",
+      "entity_type": "movie",
+      "fields": [
+        "tconst",
+        "averageRating",
+        "numVotes"
+      ],
+      "sample_records": [],
+      "notes": "Gzipped TSV; header only sampled."
+    },
+    {
+      "path": "data/raw/media/vdj_history_full.json",
+      "entity_type": "video",
+      "fields": [
+        "type",
+        "file",
+        "timestamp",
+        "tracks"
+      ],
+      "sample_records": [],
+      "notes": "Large JSON (4148030 bytes); sampled first ~500KB for structure."
+    },
+    {
+      "path": "data/raw/screen-culture/screen-culture/reference/imdb_enrichment.json",
+      "entity_type": "other",
+      "fields": [
+        "tt0051308",
+        "tt0051383",
+        "tt0051459",
+        "tt0051658",
+        "tt0051773",
+        "tt0051776",
+        "tt0052005",
+        "tt0052218",
+        "tt0052225",
+        "tt0052365",
+        "tt0052415",
+        "tt0052561",
+        "tt0052618",
+        "tt0052918",
+        "tt0053125",
+        "tt0053143",
+        "tt0053172",
+        "tt0053271",
+        "tt0053291",
+        "tt0053318",
+        "tt0053479",
+        "tt0053489",
+        "tt0053580",
+        "tt0053604",
+        "tt0053622",
+        "tt0053804",
+        "tt0053841",
+        "tt0054215",
+        "tt0054331",
+        "tt0054357",
+        "tt0054483",
+        "tt0054535",
+        "tt0054545",
+        "tt0054594",
+        "tt0054759",
+        "tt0054847",
+        "tt0054953",
+        "tt0055047",
+        "tt0055100",
+        "tt0055254",
+        "tt0055277",
+        "tt0055614",
+        "tt0055662",
+        "tt0056048",
+        "tt0056059",
+        "tt0056095",
+        "tt0056172",
+        "tt0056197",
+        "tt0056262",
+        "tt0056264",
+        "tt0056575",
+        "tt0056592",
+        "tt0056775",
+        "tt0056780",
+        "tt0056891",
+        "tt0056923",
+        "tt0056937",
+        "tt0057115",
+        "tt0057187",
+        "tt0057193",
+        "tt0057590",
+        "tt0057733",
+        "tt0057917",
+        "tt0058150",
+        "tt0058182",
+        "tt0058331",
+        "tt0058385",
+        "tt0058586",
+        "tt0058708",
+        "tt0058743",
+        "tt0058812",
+        "tt0059017",
+        "tt0059113",
+        "tt0059243",
+        "tt0059711",
+        "tt0059742",
+        "tt0059793",
+        "tt0059800",
+        "tt0059885",
+        "tt0059903",
+        "tt0059977",
+        "tt0060086",
+        "tt0060164",
+        "tt0060453",
+        "tt0060472",
+        "tt0060491",
+        "tt0060665",
+        "tt0060862",
+        "tt0060921",
+        "tt0060934",
+        "tt0061184",
+        "tt0061418",
+        "tt0061439",
+        "tt0061578",
+        "tt0061722",
+        "tt0061735",
+        "tt0061852",
+        "tt0062362",
+        "tt0062376",
+        "tt0062430",
+        "tt0062512",
+        "tt0062570",
+        "tt0062575",
+        "tt0062587",
+        "tt0062622",
+        "tt0062765",
+        "tt0062994",
+        "tt0063227",
+        "tt0063374",
+        "tt0063385",
+        "tt0063442",
+        "tt0063518",
+        "tt0063522",
+        "tt0063829",
+        "tt0063927",
+        "tt0064100",
+        "tt0064107",
+        "tt0064115",
+        "tt0064117",
+        "tt0064276",
+        "tt0064418",
+        "tt0064665",
+        "tt0064782",
+        "tt0065126",
+        "tt0065377",
+        "tt0065528",
+        "tt0065988",
+        "tt0066011",
+        "tt0066026",
+        "tt0066195",
+        "tt0066206",
+        "tt0066319",
+        "tt0066473",
+        "tt0066580",
+        "tt0066626",
+        "tt0066657",
+        "tt0066832",
+        "tt0066892",
+        "tt0066921",
+        "tt0066995",
+        "tt0066999",
+        "tt0067093",
+        "tt0067116",
+        "tt0067328",
+        "tt0067803",
+        "tt0067810",
+        "tt0068053",
+        "tt0068103",
+        "tt0068128",
+        "tt0068318",
+        "tt0068327",
+        "tt0068468",
+        "tt0068473",
+        "tt0068638",
+        "tt0068646",
+        "tt0068762",
+        "tt0068828",
+        "tt0069113",
+        "tt0069495",
+        "tt0069599",
+        "tt0069704",
+        "tt0070047",
+        "tt0070328",
+        "tt0070355",
+        "tt0070510",
+        "tt0070511",
+        "tt0070666",
+        "tt0070700",
+        "tt0070735",
+        "tt0070903",
+        "tt0070975",
+        "tt0070991",
+        "tt0071040",
+        "tt0071110",
+        "tt0071230",
+        "tt0071402",
+        "tt0071455",
+        "tt0071562",
+        "tt0071771",
+        "tt0072081",
+        "tt0072308",
+        "tt0072317",
+        "tt0072431",
+        "tt0072556",
+        "tt0072890",
+        "tt0073026",
+        "tt0073195",
+        "tt0073486",
+        "tt0073496",
+        "tt0073629",
+        "tt0073692",
+        "tt0073802",
+        "tt0073812",
+        "tt0073972",
+        "tt0074016",
+        "tt0074119",
+        "tt0074174",
+        "tt0074301",
+        "tt0074483",
+        "tt0074751",
+        "tt0074797",
+        "tt0074899",
+        "tt0075005",
+        "tt0075148",
+        "tt0075223",
+        "tt0075265",
+        "tt0075596",
+        "tt0075686",
+        "tt0075784",
+        "tt0075860",
+        "tt0075925",
+        "tt0076182",
+        "tt0076489",
+        "tt0076666",
+        "tt0076729",
+        "tt0076752",
+        "tt0076759",
+        "tt0077000",
+        "tt0077003",
+        "tt0077053",
+        "tt0077089",
+        "tt0077097",
+        "tt0077416",
+        "tt0077523",
+        "tt0077631",
+        "tt0077651",
+        "tt0077663",
+        "tt0077696",
+        "tt0077766",
+        "tt0077928",
+        "tt0077975",
+        "tt0078163",
+        "tt0078227",
+        "tt0078346",
+        "tt0078562",
+        "tt0078607",
+        "tt0078721",
+        "tt0078748",
+        "tt0078767",
+        "tt0078788",
+        "tt0079367",
+        "tt0079417",
+        "tt0079574",
+        "tt0079588",
+        "tt0079817",
+        "tt0079945",
+        "tt0080319",
+        "tt0080339",
+        "tt0080377",
+        "tt0080453",
+        "tt0080455",
+        "tt0080549",
+        "tt0080684",
+        "tt0080897",
+        "tt0081375",
+        "tt0081529",
+        "tt0081562",
+        "tt0081633",
+        "tt0082031",
+        "tt0082136",
+        "tt0082158",
+        "tt0082398",
+        "tt0082405",
+        "tt0082846",
+        "tt0082971",
+        "tt0083131",
+        "tt0083511",
+        "tt0083564",
+        "tt0083642",
+        "tt0083866",
+        "tt0084434",
+        "tt0084516",
+        "tt0084602",
+        "tt0084726",
+        "tt0084805",
+        "tt0084967",
+        "tt0085032",
+        "tt0085549",
+        "tt0085970",
+        "tt0086034",
+        "tt0086190",
+        "tt0086200",
+        "tt0086361",
+        "tt0086383",
+        "tt0086425",
+        "tt0086465",
+        "tt0086567",
+        "tt0086687",
+        "tt0086765",
+        "tt0086960",
+        "tt0087277",
+        "tt0087332",
+        "tt0087363",
+        "tt0087469",
+        "tt0087538",
+        "tt0087928",
+        "tt0088011",
+        "tt0088161",
+        "tt0088170",
+        "tt0088763",
+        "tt0088933",
+        "tt0088939",
+        "tt0089218",
+        "tt0089370",
+        "tt0089755",
+        "tt0089880",
+        "tt0089927",
+        "tt0090056",
+        "tt0090329",
+        "tt0090555",
+        "tt0090605",
+        "tt0090685",
+        "tt0091042",
+        "tt0091129",
+        "tt0091326",
+        "tt0091763",
+        "tt0091877",
+        "tt0092007",
+        "tt0092099",
+        "tt0092339",
+        "tt0092493",
+        "tt0092644",
+        "tt0093010",
+        "tt0093105",
+        "tt0093409",
+        "tt0093565",
+        "tt0093936",
+        "tt0094025",
+        "tt0094137",
+        "tt0094226",
+        "tt0094332",
+        "tt0094455",
+        "tt0094540",
+        "tt0094721",
+        "tt0094737",
+        "tt0094889",
+        "tt0094898",
+        "tt0095016",
+        "tt0095705",
+        "tt0095953",
+        "tt0096320",
+        "tt0096438",
+        "tt0096874",
+        "tt0096895",
+        "tt0097165",
+        "tt0097239",
+        "tt0097428",
+        "tt0097523",
+        "tt0097576",
+        "tt0097733",
+        "tt0097778",
+        "tt0098067",
+        "tt0098740",
+        "tt0099348",
+        "tt0099422",
+        "tt0099423",
+        "tt0099653",
+        "tt0099785",
+        "tt0099810",
+        "tt0099938",
+        "tt0100405",
+        "tt0100758",
+        "tt0100802",
+        "tt0101272",
+        "tt0101414",
+        "tt0101587",
+        "tt0101862",
+        "tt0102057",
+        "tt0102510",
+        "tt0102798",
+        "tt0102926",
+        "tt0102945",
+        "tt0103064",
+        "tt0103639",
+        "tt0103772",
+        "tt0103776",
+        "tt0103855",
+        "tt0104257",
+        "tt0104431",
+        "tt0104694",
+        "tt0104714",
+        "tt0105417",
+        "tt0105793",
+        "tt0106004",
+        "tt0106017",
+        "tt0106582",
+        "tt0106918",
+        "tt0106977",
+        "tt0107206",
+        "tt0107211",
+        "tt0107290",
+        "tt0107614",
+        "tt0107798",
+        "tt0108052",
+        "tt0108160",
+        "tt0109444",
+        "tt0109686",
+        "tt0109813",
+        "tt0109830",
+        "tt0110357",
+        "tt0110475",
+        "tt0110912",
+        "tt0111070",
+        "tt0111257",
+        "tt0111503",
+        "tt0111910",
+        "tt0112163",
+        "tt0112281",
+        "tt0112384",
+        "tt0112462",
+        "tt0112642",
+        "tt0112864",
+        "tt0113189",
+        "tt0113497",
+        "tt0114148",
+        "tt0114369",
+        "tt0114709",
+        "tt0115376",
+        "tt0115433",
+        "tt0115685",
+        "tt0116629",
+        "tt0116695",
+        "tt0117060",
+        "tt0117218",
+        "tt0117438",
+        "tt0117500",
+        "tt0117913",
+        "tt0117998",
+        "tt0118501",
+        "tt0118506",
+        "tt0118571",
+        "tt0118998",
+        "tt0119217",
+        "tt0119528",
+        "tt0119567",
+        "tt0119654",
+        "tt0119738",
+        "tt0119822",
+        "tt0120338",
+        "tt0120347",
+        "tt0120363",
+        "tt0120484",
+        "tt0120591",
+        "tt0120616",
+        "tt0120623",
+        "tt0120647",
+        "tt0120685",
+        "tt0120737",
+        "tt0120755",
+        "tt0120812",
+        "tt0120815",
+        "tt0120855",
+        "tt0120903",
+        "tt0120912",
+        "tt0120915",
+        "tt0121765",
+        "tt0121766",
+        "tt0126029",
+        "tt0129290",
+        "tt0129387",
+        "tt0132075",
+        "tt0133093",
+        "tt0133152",
+        "tt0142342",
+        "tt0145487",
+        "tt0145660",
+        "tt0145742",
+        "tt0161081",
+        "tt0162222",
+        "tt0163025",
+        "tt0163187",
+        "tt0167260",
+        "tt0167261",
+        "tt0167404",
+        "tt0170016",
+        "tt0172495",
+        "tt0175142",
+        "tt0177971",
+        "tt0181852",
+        "tt0185937",
+        "tt0195466",
+        "tt0198781",
+        "tt0199192",
+        "tt0207201",
+        "tt0209163",
+        "tt0212338",
+        "tt0213149",
+        "tt0231014",
+        "tt0234215",
+        "tt0238520",
+        "tt0239195",
+        "tt0240772",
+        "tt0241527",
+        "tt0242653",
+        "tt0255178",
+        "tt0259446",
+        "tt0266543",
+        "tt0266915",
+        "tt0268380",
+        "tt0282282",
+        "tt0283799",
+        "tt0286106",
+        "tt0290002",
+        "tt0290334",
+        "tt0295178",
+        "tt0295297",
+        "tt0298148",
+        "tt0299658",
+        "tt0307453",
+        "tt0308280",
+        "tt0313043",
+        "tt0315327",
+        "tt0315608",
+        "tt0316654",
+        "tt0317219",
+        "tt0317533",
+        "tt0317705",
+        "tt0319262",
+        "tt0319343",
+        "tt0325980",
+        "tt0328513",
+        "tt0330373",
+        "tt0335345",
+        "tt0343818",
+        "tt0348150",
+        "tt0349205",
+        "tt0349893",
+        "tt0351283",
+        "tt0356910",
+        "tt0360717",
+        "tt0363771",
+        "tt0366548",
+        "tt0367594",
+        "tt0367882",
+        "tt0368891",
+        "tt0369610",
+        "tt0371746",
+        "tt0372183",
+        "tt0372784",
+        "tt0373889",
+        "tt0376994",
+        "tt0381061",
+        "tt0382625",
+        "tt0383574",
+        "tt0384050",
+        "tt0393262",
+        "tt0396269",
+        "tt0398286",
+        "tt0407304",
+        "tt0410975",
+        "tt0413267",
+        "tt0413300",
+        "tt0413573",
+        "tt0417741",
+        "tt0418279",
+        "tt0428460",
+        "tt0435761",
+        "tt0440963",
+        "tt0441773",
+        "tt0448157",
+        "tt0449040",
+        "tt0449088",
+        "tt0451079",
+        "tt0451279",
+        "tt0454921",
+        "tt0463398",
+        "tt0465234",
+        "tt0468569",
+        "tt0477347",
+        "tt0479952",
+        "tt0480249",
+        "tt0481979",
+        "tt0487010",
+        "tt0499549",
+        "tt0766128",
+        "tt0770828",
+        "tt0796366",
+        "tt0800369",
+        "tt0827990",
+        "tt0830515",
+        "tt0848228",
+        "tt0878804",
+        "tt0892769",
+        "tt0892791",
+        "tt0910970",
+        "tt0926084",
+        "tt0948470",
+        "tt0952640",
+        "tt0974015",
+        "tt0988045",
+        "tt1014759",
+        "tt10188722",
+        "tt10366206",
+        "tt1049413",
+        "tt1051906",
+        "tt10544064",
+        "tt1055369",
+        "tt10648342",
+        "tt1074638",
+        "tt10872600",
+        "tt10954600",
+        "tt1099212",
+        "tt1119646",
+        "tt11242246",
+        "tt1155601",
+        "tt1170358",
+        "tt11749214",
+        "tt11861230",
+        "tt1196708",
+        "tt1196946",
+        "tt1201607",
+        "tt1211806",
+        "tt1216475",
+        "tt1217209",
+        "tt1228705",
+        "tt1229238",
+        "tt1231580",
+        "tt12354778",
+        "tt12412888",
+        "tt12413744",
+        "tt12477640",
+        "tt12510144",
+        "tt12584954",
+        "tt1259571",
+        "tt1262426",
+        "tt1277953",
+        "tt1298650",
+        "tt1300854",
+        "tt13186482",
+        "tt1323584",
+        "tt1323594",
+        "tt1324999",
+        "tt1325004",
+        "tt13380490",
+        "tt1345836",
+        "tt13505014",
+        "tt1362140",
+        "tt13622970",
+        "tt1375666",
+        "tt1378167",
+        "tt1386697",
+        "tt13875494",
+        "tt1392170",
+        "tt1396484",
+        "tt1399103",
+        "tt14090954",
+        "tt1411697",
+        "tt1431045",
+        "tt1453405",
+        "tt1454468",
+        "tt14690408",
+        "tt1477834",
+        "tt1490017",
+        "tt1502397",
+        "tt1515091",
+        "tt15162768",
+        "tt1517268",
+        "tt15239678",
+        "tt15398776",
+        "tt1575551",
+        "tt1587310",
+        "tt1596343",
+        "tt1623205",
+        "tt1627003",
+        "tt1630029",
+        "tt1634563",
+        "tt1661199",
+        "tt1666205",
+        "tt1673434",
+        "tt1690953",
+        "tt16977052",
+        "tt17048904",
+        "tt1706697",
+        "tt1727824",
+        "tt1745960",
+        "tt1759419",
+        "tt1774602",
+        "tt1825683",
+        "tt18259086",
+        "tt18344958",
+        "tt1839337",
+        "tt1843866",
+        "tt1877830",
+        "tt1877832",
+        "tt1905041",
+        "tt1951264",
+        "tt1951265",
+        "tt1951266",
+        "tt1959387",
+        "tt1979376",
+        "tt2015381",
+        "tt2049386",
+        "tt2049403",
+        "tt20781212",
+        "tt2096673",
+        "tt2109248",
+        "tt2111458",
+        "tt21382374",
+        "tt2165184",
+        "tt2179136",
+        "tt21841300",
+        "tt2190485",
+        "tt22022452",
+        "tt22091076",
+        "tt2245084",
+        "tt22475008",
+        "tt2250912",
+        "tt2256613",
+        "tt2277860",
+        "tt2283362",
+        "tt2293640",
+        "tt2294629",
+        "tt2304480",
+        "tt2310332",
+        "tt2379713",
+        "tt2382320",
+        "tt2395427",
+        "tt2488496",
+        "tt2527336",
+        "tt2527338",
+        "tt26591110",
+        "tt26591147",
+        "tt26733412",
+        "tt2709692",
+        "tt2709768",
+        "tt2741602",
+        "tt27598403",
+        "tt2771200",
+        "tt27834173",
+        "tt28187391",
+        "tt2820852",
+        "tt28324464",
+        "tt2850386",
+        "tt28691667",
+        "tt29466107",
+        "tt2948356",
+        "tt2975590",
+        "tt29894431",
+        "tt29895189",
+        "tt30325967",
+        "tt3040964",
+        "tt31589662",
+        "tt3168772",
+        "tt32232105",
+        "tt3228904",
+        "tt33397756",
+        "tt33398382",
+        "tt33407001",
+        "tt33407006",
+        "tt33478585",
+        "tt33581282",
+        "tt3469046",
+        "tt3470600",
+        "tt3480822",
+        "tt3498820",
+        "tt35002519",
+        "tt3501632",
+        "tt3560084",
+        "tt3606756",
+        "tt36272585",
+        "tt3632060",
+        "tt3634666",
+        "tt3659388",
+        "tt3748528",
+        "tt3794354",
+        "tt3823234",
+        "tt3896198",
+        "tt3915174",
+        "tt4154664",
+        "tt4154756",
+        "tt4154796",
+        "tt4397034",
+        "tt4513678",
+        "tt4520988",
+        "tt4521682",
+        "tt4571288",
+        "tt4626802",
+        "tt4817264",
+        "tt4851734",
+        "tt4881806",
+        "tt4912910",
+        "tt4915232",
+        "tt5089556",
+        "tt5095030",
+        "tt5113044",
+        "tt5433138",
+        "tt5463162",
+        "tt5555260",
+        "tt5571076",
+        "tt5617898",
+        "tt5971474",
+        "tt6052980",
+        "tt6105098",
+        "tt6139732",
+        "tt6166392",
+        "tt6226232",
+        "tt6263850",
+        "tt6320628",
+        "tt6467266",
+        "tt6470478",
+        "tt6590506",
+        "tt6673612",
+        "tt6718170",
+        "tt6723592",
+        "tt6768330",
+        "tt6791350",
+        "tt7080906",
+        "tt7097896",
+        "tt7126948",
+        "tt7146812",
+        "tt7258512",
+        "tt7286456",
+        "tt7311448",
+        "tt7455648",
+        "tt7496582",
+        "tt7504196",
+        "tt7504726",
+        "tt7510222",
+        "tt7512510",
+        "tt7599146",
+        "tt7713068",
+        "tt7975244",
+        "tt8041270",
+        "tt9032400",
+        "tt9047432",
+        "tt9114286",
+        "tt9308128",
+        "tt9362722",
+        "tt9376612",
+        "tt9419884"
+      ],
+      "sample_records": [
+        {
+          "tt0051308": {
+            "title": "The Rifleman",
+            "year": 1958,
+            "type": "television",
+            "runtime": 30,
+            "genres": [
+              "family",
+              "western"
+            ],
+            "imdb_rating": 8.3,
+            "imdb_votes": 5795
+          },
+          "tt0051383": {
+            "title": "Auntie Mame",
+            "year": 1958,
+            "type": "movie",
+            "runtime": 143,
+            "genres": [
+              "comedy",
+              "drama",
+              "romance"
+            ],
+            "imdb_rating": 7.9,
+            "imdb_votes": 13785
+          },
+          "tt0051459": {
+            "title": "Cat on a Hot Tin Roof",
+            "year": 1958,
+            "type": "movie",
+            "runtime": 108,
+            "genres": [
+              "drama"
+            ],
+            "imdb_rating": 7.9,
+            "imdb_votes": 56740
+          },
+          "tt0051658": {
+            "title": "Gigi",
+            "year": 1958,
+            "type": "movie",
+            "runtime": 115,
+            "genres": [
+              "comedy",
+              "musical",
+              "romance"
+            ],
+            "imdb_rating": 6.6,
+            "imdb_votes": 26028
+          },
+          "tt0051773": {
+            "title": "Indiscreet",
+            "year": 1958,
+            "type": "movie",
+            "runtime": 100,
+            "genres": [
+              "comedy",
+              "romance"
+            ],
+            "imdb_rating": 6.8,
+            "imdb_votes": 11138
+          },
+          "tt0051776": {
+            "title": "The Inn of the Sixth Happiness",
+            "year": 1958,
+            "type": "movie",
+            "runtime": 158,
+            "genres": [
+              "biography",
+              "drama",
+              "war"
+            ],
+            "imdb_rating": 7.2,
+            "imdb_votes": 5796
+          },
+          "tt0052005": {
+            "title": "No Time for Sergeants",
+            "year": 1958,
+            "type": "movie",
+            "runtime": 119,
+            "genres": [
+              "comedy",
+              "war"
+            ],
+            "imdb_rating": 7.5,
+            "imdb_votes": 4834
+          },
+          "tt0052218": {
+            "title": "Some Came Running",
+            "year": 1958,
+            "type": "movie",
+            "runtime": 137,
+            "genres": [
+              "drama",
+              "romance"
+            ],
+            "imdb_rating": 7.2,
+            "imdb_votes": 8150
+          },
+          "tt0052225": {
+            "title": "South Pacific",
+            "year": 1958,
+            "type": "movie",
+            "runtime": 157,
+            "genres": [
+              "drama",
+              "musical",
+              "romance"
+            ],
+            "imdb_rating": 6.8,
+            "imdb_votes": 10932
+          },
+          "tt0052365": {
+            "title": "The Vikings",
+            "year": 1958,
+            "type": "movie",
+            "runtime": 116,
+            "genres": [
+              "action",
+              "adventure",
+              "history"
+            ],
+            "imdb_rating": 7,
+            "imdb_votes": 17229
+          },
+          "tt0052415": {
+            "title": "The Young Lions",
+            "year": 1958,
+            "type": "movie",
+            "runtime": 167,
+            "genres": [
+              "action",
+              "drama",
+              "war"
+            ],
+            "imdb_rating": 7.1,
+            "imdb_votes": 9587
+          },
+          "tt0052561": {
+            "title": "Anatomy of a Murder",
+            "year": 1959,
+            "type": "movie",
+            "runtime": 161,
+            "genres": [
+              "drama",
+              "mystery"
+            ],
+            "imdb_rating": 8,
+            "imdb_votes": 77392
+          },
+          "tt0052618": {
+            "title": "Ben-Hur",
+            "year": 1959,
+            "type": "movie",
+            "runtime": 212,
+            "genres": [
+              "adventure",
+              "drama"
+            ],
+            "imdb_rating": 8.1,
+            "imdb_votes": 270269
+          },
+          "tt0052918": {
+            "title": "Imitation of Life",
+            "year": 1959,
+            "type": "movie",
+            "runtime": 125,
+            "genres": [
+              "drama"
+            ],
+            "imdb_rating": 7.8,
+            "imdb_votes": 19768
+          },
+          "tt0053125": {
+            "title": "North by Northwest",
+            "year": 1959,
+            "type": "movie",
+            "runtime": 136,
+            "genres": [
+              "adventure",
+              "drama",
+              "mystery"
+            ],
+            "imdb_rating": 8.3,
+            "imdb_votes": 368482
+          },
+          "tt0053143": {
+            "title": "Operation Petticoat",
+            "year": 1959,
+            "type": "movie",
+            "runtime": 124,
+            "genres": [
+              "comedy",
+              "romance",
+              "war"
+            ],
+            "imdb_rating": 7.2,
+            "imdb_votes": 17419
+          },
+          "tt0053172": {
+            "title": "Pillow Talk",
+            "year": 1959,
+            "type": "movie",
+            "runtime": 102,
+            "genres": [
+              "comedy",
+              "romance"
+            ],
+            "imdb_rating": 7.4,
+            "imdb_votes": 20897
+          },
+          "tt0053271": {
+            "title": "The Shaggy Dog",
+            "year": 1959,
+            "type": "movie",
+            "runtime": 104,
+            "genres": [
+              "comedy",
+              "family",
+              "fantasy"
+            ],
+            "imdb_rating": 6.4,
+            "imdb_votes": 6052
+          },
+          "tt0053291": {
+            "title": "Some Like It Hot",
+            "year": 1959,
+            "type": "movie",
+            "runtime": 121,
+            "genres": [
+              "comedy",
+              "music",
+              "romance"
+            ],
+            "imdb_rating": 8.2,
+            "imdb_votes": 303563
+          },
+          "tt0053318": {
+            "title": "Suddenly, Last Summer",
+            "year": 1959,
+            "type": "movie",
+            "runtime": 114,
+            "genres": [
+              "drama",
+              "mystery",
+              "thriller"
+            ],
+            "imdb_rating": 7.4,
+            "imdb_votes": 18985
+          },
+          "tt0053479": {
+            "title": "The Andy Griffith Show",
+            "year": 1960,
+            "type": "television",
+            "runtime": 30,
+            "genres": [
+              "comedy",
+              "family"
+            ],
+            "imdb_rating": 8.4,
+            "imdb_votes": 18803
+          },
+          "tt0053489": {
+            "title": "Candid Camera",
+            "year": 1960,
+            "type": "television",
+            "runtime": 30,
+            "genres": [
+              "comedy",
+              "reality-tv"
+            ],
+            "imdb_rating": 7,
+            "imdb_votes": 529
+          },
+          "tt0053580": {
+            "title": "The Alamo",
+            "year": 1960,
+            "type": "movie",
+            "runtime": 162,
+            "genres": [
+              "adventure",
+              "drama",
+              "history"
+            ],
+            "imdb_rating": 6.8,
+            "imdb_votes": 19441
+          },
+          "tt0053604": {
+            "title": "The Apartment",
+            "year": 1960,
+            "type": "movie",
+            "runtime": 125,
+            "genres": [
+              "comedy",
+              "drama",
+              "romance"
+            ],
+            "imdb_rating": 8.3,
+            "imdb_votes": 217995
+          },
+          "tt0053622": {
+            "title": "BUtterfield 8",
+            "year": 1960,
+            "type": "movie",
+            "runtime": 109,
+            "genres": [
+              "drama",
+              "romance"
+            ],
+            "imdb_rating": 6.3,
+            "imdb_votes": 7922
+          },
+          "tt0053804": {
+            "title": "Exodus",
+            "year": 1960,
+            "type": "movie",
+            "runtime": 208,
+            "genres": [
+              "action",
+              "drama",
+              "war"
+            ],
+            "imdb_rating": 6.7,
+            "imdb_votes": 12675
+          },
+          "tt0053841": {
+            "title": "From the Terrace",
+            "year": 1960,
+            "type": "movie",
+            "runtime": 149,
+            "genres": [
+              "drama",
+              "romance"
+            ],
+            "imdb_rating": 6.7,
+            "imdb_votes": 3441
+          },
+          "tt0054215": {
+            "title": "Psycho",
+            "year": 1960,
+            "type": "movie",
+            "runtime": 109,
+            "genres": [
+              "drama",
+              "horror",
+              "mystery"
+            ],
+            "imdb_rating": 8.5,
+            "imdb_votes": 781518
+          },
+          "tt0054331": {
+            "title": "Spartacus",
+            "year": 1960,
+            "type": "movie",
+            "runtime": 184,
+            "genres": [
+              "adventure",
+              "biography",
+              "drama"
+            ],
+            "imdb_rating": 7.9,
+            "imdb_votes": 151425
+          },
+          "tt0054357": {
+            "title": "Swiss Family Robinson",
+            "year": 1960,
+            "type": "movie",
+            "runtime": 126,
+            "genres": [
+              "adventure",
+              "family"
+            ],
+            "imdb_rating": 7.1,
+            "imdb_votes": 19773
+          },
+          "tt0054483": {
+            "title": "The World of Suzie Wong",
+            "year": 1960,
+            "type": "movie",
+            "runtime": 126,
+            "genres": [
+              "drama",
+              "romance"
+            ],
+            "imdb_rating": 6.9,
+            "imdb_votes": 3031
+          },
+          "tt0054535": {
+            "title": "Dr. Kildare",
+            "year": 1961,
+            "type": "television",
+            "runtime": 60,
+            "genres": [
+              "drama"
+            ],
+            "imdb_rating": 7,
+            "imdb_votes": 1119
+          },
+          "tt0054545": {
+            "title": "Hazel",
+            "year": 1961,
+            "type": "television",
+            "runtime": 30,
+            "genres": [
+              "comedy"
+            ],
+            "imdb_rating": 7.2,
+            "imdb_votes": 2357
+          },
+          "tt0054594": {
+            "title": "The Absent Minded Professor",
+            "year": 1961,
+            "type": "movie",
+            "runtime": 97,
+            "genres": [
+              "comedy",
+              "family",
+              "sci-fi"
+            ],
+            "imdb_rating": 6.7,
+            "imdb_votes": 10044
+          },
+          "tt0054759": {
+            "title": "Come September",
+            "year": 1961,
+            "type": "movie",
+            "runtime": 112,
+            "genres": [
+              "comedy",
+              "romance"
+            ],
+            "imdb_rating": 6.9,
+            "imdb_votes": 4490
+          },
+          "tt0054847": {
+            "title": "El Cid",
+            "year": 1961,
+            "type": "movie",
+            "runtime": 182,
+            "genres": [
+              "biography",
+              "drama",
+              "history"
+            ],
+            "imdb_rating": 7.2,
+            "imdb_votes": 17111
+          },
+          "tt0054953": {
+            "title": "The Guns of Navarone",
+            "year": 1961,
+            "type": "movie",
+            "runtime": 158,
+            "genres": [
+              "action",
+              "adventure",
+              "drama"
+            ],
+            "imdb_rating": 7.5,
+            "imdb_votes": 59400
+          },
+          "tt0055047": {
+            "title": "King of Kings",
+            "year": 1961,
+            "type": "movie",
+            "runtime": 168,
+            "genres": [
+              "biography",
+              "drama"
+            ],
+            "imdb_rating": 7,
+            "imdb_votes": 9892
+          },
+          "tt0055100": {
+            "title": "Lover Come Back",
+            "year": 1961,
+            "type": "movie",
+            "runtime": 107,
+            "genres": [
+              "comedy",
+              "drama",
+              "romance"
+            ],
+            "imdb_rating": 7.1,
+            "imdb_votes": 9601
+          },
+          "tt0055254": {
+            "title": "One Hundred and One Dalmatians",
+            "year": 1961,
+            "type": "movie",
+            "runtime": 79,
+            "genres": [
+              "adventure",
+              "animation",
+              "comedy"
+            ],
+            "imdb_rating": 7.3,
+            "imdb_votes": 195536
+          }
+        }
+      ]
+    },
+    {
+      "path": "data/raw/screen-culture/screen-culture/warehouse/movies_by_year.json",
+      "entity_type": "movie",
+      "fields": [
+        "1958",
+        "source_ids",
+        "tmdb_id",
+        "imdb_id",
+        "omdb_imdb_id",
+        "title",
+        "original_title",
+        "year",
+        "release_date",
+        "medium",
+        "genres",
+        "runtime_minutes",
+        "country",
+        "language",
+        "director",
+        "principal_cast",
+        "studio",
+        "box_office_domestic",
+        "box_office_worldwide",
+        "imdb_rating",
+        "imdb_votes",
+        "critic_scores",
+        "metacritic",
+        "rotten_tomatoes",
+        "awards_summary",
+        "popularity_signals",
+        "year_master_rank",
+        "source_year",
+        "tmdb_poster_path",
+        "provenance",
+        "record",
+        "source_name",
+        "source_type",
+        "source_identifier",
+        "source_url",
+        "trust_level",
+        "fields",
+        "critic_scores.metacritic",
+        "critic_scores.rotten_tomatoes",
+        "source_ids.tmdb_id"
+      ],
+      "sample_records": [],
+      "notes": "Large JSON (10504869 bytes); sampled first ~500KB for structure."
+    },
+    {
+      "path": "data/raw/screen-culture/screen-culture/warehouse/movies_master.json",
+      "entity_type": "movie",
+      "fields": [
+        "generated_at_utc",
+        "record_count",
+        "year_range",
+        "min",
+        "max",
+        "trust_distribution",
+        "missing",
+        "reference_derived",
+        "direct_api",
+        "licensed_or_official",
+        "canonical_local",
+        "metrics",
+        "with_popularity_signals",
+        "with_critic_or_acclaim",
+        "popularity_percent",
+        "critic_or_acclaim_percent",
+        "with_imdb_metrics",
+        "imdb_metrics_percent",
+        "with_runtime",
+        "with_genres",
+        "with_tmdb_id",
+        "runtime_percent",
+        "genres_percent",
+        "tmdb_id_percent",
+        "with_box_office",
+        "box_office_percent",
+        "source_counts",
+        "RetroVerse issue movies",
+        "RetroVerse year master",
+        "imdb_bulk_dataset",
+        "tmdb_api",
+        "omdb_api",
+        "notes",
+        "records",
+        "source_ids",
+        "tmdb_id",
+        "imdb_id",
+        "omdb_imdb_id",
+        "title",
+        "original_title"
+      ],
+      "sample_records": [],
+      "notes": "Large JSON (10505141 bytes); sampled first ~500KB for structure."
+    },
+    {
+      "path": "data/raw/screen-culture/screen-culture/warehouse/screen_culture_inventory.json",
+      "entity_type": "other",
+      "fields": [
+        "generated_at_utc",
+        "warehouse_version",
+        "paths",
+        "source_layering",
+        "trust_hierarchy",
+        "movies",
+        "television",
+        "years_covered",
+        "notes"
+      ],
+      "sample_records": [
+        {
+          "generated_at_utc": "2026-03-12T19:50:39+00:00",
+          "warehouse_version": "screen-culture-v1",
+          "paths": {
+            "movies_master": "/Users/bobhopp/Sites/retroverse/raw-data/screen-culture/warehouse/movies_master.json",
+            "television_master": "/Users/bobhopp/Sites/retroverse/raw-data/screen-culture/warehouse/television_master.json",
+            "movies_by_year": "/Users/bobhopp/Sites/retroverse/raw-data/screen-culture/warehouse/movies_by_year.json",
+            "television_by_year": "/Users/bobhopp/Sites/retroverse/raw-data/screen-culture/warehouse/television_by_year.json",
+            "sqlite": "/Users/bobhopp/Sites/retroverse/raw-data/screen-culture/warehouse/screen_culture.db"
+          },
+          "source_layering": {
+            "canonical_local": "RetroVerse internal datasets (authoritative local base)",
+            "direct_api": "TMDb/OMDb style API enrichments when available",
+            "licensed_or_official": "IMDb dataset files and other licensed/official structured sources",
+            "reference_derived": "Reference tables and archive-derived metadata",
+            "missing": "No available source populated the field"
+          },
+          "trust_hierarchy": [
+            "missing",
+            "reference_derived",
+            "direct_api",
+            "licensed_or_official",
+            "canonical_local"
+          ],
+          "movies": {
+            "record_count": 669,
+            "year_range": {
+              "min": 1958,
+              "max": 2024
+            },
+            "years_indexed": 67,
+            "trust_distribution": {
+              "missing": 0,
+              "reference_derived": 0,
+              "direct_api": 0,
+              "licensed_or_official": 1,
+              "canonical_local": 668
+            },
+            "source_counts": {
+              "RetroVerse issue movies": 10,
+              "RetroVerse year master": 670,
+              "imdb_bulk_dataset": 653,
+              "tmdb_api": 665,
+              "omdb_api": 653
+            },
+            "metrics": {
+              "with_popularity_signals": 669,
+              "with_critic_or_acclaim": 651,
+              "popularity_percent": 100,
+              "critic_or_acclaim_percent": 97.31,
+              "with_imdb_metrics": 652,
+              "imdb_metrics_percent": 97.46,
+              "with_runtime": 665,
+              "with_genres": 665,
+              "with_tmdb_id": 665,
+              "runtime_percent": 99.4,
+              "genres_percent": 99.4,
+              "tmdb_id_percent": 99.4,
+              "with_box_office": 585,
+              "box_office_percent": 87.44
+            }
+          },
+          "television": {
+            "record_count": 646,
+            "year_range": {
+              "min": 1958,
+              "max": 2024
+            },
+            "years_indexed": 67,
+            "trust_distribution": {
+              "missing": 0,
+              "reference_derived": 0,
+              "direct_api": 0,
+              "licensed_or_official": 4,
+              "canonical_local": 642
+            },
+            "source_counts": {
+              "Internet Archive TV listings": 1,
+              "RetroVerse issue television": 5,
+              "RetroVerse year master": 670,
+              "imdb_bulk_dataset": 106,
+              "tmdb_api": 134,
+              "omdb_api": 56
+            },
+            "metrics": {
+              "with_network": 123,
+              "with_popularity_or_viewership": 646,
+              "with_critic_or_acclaim": 56,
+              "network_percent": 19.04,
+              "popularity_percent": 100,
+              "critic_or_acclaim_percent": 8.67,
+              "with_imdb_metrics": 95,
+              "imdb_metrics_percent": 14.71,
+              "with_genres": 142,
+              "with_tmdb_id": 134,
+              "genres_percent": 21.98,
+              "tmdb_id_percent": 20.74
+            }
+          },
+          "years_covered": [
+            1958,
+            1959,
+            1960,
+            1961,
+            1962,
+            1963,
+            1964,
+            1965,
+            1966,
+            1967
+          ],
+          "notes": [
+            "Warehouse preserves field-level provenance and trust labels.",
+            "Stronger trust levels are not overwritten by weaker source layers.",
+            "Sparse fields are retained as null/empty values with missing provenance entries.",
+            "IMDb bulk dataset enrichment applied; ratings, votes, IDs, runtime, and genres merged with provenance.",
+            "TMDb API enrichment applied using fill-empty-only merge behavior with direct_api provenance.",
+            "OMDb API enrichment applied using fill-empty-only merge behavior with direct_api provenance."
+          ]
+        }
+      ]
+    },
+    {
+      "path": "data/raw/screen-culture/screen-culture/warehouse/screen_culture.db",
+      "entity_type": "other",
+      "fields": [
+        "movies_master.id",
+        "movies_master.year",
+        "movies_master.title",
+        "movies_master.trust_level",
+        "movies_master.completeness_score",
+        "movies_master.payload_json",
+        "television_master.id",
+        "television_master.year",
+        "television_master.title",
+        "television_master.trust_level",
+        "television_master.completeness_score",
+        "television_master.payload_json"
+      ],
+      "sample_records": [
+        {
+          "_table": "movies_master",
+          "id": 1,
+          "year": 1958,
+          "title": "Auntie Mame",
+          "trust_level": "canonical_local",
+          "completeness_score": 68.18,
+          "payload_json": "{\"source_ids\": {\"tmdb_id\": 16347, \"imdb_id\": \"tt0051383\", \"omdb_imdb_id\": \"tt0051383\"}, \"title\": \"Auntie Mame\", \"original_title\": null, \"year\": 1958, \"release_date\": \"1958-12-04\", \"medium\": \"movie\", \"genres\": [\"comedy\", \"drama\", \"romance\"], \"runtime_minutes\": 143, \"country\": null, \"language\": null, \"director\": null, \"principal_cast\": [\"Rosalind Russell\", \"Forrest Tucker\", \"Coral Browne\", \"Fred Clark\", \"Roger Smith\"], \"studio\": \"Warner Bros. Pictures\", \"box_office_domestic\": null, \"box_office_wor…"
+        },
+        {
+          "_table": "movies_master",
+          "id": 2,
+          "year": 1958,
+          "title": "Cat on a Hot Tin Roof",
+          "trust_level": "canonical_local",
+          "completeness_score": 72.73,
+          "payload_json": "{\"source_ids\": {\"tmdb_id\": 261, \"imdb_id\": \"tt0051459\", \"omdb_imdb_id\": \"tt0051459\"}, \"title\": \"Cat on a Hot Tin Roof\", \"original_title\": null, \"year\": 1958, \"release_date\": \"1958-08-29\", \"medium\": \"movie\", \"genres\": [\"drama\"], \"runtime_minutes\": 108, \"country\": null, \"language\": null, \"director\": null, \"principal_cast\": [\"Paul Newman\", \"Elizabeth Taylor\", \"Burl Ives\", \"Judith Anderson\", \"Jack Carson\"], \"studio\": \"Avon Productions\", \"box_office_domestic\": null, \"box_office_worldwide\": null, \"imd…"
+        },
+        {
+          "_table": "television_master",
+          "id": 1,
+          "year": 1958,
+          "title": "Gunsmoke",
+          "trust_level": "canonical_local",
+          "completeness_score": 17.65,
+          "payload_json": "{\"source_ids\": {\"tmdb_id\": null, \"imdb_id\": null}, \"title\": \"Gunsmoke\", \"year\": 1958, \"premiere_date\": null, \"end_date\": null, \"medium\": \"television\", \"genres\": [], \"type\": null, \"network\": null, \"seasons\": null, \"episodes\": null, \"principal_cast\": [], \"creators\": [], \"viewership_signals\": {\"year_master_rank\": 1}, \"ratings_signals\": {}, \"critic_scores\": {}, \"awards_summary\": null, \"provenance\": {\"record\": [{\"source_name\": \"RetroVerse year master\", \"source_type\": \"json\", \"source_identifier\": \"/Us…"
+        },
+        {
+          "_table": "television_master",
+          "id": 2,
+          "year": 1958,
+          "title": "Have Gun – Will Travel",
+          "trust_level": "canonical_local",
+          "completeness_score": 17.65,
+          "payload_json": "{\"source_ids\": {\"tmdb_id\": null, \"imdb_id\": null}, \"title\": \"Have Gun – Will Travel\", \"year\": 1958, \"premiere_date\": null, \"end_date\": null, \"medium\": \"television\", \"genres\": [], \"type\": null, \"network\": null, \"seasons\": null, \"episodes\": null, \"principal_cast\": [], \"creators\": [], \"viewership_signals\": {\"year_master_rank\": 3}, \"ratings_signals\": {}, \"critic_scores\": {}, \"awards_summary\": null, \"provenance\": {\"record\": [{\"source_name\": \"RetroVerse year master\", \"source_type\": \"json\", \"source_ide…"
+        }
+      ]
+    },
+    {
+      "path": "data/raw/screen-culture/screen-culture/warehouse/television_by_year.json",
+      "entity_type": "tv",
+      "fields": [
+        "1958",
+        "source_ids",
+        "tmdb_id",
+        "imdb_id",
+        "title",
+        "year",
+        "premiere_date",
+        "end_date",
+        "medium",
+        "genres",
+        "type",
+        "network",
+        "seasons",
+        "episodes",
+        "principal_cast",
+        "creators",
+        "viewership_signals",
+        "year_master_rank",
+        "ratings_signals",
+        "critic_scores",
+        "awards_summary",
+        "provenance",
+        "record",
+        "source_name",
+        "source_type",
+        "source_identifier",
+        "source_url",
+        "trust_level",
+        "fields",
+        "source_ids.tmdb_id",
+        "source_ids.imdb_id",
+        "critic_scores.rotten_tomatoes",
+        "critic_scores.metacritic",
+        "critic_scores.metascore",
+        "completeness_score",
+        "omdb_imdb_id",
+        "tmdb_poster_path",
+        "imdb_rating",
+        "imdb_votes",
+        "runtime_minutes"
+      ],
+      "sample_records": [],
+      "notes": "Large JSON (5876842 bytes); sampled first ~500KB for structure."
+    },
+    {
+      "path": "data/raw/screen-culture/screen-culture/warehouse/television_master.json",
+      "entity_type": "tv",
+      "fields": [
+        "generated_at_utc",
+        "record_count",
+        "year_range",
+        "min",
+        "max",
+        "trust_distribution",
+        "missing",
+        "reference_derived",
+        "direct_api",
+        "licensed_or_official",
+        "canonical_local",
+        "metrics",
+        "with_network",
+        "with_popularity_or_viewership",
+        "with_critic_or_acclaim",
+        "network_percent",
+        "popularity_percent",
+        "critic_or_acclaim_percent",
+        "with_imdb_metrics",
+        "imdb_metrics_percent",
+        "with_genres",
+        "with_tmdb_id",
+        "genres_percent",
+        "tmdb_id_percent",
+        "source_counts",
+        "Internet Archive TV listings",
+        "RetroVerse issue television",
+        "RetroVerse year master",
+        "imdb_bulk_dataset",
+        "tmdb_api",
+        "omdb_api",
+        "notes",
+        "records",
+        "source_ids",
+        "tmdb_id",
+        "imdb_id",
+        "title",
+        "year",
+        "premiere_date",
+        "end_date"
+      ],
+      "sample_records": [],
+      "notes": "Large JSON (5877174 bytes); sampled first ~500KB for structure."
+    },
+    {
+      "path": "data/registry/DATA_REGISTRY.yaml",
+      "entity_type": "other",
+      "fields": [
+        "datasets"
+      ],
+      "sample_records": [
+        {
+          "preview": "# RetroVerse Data Registry\n# Documents datasets and their relationships to pipelines and applications.\n# See docs/DATA_REGISTRY.md for schema and usage.\n\ndatasets:\n  billboard_hot_100:\n    type: raw\n    path: data/raw/charts/billboard-hot-100.db\n    description: Canonical Billboard Hot 100 historical chart database\n    owner_pipeline: pipelines/support-data\n    consumers:\n      - pipelines/cards-1"
+        }
+      ],
+      "notes": "YAML registry; structure is nested under datasets:"
+    }
+  ]
+}

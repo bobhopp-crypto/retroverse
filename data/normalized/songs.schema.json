@@ -1,0 +1,107 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://retroverse.local/schemas/songs.schema.json",
+  "title": "RetroVerse normalized song",
+  "type": "object",
+  "required": ["retroverse_id", "title", "artist", "artist_canonical", "sources"],
+  "properties": {
+    "retroverse_id": {
+      "type": "string",
+      "description": "Stable id from normalized title + primary artist (see builder)."
+    },
+    "title": { "type": "string" },
+    "title_normalized": { "type": ["string", "null"] },
+    "artist": { "type": "string" },
+    "artist_canonical": {
+      "type": "string",
+      "description": "Resolved name from data/registry/artist_aliases.json; original artist unchanged."
+    },
+    "artist_normalized": { "type": ["string", "null"] },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source_system"],
+        "properties": {
+          "source_system": {
+            "type": "string",
+            "enum": [
+              "billboard_hot100_export",
+              "billboard_hot100_db",
+              "vdj_history",
+              "vdj_library",
+              "year_master",
+              "year_end_csv",
+              "cultural_csv",
+              "manual",
+              "other"
+            ]
+          },
+          "source_id": { "type": ["string", "null"] },
+          "source_path": { "type": ["string", "null"] },
+          "source_record_ref": { "type": ["string", "null"] },
+          "ingested_at": { "type": ["string", "null"] }
+        },
+        "additionalProperties": true
+      }
+    },
+    "billboard": {
+      "type": ["object", "null"],
+      "description": "Hot 100 aggregate from media-index export when matched.",
+      "properties": {
+        "chart_song_id": { "type": ["string", "null"] },
+        "chart_appearances": { "type": ["integer", "null"] },
+        "peak_position": { "type": ["integer", "null"] },
+        "first_chart_week": { "type": ["string", "null"] },
+        "last_chart_week": { "type": ["string", "null"] },
+        "first_chart_year": { "type": ["integer", "null"] },
+        "last_chart_year": { "type": ["integer", "null"] }
+      },
+      "additionalProperties": true
+    },
+    "vdj": {
+      "type": ["object", "null"],
+      "properties": {
+        "video_id": { "type": ["string", "null"] },
+        "file_path": { "type": ["string", "null"] },
+        "filename": { "type": ["string", "null"] },
+        "tags": { "type": "object", "additionalProperties": true },
+        "match_score": { "type": ["number", "null"] },
+        "match_method": { "type": ["string", "null"] }
+      },
+      "additionalProperties": true
+    },
+    "album": {
+      "type": ["object", "null"],
+      "description": "Billboard 200 / library album row when matched.",
+      "properties": {
+        "album_row_id": { "type": ["integer", "null"] },
+        "album_title": { "type": ["string", "null"] },
+        "chart_date": { "type": ["string", "null"] },
+        "chart_rank": { "type": ["string", "null"] }
+      },
+      "additionalProperties": true
+    },
+    "acoustic_features": {
+      "type": ["object", "null"],
+      "description": "Spotify-style features from billboard-200 DB when title+artist match.",
+      "additionalProperties": true
+    },
+    "year_master": {
+      "type": ["array", "null"],
+      "items": {
+        "type": "object",
+        "properties": {
+          "year": { "type": "integer" },
+          "rv_rank": { "type": ["integer", "null"] },
+          "peak_rank": { "type": ["integer", "null"] },
+          "weeks_on_chart": { "type": ["integer", "null"] },
+          "weeks_in_top_10": { "type": ["integer", "null"] },
+          "weeks_in_top_40": { "type": ["integer", "null"] }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": true
+}

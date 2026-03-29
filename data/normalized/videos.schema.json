@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://retroverse.local/schemas/videos.schema.json",
+  "title": "RetroVerse normalized video (VDJ / file-backed)",
+  "type": "object",
+  "required": ["video_id", "sources"],
+  "properties": {
+    "video_id": { "type": "string" },
+    "file_path": { "type": ["string", "null"] },
+    "filename": { "type": ["string", "null"] },
+    "extension": { "type": ["string", "null"] },
+    "artist": { "type": ["string", "null"] },
+    "artist_canonical": { "type": ["string", "null"] },
+    "title": { "type": ["string", "null"] },
+    "album": { "type": ["string", "null"] },
+    "year": { "type": ["integer", "null"] },
+    "genre": { "type": ["string", "null"] },
+    "duration_ms": { "type": ["integer", "null"] },
+    "play_count": { "type": ["integer", "null"] },
+    "last_played": { "type": ["string", "null"] },
+    "bpm": { "type": ["number", "null"] },
+    "musical_key": { "type": ["string", "null"] },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source_system"],
+        "properties": {
+          "source_system": { "type": "string", "enum": ["vdj_library_export", "vdj_database", "inventory", "other"] },
+          "source_id": { "type": ["string", "null"] },
+          "source_path": { "type": ["string", "null"] },
+          "pipeline_run_id": { "type": ["string", "null"] }
+        },
+        "additionalProperties": true
+      }
+    },
+    "matched_song": {
+      "type": ["object", "null"],
+      "description": "Fuzzy match to Hot 100 export when builder finds a link.",
+      "properties": {
+        "retroverse_id": { "type": ["string", "null"] },
+        "chart_song_id": { "type": ["string", "null"] },
+        "fuse_score": { "type": ["number", "null"] }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

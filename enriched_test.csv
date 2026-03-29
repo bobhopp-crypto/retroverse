@@ -1,0 +1,6 @@
+album,artist,year,album_type,release_group_mbid,release_mbid,top_tracks,track_count,match_score,match_status
+Rumours,Fleetwood Mac,1977,studio,416bb5e5-c7d1-3977-8fd7-7c9daf6c2be6,02ac7ce7-4f21-4010-8210-e682085c58ab,Second Hand News|Dreams|Never Going Back Again|Don’t Stop|Go Your Own Way,11,100,exact
+Thriller,Michael Jackson,1982,studio,f32fab67-77dd-3937-addc-9062e28e4c37,009a9e97-0097-3fa8-ac85-3d67d6d5e06e,Wanna Be Startin’ Somethin’|Baby Be Mine|The Girl Is Mine|Thriller|Beat It,21,100,exact
+Frampton Comes Alive!,Peter Frampton,1976,live,cbf9819e-4a0b-35f1-9b1c-ab34764cf10c,002a6fe3-b1ef-45d6-b06e-3994808a751e,Something’s Happening|Doobie Wah|Show Me the Way|It’s a Plain Shame|All I Want to Be (Is by Your Side),14,100,exact
+Greatest Hits,Queen,1981,compilation,69ce61c8-127f-3809-95d8-62fdf3ae1347,0668d85b-9d8f-4d8e-9b74-3b1420b605be,Bohemian Rhapsody|Another One Bites the Dust|Killer Queen|Fat Bottomed Girls|Bicycle Race,17,100,exact
+Saturday Night Fever,Various Artists,1977,soundtrack,6e9a06a8-c8bb-3ea9-877a-417e74bb1c2e,0b4668c9-622d-4354-b535-45b61bf67948,Stayin’ Alive|How Deep Is Your Love|Night Fever|More Than a Woman|If I Can’t Have You,21,80,good
