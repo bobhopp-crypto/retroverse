@@ -19,6 +19,8 @@ const masterDataDestDir = join(distDir, 'data/master')
 const masterDataDest = join(masterDataDestDir, 'retroverse_master.json')
 const chartsBootstrapDest = join(chartsDestDir, 'bootstrap.json')
 const CHARTS_BOOTSTRAP_YEAR = '1975'
+const REQUIRED_CHARTS_SOURCE_FILES = ['index.html', 'app.js', 'styles.css']
+const REQUIRED_CHARTS_OUTPUT_FILES = ['index.html', 'app.js', 'styles.css', 'shared/chartOverlay.js']
 
 const normalizeChartDate = (value) => (typeof value === 'string' ? value.slice(0, 10) : '')
 
@@ -152,11 +154,23 @@ for (const { path, label } of requiredPaths) {
   }
 }
 
+for (const relativePath of REQUIRED_CHARTS_SOURCE_FILES) {
+  const absolutePath = join(chartsSourceDir, relativePath)
+  if (!existsSync(absolutePath)) {
+    throw new Error(`Missing required charts source file: ${absolutePath}`)
+  }
+}
+
 mkdirSync(videoLibraryDir, { recursive: true })
 copyFileSync(spaIndex, videoLibraryIndex)
 
 rmSync(chartsDestDir, { recursive: true, force: true })
-cpSync(chartsSourceDir, chartsDestDir, { recursive: true })
+cpSync(chartsSourceDir, chartsDestDir, {
+  recursive: true,
+  force: true,
+  errorOnExist: false,
+  dereference: true,
+})
 mkdirSync(sharedDestDir, { recursive: true })
 copyFileSync(chartOverlaySource, chartOverlaySharedDest)
 mkdirSync(chartOverlayChartsDestDir, { recursive: true })
@@ -168,6 +182,13 @@ copyFileSync(masterDataSource, masterDataDest)
 const masterData = JSON.parse(readFileSync(masterDataSource, 'utf8'))
 const chartsBootstrap = createChartsBootstrap(masterData)
 writeFileSync(chartsBootstrapDest, JSON.stringify(chartsBootstrap))
+
+for (const relativePath of REQUIRED_CHARTS_OUTPUT_FILES) {
+  const absolutePath = join(chartsDestDir, relativePath)
+  if (!existsSync(absolutePath)) {
+    throw new Error(`Missing required charts output file: ${absolutePath}`)
+  }
+}
 
 copyFileSync(landingSource, spaIndex)
 
