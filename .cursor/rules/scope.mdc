@@ -1,0 +1,15 @@
+---
+description: Preserve existing Retroverse behavior during narrow maintenance tasks
+alwaysApply: true
+---
+# Retroverse change-scope guardrails
+
+- Work on the explicitly requested sprint only. Inspect current code and supporting documentation before editing.
+- Do not redesign pages, navigation, typography, branding, or layouts while repairing performance, data, or reliability issues.
+- Do not change the VirtualDJ bridge, publish cadence, Redis storage, media inventory, matching authority, or external APIs unless the current task explicitly authorizes that exact subsystem.
+- Treat the current live public homepage requirements as a separate product specification; do not assume this repository or branch is its deployed source. First verify the deployment target before applying any live-site specification.
+- Preserve mobile layout, existing URLs, and user-visible behavior unless acceptance criteria explicitly demand a change.
+- Never deploy, merge, delete data, run destructive commands, upload local media, or initiate paid API requests without explicit permission.
+- Prefer minimal diffs; do not refactor unrelated files or install dependencies unless needed.
+- For each change, run existing relevant checks when feasible (at minimum, document which of `npm run lint`, `npm run build`, and applicable tests ran). Do not claim checks passed unless observed.
+- Report files changed, test results, unresolved risks, and a specific done/not-done judgment.
